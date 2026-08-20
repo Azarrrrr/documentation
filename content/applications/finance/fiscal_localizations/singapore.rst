@@ -27,7 +27,7 @@ Value` field depending on the type you chose.
    - You could also include the invoice number in the QR code by checking the :guilabel:`Include
      Reference` checkbox.
 
-.. image:: singapore/sg-paynow-bank-setting.png
+.. image:: singapore/sg-paynow-bank-setting.webp
    :alt: PayNow bank account configuration
 
 .. seealso::
@@ -39,7 +39,7 @@ Bank journal configuration
 Go to :menuselection:`Accounting --> Configuration --> Journals`, open the bank journal, then fill
 out the :guilabel:`Account Number` and :guilabel:`Bank` under the :guilabel:`Journal Entries` tab.
 
-.. image:: singapore/sg-bank-account-journal-setting.png
+.. image:: singapore/sg-bank-account-journal-setting.webp
    :alt: Bank Account's journal configuration
 
 Issue invoices with PayNow QR codes
@@ -48,7 +48,7 @@ Issue invoices with PayNow QR codes
 When creating a new invoice, open the :guilabel:`Other Info` tab and set the :guilabel:`Payment
 QR-code` option to *EMV Merchant-Presented QR-code*.
 
-.. image:: singapore/sg-qr-code-invoice-setting.png
+.. image:: singapore/sg-qr-code-invoice-setting.webp
    :alt: Select EMV Merchant-Presented QR-code option
 
 Ensure that the :guilabel:`Recipient Bank` is the one you configured, as Odoo uses this field to

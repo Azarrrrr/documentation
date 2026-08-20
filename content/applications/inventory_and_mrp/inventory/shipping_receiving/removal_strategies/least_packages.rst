@@ -47,7 +47,7 @@ Removal Strategy` is set to :guilabel:`Least Packages`.
    To check the product's on-hand stock, navigate to the product form, and click the :guilabel:`On
    Hand` smart button.
 
-   .. image:: least_packages/on-hand-flour.png
+   .. image:: least_packages/on-hand-flour.webp
       :align: center
       :alt: Show on-hand stock in each package.
 
@@ -67,6 +67,6 @@ the quantities to fulfill the :guilabel:`Demand` are picked. Since the order dem
 kilograms, which exceeds the quantity in the opened package of `54 kg`, an unopened package of `100
 kg` is selected.
 
-.. image:: least_packages/least-package.png
+.. image:: least_packages/least-package.webp
    :align: center
    :alt: Show which package was picked in the *Pick From* field.

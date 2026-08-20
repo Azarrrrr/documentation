@@ -11,7 +11,7 @@ business. Knowledge allows you to fully manage your articles, from
 You can find most tools to manage articles by clicking the vertical ellipsis button (:guilabel:`⋮`)
 at the right side of the top bar. From there, you can move, lock, delete, or duplicate an article.
 
-.. image:: management/toolbox.png
+.. image:: management/toolbox.webp
    :alt: Menu with tools for the management of articles
 
 Creation, sharing, and removal of articles
@@ -47,7 +47,7 @@ email.
 You can also restrict a specific user from accessing the article by selecting :guilabel:`No access`
 permission.
 
-.. image:: management/invite.png
+.. image:: management/invite.webp
    :alt: pop-up window to invite users to access a Knowledge article
 
 Share online
@@ -59,7 +59,7 @@ link anyone can use to view the article.
 Additionally, the share menu displays the default permission for internal members along with all the
 users who have been granted specific permission.
 
-.. image:: management/share-menu.png
+.. image:: management/share-menu.webp
    :alt: Sharing menu with URL for online sharing and the list of members.
 
 .. _management/remove:
@@ -110,5 +110,5 @@ categories give articles default **access rights**.
   external users, or shared with you.
 - :guilabel:`Private`: Articles displayed in that category are only available to you.
 
-.. image:: management/left-sidebar-cat.png
+.. image:: management/left-sidebar-cat.webp
    :alt: Categories displayed in the left sidebar of Odoo Knowledge

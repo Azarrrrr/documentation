@@ -17,7 +17,7 @@ from the top menu. All employee contracts, and their current contract status, ar
 Kanban view, by default. The Kanban view displays running contracts, contracts that require action,
 expired contracts, and cancelled contracts.
 
-.. image:: contracts/contracts-overview.png
+.. image:: contracts/contracts-overview.webp
    :align: center
    :alt: Contracts dashboard view showing running contracts and contracts with issues.
 
@@ -83,7 +83,7 @@ General information section
 - :guilabel:`Contract Type`: choose either :guilabel:`Permanent`, :guilabel:`Temporary`,
   :guilabel:`Seasonal`, :guilabel:`Full-Time`, or :guilabel:`Part-Time` from the drop-down menu.
 
-.. figure:: contracts/required-fields.png
+.. figure:: contracts/required-fields.webp
    :align: center
    :alt: New contract form to be filled in when creating a new contract, with required fields
          outlined in red.
@@ -134,7 +134,7 @@ General information section
   employer. This field **cannot** be modified, and is calculated based on the :guilabel:`Yearly
   Cost (Real)`.
 
-  .. image:: contracts/salary-info.png
+  .. image:: contracts/salary-info.webp
      :align: center
      :alt: Optional tabs for a new contract.
 
@@ -209,7 +209,7 @@ Notes section
 - :guilabel:`Notes`: a text field where any notes for the employee contract are entered for future
   reference.
 
-.. image:: contracts/contract-details.png
+.. image:: contracts/contract-details.webp
    :align: center
    :alt: Contract details in optional tabs for a new contract.
 
@@ -267,7 +267,7 @@ tabs, such as :guilabel:`Personal Documents`, appears if applicable.
 Salary information
 ------------------
 
-.. image:: contracts/salary-info.png
+.. image:: contracts/salary-info.webp
    :align: center
    :alt: Optional tabs for a new contract.
 
@@ -300,7 +300,7 @@ button. Next, the contract must be sent to the employee to be signed.
 
 Click on one of the following buttons to send the contract to the employee:
 
-.. image:: contracts/send-contract.png
+.. image:: contracts/send-contract.webp
    :align: center
    :alt: Send the contract to the employee via one of the buttons.
 
@@ -336,7 +336,7 @@ deductions or allocations are set.
 To add a new deduction, first navigate to :menuselection:`Payroll app --> Contracts --> Salary
 Attachments`. Next, click :guilabel:`Create`, and a new salary attachment form loads.
 
-.. image:: contracts/garnishment.png
+.. image:: contracts/garnishment.webp
    :align: center
    :alt: The salary attachment form with everything filled in for Ronnie Hart's child support.
 

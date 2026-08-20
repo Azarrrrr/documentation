@@ -75,7 +75,7 @@ package its theme like a module.
    * - lib
      - External libraries (`*.js`)
    * - static
-     - Custom assets (`*.jpg`, `*.gif`, `*.png`, `*.svg`, `*.pdf`, `*.scss`, `*.js`)
+     - Custom assets (`*.webp`, `*.gif`, `*.webp`, `*.svg`, `*.pdf`, `*.scss`, `*.js`)
    * - views
      - Custom views and templates (`*.xml`)
 
@@ -340,7 +340,7 @@ ensures it stays consistent.
    * - o-color-5
      - Blackish
 
-.. image:: theming/theme-colors.png
+.. image:: theming/theme-colors.webp
    :alt: Theme colors
    :width: 300
 
@@ -378,7 +378,7 @@ Add the created palette to the list of palettes offered by the Website Builder.
       ),
    );
 
-.. image:: theming/theme-colors-airproof.png
+.. image:: theming/theme-colors-airproof.webp
    :alt: Theme colors Airproof
    :width: 800
 
@@ -388,7 +388,7 @@ Based on the previously defined five color palettes, the Website Builder automat
 five color combinations, each defining a color for the background, text, headings, links, primary
 buttons, and secondary buttons. These colors can be customized later by the user.
 
-.. image:: theming/theme-colors-big.png
+.. image:: theming/theme-colors-big.webp
    :alt: Theme colors
    :width: 300
 

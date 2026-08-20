@@ -26,7 +26,7 @@ open the corresponding customer invoice and click :guilabel:`Register Payment`. 
 window, select the :guilabel:`Journal` linked to your bank account and :guilabel:`Batch Deposit` as
 the :guilabel:`Payment Method`, and click :guilabel:`Create Payment`.
 
-.. image:: batch/batch-payments.png
+.. image:: batch/batch-payments.webp
    :alt: Registering a customer payment as part of a batch deposit
 
 Add payments to a batch deposit
@@ -36,13 +36,13 @@ To add payments to a batch deposit, go to :menuselection:`Accounting --> Custome
 Payments`, and click :guilabel:`New`. Next, select the :guilabel:`Bank` and choose :guilabel:`Batch
 Deposit` as the :guilabel:`Payment Method`.
 
-.. image:: batch/batch-customer-payment.png
+.. image:: batch/batch-customer-payment.webp
    :alt: Filling out a new inbound batch payment form
 
 Click :guilabel:`Add a line`. In the pop-up window, tick all payments to include in the batch
 deposit, then click :guilabel:`Select`.
 
-.. image:: batch/batch-lines-selection.png
+.. image:: batch/batch-lines-selection.webp
    :alt: Selecting all payments to include in the batch deposit
 
 Once done, click :guilabel:`Validate` to finalize the batch deposit.
@@ -58,7 +58,7 @@ batch payment. To do so, go to the :guilabel:`Accounting Dashboard` and click :g
 Items` on the related bank account. Go to the :guilabel:`Batch Payments` tab to select a specific
 batch and click :guilabel:`Validate` to finalize the process.
 
-.. image:: batch/batch-reconciliation.png
+.. image:: batch/batch-reconciliation.webp
    :alt: Reconciling the batch payment with all its transactions
 
 .. note::

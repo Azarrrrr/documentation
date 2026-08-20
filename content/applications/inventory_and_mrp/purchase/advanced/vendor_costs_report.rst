@@ -60,7 +60,7 @@ quarter. :guilabel:`Previous Year` compares the same time period from the previo
    While multiple time-based filters can be added at once, only one comparison can be selected at a
    time.
 
-.. image:: vendor_costs_report/filters-groups.png
+.. image:: vendor_costs_report/filters-groups.webp
    :align: center
    :alt: The drop-down menu of filters, group by and comparison options for the vendor costs report.
 
@@ -93,7 +93,7 @@ the *Documents* app.
    The :guilabel:`Insert in Spreadsheet` option is only available if the *Documents Spreadsheet*
    module is installed.
 
-.. image:: vendor_costs_report/sample-vendor-report.png
+.. image:: vendor_costs_report/sample-vendor-report.webp
    :align: center
    :alt: A sample of a vendor costs report with the measures set as total and average costs.
 

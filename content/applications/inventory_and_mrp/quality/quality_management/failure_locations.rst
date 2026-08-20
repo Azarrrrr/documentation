@@ -26,7 +26,7 @@ To enable the *Storage Locations* setting, navigate to :menuselection:`Inventory
 Configuration --> Settings`, and tick the checkbox next to :guilabel:`Storage Locations`, under the
 :guilabel:`Warehouses` heading. Then, click :guilabel:`Save`.
 
-.. image:: failure_locations/storage-locations-setting.png
+.. image:: failure_locations/storage-locations-setting.webp
    :align: center
    :alt: The Storage Locations setting on the Inventory app settings page.
 
@@ -65,7 +65,7 @@ In the :guilabel:`Failure Locations` field, select one or more locations from th
 create a new location, type the desired location name into the field, and then select
 :guilabel:`Create "[name]"` from the drop-down menu.
 
-.. image:: failure_locations/qcp-form.png
+.. image:: failure_locations/qcp-form.webp
    :align: center
    :alt: A QCP form in the Quality app, configured with a failure location.
 
@@ -89,7 +89,7 @@ quality check. In the :guilabel:`Failure Location` field, select a location to w
 quantity should be sent. Then, click :guilabel:`Confirm` at the bottom of the pop-up window to close
 it.
 
-.. image:: failure_locations/failed-pop-up.png
+.. image:: failure_locations/failed-pop-up.webp
    :align: center
    :alt: The pop-up window that appears after a quality check fails.
 

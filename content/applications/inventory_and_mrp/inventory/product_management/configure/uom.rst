@@ -24,7 +24,7 @@ To use different units of measure in Odoo, first go to :menuselection:`Inventory
 Configuration --> Settings`, and under the :guilabel:`Products` section, activate the
 :guilabel:`Units of Measure` setting. Then, click :guilabel:`Save`.
 
-.. image:: uom/uom-enable-setting.png
+.. image:: uom/uom-enable-setting.webp
    :align: center
    :alt: Enable Units of Measure in the Inventory settings.
 
@@ -36,7 +36,7 @@ After enabling the *Units of Measure* setting, view the default units of measure
 unit conversion; Odoo can convert a product's units from one unit to another **only** if both units
 belong to the same category.
 
-.. image:: uom/category.png
+.. image:: uom/category.webp
    :align: center
    :alt: Set units of measure categories.
 
@@ -58,7 +58,7 @@ In the :guilabel:`Ratio` field, enter how many individual units are in the new |
 `6.00000` when using the example of the `6-Pack` (since a box of six is six times *bigger* than the
 reference unit, `1.00000`).
 
-.. image:: uom/convert-products-by-unit.png
+.. image:: uom/convert-products-by-unit.webp
    :align: center
    :alt: Convert products from one unit to another as long as they belong to the same category.
 
@@ -114,13 +114,13 @@ measure, so the :guilabel:`Demand` column of the delivery receipt shows the conv
    measure is `Units`, the |PO| shows the quantity in boxes of six, and the receipt (and other
    internal warehouse documents) shows the quantity in units.
 
-   .. figure:: uom/on-po.png
+   .. figure:: uom/on-po.webp
       :align: center
       :alt: Image of a purchase order that is using the purchase unit of measure.
 
       An order of three quantities is placed using the purchase "UoM": `Box of 6`.
 
-   .. figure:: uom/on-receipt.png
+   .. figure:: uom/on-receipt.webp
       :align: center
       :alt: Image of receipt displaying the unit of measure.
 
@@ -143,7 +143,7 @@ measure can be manually edited in the :guilabel:`Quantity` field, if needed. The
    A |PO| can **only** be automatically generated if at least **one** vendor is listed in the
    product form's :guilabel:`Purchase` tab.
 
-.. image:: uom/replenish.png
+.. image:: uom/replenish.webp
    :align: center
    :alt: Click Replenish button to manually replenish.
 

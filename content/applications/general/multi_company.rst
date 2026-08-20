@@ -22,7 +22,7 @@ company name to reveal a list of all allowed companies. To switch to a different
 the company name in the drop-down menu. To enable multiple companies at once, tick the checkbox next
 to each desired company name.
 
-.. figure:: multi_company/company-access.png
+.. figure:: multi_company/company-access.webp
    :align: center
    :alt: An example of the list of companies a user has access to when logged into a database.
 

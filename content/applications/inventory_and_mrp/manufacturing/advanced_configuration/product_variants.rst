@@ -17,7 +17,7 @@ setting.
 For more information on configuring product variants, refer to the :doc:`product variants
 <../../../sales/sales/products_prices/products/variants>` documentation.
 
-.. image:: product_variants/product-variants-variants-settings.png
+.. image:: product_variants/product-variants-variants-settings.webp
    :align: center
    :alt: Selecting "Variants" from Inventory app settings.
 
@@ -47,7 +47,7 @@ drop-down menu. Then, select the desired options next to the :guilabel:`Display 
    customization requests upon ordering a custom variant of a product.
 
 .. example::
-   .. image:: product_variants/product-variants-attribute.png
+   .. image:: product_variants/product-variants-attribute.webp
       :align: center
       :alt: Product variant attribute configuration screen.
 
@@ -71,7 +71,7 @@ attributes that should be added to the product.
 
 Once finished, click :guilabel:`Save` to save changes.
 
-.. image:: product_variants/product-variants-product-form.png
+.. image:: product_variants/product-variants-product-form.webp
    :align: center
    :alt: Product form variants tab with values and attributes.
 
@@ -103,7 +103,7 @@ columns. Then, choose the desired values in the :guilabel:`Apply on Variants` co
    not immediately visible, activate it from the additional options menu (three-dots icon, to the
    right of the header row).
 
-.. image:: product_variants/product-variants-apply-on-variants.png
+.. image:: product_variants/product-variants-apply-on-variants.webp
    :align: center
    :alt: "Apply on Variants" option on the additional options menu.
 
@@ -145,7 +145,7 @@ From the pop-up window, click the desired attribute options to configure the cor
 product to manufacture. Then, click the green :guilabel:`+` or :guilabel:`-` icons next to the `1`
 to change the quantity to sell and manufacture, if desired.
 
-.. image:: product_variants/product-variants-variant-popup.png
+.. image:: product_variants/product-variants-variant-popup.webp
    :align: center
    :alt: Configure a product pop-up for choosing variant attributes.
 
@@ -178,7 +178,7 @@ operation steps.
 Alternatively, click the :guilabel:`Mark as Done` button at the top of the manufacturing order form
 to complete the order.
 
-.. image:: product_variants/product-variants-manufacturing-order.png
+.. image:: product_variants/product-variants-manufacturing-order.webp
    :align: center
    :alt: Manufacturing order for variant of BoM product.
 

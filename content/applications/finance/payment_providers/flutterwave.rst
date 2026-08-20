@@ -20,7 +20,7 @@ Configuration on Flutterwave Dashboard
 #. Make sure *all* the remaining checkboxes are ticked.
 #. Click on **Save** to finalize the configuration.
 
-.. image:: flutterwave/flutterwave-settings.png
+.. image:: flutterwave/flutterwave-settings.webp
    :alt: Flutterwave settings
 
 .. _payment_providers/flutterwave/configure_odoo:

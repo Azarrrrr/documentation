@@ -26,7 +26,7 @@ Under the :guilabel:`Warehouse Configuration` tab, set :guilabel:`Incoming Shipm
 :guilabel:`Receive goods directly (1 step)`, and set :guilabel:`Outgoing Shipments` to
 :guilabel:`Deliver goods directly (1 step)`.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-warehouse-settings.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-warehouse-settings.webp
    :align: center
    :alt: Incoming and outgoing shipments set to one-step on warehouse form.
 
@@ -59,7 +59,7 @@ opens a blank :guilabel:`Request for Quotation` (RfQ) form.
 Add a vendor in the :guilabel:`Supplier` field. Then, fill out the various fields on the |RfQ|, as
 necessary.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-new-rfq.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-new-rfq.webp
    :align: center
    :alt: Filled out new request for quotation form.
 
@@ -72,7 +72,7 @@ stage.
 Once the |PO| is confirmed, a :guilabel:`Receipt` smart button appears at the top of the form.
 Clicking the smart button opens the warehouse receipt (WH/IN) form.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-receipt-smart-button.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-receipt-smart-button.webp
    :align: center
    :alt: Receipt smart button on confirmed purchase order form.
 
@@ -83,7 +83,7 @@ From the warehouse receipt form, the products ordered can be received into the w
 the products, click :guilabel:`Validate`. Once validated, the receipt moves to the :guilabel:`Done`
 stage.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-done-receipt.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-done-receipt.webp
    :align: center
    :alt: Validated warehouse receipt in Done stage.
 
@@ -108,7 +108,7 @@ opens a blank sales quotation form.
 Add a customer in the :guilabel:`Customer` field. Then, fill out the various fields on the sales
 quotation form, as necessary.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-new-sales-order.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-new-sales-order.webp
    :align: center
    :alt: Filled out new sales quotation form.
 
@@ -121,7 +121,7 @@ stage.
 Once the |SO| is confirmed, a :guilabel:`Delivery` smart button appears at the top of the form.
 Clicking the smart button opens the warehouse delivery (WH/OUT) form.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-delivery-button.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-delivery-button.webp
    :align: center
    :alt: Delivery smart button on confirmed sales order form.
 
@@ -135,7 +135,7 @@ ordered quantity in the :guilabel:`Demand` field.
 Once ready, click :guilabel:`Validate`. Once validated, the delivery order moves to the
 :guilabel:`Done` stage.
 
-.. image:: receipts_delivery_one_step/receipts-delivery-one-step-done-delivery.png
+.. image:: receipts_delivery_one_step/receipts-delivery-one-step-done-delivery.webp
    :align: center
    :alt: Validated delivery order in Done stage.
 

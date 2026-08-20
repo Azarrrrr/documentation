@@ -16,7 +16,7 @@ Once on the :guilabel:`Recurring Plans` form, enable the :guilabel:`Closable` op
 :guilabel:`Self-Service` section, to allow customers to close their own subscriptions using the
 customer portal.
 
-.. image:: closing/recurring-plans-closable-option.png
+.. image:: closing/recurring-plans-closable-option.webp
    :align: center
    :alt: The Closable option on a recurring plan form in Odoo Subscriptions.
 
@@ -37,7 +37,7 @@ button at the top of the subscription order, near the row that contains :guilabe
 other stages. This option is also available after the order has been invoiced and the payment has
 been registered.
 
-.. image:: closing/close-subscriptions-administrator.png
+.. image:: closing/close-subscriptions-administrator.webp
    :align: center
    :alt: Close subscription from an administration point of view with Odoo Subscriptions.
 
@@ -45,7 +45,7 @@ Clicking the :guilabel:`Close` button prompts a :guilabel:`Close Reason` pop-up 
 allowing administrators to input the reason for closing the subscription, or choose from the
 drop-down menu of options in the :guilabel:`Reason` field.
 
-.. image:: closing/close-reason-popup.png
+.. image:: closing/close-reason-popup.webp
    :align: center
    :alt: The Close Reason pop-up when the Close button is clicked in Odoo Subscriptions.
 
@@ -55,13 +55,13 @@ Clicking :guilabel:`Submit` on the :guilabel:`Close Reason` pop-up window update
 sales order to show :guilabel:`Churned` status tag, along with the specified :guilabel:`Close
 Reason`.
 
-.. image:: closing/churned-sales-order.png
+.. image:: closing/churned-sales-order.webp
    :align: center
    :alt: A churned sales order for a closed subscription in Odoo Subscriptions.
 
 That same close reason can be found in the *Chatter* of the sales order, as well.
 
-.. image:: closing/churned-sales-order-chatter.png
+.. image:: closing/churned-sales-order-chatter.webp
    :align: center
    :alt: The chatter of a churned sales order for a closed subscription in Odoo Subscriptions.
 
@@ -76,7 +76,7 @@ Customer view
 From the customer's point of view, in the customer portal, the :guilabel:`Close Subscription` button
 is located on the left side of the sales order.
 
-.. image:: closing/close-subscription-button-customer-view.png
+.. image:: closing/close-subscription-button-customer-view.webp
    :align: center
    :alt: Close subscription button on a customer's view of a sales order in Odoo Subscriptions.
 
@@ -84,7 +84,7 @@ When the customer clicks the :guilabel:`Close Subscription` button, a :guilabel:
 pop-up window appears, in which the customer has to choose from a select list of reasons why they
 are choosing to close the subscription.
 
-.. image:: closing/close-subscription-customer-pov.png
+.. image:: closing/close-subscription-customer-pov.webp
    :align: center
    :alt: The close subscription pop-up window customers see when closing a subscription.
 

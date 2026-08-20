@@ -162,7 +162,7 @@ Make the header background transparent and stand on top of the page content.
 
    <field name="header_overlay" eval="True"/>
 
-.. image:: pages/header-overlay.png
+.. image:: pages/header-overlay.webp
    :alt: Header overlay
 
 Media
@@ -174,7 +174,7 @@ Images
 You can record images in the database and use them later in your design/code. They will also be
 available for the end user through the *media dialog*.
 
-.. image:: pages/media-window.png
+.. image:: pages/media-window.webp
    :alt: Media window
 
 The Website Builder supports the following image file formats: JPG, GIF, PNG, and SVG.
@@ -186,7 +186,7 @@ The Website Builder supports the following image file formats: JPG, GIF, PNG, an
 
    <record id="img_about_01" model="ir.attachment">
        <field name="name">About Image 01</field>
-       <field name="datas" type="base64" file="website_airproof/static/src/img/content/img_about_01.jpg"/>
+       <field name="datas" type="base64" file="website_airproof/static/src/img/content/img_about_01.webp"/>
        <field name="res_model">ir.ui.view</field>
        <field name="public" eval="True"/>
    </record>
@@ -305,5 +305,5 @@ Increase the icon size (fa-2x, fa-3x, fa-4x, or fa-5x classes).
 
    <span class="fa fa-2x fa-picture-o"/>
 
-.. image:: pages/icon-options.png
+.. image:: pages/icon-options.webp
    :alt: Icon options

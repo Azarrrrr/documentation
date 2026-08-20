@@ -30,7 +30,7 @@ To link the scale to the :abbr:`IoT (Internet of Things)` box, connect it with a
 If the scale is `compatible with Odoo IoT Box <https://www.odoo.com/page/iot-hardware>`_, there is
 no need to set up anything because it will be automatically detected as soon as it is connected.
 
-.. image:: scale/iot-choice.png
+.. image:: scale/iot-choice.webp
    :align: center
    :alt: IOT box auto detection.
 
@@ -39,7 +39,7 @@ to be downloaded to the box in some cases. To update the drivers, go to the :abb
 Things)` box homepage and click on :guilabel:`Drivers List`. Then, click on :guilabel:`Load
 Drivers`.
 
-.. image:: scale/driver-list.png
+.. image:: scale/driver-list.webp
    :align: center
    :alt: View of the IoT box settings and driver list.
 
@@ -57,7 +57,7 @@ the scale device can be set.
 Select the scale from the :guilabel:`Electronic Scale` drop-down menu. Then click :guilabel:`Save`
 to save the changes, if required.
 
-.. image:: scale/electronic-scale-feature.png
+.. image:: scale/electronic-scale-feature.webp
    :align: center
    :alt: List of the external tools that can be used with PoS and the IoT box.
 
@@ -65,6 +65,6 @@ The scale is now available in all the :abbr:`PoS (Point of Sale)` sessions. Now,
 price per weight set, clicking on it on the :guilabel:`PoS` screen opens the scale screen, where the
 cashier can weigh the product and add the correct price to the cart.
 
-.. image:: scale/scale-view.png
+.. image:: scale/scale-view.webp
    :align: center
    :alt: Electronic Scale dashboard view when no items are being weighed.

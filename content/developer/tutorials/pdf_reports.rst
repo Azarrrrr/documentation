@@ -60,7 +60,7 @@ Basic Report
     **Goal**: at the end of this section, we will be able to print a report that displays all offers for a
     property.
 
-    .. image:: pdf_reports/simple_report.png
+    .. image:: pdf_reports/simple_report.webp
       :align: center
       :alt: Simple PDF report
 
@@ -183,7 +183,7 @@ that only make sense under specific conditions. For example, if we wanted to mak
 report, then we can link it to a "Print Sale Info" button that appears in the form view only when
 the property is "Sold".
 
-.. image:: pdf_reports/print_menu.png
+.. image:: pdf_reports/print_menu.webp
     :align: center
     :alt: Print Menu Button
 
@@ -217,7 +217,7 @@ Sub-templates
 
     **Goal**: at the end of this section, we will have a sub-template that we use in 2 reports.
 
-    .. image:: pdf_reports/report_subtemplate.png
+    .. image:: pdf_reports/report_subtemplate.webp
       :align: center
       :alt: Report using a subtemplate
 
@@ -253,7 +253,7 @@ Report Inheritance
     **Goal**: at the end of this section, we will inherit the property report in the ``estate_account``
     module.
 
-    .. image:: pdf_reports/inherited_report.png
+    .. image:: pdf_reports/inherited_report.webp
       :align: center
       :alt: An inherited report
 

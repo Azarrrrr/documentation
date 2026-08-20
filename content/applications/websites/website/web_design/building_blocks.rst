@@ -53,13 +53,13 @@ Grid
 The :guilabel:`Grid` layout allows you to reposition and resize elements, such as images or text, by
 dragging and dropping them.
 
-.. image:: building_blocks/grid-layout.png
+.. image:: building_blocks/grid-layout.webp
    :alt: When the grid layout is selected, choose an image and drag and drop it where needed.
 
 .. tip::
    Position images behind the text by using the above/below icons.
 
-   .. image:: building_blocks/superimpose-images-to-text.png
+   .. image:: building_blocks/superimpose-images-to-text.webp
       :alt: Positioning an image behind text
 
 .. _building_blocks/cols:
@@ -75,7 +75,7 @@ By default, **on mobile devices**, one element is visible per line to ensure tha
 easily readable and accessible on smaller screens. To adjust the value, click the :icon:`fa-mobile`
 (:guilabel:`mobile icon`) at the top of the website editor and adapt the number of columns.
 
-.. image:: building_blocks/cols.png
+.. image:: building_blocks/cols.webp
    :alt: Adjust the number of images per line on mobile view.
 
 Duplicating a building block
@@ -84,7 +84,7 @@ Duplicating a building block
 You can duplicate a building block by clicking on the duplicate icon. Once duplicated, the new block
 appears on your website beneath the original one.
 
-.. image:: building_blocks/duplicate-container.png
+.. image:: building_blocks/duplicate-container.webp
    :alt: Duplicating a building block
 
 Reordering a building block
@@ -95,7 +95,7 @@ or click the down arrow to move it after.
 
 You can also use the drag-and-drop icon to move a block manually.
 
-.. image:: building_blocks/reordering-blocks.png
+.. image:: building_blocks/reordering-blocks.webp
    :alt: Reordering building blocks
 
 Saving a custom building block
@@ -105,13 +105,13 @@ You can save a customized building block and reuse it elsewhere. To do so, selec
 the :guilabel:`Customize` tab, and click the :icon:`fa-floppy-o` (:guilabel:`floppy disk`) icon to
 save it.
 
-.. image:: building_blocks/saving-custom-block.png
+.. image:: building_blocks/saving-custom-block.webp
    :alt: Saving a building block
 
 Saved building blocks are available in the :guilabel:`Custom` section of the :guilabel:`Blocks` tab.
 Click the :icon:`fa-pencil` (:guilabel:`pen`) icon to edit their name.
 
-.. image:: building_blocks/custom-blocks.png
+.. image:: building_blocks/custom-blocks.webp
    :alt: Custom section with saved building blocks
 
 .. _building_blocks/visibility:
@@ -126,14 +126,14 @@ You can hide specific elements depending on the visitor's device. To do so, sele
 hide, and in the :guilabel:`Customize` tab, scroll down to :guilabel:`Visibility`, and click the
 :guilabel:`Show/Hide on Mobile` or the :guilabel:`Show/Hide on Desktop` icon.
 
-.. image:: building_blocks/show-hide-on-mobile.png
+.. image:: building_blocks/show-hide-on-mobile.webp
    :alt: Click the "show/hide on mobile" icons to show or hide some elements on mobile.
 
 .. tip::
    Click the :icon:`fa-mobile` (:guilabel:`mobile`) icon at the top of the configurator to preview
    how your website would look on a mobile device.
 
-   .. image:: building_blocks/phone-icon.png
+   .. image:: building_blocks/phone-icon.webp
       :alt: Mobile phone preview icon
 
 Conditional visibility

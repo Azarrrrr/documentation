@@ -11,7 +11,7 @@ To make a new department, navigate to :menuselection:`Employees app --> Departme
 :guilabel:`New` in the top-left to reveal a blank department form. Fill out the following
 information on the department form:
 
-.. image:: departments/department-form.png
+.. image:: departments/department-form.webp
    :align: center
    :alt: The department for with all fields filled out.
 
@@ -53,7 +53,7 @@ To view the currently configured departments, navigate to :menuselection:`Employ
 Departments`. All departments appear in a Kanban view, by default, and are listed in alphabetical
 order.
 
-.. image:: departments/departments.png
+.. image:: departments/departments.webp
    :align: center
    :alt: The departments dashboard view with all the department cards in a Kanban view.
 
@@ -100,7 +100,7 @@ in the top-right corner. The departments appear in a list view, which displays t
 
 The departments are sorted alphabetically by :guilabel:`Department Name`, by default.
 
-.. image:: departments/list.png
+.. image:: departments/list.webp
    :align: center
    :alt: The departments presented in a list view.
 
@@ -140,11 +140,11 @@ child departments beneath it, organized by individual department.
    employees from the :guilabel:`Sales` department, as well as its two child departments
    (:guilabel:`East Coast Territory` and :guilabel:`West Coat Territory`), appear in the list.
 
-  .. image:: departments/hierarchy.png
+  .. image:: departments/hierarchy.webp
      :align: center
      :alt: The departments presented in a hierarchy view.
 
-  .. image:: departments/employee-list.png
+  .. image:: departments/employee-list.webp
      :align: center
      :alt: The list view of employees for the department that was clicked, including all child
            departments.

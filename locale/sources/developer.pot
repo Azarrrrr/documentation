@@ -5025,7 +5025,7 @@ msgid "static"
 msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:78
-msgid "Custom assets (`*.jpg`, `*.gif`, `*.png`, `*.svg`, `*.pdf`, `*.scss`, `*.js`)"
+msgid "Custom assets (`*.webp`, `*.gif`, `*.webp`, `*.svg`, `*.pdf`, `*.scss`, `*.js`)"
 msgstr ""
 
 #: ../../content/developer/howtos/website_themes/theming.rst:79
@@ -27103,7 +27103,7 @@ msgid "The `relative path`_ to the logo."
 msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:988
-msgid "A path computed with the `name` attribute: :file:`/{name}/static/description/icon.png`"
+msgid "A path computed with the `name` attribute: :file:`/{name}/static/description/icon.webp`"
 msgstr ""
 
 #: ../../content/developer/reference/user_interface/view_architectures.rst:999

@@ -43,7 +43,7 @@ On the :guilabel:`Shipping Manager` page, go to the :guilabel:`Admin` tab, then 
 :guilabel:`General Settings` tab, to find the :guilabel:`Account ID` and :guilabel:`Passphrase`
 needed to configure Odoo's shipping method.
 
-.. image:: bpost/credentials.png
+.. image:: bpost/credentials.webp
    :align: center
    :alt: In the *Admin* tab, show the Account ID and Passphrase.
 
@@ -104,7 +104,7 @@ For domestic deliveries, these features are available in the :guilabel:`Options`
 - Enable the :guilabel:`Generate Return Label` feature to automatically print a return label upon
   validating the delivery order.
 
-.. image:: bpost/bpost.png
+.. image:: bpost/bpost.webp
    :align: center
    :alt: Show Bpost shipping method.
 

@@ -18,7 +18,7 @@ their :abbr:`BoMs (Bills of Materials)`.
 .. seealso::
    :doc:`../basic_setup/bill_configuration`
 
-.. image:: sub_assemblies/semifinished-product-bom.png
+.. image:: sub_assemblies/semifinished-product-bom.webp
    :align: center
    :alt: A bill of materials for a semi-finished product.
 
@@ -34,7 +34,7 @@ the product form, then click :guilabel:`Create` to make a :abbr:`BoM (Bill of Ma
 top-level product. Then, simply add the semi-finished products to this :abbr:`BoM (Bill of
 Materials)`, along with any other necessary components.
 
-.. image:: sub_assemblies/custom-computer-bom.png
+.. image:: sub_assemblies/custom-computer-bom.webp
    :align: center
    :alt: A bill of materials for a top-level product, containing a subassembly component.
 
@@ -70,6 +70,6 @@ manufacturing order.
 Regardless of the method chosen, semi-finished products must be fully manufactured before
 manufacturing can begin on the top-level product.
 
-.. image:: sub_assemblies/semifinished-on-mo.png
+.. image:: sub_assemblies/semifinished-on-mo.webp
    :align: center
    :alt: A manufacturing order for a top-level product.

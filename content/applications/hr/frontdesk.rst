@@ -128,7 +128,7 @@ Options tab
    An example of how that might appear in a *Discuss* message is: `Main Lobby Check-In: John Doe
    (123-555-1234) (Odoo, Inc.) to meet Marc Demo.`
 
-.. image:: frontdesk/station-form.png
+.. image:: frontdesk/station-form.webp
    :align: center
    :alt: Frontdesk station form with all the information filled out.
 
@@ -170,7 +170,7 @@ Enter the following information on the drink form:
 
    The image selected now appears in the picture field, and is set as the image for the drink.
 
-.. image:: frontdesk/espresso.png
+.. image:: frontdesk/espresso.webp
    :align: center
    :alt: Drink form with the information filled out for an espresso.
 

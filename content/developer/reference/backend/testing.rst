@@ -313,7 +313,7 @@ The main way to run the test suite is to have a running Odoo server, then
 navigate a web browser to ``/web/tests``.  The test suite will then be executed
 by the web browser Javascript engine.
 
-.. image:: testing/tests.png
+.. image:: testing/tests.webp
     :align: center
 
 The web UI has many useful features: it can run only some submodules, or
@@ -796,7 +796,7 @@ in the javascript console, or by enabling :ref:`tests mode
 the URL, then selecting **Start Tour** in the debug menu and picking a
 tour:
 
-.. image:: testing/tours.png
+.. image:: testing/tours.webp
    :align: center
 
 **Advantages**

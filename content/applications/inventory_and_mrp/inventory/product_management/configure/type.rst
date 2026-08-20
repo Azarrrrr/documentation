@@ -35,7 +35,7 @@ On the product form, in the :guilabel:`Product Type` field, select:
 - :guilabel:`Service` for sellable service products that are performed, and not tracked with stock
   counts (i.e. maintenance, installation, or repair services).
 
-  .. image:: type/product-form.png
+  .. image:: type/product-form.webp
     :align: center
     :alt: Set a product type on the product form.
 
@@ -120,7 +120,7 @@ A storable product's on-hand and forecasted quantities, based on incoming and ou
 reflected on the product form, accessed by going to :menuselection:`Inventory app --> Products -->
 Products`, and selecting the desired product.
 
-.. figure:: type/on-hand.png
+.. figure:: type/on-hand.webp
    :align: center
    :alt: Show "On Hand" and "Forecast" smart buttons.
 
@@ -175,7 +175,7 @@ Manufacture or subcontract
 Storable and consumable products can be manufactured, subcontracted, or included in a bill of
 materials (BoM).
 
-.. figure:: type/manufacture.png
+.. figure:: type/manufacture.webp
    :align: center
    :alt: Show "Bill of Materials" and "Used In" smart buttons.
 
@@ -193,7 +193,7 @@ However, for consumable products, the quantity is not tracked, and the product i
 package's :guilabel:`Contents`, accessed by going to :menuselection:`Inventory app --> Products -->
 Packages`, and selecting the desired package.
 
-.. figure:: type/package-content.png
+.. figure:: type/package-content.webp
    :align: center
    :alt: Show Packages page, containing the package contents list.
 
@@ -214,7 +214,7 @@ storable products. The report is only available to users with :doc:`administrato
 <../../../../general/users/access_rights>`, and is found by navigating to :menuselection:`Inventory
 app --> Reporting --> Stock`.
 
-.. image:: type/stock-report.png
+.. image:: type/stock-report.webp
    :align: center
    :alt: Show stock reporting list found in Inventory > Reporting > Stock.
 
@@ -226,6 +226,6 @@ Settings`), and to users with :doc:`administrator access <../../../../general/us
 Navigate to the location report by going to :menuselection:`Inventory app --> Reporting -->
 Locations`.
 
-.. image:: type/location-report.png
+.. image:: type/location-report.webp
    :align: center
    :alt: Show location reporting list found in Inventory > Reporting > Locations.

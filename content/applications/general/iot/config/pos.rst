@@ -20,7 +20,7 @@ Before starting, make sure the following equipment is available:
 Setup
 =====
 
-.. figure:: pos/pos-connections.png
+.. figure:: pos/pos-connections.webp
 
   A suggested configuration for a point of sale system.
 
@@ -60,7 +60,7 @@ application. To do this, go to :menuselection:`Point of Sale --> Configuration -
 :guilabel:`IoT Box` option, and select the devices to be used in this :abbr:`PoS (Point of Sale)`.
 :guilabel:`Save` the the changes.
 
-.. image:: pos/iot-connected-devices.png
+.. image:: pos/iot-connected-devices.webp
    :align: center
    :alt: Configuring the connected devices in the POS application.
 

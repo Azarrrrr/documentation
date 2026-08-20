@@ -24,7 +24,7 @@ appropriate |iot| box.
 At the bottom of the |iot| box pop-up window, click :guilabel:`Remote Debug`. This opens the
 :guilabel:`Remote Debugging` pop-up window.
 
-.. image:: ssh_connect/ssh-generate-password.png
+.. image:: ssh_connect/ssh-generate-password.webp
    :align: center
    :alt: The Remote Debugging password generation window.
 

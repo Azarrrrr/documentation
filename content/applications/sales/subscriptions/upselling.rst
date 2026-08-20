@@ -34,7 +34,7 @@ To activate the *Discounts* feature, navigate to :menuselection:`Sales app --> C
 Settings`, scroll to the :guilabel:`Pricing` section, and tick the checkbox beside
 :guilabel:`Discounts`. Then, click :guilabel:`Save`.
 
-.. image:: upselling/configuration-to-upsell-a-subscription.png
+.. image:: upselling/configuration-to-upsell-a-subscription.webp
    :align: center
    :alt: Activation of the discount option in Odoo Sales.
 
@@ -56,7 +56,7 @@ When the subscription sales order is opened, either in the *Sales* or *Subscript
 the ability to upsell that subscription is available, via the :guilabel:`Upsell` button at the top
 of the sales order.
 
-.. image:: upselling/upsell-your-subscription.png
+.. image:: upselling/upsell-your-subscription.webp
    :align: center
    :alt: Upsell button for subscription sales orders with Odoo Subscriptions.
 
@@ -75,7 +75,7 @@ the prorated period of time, located beneath the initial subscription product in
 From this new upsell quotation form, add new subscription products in the :guilabel:`Order Lines`
 tab, by clicking :guilabel:`Add a product`, and selecting the desired subscription product.
 
-.. image:: upselling/use-of-the-upsell-button-in-odoo-sales.png
+.. image:: upselling/use-of-the-upsell-button-in-odoo-sales.webp
    :align: center
    :alt: Adding products to your subscription via the upsell option in Odoo Subscriptions
 
@@ -99,7 +99,7 @@ When the :guilabel:`Sales History` smart button is clicked, Odoo reveals a separ
 a list of the related sales orders, clearly showcasing their individual :guilabel:`Subscription
 Status`.
 
-.. image:: upselling/sales-history-smartbutton.png
+.. image:: upselling/sales-history-smartbutton.webp
    :align: center
    :alt: The related sales order viewable from the Sales History smart button in Odoo Subscriptions.
 

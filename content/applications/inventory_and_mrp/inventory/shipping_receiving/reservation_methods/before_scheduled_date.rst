@@ -23,7 +23,7 @@ configure, or create a new one by clicking :guilabel:`New`.
 In the :guilabel:`General` tab, locate the :guilabel:`Reservation Method` field, and select
 :guilabel:`Before scheduled date`.
 
-.. image:: before_scheduled_date/before-scheduled-date-configuration.png
+.. image:: before_scheduled_date/before-scheduled-date-configuration.webp
    :align: center
    :alt: Reservation method field on delivery order operation type form.
 
@@ -48,7 +48,7 @@ scheduled date that products should be reserved if the transfers are starred (fa
    This means products are reserved two days before the scheduled delivery date for normal orders,
    and three days before the scheduled delivery date for starred (favorited) transfers.
 
-   .. image:: before_scheduled_date/before-scheduled-date- days-before.png
+   .. image:: before_scheduled_date/before-scheduled-date- days-before.webp
       :align: center
       :alt: Reserve before scheduled date field with set numerical values.
 
@@ -71,7 +71,7 @@ For this example workflow, change it to `5` days.
 This sets the scheduled delivery date for this specific product to five days after the creation date
 of the sales order.
 
-.. image:: before_scheduled_date/before-scheduled-date-customer-lead-time.png
+.. image:: before_scheduled_date/before-scheduled-date-customer-lead-time.webp
    :align: center
    :alt: Product form with customer lead time set in Inventory tab.
 
@@ -112,7 +112,7 @@ products until then.
    Additionally, unless there is a set replenishment or a live receipt, it also reads :guilabel:`No
    future availability`, in red text.
 
-.. image:: before_scheduled_date/before-scheduled-date-availability-tooltip.png
+.. image:: before_scheduled_date/before-scheduled-date-availability-tooltip.webp
    :align: center
    :alt: Confirmed sales order with product availability tooltip selected.
 
@@ -126,7 +126,7 @@ Note the :guilabel:`Scheduled Date` field, above the :guilabel:`Product Availabi
 displays the date five days from the order creation date. This indicates that the products are not
 reserved until three days from today's date (two days before the scheduled delivery date).
 
-.. image:: before_scheduled_date/before-scheduled-date-delivery-order-form.png
+.. image:: before_scheduled_date/before-scheduled-date-delivery-order-form.webp
    :align: center
    :alt: Delivery order form with product availability and reserved quantity.
 

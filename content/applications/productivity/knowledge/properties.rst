@@ -18,7 +18,7 @@ Properties --> Field Type`, select the type and add a default value if needed. T
 appear in **kanban views**, check :guilabel:`View in Kanban` as well. To validate and close the
 property creation window, click anywhere.
 
-.. image:: properties/fields.png
+.. image:: properties/fields.webp
    :align: center
    :alt: Dropdown of property fields types
 
@@ -46,7 +46,7 @@ The different types assess what the field content can be:
 
 Some **field types** need to be configured:
 
-.. image:: properties/manyone.png
+.. image:: properties/manyone.webp
    :align: center
    :alt: property configuration form
 

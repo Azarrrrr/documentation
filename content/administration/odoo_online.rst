@@ -24,7 +24,7 @@ All the main database management options are available by clicking the database 
 upgrade option, which can be accessed by clicking the **arrow in a circle** icon next to the
 database name. It is only displayed if an upgrade is available.
 
-.. image:: odoo_online/database-manager.png
+.. image:: odoo_online/database-manager.webp
    :alt: Accessing the database management options
 
 - :ref:`odoo_online/upgrade`
@@ -116,7 +116,7 @@ Delete a database instantly.
 Carefully read the warning message and only proceed if the implications of deleting a database are
 fully understood.
 
-.. image:: odoo_online/delete.png
+.. image:: odoo_online/delete.webp
    :alt: The warning message displayed before deleting a database
 
 .. note::
@@ -141,7 +141,7 @@ Invite / remove users
 To invite users, fill out the new user's email address and click :guilabel:`Invite`. To add multiple
 users, click :guilabel:`Add more users`.
 
-.. image:: odoo_online/invite-users.png
+.. image:: odoo_online/invite-users.webp
    :alt: Inviting a user on a database
 
 To remove users, select them and click :guilabel:`Remove`.

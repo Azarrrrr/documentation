@@ -9,7 +9,7 @@ To start adding content, click anywhere on the page. Your cursor is automaticall
 article's first-level header. Once you are done writing the title, press **enter** on your keyboard
 to move to the next line.
 
-.. image:: articles_editing/ui.png
+.. image:: articles_editing/ui.webp
    :align: center
    :alt: knowledge's user interface
 
@@ -46,7 +46,7 @@ Then, you can:
   checklist;
 - Click the **chain** icon to insert or edit an URL link.
 
-.. image:: articles_editing/style-and-colors.png
+.. image:: articles_editing/style-and-colors.webp
    :align: center
    :alt: Text editor's toolbox
 
@@ -253,7 +253,7 @@ select an article. The view is inserted at the bottom of the selected article.
    Pie Chart icon` and inserted it by clicking :menuselection:`Favorite --> Insert view in article`
    and selecting the *Sales Playbook* article.
 
-   .. image:: articles_editing/inserted-view.png
+   .. image:: articles_editing/inserted-view.webp
       :align: center
       :alt: article view from the Sales app
 

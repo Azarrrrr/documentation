@@ -124,7 +124,7 @@ selected, the new email template loads in the email body.
 To send the email with the interview link to the applicant, click :guilabel:`Send` at the bottom of
 the email pop-up window.
 
-.. image:: recruitment-flow/send-survey.png
+.. image:: recruitment-flow/send-survey.webp
    :align: center
    :alt: Send a custom survey, also referred to as an interview form, to an applicant using a
          pre-configured template.
@@ -153,7 +153,7 @@ informs the recruitment team to potentially set up a phone call or an interview 
    Click the desired stage for the card, and the stage changes. A log note indicating the stage
    change appears in the chatter, as well.
 
-  .. image:: recruitment-flow/stage-change.png
+  .. image:: recruitment-flow/stage-change.webp
      :align: center
      :alt: Change the stage of an applicant by clicking on the desired stage at the top of the
            applicant's card.
@@ -174,7 +174,7 @@ Alternatively, open the desired applicant's card from the :guilabel:`Application
 the :guilabel:`First Interview` stage on the status bar at the top of the individual applicant's
 card.
 
-.. image:: recruitment-flow/move.png
+.. image:: recruitment-flow/move.webp
    :align: center
    :alt: An applicant's card moves from one stage to another by using the click and drag method.
 

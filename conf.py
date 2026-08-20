@@ -361,7 +361,7 @@ latex_documents = [
 legal_translations = ['de', 'es', 'fr', 'nl', 'pt_BR']
 
 # The name of an image file (relative to this directory) to place at the top of the title page.
-latex_logo = 'static/img/odoo_logo.png'
+latex_logo = 'static/img/odoo_logo.webp'
 
 # If true, show URL addresses after external links.
 latex_show_urls = 'True'

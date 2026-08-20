@@ -7,7 +7,7 @@ table status in real time, including occupancy, reservations, and kitchen orders
 
 .. example::
 
-   .. image:: floors_tables/plan-understand.png
+   .. image:: floors_tables/plan-understand.webp
       :alt: example of a floor plan view with visual keys to understand it.
 
    - Table 1: An order has been placed and sent to the kitchen.
@@ -30,7 +30,7 @@ of sales, and click :guilabel:`Add a line` to create a table. Name the table and
 seats. You can also link it to an appointment resource to make the table bookable. Once done,
 click :guilabel:`Save & Close` or :guilabel:`Save & New` to confirm.
 
-.. image:: floors_tables/table-creation-backend.png
+.. image:: floors_tables/table-creation-backend.webp
    :scale: 75%
    :alt: window to create a table in the POS backend
 
@@ -43,7 +43,7 @@ click :guilabel:`Save & Close` or :guilabel:`Save & New` to confirm.
    floor name in the :guilabel:`Floor` field of the :guilabel:`Floors & Tables Map` category, and
    press *enter*.
 
-   .. image:: floors_tables/floor-creation-backend.png
+   .. image:: floors_tables/floor-creation-backend.webp
       :scale: 75%
       :alt: setting to create floors from the POS settings
 
@@ -67,7 +67,7 @@ table, select it and click :guilabel:`COPY`. You can also remove the table by cl
 
 After making all the necessary modifications, click :guilabel:`CLOSE` to save.
 
-.. image:: floors_tables/floor-map.png
+.. image:: floors_tables/floor-map.webp
    :alt: the floor plan view in edit mode.
 
 .. note::

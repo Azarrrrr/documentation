@@ -33,7 +33,7 @@ Doing so opens the delivery order (DO) form.
 
 From this form, click :guilabel:`Return`. This opens a :guilabel:`Reverse Transfer` pop-up window.
 
-.. image:: repair_orders/repair-orders-reverse-transfer.png
+.. image:: repair_orders/repair-orders-reverse-transfer.webp
    :align: center
    :alt: Reverse transfer pop-up window on delivery order form.
 
@@ -57,7 +57,7 @@ database by clicking :guilabel:`Validate` from the reverse transfer form.
    on the original |SO| updates to reflect the difference between the original :guilabel:`Quantity`
    ordered, and the :guilabel:`Quantity` returned by the customer.
 
-   .. image:: repair_orders/repair-orders-quantity-delivered.png
+   .. image:: repair_orders/repair-orders-quantity-delivered.webp
       :align: center
       :alt: Delivered and Quantity columns on sales order after return.
 
@@ -71,7 +71,7 @@ Once products have been returned, their repairs can be tracked by creating a rep
 To create a new |RO|, navigate to :menuselection:`Repairs app`, and click :guilabel:`New`. This
 opens a blank |RO| form.
 
-.. image:: repair_orders/repair-orders-left-hand-form.png
+.. image:: repair_orders/repair-orders-left-hand-form.webp
    :align: center
    :alt: Left-hand side of blank repair order form.
 
@@ -99,7 +99,7 @@ order.
 In the :guilabel:`Scheduled Date` field, click the date to reveal a calendar popover window. From
 this calendar, select a date for the repair, and click :guilabel:`Apply`.
 
-.. image:: repair_orders/repair-orders-completed-repair-form.png
+.. image:: repair_orders/repair-orders-completed-repair-form.webp
    :align: center
    :alt: Right-hand side of blank repair order form.
 
@@ -121,7 +121,7 @@ at the bottom of the form.
 In the :guilabel:`Type` column, click the box to reveal three options to choose from:
 :guilabel:`Add` (selected by default), :guilabel:`Remove`, and :guilabel:`Recycle`.
 
-.. image:: repair_orders/repair-orders-type-column.png
+.. image:: repair_orders/repair-orders-type-column.webp
    :align: center
    :alt: Type column options or new part under Parts tab.
 
@@ -152,7 +152,7 @@ process.
 To add additional columns to the line, click the :guilabel:`(optional columns drop-down)` icon, at
 the far-right of the header row. Select the desired options to add to the line.
 
-.. image:: repair_orders/repair-orders-additional-options.png
+.. image:: repair_orders/repair-orders-additional-options.webp
    :align: center
    :alt: Optional additional options to add to new part line.
 
@@ -185,7 +185,7 @@ database, click :guilabel:`End Repair`.
    If all parts added to the |RO| were not used, clicking :guilabel:`End Repair` causes an
    :guilabel:`Uncomplete Move(s)` pop-up window to appear.
 
-   .. image:: repair_orders/repair-orders-uncomplete-moves.png
+   .. image:: repair_orders/repair-orders-uncomplete-moves.webp
       :align: center
       :alt: Uncomplete Moves pop-up window for unused parts.
 
@@ -201,7 +201,7 @@ appears above the form.
 Click the :guilabel:`Product Moves` smart button to view the product's moves history during and
 after the repair process.
 
-.. image:: repair_orders/repair-orders-product-moves.png
+.. image:: repair_orders/repair-orders-product-moves.webp
    :align: center
    :alt: Moves history of product included in the repair order.
 
@@ -222,7 +222,7 @@ If the product is not under warranty, or should the customer bear the repair cos
 :guilabel:`Create Quotation`. This opens a new |SO| form, pre-populated with the parts used in the
 |RO|, with the total cost of the repair calculated.
 
-.. image:: repair_orders/repair-orders-new-quotation.png
+.. image:: repair_orders/repair-orders-new-quotation.webp
    :align: center
    :alt: Pre-populated new quotation for parts included in repair order.
 
@@ -246,7 +246,7 @@ appears, linking this return to the completed |RO|.
 Click :guilabel:`Return` at the top of the form. This opens a :guilabel:`Reverse Transfer` pop-up
 window.
 
-.. image:: repair_orders/repair-orders-reverse-transfer.png
+.. image:: repair_orders/repair-orders-reverse-transfer.webp
    :align: center
    :alt: Reverse transfer pop-up window on delivery order form.
 

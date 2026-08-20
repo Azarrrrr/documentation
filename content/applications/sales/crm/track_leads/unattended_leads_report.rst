@@ -18,7 +18,7 @@ proactive behaviors in their salespeople.
    A sales manager starts their day by pulling an unattended leads report, and upon switching to
    list view, they see the following:
 
-   .. image:: unattended_leads_report/unattended-leads-example.png
+   .. image:: unattended_leads_report/unattended-leads-example.webp
       :align: center
       :alt: List view of a sample Unattended Leads report with the activities emphasized.
 
@@ -33,7 +33,7 @@ proactive behaviors in their salespeople.
   chatter. They see that the email was scheduled to be sent two days ago, but Mitchell never marked
   this activity as done.
 
-  .. image:: unattended_leads_report/overdue-activities-email.png
+  .. image:: unattended_leads_report/overdue-activities-email.webp
      :align: center
      :alt: Example of overdue activities notification in the chatter of a lead.
 
@@ -91,7 +91,7 @@ scroll to search through the list to locate it. Then, next to :guilabel:`Activit
 Type `Due Date` in the :guilabel:`Search...` bar, or scroll to search through the list. Click
 :guilabel:`Due Date` to add it to the rule.
 
-  .. image:: unattended_leads_report/activities-due.png
+  .. image:: unattended_leads_report/activities-due.webp
      :align: center
      :alt: Custom filter pop-up with emphasis on the options for activities and due date.
 
@@ -133,7 +133,7 @@ Lastly, in the third field, select the desired sales team from the drop-down men
 can be added in this field, where each parameter is treated with an "or" (e.g. "any") operator in
 the search logic.
 
-.. figure:: unattended_leads_report/configured-custom-rules.png
+.. figure:: unattended_leads_report/configured-custom-rules.webp
    :align: center
    :alt: An example of the Custom Filter pop-up window with all of the rules configured.
 
@@ -149,7 +149,7 @@ At the top of the :guilabel:`Add Custom Filter` form, there is an option to matc
 of the following filters should be included. Before adding the filters, make sure :guilabel:`all` is
 selected in this field.
 
-.. image:: unattended_leads_report/all-custom-filter.png
+.. image:: unattended_leads_report/all-custom-filter.webp
    :align: center
    :alt: Example of overdue activities notification in the chatter of a lead.
 
@@ -179,7 +179,7 @@ screen.
    - :guilabel:`Expected Closing`: the estimated date on which the lead will be won.
    - :guilabel:`Probability`: estimated success rate based on the stage.
 
-  .. image:: unattended_leads_report/additional-options.png
+  .. image:: unattended_leads_report/additional-options.webp
      :align: center
      :alt: Custom filter pop-up with emphasis on the options for activities and due date.
 

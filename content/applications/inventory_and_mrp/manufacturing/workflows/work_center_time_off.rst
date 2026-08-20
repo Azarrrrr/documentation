@@ -46,7 +46,7 @@ On the work center that is made unavailable, select the second work center from 
 :guilabel:`Alternative Workcenters` drop-down menu. Now, Odoo knows to send work orders to the
 second work center when the first is unavailable for any reason.
 
-.. image:: work_center_time_off/alternative-work-center-selection.png
+.. image:: work_center_time_off/alternative-work-center-selection.webp
    :align: center
    :alt: A work center form configured with an alternative work center.
 
@@ -58,7 +58,7 @@ With configuration completed, time off can now be assigned to a work center. Beg
 work center. Click the :icon:`oi-arrow-right` :guilabel:`(Internal link)` button on the right side
 of the :guilabel:`Working Hours` drop-down menu, to open the working hours page for the work center.
 
-.. image:: work_center_time_off/working-hours-button.png
+.. image:: work_center_time_off/working-hours-button.webp
    :align: center
    :alt: The Working Hours "External link" button on the work center form.
 
@@ -71,7 +71,7 @@ the :guilabel:`Reason` for the work center closure (e.g. broken equipment, maint
 select the affected work center as the :guilabel:`Resource`, and choose a :guilabel:`Start Date` and
 :guilabel:`End Date` to specify the period during which the work center is unavailable.
 
-.. image:: work_center_time_off/time-off-form.png
+.. image:: work_center_time_off/time-off-form.webp
    :align: center
    :alt: The "Resource Time Off" form.
 
@@ -93,13 +93,13 @@ at the top left of the page.
 Click :guilabel:`Plan`, and the work center listed in the :guilabel:`Work Center` column of the
 :guilabel:`Work Orders` tab is automatically changed to the alternative work center.
 
-.. figure:: work_center_time_off/before-planning.png
+.. figure:: work_center_time_off/before-planning.webp
    :align: center
    :alt: Before clicking "Plan", the work order is scheduled at "Main Assembly Line".
 
    Before clicking :guilabel:`Plan`, the work order is scheduled at :guilabel:`Main Assembly Line`.
 
-.. figure:: work_center_time_off/after-planning.png
+.. figure:: work_center_time_off/after-planning.webp
    :align: center
    :alt: After clicking "Plan", the work order is rescheduled at "Alternative Assembly Line".
 

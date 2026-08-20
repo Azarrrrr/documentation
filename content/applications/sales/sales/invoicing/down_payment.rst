@@ -16,7 +16,7 @@ When a sales order is confirmed, the option to create an invoice becomes availab
 :guilabel:`Create Invoice` button, located in the upper-left corner of the sales order form. When
 clicked, a :guilabel:`Create invoices` pop-up appears.
 
-.. image:: down_payment/create-invoices-popup-form.png
+.. image:: down_payment/create-invoices-popup-form.webp
    :align: center
    :alt: Create invoices pop-up form that appears in Odoo Sales.
 
@@ -49,7 +49,7 @@ pop-up form, designate the desired amount, either as a percentage or a fixed amo
 Then, select the appropriate income account for the invoice in the :guilabel:`Income Account` field.
 Next, select a tax amount, if necessary, in the :guilabel:`Customer Taxes` drop-down field.
 
-.. image:: down_payment/create-invoices-popup-form-filled-out.png
+.. image:: down_payment/create-invoices-popup-form-filled-out.webp
    :align: center
    :alt: A create invoices pop-up form with down payment fields filled in with information.
 
@@ -60,7 +60,7 @@ In the :guilabel:`Invoice Lines` tab of the :guilabel:`Customer Invoice Draft`, 
 that was just configured in the :guilabel:`Create invoices` pop-up form appears as a
 :guilabel:`Product`.
 
-.. image:: down_payment/down-payment-product-inv-draft.png
+.. image:: down_payment/down-payment-product-inv-draft.webp
    :align: center
    :alt: Down payment as a product in the invoice lines tab of a customer invoice draft in Odoo.
 
@@ -72,7 +72,7 @@ that was just configured in the :guilabel:`Create invoices` pop-up form appears 
    as :guilabel:`Service`, with the :guilabel:`Invoicing Policy` set to :guilabel:`Prepaid/Fixed
    Price`.
 
-   .. image:: down_payment/down-payment-product.png
+   .. image:: down_payment/down-payment-product.webp
       :align: center
       :alt: Down payment product form with service product type and invoicing policy field.
 
@@ -91,7 +91,7 @@ Example: request 50% down payment
    The following example involves a 50% amount down payment on a product (:guilabel:`Cabinet with
    Doors`) with :guilabel:`Ordered quantities` as the :guilabel:`Invoicing Policy`.
 
-   .. image:: down_payment/cabinet-product-details.png
+   .. image:: down_payment/cabinet-product-details.webp
       :align: center
       :alt: Cabinet with doors product form showcasing various details and fields.
 
@@ -107,7 +107,7 @@ Then, click :guilabel:`Add a product` in the :guilabel:`Order Lines` tab, and se
 When the order is confirmed (via the :guilabel:`Confirm` button), the quotation turns into a sales
 order. Once this occurs, create and view the invoice by clicking :guilabel:`Create Invoice`.
 
-.. image:: down_payment/cabinet-sales-orders-confirmed.png
+.. image:: down_payment/cabinet-sales-orders-confirmed.webp
    :align: center
    :alt: Cabinet with doors sales order that's been confirmed in the Odoo Sales application.
 
@@ -132,13 +132,13 @@ From there, the invoice can be confirmed and posted by clicking :guilabel:`Confi
 invoice changes the status from :guilabel:`Draft` to :guilabel:`Posted`. It also reveals a new
 series of buttons at the top of the page.
 
-.. image:: down_payment/draft-invoice-sample.png
+.. image:: down_payment/draft-invoice-sample.webp
    :align: center
    :alt: A sample draft invoice with down payment mentioned in Odoo Sales.
 
 From those buttons, the payment can be registered by clicking :guilabel:`Register Payment`.
 
-.. image:: down_payment/register-payment-button.png
+.. image:: down_payment/register-payment-button.webp
    :align: center
    :alt: Showcase of the Register Payment button on a confirmed customer invoice.
 
@@ -146,14 +146,14 @@ Doing so reveals a :guilabel:`Register Payment` pop-up form, which is auto-popul
 necessary information. Confirm the information provided is correct, and make any necessary
 adjustments. When ready, click the :guilabel:`Create Payment` button.
 
-.. image:: down_payment/register-payment-pop-up-window.png
+.. image:: down_payment/register-payment-pop-up-window.webp
    :align: center
    :alt: Showcase of the Register Payment pop-up window with create payment button.
 
 After clicking :guilabel:`Create Payment`, Odoo reveals the customer invoice, now with a green
 :guilabel:`In Payment` banner in the upper-right corner.
 
-.. image:: down_payment/customer-invoice-green-payment-banner.png
+.. image:: down_payment/customer-invoice-green-payment-banner.webp
    :align: center
    :alt: Customer Invoice with a green In Payment banner located in the upper-right corner.
 
@@ -163,7 +163,7 @@ created. To do that, return to the sales order, via the breadcrumb links.
 Back on the sales order, a new :guilabel:`Down Payments` section is present in the :guilabel:`Order
 Lines` tab, along with the down payment that was just invoiced and posted.
 
-.. image:: down_payment/down-payments-section-order-lines.png
+.. image:: down_payment/down-payments-section-order-lines.webp
    :align: center
    :alt: The down payments section in the order lines tab of a sales order.
 
@@ -172,7 +172,7 @@ Next, click the :guilabel:`Create Invoice` button.
 On the :guilabel:`Create invoices` pop-up window that appears, there are two new fields:
 :guilabel:`Already invoiced` and :guilabel:`Amount to invoice`.
 
-.. image:: down_payment/create-invoices-pop-up-already-invoiced.png
+.. image:: down_payment/create-invoices-pop-up-already-invoiced.webp
    :align: center
    :alt: The deduct down payment option on the create invoices pop up in Odoo Sales.
 
@@ -192,7 +192,7 @@ To complete the flow, click :guilabel:`Confirm`, which changes the status of the
 Once again, the :guilabel:`Register Payment` appears, with all fields auto-populated with the
 necessary information, including the remaining amount left to be paid on the order.
 
-.. image:: down_payment/second-register-payment-popup.png
+.. image:: down_payment/second-register-payment-popup.webp
    :align: center
    :alt: The second register payment pop-up form in Odoo sales.
 
@@ -200,7 +200,7 @@ After confirming that information, click :guilabel:`Create Payment`. Doing so re
 :guilabel:`Customer Invoice` with a green :guilabel:`In Payment` banner in the upper-right corner.
 Also, both down payments are present in the :guilabel:`Invoice Lines` tab.
 
-.. image:: down_payment/second-down-payment-in-payment-invoice.png
+.. image:: down_payment/second-down-payment-in-payment-invoice.webp
    :align: center
    :alt: The second down payment invoice with in payment banner in Odoo Sales.
 
@@ -269,7 +269,7 @@ an :guilabel:`Income Account` and :guilabel:`Customer Taxes` in their respective
    payments <sales/invoicing/customer-tax-modification-down-payments>` and :ref:`income account
    modification on down payments <sales/invoicing/income-account-modification>`.
 
-.. image:: down_payment/100p-down-payment-percentage.png
+.. image:: down_payment/100p-down-payment-percentage.webp
    :align: center
    :alt: The Down payment (percentage) option selected with 100% set as the Down Payment.
 
@@ -291,7 +291,7 @@ adjustments. When ready, click the :guilabel:`Create Payment` button.
 After clicking :guilabel:`Create Payment`, Odoo reveals the customer invoice, now with a green
 :guilabel:`In Payment` banner in the upper-right corner.
 
-.. image:: down_payment/100p-invoice.png
+.. image:: down_payment/100p-invoice.webp
    :align: center
    :alt: Customer Invoice with a green In Payment banner located in the upper-right corner.
 
@@ -309,7 +309,7 @@ To adjust the income account and customer taxes attached to a down payment, navi
 On the :guilabel:`Down Payment` product page, in the :guilabel:`General Information` tab, the
 customer taxes can be modified in the :guilabel:`Customer Taxes` field.
 
-.. image:: down_payment/customer-taxes-field.png
+.. image:: down_payment/customer-taxes-field.webp
    :align: center
    :alt: How to modify the income account link to down payments.
 
@@ -327,7 +327,7 @@ page. That tab will **not** be accessible without the *Accounting* app installed
 In the :guilabel:`Accounting` tab, the income account can be changed in the :guilabel:`Income
 Account` field, located in the :guilabel:`Receivables` section.
 
-.. image:: down_payment/income-account.png
+.. image:: down_payment/income-account.webp
    :align: center
    :alt: How to modify the income account link to down payments.
 

@@ -53,7 +53,7 @@ in the :guilabel:`Proxy Value` field, depending on the type chosen.
 Remember to include the invoice number in the QR code, by ticking the :guilabel:`Include Reference`
 checkbox.
 
-.. image:: hong_kong/hk-fps-bank-setting.png
+.. image:: hong_kong/hk-fps-bank-setting.webp
    :align: center
    :alt: FPS bank account configuration.
 
@@ -73,7 +73,7 @@ Go to :menuselection:`Accounting app --> Configuration --> Journals` and open th
 Then, fill out the :guilabel:`Account Number` and :guilabel:`Bank` fields, located in the
 :guilabel:`Journal Entries` tab.
 
-.. image:: hong_kong/hk-bank-account-journal-setting.png
+.. image:: hong_kong/hk-bank-account-journal-setting.webp
    :align: center
    :alt: Bank Account's journal configuration.
 
@@ -83,7 +83,7 @@ Issue invoices with FPS QR codes
 When creating a new invoice, open the :guilabel:`Other Info` tab and set the :guilabel:`Payment
 QR-code` option to :guilabel:`EMV Merchant-Presented QR-code`.
 
-.. image:: hong_kong/hk-qr-code-invoice-setting.png
+.. image:: hong_kong/hk-qr-code-invoice-setting.webp
    :align: center
    :alt: Select EMV Merchant-Presented QR-code option.
 
@@ -182,7 +182,7 @@ The following are critical for setting up a contract:
 Once all information has been setup, set the contract status to :guilabel:`Running` by clicking the
 :guilabel:`Running` button in the top-right of the page.
 
-.. image:: hong_kong/hk-contract.png
+.. image:: hong_kong/hk-contract.webp
    :align: center
    :alt: Hong Kong employment contract.
 
@@ -207,7 +207,7 @@ Odoo provides **four** different salary structures under CAP57 regulation:
 Before running the payslips, the accounts used in the salary rule can be adjusted by navigating to
 :menuselection:`Payroll app --> Configuration --> Rules`.
 
-.. image:: hong_kong/hk-salary-rules.png
+.. image:: hong_kong/hk-salary-rules.webp
    :align: center
    :alt: Hong Kong Salary Rules.
 
@@ -281,7 +281,7 @@ the salary rules configured for each structure type.
    There are no MPF contributions for the first month. Both employee and employer contribution
    starts on second month.
 
-.. image:: hong_kong/hk-salary-computation.png
+.. image:: hong_kong/hk-salary-computation.webp
    :align: center
    :alt: Hong Kong Salary computation.
 
@@ -339,11 +339,11 @@ To record the hours logged by the employee using *Attendances* app:
    :menuselection:`Payroll app --> Work Entries --> Work Entries`.
 #. Next, generate the :ref:`payslips <hong_kong/running_payslips>` and process the payment.
 
-.. image:: hong_kong/hk-attendance-work-entry.png
+.. image:: hong_kong/hk-attendance-work-entry.webp
    :align: center
    :alt: Hong Kong Attendance Work Entry.
 
-.. image:: hong_kong/hk-attendance-payslip.png
+.. image:: hong_kong/hk-attendance-payslip.webp
    :align: center
    :alt: Hong Kong Attendance Payslip.
 
@@ -361,7 +361,7 @@ There are two checkboxes to be considered when setting up the work entry type:
 - :guilabel:`Use 713`: Include this leave type as part of 713 computation.
 - :guilabel:`Non-full pay`: 80% of the :abbr:`ADW (Average Daily Wage)`.
 
-.. image:: hong_kong/hk-work-entry-type.png
+.. image:: hong_kong/hk-work-entry-type.webp
    :align: center
    :alt: Hong Kong Work Entry Type.
 
@@ -376,7 +376,7 @@ The *Hong Kong - Payroll* module is compliant with 713 Ordinance which relates t
 
 The ADW computation is as follows:
 
-.. figure:: hong_kong/hk-adw.png
+.. figure:: hong_kong/hk-adw.webp
    :alt: Hong Kong ADW Formula.
 
    :abbr:`ADW (Average Daily Wage)` equals the total wage in a 12-month period, minus the wages of
@@ -439,14 +439,14 @@ The ADW computation is as follows:
    - **Mar**: Apply for **one** full-paid annual leave in March. The salary compensation for the
      leave taken is based on :abbr:`ADW (Average Daily Wage)` thus far.
 
-     .. image:: hong_kong/hk-march-713.png
+     .. image:: hong_kong/hk-march-713.webp
         :align: center
         :alt: Hong Kong March 713.
 
    - **Apr**: Apply for a 1-day non-full pay leave in April. Since this is a non-full pay leave, the
      :abbr:`ADW (Average Daily Wage)` is computed accordingly.
 
-     .. image:: hong_kong/hk-apr-713.png
+     .. image:: hong_kong/hk-apr-713.webp
         :align: center
         :alt: Hong Kong April 713.
 
@@ -477,7 +477,7 @@ Configure the following in the :guilabel:`HK Localization` section:
 - :guilabel:`Employer's File Number`
 - :guilabel:`Manulife MPF Scheme`
 
-.. image:: hong_kong/hk-report-setup.png
+.. image:: hong_kong/hk-report-setup.webp
    :align: center
    :alt: Hong Kong Payroll Settings.
 
@@ -501,7 +501,7 @@ Sheet` options:
    :guilabel:`Generated PDF` status once the schedule runs.
 #. Once the PDF is generated, the IRD form may be downloaded.
 
-.. image:: hong_kong/hk-ir56b.png
+.. image:: hong_kong/hk-ir56b.webp
    :align: center
    :alt: Hong Kong IR56B report.
 
@@ -519,7 +519,7 @@ Go to :menuselection:`Payroll app --> Reporting --> Manulife MPF Sheet`.
 #. Click on :guilabel:`Create XLSX`.
 #. The *Manulife MPF XLSX* file is then generated, and available for download.
 
-.. image:: hong_kong/hk-manulife-sheet.png
+.. image:: hong_kong/hk-manulife-sheet.webp
    :align: center
    :alt: Hong Kong Manulife Sheet.
 
@@ -536,7 +536,7 @@ HSBC autopay report
 If *HSBC Autopay* is selected as the batch payment method, click on :guilabel:`Create HSBC Autopay
 Report`, and fill in the mandatory fields:
 
-.. image:: hong_kong/hk-generate-autopay.png
+.. image:: hong_kong/hk-generate-autopay.webp
    :align: center
    :alt: Hong Kong HSBC Autopay wizard.
 

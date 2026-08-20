@@ -29,7 +29,7 @@ Locator)`.
    actual name of the database. A custom :abbr:`URL (Uniform Resource Locator)` can be used, as
    well, in place of the Odoo subdomain that was provided to the database.
 
-.. image:: cdn/keycdn-zone.png
+.. image:: cdn/keycdn-zone.webp
    :align: center
    :alt: KeyCDN's Zone configuration page.
 
@@ -41,7 +41,7 @@ expanding the :guilabel:`General Settings` ensure that the :guilabel:`CORS` opti
 Next, scroll to the bottom of the zone configuration page and :guilabel:`Save` the changes. KeyCDN
 will indicate that the new zone will be deployed. This can take about 10 minutes.
 
-.. image:: cdn/zone-url.png
+.. image:: cdn/zone-url.webp
    :align: center
    :alt: KeyCDN deploying the new Zone.
 
@@ -65,7 +65,7 @@ configurable when the :ref:`developer mode <developer-mode>` is activated.
 
 :guilabel:`Save` the settings when complete.
 
-.. image:: cdn/cdn-base-url.png
+.. image:: cdn/cdn-base-url.webp
    :align: center
    :alt: Activate the CDN setting in Odoo.
 
@@ -77,7 +77,7 @@ as working properly by checking the :abbr:`URL (Uniform Resource Locators)` of i
 URL* value can be seen by using your web browser's :guilabel:`Inspect` feature on the Odoo website.
 Look for it's record by searching within the :guilabel:`Network` tab inside of devtools.
 
-.. image:: cdn/test-pull.png
+.. image:: cdn/test-pull.webp
    :align: center
    :alt: The CDN Base URL can be seen using the inspect function on the Odoo website.
 
@@ -99,7 +99,7 @@ below will appear in the web browser's developer console:
 Cross-Origin Resource Sharing policy: No 'Access-Control-Allow-Origin' header is present on the
 requested resource. Origin 'http://yourdatabase.odoo.com' is therefore not allowed access.``
 
-.. image:: cdn/odoo-security-message.png
+.. image:: cdn/odoo-security-message.webp
    :align: center
    :alt: Error message populated in the browser console.
 

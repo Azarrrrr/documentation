@@ -34,7 +34,7 @@ on the edit icon. Four tabs allow you to edit your course further:
 :ref:`Content <elearning/content>`, :ref:`Description <elearning/description>`,
 :ref:`Options <elearning/options>`, and :ref:`Karma <elearning/karma>`.
 
-.. image:: elearning/elearning-course-creation.png
+.. image:: elearning/elearning-course-creation.webp
    :align: center
    :alt: Create your elearning course.
 
@@ -57,7 +57,7 @@ Description tab
 You can add a short description or information related to your course in the :guilabel:`Description`
 tab. It appears under your course title on your website.
 
-.. image:: elearning/course-description.png
+.. image:: elearning/course-description.webp
    :align: center
    :alt: Add a description to your course.
 
@@ -70,7 +70,7 @@ In the :guilabel:`Options` tab, different configurations are available:
 :ref:`Course <elearning/course>`,  :ref:`Communication <elearning/communication>`,
 :ref:`Access rights <elearning/access-rights>`, and :ref:`Display <elearning/display>`.
 
-.. image:: elearning/options-tab.png
+.. image:: elearning/options-tab.webp
    :align: center
    :alt: Overview of the Options tab
 
@@ -182,7 +182,7 @@ Manage your content by going to :menuselection:`eLearning --> Courses --> Conten
 :guilabel:`New` to create content. Add your :guilabel:`Content Title`, and if you want
 :ref:`Tags <elearning/tags>`, then fill in the related information among the different tabs.
 
-.. image:: elearning/elearning-content-tab.png
+.. image:: elearning/elearning-content-tab.webp
    :align: center
    :alt: Create your content.
 
@@ -212,7 +212,7 @@ Additional Resources tab
 Click :guilabel:`Add a line` to add a link or a file that supports your participants' learning.
 It appears in the course content on your website.
 
-.. image:: elearning/additional-content.png
+.. image:: elearning/additional-content.webp
   :align: center
   :alt: Additional ressources
 
@@ -251,6 +251,6 @@ You must be on your website's front end to publish your content. To do so, click
 :guilabel:`Go To Website` smart button, and tick the :guilabel:`Publish` option available in the
 right-hand corner.
 
-.. image:: elearning/elearning-publish-button.png
+.. image:: elearning/elearning-publish-button.webp
   :align: center
   :alt: Publish your content.

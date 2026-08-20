@@ -27,7 +27,7 @@ and click :guilabel:`Save`.
 Then, return to :menuselection:`Sales app --> Configuration --> Settings --> Connectors section`,
 and click on the :guilabel:`Amazon Accounts` link under the :guilabel:`Amazon Sync` setting.
 
-.. image:: setup/amazon-accounts-link-setting.png
+.. image:: setup/amazon-accounts-link-setting.webp
    :align: center
    :alt: The Amazon Accounts link beneath the Amazon Sync settings in Odoo Sales.
 
@@ -38,14 +38,14 @@ On the blank :guilabel:`Amazon Account` form page, start by choosing a name for 
 `American Marketplace`). Then, in the :guilabel:`Credentials` tab, select the marketplace on which
 the seller account was initially created from the :guilabel:`Home Marketplace` drop-down menu.
 
-.. image:: setup/amazon-accounts-form-page.png
+.. image:: setup/amazon-accounts-form-page.webp
    :align: center
    :alt: A typical Amazon Account form page in the Odoo Sales application.
 
 After saving, the field in the :guilabel:`Credentials` tab is replaced by a :guilabel:`Link with
 Amazon` button.
 
-.. image:: setup/amazon-accounts-form-link-button.png
+.. image:: setup/amazon-accounts-form-link-button.webp
    :align: center
    :alt: A typical Amazon Account form page and Link with Amazon button in Odoo Sales.
 
@@ -81,7 +81,7 @@ the Amazon *Gift Wrapping* code for gift wrapping charges.
 For marketplace products, pairings are saved as *Amazon Offers*, which are listed under the
 :guilabel:`Offers` smart button on the account form.
 
-.. image:: setup/amazon-offers-button.png
+.. image:: setup/amazon-offers-button.webp
    :align: center
    :alt: The Amazon Offers smart button on the account form in Odoo Sales.
 

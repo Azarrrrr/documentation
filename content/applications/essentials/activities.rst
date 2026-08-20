@@ -37,7 +37,7 @@ To schedule a new activity, click the :guilabel:`Activities` button, located at 
 chatter. In the :guilabel:`Schedule Activity` pop-up window that appears, :ref:`fill out the
 Schedule Activity form <activities/form>`.
 
-.. image:: activities/chatter.png
+.. image:: activities/chatter.webp
    :align: center
    :alt: New activity type form.
 
@@ -53,7 +53,7 @@ To do so, click on the |clock| located at the bottom of an individual record.
 Click :guilabel:`+ Schedule An Activity`, then proceed to :ref:`fill out the Schedule Activity form
 <activities/form>`.
 
-.. image:: activities/schedule-kanban-activity.png
+.. image:: activities/schedule-kanban-activity.webp
    :align: center
    :alt: Kanban view of the CRM pipeline and the option to schedule an activity.
 
@@ -79,7 +79,7 @@ appears.
    If a record already has a scheduled activity, the |clock| is replaced by the icon that represents
    the existing scheduled activity. Click on the activity type's icon to schedule another activity.
 
-.. image:: activities/schedule-list-activity.png
+.. image:: activities/schedule-list-activity.webp
    :align: center
    :alt: List view of the CRM pipeline and the option to schedule an activity.
 
@@ -93,7 +93,7 @@ the top-right corner of the main menu bar, amongst the other view option icons.
 
 To open the activity view, click the |clock|.
 
-.. image:: activities/activities.png
+.. image:: activities/activities.webp
    :align: center
    :alt: Top-right menu with the Activities icon called out.
 
@@ -117,7 +117,7 @@ To schedule an activity for a record, hover over the corresponding field. Click 
 :guilabel:`(plus)` icon that appears, and then :ref:`fill out the Schedule Activity form
 <activities/form>`.
 
-.. image:: activities/activity-view.png
+.. image:: activities/activity-view.webp
    :align: center
    :alt: Activity view of the CRM pipeline and the option to schedule an activity.
 
@@ -168,7 +168,7 @@ buttons:
   :guilabel:`Schedule Activity` pop-up window appears.
 - :guilabel:`Cancel`: discards any changes made on the :guilabel:`Schedule Activity` pop-up window.
 
-.. image:: activities/schedule-pop-up.png
+.. image:: activities/schedule-pop-up.webp
    :align: center
    :alt: View of CRM leads and the option to schedule an activity.
 
@@ -195,7 +195,7 @@ activities that are :guilabel:`Late`, due :guilabel:`Today`, and scheduled in th
    These requests appear in two separate lists in the all activities drop-down menu: one labeled
    `Time Off` and one labeled `Time Off Allocation`.
 
-   .. image:: activities/activities-menu.png
+   .. image:: activities/activities-menu.webp
       :align: center
       :alt: The list of activities that is accessed from the main menu bar. Two entries for the Time
             Off application are highlighted.
@@ -224,7 +224,7 @@ Enter the following information on the form:
 
 When all the fields are completed, click :guilabel:`Request` to send the document request.
 
-.. image:: activities/request-doc.png
+.. image:: activities/request-doc.webp
    :align: center
    :alt: The Request a file form, with all fields filled out to request a contract.
 
@@ -236,7 +236,7 @@ Activity types
 To view the currently configured types of activities in the database, navigate to
 :menuselection:`Settings app --> Discuss section --> Activities setting --> Activity Types`.
 
-.. image:: activities/settings-activities-types.png
+.. image:: activities/settings-activities-types.webp
    :align: center
    :alt: Activity Types button in the Settings application under the Discuss section.
 
@@ -247,7 +247,7 @@ Doing so reveals the :guilabel:`Activity Types` page, where the existing activit
    example, to view and edit the activities available for the *CRM* application, go to
    :menuselection:`CRM app --> Configuration --> Activity Types`.
 
-.. image:: activities/activity-list.png
+.. image:: activities/activity-list.webp
    :align: center
    :alt: The list of activity types already configured and available.
 
@@ -335,7 +335,7 @@ It is possible to have another activity either suggested or triggered. To do so,
   Lastly, using the drop-down menu, select whether the activity is scheduled or triggered either
   :guilabel:`after previous activity deadline` or :guilabel:`after completion date`.
 
-.. image:: activities/new-activity.png
+.. image:: activities/new-activity.webp
    :align: center
    :alt: A new Activity form with all the fields filled out.
 

@@ -65,6 +65,6 @@ Delivery method at checkout
 Customers can choose the shipping method at the end of the checkout process, at the
 :guilabel:`Confirm Order` step.
 
-.. image:: shipping/shipping-checkout.png
+.. image:: shipping/shipping-checkout.webp
    :align: center
    :alt: Delivery method choice at checkout

@@ -21,7 +21,7 @@ Form
 The :guilabel:`Form` block is used to collect information from website visitors and create records
 in your database.
 
-.. image:: dynamic_content/form-block.png
+.. image:: dynamic_content/form-block.webp
    :alt: Example of a form block
 
 Action
@@ -41,7 +41,7 @@ become available:
 Select another action with the :guilabel:`Action` field found under the :guilabel:`Customize` tab's
 :guilabel:`Form` section.
 
-.. image:: dynamic_content/form-block-settings.png
+.. image:: dynamic_content/form-block-settings.webp
    :alt: Editing a form to change its action
 
 By default, actions redirect visitors to a *thank you* page after submitting the form. Use the
@@ -59,7 +59,7 @@ Field` heading.
 
 .. spoiler:: Click here to preview all field types
 
-   .. image:: dynamic_content/form-field-types.png
+   .. image:: dynamic_content/form-field-types.webp
       :alt: All types of form fields
 
    Some fields are visually similar, but the data entered must follow a specific format.
@@ -78,7 +78,7 @@ Products
 The :guilabel:`Products` block is available after installing the eCommerce app. It is used to
 display a selection of products sold on your website.
 
-.. image:: dynamic_content/products-block.png
+.. image:: dynamic_content/products-block.webp
    :alt: Example of a products block
 
 By default, the block displays the :guilabel:`Newest Products`. To change which products are shown,
@@ -96,7 +96,7 @@ Embed code
 Embedding code allows you to integrate content from third-party services into a page, such as videos
 from YouTube, maps from Google Maps, social media posts from Instagram, etc.
 
-.. image:: dynamic_content/embed-code.png
+.. image:: dynamic_content/embed-code.webp
    :alt: Add the link to the embedded code you want to point to
 
 After adding the block to a page, click the :guilabel:`Edit` button found under the

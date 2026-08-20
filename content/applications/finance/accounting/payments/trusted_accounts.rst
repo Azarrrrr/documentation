@@ -7,7 +7,7 @@ trusted before you can use them to make an outgoing payment.
 
 To do so, open the vendor bank account and click on the :guilabel:`Send Money` toggle switch button.
 
-.. image:: trusted_accounts/send-money-toggle.png
+.. image:: trusted_accounts/send-money-toggle.webp
    :align: center
    :alt: Example of a vendor bank account with the "Send Money" toggle button switched to "trusted."
 

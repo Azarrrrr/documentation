@@ -6,7 +6,7 @@
 Website themes
 ==============
 
-.. image:: website_themes/web-design.png
+.. image:: website_themes/web-design.webp
    :alt: Artistic illustration of "Web design"
    :width: 600
 

@@ -59,7 +59,7 @@ Go to :menuselection:`Settings app --> Companies section --> Manage Companies`. 
 :guilabel:`New`, and fill in the form with the company's information, or select a pre-existing
 company to edit it.
 
-.. image:: companies/company-info.png
+.. image:: companies/company-info.webp
    :align: center
    :alt: Overview of a new company's form in Odoo.
 
@@ -83,7 +83,7 @@ environment that is in use. To switch environments, click on the desired company
    In the example below, the user has access to eight companies, two are activated, and the
    environment the database is in belongs to: *My Company (San Francisco)*.
 
-   .. image:: companies/multi-companies-menu-dashboard.png
+   .. image:: companies/multi-companies-menu-dashboard.webp
       :align: center
       :alt: View of the companies menu through the main dashboard in Odoo.
 
@@ -96,7 +96,7 @@ company only. To do so, on their forms, choose between:
 - *A blank field*: the record is shared within all companies.
 - *Adding a company*: the record is visible to users logged in to that specific company.
 
-.. image:: companies/product-form-company.png
+.. image:: companies/product-form-company.webp
    :align: center
    :alt: View of a product's form emphasizing the company field in Odoo Sales.
 
@@ -112,7 +112,7 @@ company from the list. From the company detail form, open the :guilabel:`Branche
 branch, click :guilabel:`Add a line`, and fill out the :guilabel:`Create Branches` pop-up form that
 appears.
 
-.. image:: companies/add-branch.png
+.. image:: companies/add-branch.webp
    :align: center
    :alt: Add a branch to a company with branches and add a line highlighted.
 
@@ -151,7 +151,7 @@ fields for :guilabel:`Allowed Companies` or :guilabel:`Default Company`.
 Multiple companies can be set for :guilabel:`Allowed Companies`, and *only one* can be set as the
 :guilabel:`Default Company`.
 
-.. image:: companies/access-rights-multi-companies.png
+.. image:: companies/access-rights-multi-companies.webp
    :align: center
    :alt: View of an user form emphasizing the multi companies field under the access rights tabs
          in Odoo.
@@ -184,7 +184,7 @@ To set document formats according to each company, *activate* and *select* the r
 and, under the :menuselection:`Settings app --> Companies section`, click on :guilabel:`Configure
 Document Layout` and edit the information as needed.
 
-.. image:: companies/document-layout.png
+.. image:: companies/document-layout.webp
    :align: center
    :alt: View of the settings page emphasizing the document layout field in Odoo.
 
@@ -231,7 +231,7 @@ options:
   \* The given option needs to be selected, so :guilabel:`Automatic Validation` appears in the
   configuration.
 
-.. image:: companies/inter-company-transactions.png
+.. image:: companies/inter-company-transactions.webp
    :align: center
    :alt: View of the settings page emphasizing the inter company transaction field in Odoo.
 

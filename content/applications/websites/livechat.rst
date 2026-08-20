@@ -22,7 +22,7 @@ The **Live Chat** application can be installed multiple ways:
   the :guilabel:`Email & Marketing` section, check the box next to :guilabel:`Livechat`, and click
   :guilabel:`Save`.
 
-  .. image:: livechat/enable-setting.png
+  .. image:: livechat/enable-setting.webp
      :align: center
      :alt: View of the settings page and the live chat feature for Odoo Live Chat.
 
@@ -36,7 +36,7 @@ To create a new live chat *Channel*, go to :menuselection:`Main Odoo Dashboard -
 New`. This opens a blank channel detail form. Enter the name of the new channel in the
 :guilabel:`Channel Name` field.
 
-.. image:: livechat/open-channel.png
+.. image:: livechat/open-channel.webp
    :align: center
    :alt: View of a live chat channel form for Odoo Live Chat.
 
@@ -60,7 +60,7 @@ Operators tab
 user is added as an operator in a live chat channel, they can receive chats from website visitors
 wherever they are in the database. Chat windows open in the bottom-right corner of the screen.
 
-.. image:: livechat/pop-up.png
+.. image:: livechat/pop-up.webp
    :align: center
    :alt: View of a live chat pop up window in an Odoo database.
 
@@ -103,7 +103,7 @@ Livechat button
 
 The *Livechat Button* is the icon that appears in the bottom-right corner of the website.
 
-.. image:: livechat/chat-button.png
+.. image:: livechat/chat-button.webp
    :align: center
    :alt: View of an Odoo website emphasizing the livechat button.
 
@@ -139,7 +139,7 @@ The *Channel Header* is the colored bar at the top of the chat window. The :guil
 Color` can be changed following the same steps as the :ref:`Livechat button
 <livechat/livechat-button>`.
 
-.. figure:: livechat/chat-window.png
+.. figure:: livechat/chat-window.webp
    :align: center
 
    The live chat window with a purple channel header and placeholder text that reads, "Say
@@ -156,7 +156,7 @@ Rules` tab on the live chat channel detail form.
 To create a new channel rule, click :guilabel:`Add a line`. This opens the :guilabel:`Create Rules`
 pop-up window.
 
-.. image:: livechat/create-rules.png
+.. image:: livechat/create-rules.webp
    :align: center
    :alt: View of a channel's rules form for Odoo Live Chat.
 
@@ -240,7 +240,7 @@ Likewise, to send a live chat session to a customer, click the second :guilabel:
 :guilabel:`Widget` tab. This link can be sent directly to a customer. When they click the link, they
 are redirected to a new chat window.
 
-.. image:: livechat/widget-code.png
+.. image:: livechat/widget-code.webp
    :align: center
    :alt: View of the widget tab for Odoo Live Chat.
 

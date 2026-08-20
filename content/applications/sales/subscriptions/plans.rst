@@ -15,7 +15,7 @@ Then, click :guilabel:`New` to create a new plan, or select an existing plan to 
 Since the Odoo *Subscriptions* app is integrated closely with the *Sales* app, subscription plans
 use the same form as quotation templates.
 
-.. image:: plans/subplan-quotation-template.png
+.. image:: plans/subplan-quotation-template.webp
    :align: center
    :alt: Subscription plan (quotation template) configuration form.
 
@@ -63,7 +63,7 @@ the following additional options:
   subscription plan are recorded. Leave this field blank to use the sales journal with the lowest
   sequence.
 
-.. image:: plans/subplan-recurrence.png
+.. image:: plans/subplan-recurrence.webp
    :align: center
    :alt: Subscription plan with Recurrence selected.
 
@@ -79,7 +79,7 @@ If the subscription plan has unique :doc:`terms and conditions
 :guilabel:`Terms & Conditions` tab. If terms conditions are specified on a plan, these will be used
 instead of the default terms and conditions set up in the *Sales* app settings.
 
-.. image:: plans/subplan-terms-conditions.png
+.. image:: plans/subplan-terms-conditions.webp
    :align: center
    :alt: Subscription plan Terms & Conditions tab.
 

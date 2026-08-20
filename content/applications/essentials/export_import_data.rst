@@ -27,14 +27,14 @@ With Odoo, the values can be exported from any field in any record. To do so, ac
 select a record, tick the checkbox next to the corresponding record. Finally, click on |actions|,
 then :guilabel:`Export`.
 
-.. image:: export_import_data/list-view-export.png
+.. image:: export_import_data/list-view-export.webp
    :align: center
    :alt: View of the different things to enable/click to export data.
 
 When clicking on :guilabel:`Export`, an :guilabel:`Export Data` pop-over window appears, with
 several options for the data to export:
 
-.. image:: export_import_data/export-data-overview.png
+.. image:: export_import_data/export-data-overview.webp
    :align: center
    :alt: Overview of options to consider when exporting data in Odoo..
 
@@ -86,7 +86,7 @@ data into an Odoo database.
    menu. Doing so reveals an :menuselection:`Advanced` menu. Included in this advanced menu are two
    options: :guilabel:`Track history during import` and :guilabel:`Allow matching with subfields`.
 
-   .. image:: export_import_data/advanced-import.png
+   .. image:: export_import_data/advanced-import.webp
       :align: center
       :alt: Advanced import options when developer mode is activated.
 
@@ -106,7 +106,7 @@ journal entries, and orders.
 Open the view of the object to which the data should be imported/populated, and click on
 :menuselection:`⚙️ (Action) --> Import records`.
 
-.. image:: export_import_data/import-button.png
+.. image:: export_import_data/import-button.webp
    :align: center
    :alt:  Action menu revealed with the import records option highlighted.
 
@@ -120,7 +120,7 @@ Customers` at the center of the page.
    options. These options do **not** appear when importing the proprietary Excel file type (`.xls`,
    `.xlsx`).
 
-   .. image:: export_import_data/formatting.png
+   .. image:: export_import_data/formatting.webp
       :align: center
       :alt: Formatting options presented when a CVS file is imported in Odoo.
 
@@ -152,7 +152,7 @@ Once the template is downloaded, proceed to follow these steps:
    fit any field within Odoo. However, new columns can be mapped manually when the import is tested.
    Search the drop-down menu for the corresponding field.
 
-   .. image:: export_import_data/field_list.png
+   .. image:: export_import_data/field_list.webp
       :align: center
       :alt: Drop-down menu expanded in the initial import screen on Odoo.
 
@@ -202,7 +202,7 @@ the column may be mapped to a field that is not proposed by default.
 If this happens, check the :guilabel:`Show fields of relation fields (advanced) option`, then a
 complete list of fields becomes available for each column.
 
-.. image:: export_import_data/field_list.png
+.. image:: export_import_data/field_list.webp
    :align: center
    :alt: Searching for the field to match the tax column.
 

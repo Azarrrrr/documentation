@@ -35,7 +35,7 @@ To do so, go to :menuselection:`Accounting --> Configuration --> Settings`. Unde
 - :guilabel:`Reminder`: define when Odoo should remind you to submit your tax return;
 - :guilabel:`Journal`: select the journal in which to record the tax return.
 
-.. image:: tax_returns/tax_return_periodicity.png
+.. image:: tax_returns/tax_return_periodicity.webp
    :align: center
    :alt: Configure how often tax returns have to be made in Odoo Accounting
 
@@ -52,7 +52,7 @@ taxes. Therefore, it is crucial to make sure that all recorded transactions use 
 You can see the :guilabel:`Tax Grids` by opening the :guilabel:`Journal Items` tab of any
 invoice and bill.
 
-.. image:: tax_returns/tax_return_grids.png
+.. image:: tax_returns/tax_return_grids.webp
    :align: center
    :alt: see which tax grids are used to record transactions in Odoo Accounting
 
@@ -60,7 +60,7 @@ To configure your tax grids, go to :menuselection:`Accounting --> Configuration 
 and open the tax you want to modify. There, you can edit your tax settings, along with the tax
 grids that are used to record invoices or credit notes.
 
-.. image:: tax_returns/tax_return_taxes.png
+.. image:: tax_returns/tax_return_taxes.webp
    :align: center
    :alt: Configure taxes and their tax grids in Odoo Accounting
 
@@ -91,7 +91,7 @@ This way, other users cannot modify or add transactions that would have an impac
 To check the current :guilabel:`Tax Lock Date`, or to edit it, go to
 :menuselection:`Accounting --> Accounting --> Actions: Lock Dates`.
 
-.. image:: tax_returns/tax_return_lock.png
+.. image:: tax_returns/tax_return_lock.webp
    :align: center
    :alt: Lock your tax for a specific period in Odoo Accounting
 
@@ -107,7 +107,7 @@ date filter, this way you can have an overview of your tax report. From this vie
 access different formats of your tax report, such as `PDF` and XLSX. These include all the values to
 report to the tax authorities, along with the amount you have to pay or be refunded.
 
-.. image:: tax_returns/tax_return_report.png
+.. image:: tax_returns/tax_return_report.webp
    :align: center
    :alt: download the PDF with your Tax Report in Odoo Accounting
 

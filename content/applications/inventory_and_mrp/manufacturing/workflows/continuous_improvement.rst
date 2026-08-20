@@ -197,7 +197,7 @@ likelihood of receiving relevant feedback about the product.
    Abigail Peterson, has found that her coat rack falls over when more than five coats are hanging
    from it. This is a major issue, as the coat rack has enough dowels for six coats.
 
-   .. image:: continuous_improvement/helpdesk-ticket.png
+   .. image:: continuous_improvement/helpdesk-ticket.webp
       :align: center
       :alt: A Helpdesk ticket about an issue with the coat rack product.
 
@@ -209,7 +209,7 @@ likelihood of receiving relevant feedback about the product.
    that it is necessary to revise the product's |BoM| to prevent the issue from occurring in the
    future, which Julie notes in the :guilabel:`Corrective Actions` tab of the quality alert.
 
-   .. image:: continuous_improvement/quality-alert.png
+   .. image:: continuous_improvement/quality-alert.webp
       :align: center
       :alt: A quality alert created about the issue with the coat rack product.
 
@@ -217,7 +217,7 @@ likelihood of receiving relevant feedback about the product.
    to his attention. Joe opens the |PLM| app and creates a new |ECO|, noting the problem with the
    coat rack, and suggesting that a change to the product's |BoM| may be necessary.
 
-   .. image:: continuous_improvement/eco.png
+   .. image:: continuous_improvement/eco.webp
       :align: center
       :alt: An ECO created to update the coat rack product's BoM.
 
@@ -231,7 +231,7 @@ likelihood of receiving relevant feedback about the product.
    installed during the manufacturing process. Finally, he leaves a message in the chatter of the
    |ECO|, letting his manager, Jose, know that it is ready for review.
 
-   .. image:: continuous_improvement/bom.png
+   .. image:: continuous_improvement/bom.webp
       :align: center
       :alt: The coat rack BoM, updated to add an extra component and operation.
 

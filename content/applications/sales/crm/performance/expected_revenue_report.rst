@@ -8,7 +8,7 @@ usually the end of the current month.
 An *expected revenue report* compiles all active leads in a sales pipeline that have a set expected
 closing date, and compares how sales teams are performing in a given time frame.
 
-.. image:: expected_revenue_report/expected-revenue-closing.png
+.. image:: expected_revenue_report/expected-revenue-closing.webp
    :align: center
    :alt: Close up of the expected closing date on a lead in the CRM app.
 
@@ -107,7 +107,7 @@ find and select it as a parameter.
    Multiple teams can be added to the `Sales Team` rule, where each parameter is treated with an
    "or" (e.g. "any") operator in the search logic.
 
-.. image:: expected_revenue_report/custom-filters.png
+.. image:: expected_revenue_report/custom-filters.webp
    :align: center
    :alt: Add Custom Filters pop-up window with custom filters configured for expected revenue
          report.
@@ -122,7 +122,7 @@ At the top of the :guilabel:`Add Custom Filter` form, there is an option to matc
 of the following filters should be included. Before adding the filters, make sure :guilabel:`all` is
 selected in this field.
 
-.. image:: expected_revenue_report/match-all-filters.png
+.. image:: expected_revenue_report/match-all-filters.webp
    :align: center
    :alt: Emphasis on the match all filters option on the Add Custom Filter pop-up window.
 
@@ -155,7 +155,7 @@ and pivot view provide more detail on specific deals.
       different graph view, click one of the icons at the top-left of the report. While both the
       line chart and bar chart are available in stacked view, the pie chart is not.
 
-      .. figure:: expected_revenue_report/graph-view-icons.png
+      .. figure:: expected_revenue_report/graph-view-icons.webp
          :align: center
          :alt: Close up view of the graph icons on the Pipeline analysis report in the CRM app.
 
@@ -170,14 +170,14 @@ and pivot view provide more detail on specific deals.
       To switch to the list view, click the :guilabel:`≣ (list)` icon at the top-right of the
       report.
 
-      .. image:: expected_revenue_report/list-icon.png
+      .. image:: expected_revenue_report/list-icon.webp
          :align: center
          :alt: Close up of the list view icon in the CRM app.
 
       To add additional metrics to the report, click the *additional options menu* indicated by the
       :guilabel:`toggle` icon at the top-right of the list.
 
-      .. figure:: expected_revenue_report/toggle-icon.png
+      .. figure:: expected_revenue_report/toggle-icon.webp
          :align: center
          :alt: Close up of the toggle icon in the CRM app.
 
@@ -193,7 +193,7 @@ and pivot view provide more detail on specific deals.
 
       To switch to the pivot view, click the :guilabel:`Pivot` icon at the top-right of the report.
 
-      .. image:: expected_revenue_report/pivot-view-icon.png
+      .. image:: expected_revenue_report/pivot-view-icon.webp
          :align: center
          :alt: Close up of the pivot view icon in the CRM app.
 

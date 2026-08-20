@@ -56,7 +56,7 @@ particular visitor requested a drink.
 When their drink has been served, click the :guilabel:`Drink Served` button to indicate the drink
 has been delivered to the guest. Once clicked, that button disappears.
 
-.. image:: visitors/visitors.png
+.. image:: visitors/visitors.webp
    :align: center
    :alt: The full list of currently checked in visitors, with the drinks to be served highlighted.
 

@@ -25,7 +25,7 @@ This report is useful for identifying where teams are spending the most time, an
 there is an uneven workload distribution among the support staff. The default report counts the
 number of tickets per team and groups them by stage.
 
-.. image:: reports/tickets-default.png
+.. image:: reports/tickets-default.webp
    :align: center
    :alt: View of Ticket Analysis report default view.
 
@@ -72,7 +72,7 @@ Analysis`) :ref:`analyzes the performance <helpdesk/analyze-sla-performance>` of
 By default, this report is filtered to show the number of |SLAs| failed, in progress, and the number
 that have been successful. The results are grouped by teams.
 
-.. image:: reports/sla-status.png
+.. image:: reports/sla-status.webp
    :align: center
    :alt: View of Group by options of Ticket Analysis report.
 
@@ -101,14 +101,14 @@ The *Customer Ratings* report (:menuselection:`Helpdesk app--> Reporting --> Cus
 displays an overview of the ratings received on individual support tickets, as well as any
 additional comments submitted with the rating.
 
-.. image:: reports/customer-ratings.png
+.. image:: reports/customer-ratings.webp
    :align: center
    :alt: View of the Kanban display in the Customer Ratings report.
 
 Click on an individual rating to see additional details about the rating submitted by the customer,
 including a link to the original ticket.
 
-.. image:: reports/ratings-details.png
+.. image:: reports/ratings-details.webp
    :align: center
    :alt: View of the details of an individual customer rating.
 
@@ -142,7 +142,7 @@ in pivot view.
 The pivot view can be accessed on any report by selecting the :icon:`oi-view-pivot`
 :guilabel:`(pivot)` icon at the top-right of the screen.
 
-.. image:: reports/pivot-view.png
+.. image:: reports/pivot-view.webp
    :align: center
    :alt: View of the SLA status analysis report in Odoo Helpdesk.
 
@@ -163,19 +163,19 @@ top-left of the chart, while in graph view.
 
    .. tab:: Bar chart
 
-      .. image:: reports/bar-chart.png
+      .. image:: reports/bar-chart.webp
          :align: center
          :alt: View of the SLA status analysis report in bar view.
 
    .. tab:: Line chart
 
-      .. image:: reports/line-chart.png
+      .. image:: reports/line-chart.webp
          :align: center
          :alt: View of the Customer Ratings report in line view.
 
    .. tab:: Pie chart
 
-      .. image:: reports/pie-chart.png
+      .. image:: reports/pie-chart.webp
          :align: center
          :alt: View of the Ticket analysis report in pie chart view.
 
@@ -206,7 +206,7 @@ To create and save a new *Favorites* configuration on a report, follow the steps
    it.
 #. Click :guilabel:`Save` to preserve the configuration for future use.
 
-.. image:: reports/save-filters.png
+.. image:: reports/save-filters.webp
    :align: center
    :alt: View of the save favorites option in Odoo Helpdesk.
 

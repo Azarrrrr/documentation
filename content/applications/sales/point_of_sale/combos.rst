@@ -26,7 +26,7 @@ First, you need to create combination choices. To do so:
    As a reference, the selected product's original price is displayed in the :guilabel:`Original
    Price` column.
 
-.. image:: combos/combo-form.png
+.. image:: combos/combo-form.webp
    :scale: 75%
 
 Second, you need to create a specific product to gather combo choices. To do this:
@@ -44,7 +44,7 @@ Second, you need to create a specific product to gather combo choices. To do thi
    combinations to add. You can also create a new combination at this step by clicking
    :guilabel:`New` on the popup window.
 
-.. image:: combos/combo-product-form.png
+.. image:: combos/combo-product-form.webp
    :scale: 75%
 
 Once you have created and added the combo choices into a product, you can sell combos in your retail
@@ -56,5 +56,5 @@ Practical application
 :ref:`Open a POS session <pos/session-start>` and select the combo product. Choose the options and
 click :guilabel:`Add to order`. As a reminder, the extra price appears under the related choices.
 
-.. image:: combos/combo-select.png
+.. image:: combos/combo-select.webp
    :scale: 75%

@@ -22,7 +22,7 @@ Table of content
 The :guilabel:`Table of Content` block is used to list many different items grouped under several
 headings. A clickable index is available to navigate quickly between the different categories.
 
-.. image:: features/table-of-content.png
+.. image:: features/table-of-content.webp
    :alt: The default Table of Content block
 
 .. _features/call_to_action:
@@ -33,7 +33,7 @@ Call to action
 The :guilabel:`Call to Action` block is used to prompt visitors to take a specific action, such
 as signing up for a newsletter or contacting you.
 
-.. image:: features/call-to-action.png
+.. image:: features/call-to-action.webp
    :alt: The default Call to Action block
 
 To change the button's link, select it, go to the :guilabel:`Customize` tab's :guilabel:`Inline

@@ -6,7 +6,7 @@ Odoo *Helpdesk* integrates with the *Forum*, *eLearning*, and *Knowledge* apps t
 Center*. The *Help Center* is a centralized location where teams and customers can search for and
 share detailed information about products and services.
 
-.. image:: help_center/help-center-enable-features.png
+.. image:: help_center/help-center-enable-features.webp
    :align: center
    :alt: Overview of the settings page of a team emphasizing the Help Center features.
 
@@ -41,7 +41,7 @@ Odoo's *Knowledge* application is a collaborative library, where users can store
 information. The *Knowledge* app is accessible throughout the database by clicking on the
 :guilabel:`Knowledge (bookmark)` icon.
 
-.. image:: help_center/help-center-knowledge-bookmark-icon.png
+.. image:: help_center/help-center-knowledge-bookmark-icon.webp
    :align: center
    :alt: View of a message in Helpdesk focusing on the Knowledge bookmark icon.
 
@@ -92,7 +92,7 @@ When a ticket is selected, Odoo reveals that ticket's detail form.
 Click the :guilabel:`Knowledge (bookmark)` icon, located at the top-right of the page, to open a
 pop-up search window.
 
-.. image:: help_center/help-center-knowledge-search.png
+.. image:: help_center/help-center-knowledge-search.webp
    :align: center
    :alt: View of knowledge search window from a helpdesk ticket.
 
@@ -123,7 +123,7 @@ To publish an article, navigate to the desired article, by following the above s
 :guilabel:`Share` icon in the upper-right corner. This reveals a menu. Slide the toggle button
 labeled :guilabel:`Share to Web` to read :guilabel:`Article Published`.
 
-.. image:: help_center/help-center-knowledge-sharing.png
+.. image:: help_center/help-center-knowledge-sharing.webp
    :align: center
    :alt: View of a knowledge article focused on sharing and publishing options.
 
@@ -144,7 +144,7 @@ Type `/` to open the *powerbox*, and view a drop-down list of :doc:`commands
 <../../../productivity/knowledge/articles_editing>`. Select or type `clipboard`. A gray block is
 then added to the page. Add any necessary content to this block.
 
-.. image:: help_center/help-center-knowledge-clipboard-options.png
+.. image:: help_center/help-center-knowledge-clipboard-options.webp
    :align: center
    :alt: View of a clipboard in knowledge with focus on send and copy options.
 
@@ -221,7 +221,7 @@ Tickets` in the :guilabel:`Helpdesk` application.
 
 At the top of the ticket detail form, click the :guilabel:`Share on Forum` button.
 
-.. image:: help_center/help-center-share-on-forum.png
+.. image:: help_center/help-center-share-on-forum.webp
    :align: center
    :alt: Overview of the Forums page of a website to show the available ones in Odoo Helpdesk.
 
@@ -283,7 +283,7 @@ Choose the :guilabel:`Content Type` from the drop-down menu and upload the file,
 where instructed. Click :guilabel:`Save` when finished. Click :guilabel:`Add Section` to organize
 the course in sections.
 
-.. image:: help_center/help-center-elearning-course-contents-page.png
+.. image:: help_center/help-center-elearning-course-contents-page.webp
    :align: center
    :alt: View of a course being published for Odoo Helpdesk.
 
@@ -336,6 +336,6 @@ With all the course content selected, click any of the boxes in the :guilabel:`I
 This reveals a pop-up window, asking for confirmation that all selected records are intended to be
 published. Click :guilabel:`Confirm` to automatically publish all course content.
 
-.. image:: help_center/help-center-elearning-publish-back-end.png
+.. image:: help_center/help-center-elearning-publish-back-end.webp
    :align: center
    :alt: View of a course contents being published in Odoo Helpdesk back-end.

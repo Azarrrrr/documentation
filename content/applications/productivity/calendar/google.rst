@@ -26,7 +26,7 @@ Console <https://console.developers.google.com>`_ and log into the Google accoun
 Next, click :guilabel:`Select a project` and select (or create) an API project to configure OAuth
 in, and store credentials. Click :guilabel:`New Project`.
 
-.. image:: google/new-api-project.png
+.. image:: google/new-api-project.webp
    :align: center
    :alt: Create a new API project to store credentials.
 
@@ -39,14 +39,14 @@ Enable Google calendar API
 Now, click on :guilabel:`Enabled APIs and Services` in the left menu. Select :guilabel:`Enabled APIs
 and Services` again if the :guilabel:`Search bar` doesn't appear.
 
-.. image:: google/enable-apis-services.png
+.. image:: google/enable-apis-services.webp
    :align: center
    :alt: Enable APIs and Services on the API Project.
 
 After that, search for `Google Calendar API` using the search bar and select :guilabel:`Google
 Calendar API` from the search results. Click :guilabel:`Enable`.
 
-.. image:: google/enable-google-cal-api.png
+.. image:: google/enable-google-cal-api.webp
    :align: center
    :alt: Enable the Google Calendar API.
 
@@ -96,7 +96,7 @@ Under :menuselection:`Create OAuth Client ID`, select :guilabel:`Website applica
   company's Odoo :abbr:`URL (Uniform Resource Locator)` address followed by
   `/google_account/authentication`. Finally, click :guilabel:`Create`.
 
-.. image:: google/uri.png
+.. image:: google/uri.webp
    :align: center
    :alt: Add the authorized JavaScript origins and the authorized redirect URIs.
 
@@ -109,7 +109,7 @@ Once the *Client ID* and the *Client Secret* are located, open the Odoo database
 :menuselection:`Settings --> General Settings --> Integrations --> Google Calendar`. Check the box
 next to :guilabel:`Google Calendar`.
 
-.. image:: google/settings-google-cal.png
+.. image:: google/settings-google-cal.webp
    :align: center
    :alt: The Google Calendar checkbox in General Settings.
 
@@ -123,7 +123,7 @@ Sync calendar in Odoo
 Finally, open the :menuselection:`Calendar` app in Odoo and click on the :guilabel:`Google` sync
 button to sync Google Calendar with Odoo.
 
-.. image:: google/sync-google.png
+.. image:: google/sync-google.webp
    :align: center
    :alt: Click the Google sync button in Odoo Calendar to sync Google Calendar with Odoo.
 
@@ -133,7 +133,7 @@ button to sync Google Calendar with Odoo.
    :guilabel:`Continue` (should the app be unverifed), and finally select :guilabel:`Continue` (to
    give permission for the transfer of data)`.
 
-.. image:: google/trust-odoo.png
+.. image:: google/trust-odoo.webp
    :align: center
    :alt: Give Odoo permission to access Google Calendar.
 
@@ -165,7 +165,7 @@ In these cases, the account needs troubleshooting. A reset can be performed usin
 app --> Manage Users`. Then, select the user to modify the calendar, and click the
 :guilabel:`Calendar` tab.
 
-.. image:: google/google-reset.png
+.. image:: google/google-reset.webp
    :align: center
    :alt: Reset buttons highlighted on the calendar tab of the user.
 
@@ -176,7 +176,7 @@ Reset options
 
 The following reset options are available for troubleshooting Google calendar sync with Odoo:
 
-.. image:: google/reset-calendar.png
+.. image:: google/reset-calendar.webp
    :align: center
    :alt: Google calendar reset options in Odoo.
 
@@ -224,7 +224,7 @@ No test users added
 If no test users are added to the :guilabel:`OAuth consent screen`, then an :guilabel:`Error 403:
 access_denied` populates.
 
-.. image:: google/403-error.png
+.. image:: google/403-error.webp
    :align: center
    :alt: 403 Access Denied Error.
 
@@ -238,7 +238,7 @@ When creating the credentials (OAuth *Client ID* and *Client Secret*), if :guila
 selected for the :guilabel:`Application Type`, an :guilabel:`Authorization Error` appears
 (:guilabel:`Error 400:redirect_uri_mismatch`).
 
-.. image:: google/error-400.png
+.. image:: google/error-400.webp
    :align: center
    :alt: Error 400 Redirect URI Mismatch.
 

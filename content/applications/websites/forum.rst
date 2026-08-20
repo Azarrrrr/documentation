@@ -235,7 +235,7 @@ Add the :guilabel:`Rank Name`, the :guilabel:`Required Karma` points to reach it
 :guilabel:`Description`, a :guilabel:`Motivational` message to encourage users to reach it, and an
 image.
 
-.. image:: forum/ranks.png
+.. image:: forum/ranks.webp
    :alt: Default forum ranks
 
 .. _forum/badges:
@@ -276,7 +276,7 @@ Next, determine how the badge should be granted by clicking :guilabel:`Add` unde
    It is possible to give the badge a :guilabel:`Forum Badge Level` (:guilabel:`Bronze`,
    :guilabel:`Silver`, :guilabel:`Gold`) to give it more or less importance.
 
-.. image:: forum/badges.png
+.. image:: forum/badges.webp
    :alt: Default forum badges
 
 .. _forum/tags:
@@ -346,7 +346,7 @@ Click the ellipsis button (:guilabel:`...`) to:
   - :guilabel:`Convert` a comment into an answer.
   - :guilabel:`View` the related :ref:`Helpdesk ticket <helpdesk/forum>`, if any.
 
-.. image:: forum/post-actions.png
+.. image:: forum/post-actions.webp
    :alt: Posts actions
 
 .. note::
@@ -361,13 +361,13 @@ Moderate a forum
 On the forum's front end, the sidebar's :guilabel:`Moderation tools` section gathers the essential
 moderator functionalities.
 
-.. image:: forum/moderation-tools.png
+.. image:: forum/moderation-tools.webp
    :alt: Forum sidebar moderation tools
 
 :guilabel:`To Validate`: access all questions and answers waiting for validation before being
 displayed to non-moderator users.
 
-.. image:: forum/to-validate.png
+.. image:: forum/to-validate.webp
    :alt: Question to validate
 
 .. note::
@@ -380,7 +380,7 @@ displayed to non-moderator users.
 a reason and click :guilabel:`Mark as offensive`. The post is then hidden from users without
 moderation rights, and 100 karma points are deducted from the offending user's tally.
 
-.. image:: forum/offensive-reason.png
+.. image:: forum/offensive-reason.webp
    :alt: Offensive reason selection
 
 :guilabel:`Closed`: access all questions that have been closed. It is possible to :guilabel:`Delete`

@@ -5,7 +5,7 @@ import sphinxlint
 
 
 MAX_IMAGE_SIZES = {  # in bytes
-    '.png': 505000,
+    '.webp': 505000,
     '.gif': 2100000,
 }
 MODE_TO_BPP = {
@@ -36,7 +36,7 @@ def check_image_size(file):
 def check_image_color_depth(file):
     """ Check that PNG images are compressed to 8-bit color depth with PNGQuant. """
     file_path = Path(file)
-    if file_path.suffix.lower() == '.png':
+    if file_path.suffix.lower() == '.webp':
         data = Image.open(file)
         bpp = MODE_TO_BPP[data.mode]
         if bpp > 8:

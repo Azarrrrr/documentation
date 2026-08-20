@@ -68,7 +68,7 @@ created it, why it was created, etc.).
 Finally, if the check is being processed immediately, click the :guilabel:`Pass` button at the top
 left of the screen if the check passes, or the :guilabel:`Fail` button if the check fails.
 
-.. image:: quality_checks/quality-check-form.png
+.. image:: quality_checks/quality-check-form.webp
    :align: center
    :alt: A quality check form filled out for a Pass - Fail check.
 
@@ -115,7 +115,7 @@ check is being processed, complete the check by clicking :guilabel:`Pass` or :gu
 bottom of the pop-up window. For all other quality check types, a :guilabel:`Validate` button
 appears instead. Click it to complete the check.
 
-.. image:: quality_checks/quality-check-pop-up.png
+.. image:: quality_checks/quality-check-pop-up.webp
    :align: center
    :alt: The "Quality Check" pop-up window on a manufacturing order.
 

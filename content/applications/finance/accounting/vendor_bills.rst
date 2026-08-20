@@ -49,7 +49,7 @@ appropriately completed:
 - :guilabel:`Journal`: select in which journal the bill should be recorded and the :doc:`Currency
   <get_started/multi_currency>`.
 
-.. image:: vendor_bills/bill-completion.png
+.. image:: vendor_bills/bill-completion.webp
    :alt: filling the vendor bill
 
 .. note::
@@ -84,7 +84,7 @@ You have two options:
   :guilabel:`Post Difference In` field and change the :guilabel:`Label` if needed. A journal entry
   will be created to balance the account receivable with the selected account.
 
-.. image:: vendor_bills/partial-payment.png
+.. image:: vendor_bills/partial-payment.webp
    :alt: register a partial payment
 
 The :guilabel:`Memo` field is filled automatically if the :guilabel:`Payment Reference` has been

@@ -45,7 +45,7 @@ subcontractor in the :guilabel:`Vendor` column.
 Once the subcontractor has been added, enter the number of days it takes them to manufacture and
 deliver the product, in the :guilabel:`Delivery Lead Time` column.
 
-.. image:: basic_subcontracting_lead_times/delivery-lead-time.png
+.. image:: basic_subcontracting_lead_times/delivery-lead-time.webp
    :align: center
    :alt: The Delivery Lead Time field for a subcontractor, on the Purchase tab of a product page.
 
@@ -90,7 +90,7 @@ contracting company.
    The :guilabel:`Expected Arrival` date listed on the |PO| is May 8th, five days after the
    :guilabel:`Confirmation Date`.
 
-   .. image:: basic_subcontracting_lead_times/expected-arrival.png
+   .. image:: basic_subcontracting_lead_times/expected-arrival.webp
       :align: center
       :alt: The Expected Arrival date on a PO for a subcontracted product.
 

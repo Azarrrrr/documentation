@@ -40,7 +40,7 @@ it into your browser.
             connection by clicking :guilabel:`Advanced` and :guilabel:`Proceed to [IP address]
             (unsafe)`.
 
-            .. figure:: epos_ssc/browser-https-insecure.png
+            .. figure:: epos_ssc/browser-https-insecure.webp
                :scale: 75%
                :alt: warning page about the connection privacy on Google Chrome
 
@@ -73,7 +73,7 @@ it into your browser.
             #. click :guilabel:`Not secure` next to the search bar, and :guilabel:`Certificate is
                not valid`;
 
-               .. image:: epos_ssc/browser-warning.png
+               .. image:: epos_ssc/browser-warning.webp
                   :alt: Connection to the printer not secure button in Google Chrome browser.
 
             #. go to the :guilabel:`Details` tab and click :guilabel:`Export`;
@@ -92,7 +92,7 @@ it into your browser.
             #. go to :menuselection:`Connection not secure --> More information --> Security tab
                --> View certificate`;
 
-            .. image:: epos_ssc/mozilla-not-secure.png
+            .. image:: epos_ssc/mozilla-not-secure.webp
                :alt: Connection is not secure button in Mozilla Firefox browser
 
             #. scroll down to the :guilabel:`Miscellaneous` section;
@@ -121,7 +121,7 @@ it into your browser.
                      the following store`, click :guilabel:`Browse...`, and select
                      :guilabel:`Trusted Root Certification Authorities`;
 
-                     .. image:: epos_ssc/win-cert-wizard-store.png
+                     .. image:: epos_ssc/win-cert-wizard-store.webp
 
                   #. click :guilabel:`Finish`, accept the pop-up security window;
                   #. restart the computer to make sure that the changes are applied.
@@ -169,7 +169,7 @@ it into your browser.
             connection by clicking :guilabel:`Advanced` and :guilabel:`Proceed to [IP address]
             (unsafe)`.
 
-            .. figure:: epos_ssc/browser-https-insecure.png
+            .. figure:: epos_ssc/browser-https-insecure.webp
                :scale: 75%
                :alt: Warning page about the connection privacy on Google Chrome
 
@@ -202,7 +202,7 @@ it into your browser.
             #. click :guilabel:`Not secure` next to the search bar, and :guilabel:`Certificate is
                not valid`;
 
-               .. image:: epos_ssc/browser-warning.png
+               .. image:: epos_ssc/browser-warning.webp
                   :alt: Connection to the printer not secure button in Google Chrome
 
             #. go to the :guilabel:`Details` tab and click :guilabel:`Export`;
@@ -221,7 +221,7 @@ it into your browser.
             #. go to :menuselection:`Connection not secure --> More information --> Security tab
                --> View certificate`;
 
-               .. image:: epos_ssc/mozilla-not-secure.png
+               .. image:: epos_ssc/mozilla-not-secure.webp
                   :alt: Connection is not secure button in Mozilla Firefox
 
             #. scroll down to the :guilabel:`Miscellaneous` section;
@@ -260,7 +260,7 @@ it into your browser.
          window;
       #. click :guilabel:`Done`.
 
-      .. image:: epos_ssc/ssl-ios-verified.png
+      .. image:: epos_ssc/ssl-ios-verified.webp
 
       The certificate is installed, but it still needs to be authenticated. To do so,
 

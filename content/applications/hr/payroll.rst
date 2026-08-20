@@ -153,7 +153,7 @@ information on the blank contract template form that appears:
 - :guilabel:`Contract Update Document Template`: select a default document that a current employee
   has to sign to update their contract.
 
-.. image:: payroll/contract-template.png
+.. image:: payroll/contract-template.webp
    :align: center
    :alt: A new contract template form, with the fields filled in.
 
@@ -180,7 +180,7 @@ Salary information tab
    the change. It is best practice to check these three fields if any modifications have been made,
    to ensure they are accurate.
 
-.. image:: payroll/salary-information.png
+.. image:: payroll/salary-information.webp
    :align: center
    :alt: The salary information tab, with the fields filled in.
 
@@ -221,7 +221,7 @@ To rearrange the order of the employment types, click the :guilabel:`six small g
 the left of the employment type :guilabel:`Name`, and drag the line to the desired position on the
 list.
 
-.. image:: payroll/employment-types.png
+.. image:: payroll/employment-types.webp
    :align: center
    :alt: The employment types in the database by default, in a list view.
 
@@ -251,7 +251,7 @@ To view the current work entry types available, go to :menuselection:`Payroll ap
 Each work entry type has a code to aid in the creation of payslips, and to ensure all taxes and fees
 are correctly entered.
 
-.. image:: payroll/work-entry-types.png
+.. image:: payroll/work-entry-types.webp
    :align: center
    :alt: List of all work entry types currently available for use, with the payroll code and color.
 
@@ -338,7 +338,7 @@ Reporting section
 - :guilabel:`Unforeseen Absence`: if the work entry should be visible on the unforeseen absences
   report, check this box.
 
-.. image:: payroll/new-work-entry-type.png
+.. image:: payroll/new-work-entry-type.webp
    :align: center
    :alt: New work entry type form with all fields to be filled in.
 
@@ -361,7 +361,7 @@ they use. If the database is created for only one company, the company column is
    A database with five companies that all use a standard 40-hour work week needs to have five
    separate 40-hour working schedules configured.
 
-.. image:: payroll/working-schedules.png
+.. image:: payroll/working-schedules.webp
    :align: center
    :alt: All working schedules available to use currently set up in the database for the company.
 
@@ -390,7 +390,7 @@ If the working time should be in a two-week configuration, click the :guilabel:`
 calendar` button in the top-left. This creates entries for an :guilabel:`Even week` and an
 :guilabel:`Odd week`.
 
-.. image:: payroll/new-working-schedule.png
+.. image:: payroll/new-working-schedule.webp
    :align: center
    :alt: New working schedule form.
 
@@ -423,7 +423,7 @@ Typically, :guilabel:`Employee` is used for salaried employees, which is why the
 :guilabel:`Monthly Fixed Wage`, and :guilabel:`Worker` is typically used for employees paid by the
 hour, so the wage type is :guilabel:`Hourly Wage`.
 
-.. image:: payroll/structure-type.png
+.. image:: payroll/structure-type.webp
    :align: center
    :alt: List of all currently configured structure types available to use.
 
@@ -472,7 +472,7 @@ modified.
   Depending on the localization settings, this list may contain more options in addition to the
   default options.
 
-.. image:: payroll/new-structure.png
+.. image:: payroll/new-structure.webp
    :align: center
    :alt: New structure type form to fill out when creating a new structure type.
 
@@ -541,14 +541,14 @@ Configuration --> Salary --> Structures`.
 Each :ref:`structure type <payroll/structure-types>` lists the various structures associated with
 it. Each structure contains a set of rules that define it.
 
-.. image:: payroll/salary-structure.png
+.. image:: payroll/salary-structure.webp
    :align: center
    :alt: All available salary structures.
 
 Click on a structure to view its :guilabel:`Salary Rules`. These rules are what calculate the
 payslip for the employee.
 
-.. image:: payroll/structure-regular-pay-rules.png
+.. image:: payroll/structure-regular-pay-rules.webp
    :align: center
    :alt: Salary structure details for Regular Pay, listing all the specific Salary Rules.
 
@@ -586,7 +586,7 @@ Top section
 - :guilabel:`View on Payroll Reporting`: tick the checkbox to have the rule appear on payroll
   reports.
 
-.. image:: payroll/new-rule.png
+.. image:: payroll/new-rule.webp
    :align: center
    :alt: Enter the information for the new rule on the new rule form.
 
@@ -645,7 +645,7 @@ When creating payslips, it is sometimes necessary to add other entries for speci
 like expenses, reimbursements, or deductions. These other inputs can be configured by navigating to
 :menuselection:`Payroll app --> Configuration --> Salary --> Other Input Types`.
 
-.. image:: payroll/other-input.png
+.. image:: payroll/other-input.webp
    :align: center
    :alt: A list of other input types for payroll that can be selected when creating a new entry for
          a payslip.
@@ -659,7 +659,7 @@ field.
    :guilabel:`Availability in Structure` field is left blank, it indicates that the new input type
    is available for all payslips and is not exclusive to a specific structure.
 
-.. image:: payroll/input-type-new.png
+.. image:: payroll/input-type-new.webp
    :align: center
    :alt: A new Input Type form filled in.
 
@@ -689,7 +689,7 @@ To view the benefits, go to :menuselection:`Payroll app --> Configuration --> Sa
 Configurator: Benefits`. Benefits are grouped by :guilabel:`Structure type`, and the benefit listed
 for a particular structure type is only available for that specific structure.
 
-.. image:: payroll/benefits.png
+.. image:: payroll/benefits.webp
    :align: center
    :alt: A list view of all the benefits available for each structure type.
 
@@ -741,7 +741,7 @@ General information section
 - :guilabel:`Unit of Measure`: select the metric that the benefit is granted, using the drop-down
   menu. The options are :guilabel:`Days`, :guilabel:`Percent`, or :guilabel:`Currency`.
 
-.. image:: payroll/new-benefit.png
+.. image:: payroll/new-benefit.webp
    :align: center
    :alt: A new benefit form filled out for an internet subscription.
 
@@ -818,7 +818,7 @@ The :guilabel:`Personal Info` section lists all of the fields that are available
 employee's card. To access this section, go to :menuselection:`Payroll app --> Configuration -->
 Salary Package Configurator: Personal Info`.
 
-.. image:: payroll/personal-info.png
+.. image:: payroll/personal-info.webp
    :align: center
    :alt: A list of all the personal information that appears on the employee card to enter.
 
@@ -847,7 +847,7 @@ Checking the :guilabel:`Is Required` box makes the field mandatory on the employ
 ways, like a :guilabel:`Text` box, to a customizable :guilabel:`Radio` button, a
 :guilabel:`Checkbox`, a :guilabel:`Document`, and more.
 
-.. image:: payroll/personal-new.png
+.. image:: payroll/personal-new.webp
    :align: center
    :alt: New personal information entry.
 
@@ -902,7 +902,7 @@ Enter the following information on the form:
   :guilabel:`Sum of Benefits Values`, and :guilabel:`Monthly Total`.
 - :guilabel:`Code`: select the code this rule applies to from the drop-down menu.
 
-.. image:: payroll/resume-net.png
+.. image:: payroll/resume-net.webp
    :align: center
    :alt: The net wage rule form filled out, with all the information for net pay.
 
@@ -927,7 +927,7 @@ Positions`.
 A list of all the job positions appear, along with the corresponding department, on the
 :guilabel:`Job Position` page.
 
-.. image:: payroll/job-positions.png
+.. image:: payroll/job-positions.webp
    :align: center
    :alt: A list of all the job positions and corresponding departments.
 

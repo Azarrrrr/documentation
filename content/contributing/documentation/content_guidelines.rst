@@ -269,12 +269,12 @@ Here are a few tips to improve your screenshots:
 .. example::
    **Good example (resized browser, no unnecessary columns, adjusted columns' width, cropped):**
 
-   .. image:: content_guidelines/quotations-list-reduced.png
+   .. image:: content_guidelines/quotations-list-reduced.webp
       :alt: Cropped screenshot
 
    **Bad example (full-width screenshot):**
 
-   .. image:: content_guidelines/quotations-list-full.png
+   .. image:: content_guidelines/quotations-list-full.webp
       :alt: Full-width screenshot
 
 .. _contributing/content/media-files:
@@ -286,7 +286,7 @@ A **media filename**:
 
 - is written in **lower-case letters**;
 - is **relevant** to the media's content. (e.g., :file:`screenshot-tips.gif`);
-- separates its words with a **hyphen** `-` (e.g., :file:`awesome-filename.png`).
+- separates its words with a **hyphen** `-` (e.g., :file:`awesome-filename.webp`).
 
 Each RST file has its own folder for storing media files. The folder's name must be the same as the
 RST file's name.
@@ -299,11 +299,11 @@ folder ``doc_filename``.
   ├── section
   │   └── doc_filename
   │   │   └── screenshot-tips.gif
-  │   │   └── awesome-filename.png
+  │   │   └── awesome-filename.webp
   │   └── doc_filename.rst
 
 .. note::
-   Previously, image filenames would mostly be named with numbers (e.g., :file:`feature01.png`) and
+   Previously, image filenames would mostly be named with numbers (e.g., :file:`feature01.webp`) and
    placed in a single :file:`media` folder. While it is advised not to name your *new* images in
    that fashion, it is also essential **not to rename unchanged files**, as doing this would double
    the weight of renamed image files on the repository. They will eventually all be replaced as the
@@ -331,7 +331,7 @@ Good ALT tags are:
    An appropriate ALT tag for the following screenshot would be *Activating the developer mode in
    the Settings app*.
 
-   .. image:: content_guidelines/settings.png
+   .. image:: content_guidelines/settings.webp
       :alt: Activating the developer mode in the Settings app
 
 .. seealso::

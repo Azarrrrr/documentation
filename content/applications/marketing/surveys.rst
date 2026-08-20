@@ -48,7 +48,7 @@ Dashboard
 Upon opening the *Surveys* application, Odoo presents the main dashboard of the *Surveys*
 application, otherwise known as the :guilabel:`Surveys` page.
 
-.. image:: surveys/surveys-dashboard.png
+.. image:: surveys/surveys-dashboard.webp
    :align: center
    :alt: The Odoo Surveys application dashboard in the default Kanban view.
 
@@ -111,7 +111,7 @@ Those buttons are as follows:
   Once modifications are complete, click :guilabel:`Send` to send that email invite to all the email
   addresses/contacts listed in the :guilabel:`Recipients` field.
 
-  .. image:: surveys/share-survey-popup-email-toggle.png
+  .. image:: surveys/share-survey-popup-email-toggle.webp
      :align: center
      :alt: The 'Share a Survey' pop-up window in Odoo Surveys with the Send by Email toggled on.
 
@@ -156,7 +156,7 @@ The options are:
 - :guilabel:`Color`: users can opt to choose a color to add to the survey line on the dashboard for
   added organizational purposes, if needed.
 
-.. image:: surveys/three-dot-dropdown.png
+.. image:: surveys/three-dot-dropdown.webp
    :align: center
    :alt: The three-dot drop-down menu of options that appears on the Odoo Surveys dashboard.
 
@@ -164,7 +164,7 @@ Beneath the buttons that are located to the far-right of the survey lines, there
 button, represented by a :guilabel:`🕘 (clock)` icon. When clicked, a mini pop-up window appears,
 from which activities related to that particular survey can be scheduled and customized.
 
-.. image:: surveys/schedule-activities-dropdown.png
+.. image:: surveys/schedule-activities-dropdown.webp
    :align: center
    :alt: The Schedule Activities drop-down menu that appears on the Odoo Surveys dashboard.
 
@@ -176,7 +176,7 @@ option available in the upper-right corner, represented by a :guilabel:`≣ (bar
 
 When the :guilabel:`≣ (bars)` icon is clicked, the survey related data is displayed in a list view.
 
-.. image:: surveys/list-view.png
+.. image:: surveys/list-view.webp
    :align: center
    :alt: The list view option located on the Odoo Surveys application dashboard.
 
@@ -201,7 +201,7 @@ To have the *Surveys* application dashboard display nothing but the activities a
 surveys in the database, click the :guilabel:`🕘 (clock)` icon to the far-right of the other view
 options, located in the upper-right corner.
 
-.. image:: surveys/activities-view.png
+.. image:: surveys/activities-view.webp
    :align: center
    :alt: The activities view option located on the Odoo Surveys dashboard.
 

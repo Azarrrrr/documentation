@@ -16,7 +16,7 @@ To access the settings menu, go to :menuselection:`Fleet app --> Configuration -
 two settings need configuration: :guilabel:`End Date Contract Alert` and :guilabel:`New Vehicle
 Request`.
 
-.. image:: fleet/fleet-settings.png
+.. image:: fleet/fleet-settings.webp
    :align: center
    :alt: Settings available for the Fleet application.
 
@@ -69,7 +69,7 @@ models are configured for each particular manufacturer. Odoo comes with forty-si
 :doc:`models <fleet/models>` from four major auto manufacturers, and one major bicycle manufacturer:
 Audi, BMW, Mercedes, Opel (cars), and Eddy Merckx (bicycle).
 
-.. image:: fleet/manufacturer.png
+.. image:: fleet/manufacturer.webp
    :align: center
    :alt: Manufacturer card with the amount of models listed.
 

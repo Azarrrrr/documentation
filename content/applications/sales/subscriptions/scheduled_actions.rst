@@ -26,7 +26,7 @@ Access scheduled actions
 With developer mode activated, navigate to :menuselection:`Settings app --> Technical --> Scheduled
 Actions`.
 
-.. image:: scheduled_actions/scheduled-actions-technical-settings-page.png
+.. image:: scheduled_actions/scheduled-actions-technical-settings-page.webp
    :align: center
    :alt: The scheduled actions option under the technical menu in the Odoo Settings application.
 
@@ -39,7 +39,7 @@ results. The following documentation focuses on the last two results in the list
 - :guilabel:`Sale Subscription: generate recurring invoices and payments`
 - :guilabel:`Sale Subscription: subscriptions expiration`
 
-.. image:: scheduled_actions/scheduled-actions-page-subscription-results.png
+.. image:: scheduled_actions/scheduled-actions-page-subscription-results.webp
    :align: center
    :alt: The subscription-related results on the scheduled actions page in Odoo Settings.
 
@@ -49,7 +49,7 @@ the checkbox is green with a check mark, the scheduled action is active.
 
 If a scheduled action needs to be activated, click into the desired scheduled action from the list.
 
-.. image:: scheduled_actions/scheduled-action-form.png
+.. image:: scheduled_actions/scheduled-action-form.webp
    :alt: The scheduled action form in the Odoo Settings application.
 
 Then, from the scheduled action form, toggle the switch in the :guilabel:`Active` field to the
@@ -77,7 +77,7 @@ To set up *Deferred Expense* and *Deferred Revenue* accounts, navigate to :menus
 app --> Configuration --> Settings`. Both accounts can be configured in the :guilabel:`Default
 Accounts` section.
 
-.. image:: scheduled_actions/deferred-settings-accounting.png
+.. image:: scheduled_actions/deferred-settings-accounting.webp
    :align: center
    :alt: The necessary deferred account settings in the Odoo Accounting app's settings page.
 
@@ -96,7 +96,7 @@ reveal the subscription sales order form.
 On a confirmed subscription sales order form, focus on the :guilabel:`Recurring Plan` and
 :guilabel:`Date of Next Invoice` fields.
 
-.. image:: scheduled_actions/confirmed-subscription-sales-order-fields.png
+.. image:: scheduled_actions/confirmed-subscription-sales-order-fields.webp
    :align: center
    :alt: A confirmed subscription sales order in the Odoo Subscriptions application.
 
@@ -125,7 +125,7 @@ a :guilabel:`Payment Token` on the account.
 To check if there is a :guilabel:`Payment Token`, open the :guilabel:`Other Info` tab, and look at
 the :guilabel:`Payment Token` field, under the :guilabel:`Subscription` section.
 
-.. image:: scheduled_actions/payment-token-field.png
+.. image:: scheduled_actions/payment-token-field.webp
    :align: center
    :alt: The Payment Token field under the Other Info tab on a subscription sales order form.
 
@@ -156,7 +156,7 @@ scheduled action closes that subscription.
 First, the :guilabel:`Sale Subscription: subscriptions expiration` scheduled action checks to see if
 the end date has passed, which is configured on the subscription sales order.
 
-.. image:: scheduled_actions/subscription-expiration-date.png
+.. image:: scheduled_actions/subscription-expiration-date.webp
    :align: center
    :alt: The expiration date on a subscription sales order in Odoo Subscriptions.
 
@@ -167,7 +167,7 @@ To access the invoices attached to a subscription, access the sales order for th
 product, and click the :guilabel:`Invoices` smart button. Then, look at the :guilabel:`Invoice Date`
 column.
 
-.. image:: scheduled_actions/invoices-invoice-date-column.png
+.. image:: scheduled_actions/invoices-invoice-date-column.webp
    :align: center
    :alt: The Invoice Date column on subscriptions invoice page in Odoo Subscriptions app.
 
@@ -175,7 +175,7 @@ Unpaid subscriptions with an :guilabel:`Invoice Date` that are past the determin
 the :guilabel:`Automatic Closing` field of a :guilabel:`Recurring Plan` are automatically closed by
 the :guilabel:`Sale Subscription: subscriptions expiration` scheduled action.
 
-.. image:: scheduled_actions/automatic-closing-field.png
+.. image:: scheduled_actions/automatic-closing-field.webp
    :align: center
    :alt: The Automatic Closing field on a Recurring Plan form in Odoo Subscriptions.
 

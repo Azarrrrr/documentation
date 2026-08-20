@@ -38,7 +38,7 @@ filter from the :guilabel:`Search...` bar, and search for `OnSIP`.
 
 Next, activate the :guilabel:`VOIP OnSIP` module.
 
-.. image:: onsip/install-onsip.png
+.. image:: onsip/install-onsip.webp
    :align: center
    :alt: View of OnSIP app in the app search results.
 
@@ -54,7 +54,7 @@ proceed to fill in those three fields with the following information:
 - :guilabel:`WebSocket`: `wss://edge.sip.onsip.com`
 - :guilabel:`VoIP Environment`: :guilabel:`Production`
 
-.. image:: onsip/asterisk-setting.png
+.. image:: onsip/asterisk-setting.webp
    :align: center
    :alt: VoIP configuration settings in Odoo Settings app.
 
@@ -68,7 +68,7 @@ proceed to fill in those three fields with the following information:
    Click on the :guilabel:`Phone Settings` tab to reveal OnSIP configuration credentials (first
    column).
 
-   .. image:: onsip/domain-setting.png
+   .. image:: onsip/domain-setting.webp
       :align: center
       :alt: Domain setting revealed (highlighted) on administrative panel of OnSIP management
             console.
@@ -113,7 +113,7 @@ pop-up windows appear, click the green :guilabel:`📞 (phone)` icon to answer t
 To ignore the call, click the red :guilabel:`📞 (phone)` icon.
 
 
-.. image:: onsip/incoming-call.png
+.. image:: onsip/incoming-call.webp
    :align: center
    :alt: Incoming call shown in the Odoo VoIP widget.
 
@@ -129,7 +129,7 @@ Missing parameters
 If a *Missing Parameters* message appears in the Odoo widget, make sure to refresh the Odoo browser
 window (or tab), and try again.
 
-.. image:: onsip/onsip04.png
+.. image:: onsip/onsip04.webp
    :align: center
    :alt: Missing parameter message in the Odoo VoIP widget.
 
@@ -145,7 +145,7 @@ specific country code.
 
 For example, `16505555555` (where `1` is the international prefix for the United States).
 
-.. image:: onsip/onsip05.png
+.. image:: onsip/onsip05.webp
    :align: center
    :alt: Incorrect number message populated in the Odoo VoIP widget.
 

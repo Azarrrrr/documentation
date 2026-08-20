@@ -14,7 +14,7 @@ In Odoo.sh, a build is considered as a database loaded by an Odoo server
 a containerized environment. Its purpose is to test the well-behavior of the server, the database
 and the features with this revision.
 
-.. image:: builds/interface-builds.png
+.. image:: builds/interface-builds.webp
    :align: center
 
 In this view, a row represents a branch, and a cell of a row represents a build of this branch.
@@ -96,7 +96,7 @@ Features
 The production branch will always appear first, and then the other branches are ordered by last
 build created. You can filter out the branches.
 
-.. image:: builds/interface-builds-branches.png
+.. image:: builds/interface-builds-branches.webp
    :align: center
 
 For each branch, you can access the last build's database using the *Connect* link and jump to the
@@ -104,7 +104,7 @@ branch code using the *Github* link. For other branches than the production, you
 build which will use the latest revision of the branch using the link *rebuild*. This last link is
 not available when there is already a build in progress for the branch.
 
-.. image:: builds/interface-builds-build.png
+.. image:: builds/interface-builds-build.webp
    :align: center
 
 For each build, you can access the revision changes using the button with the Github icon. You can
@@ -114,7 +114,7 @@ button.
 
 .. _odoosh-gettingstarted-builds-download-dump:
 
-.. image:: builds/interface-builds-build-dropdown.png
+.. image:: builds/interface-builds-build-dropdown.webp
    :align: center
 
 .. _odoosh-gettingstarted-builds-dropdown-menu:

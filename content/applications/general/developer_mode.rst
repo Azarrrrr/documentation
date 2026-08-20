@@ -27,7 +27,7 @@ section, and click :guilabel:`Activate the developer mode`.
 
 Once activated, the :guilabel:`Deactivate the developer mode` option becomes available.
 
-.. image:: developer_mode/settings.png
+.. image:: developer_mode/settings.webp
    :alt: Activating the developer mode in the Settings app
 
 To activate the developer mode **from anywhere in the database**, add `?debug=1` at the end of the
@@ -57,11 +57,11 @@ Once the developer mode is activated, the developer tools can be accessed by cli
 technical data, such as a view's field, filters, or actions. The options available depend on where
 the menu is accessed from.
 
-.. image:: developer_mode/tools.png
+.. image:: developer_mode/tools.webp
    :alt: Accessing the developer tools
 
 Database administrators can access the technical menu from the :guilabel:`Settings` app. It contains
 advanced database settings, such as ones related to the database structure, security, actions, etc.
 
-.. image:: developer_mode/technical.png
+.. image:: developer_mode/technical.webp
    :alt: Accessing the technical menu

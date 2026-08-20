@@ -15,7 +15,7 @@ can expect results, and keeps the support team on target.
    From here, scroll to the :guilabel:`Performance` section. To turn off the :abbr:`SLAs (Service
    Level Agreements)` feature for the team, clear the :guilabel:`SLA Policies` checkbox.
 
-   .. image:: sla/sla-enable.png
+   .. image:: sla/sla-enable.webp
       :align: center
       :alt: View of a team page in Helpdesk focusing on the SLA Policies setting.
 
@@ -66,7 +66,7 @@ Fill out the following fields to adjust the selection criteria:
    At the same time, the tickets can be related to multiple issues, so the policy applies to tickets
    with `Repair`, `Service`, or `Emergency` tags.
 
-   .. image:: sla/sla-create-new.png
+   .. image:: sla/sla-create-new.webp
       :align: center
       :alt: View of a new SLA policy record with all the relevant information entered.
 
@@ -102,14 +102,14 @@ ticket, and the targeted working hours.
 The deadline is then added to the ticket, as well as a tag indicating the name of the :abbr:`SLA
 (Service Level Agreement)` applied.
 
-.. image:: sla/sla-open-deadline.png
+.. image:: sla/sla-open-deadline.webp
    :align: center
    :alt: View of a ticket's form emphasizing an open SLA deadline on a ticket in Odoo Helpdesk.
 
 When a ticket satisfies an :abbr:`SLA (Service Level Agreement)` policy, the :abbr:`SLA (Service
 Level Agreement)` tag turns green, and the deadline disappears from view on the ticket.
 
-.. image:: sla/sla-deadline.png
+.. image:: sla/sla-deadline.webp
    :align: center
    :alt: View of a ticket's form emphasizing a satisfied SLA in Odoo Helpdesk.
 
@@ -123,7 +123,7 @@ If the :abbr:`SLA (Service Level Agreement)` deadline passes and the ticket has 
 :abbr:`SLA (Service Level Agreement)` has failed, the red tag stays on the ticket, even after the
 ticket is moved to the :guilabel:`Reach Stage`.
 
-.. image:: sla/sla-passing-failing.png
+.. image:: sla/sla-passing-failing.webp
    :align: center
    :alt: View of a ticket's form with a failing and passing SLA in Odoo Helpdesk.
 
@@ -144,7 +144,7 @@ By default, the report displays in a :guilabel:`Pivot` view. Any :abbr:`SLA (Ser
 Agreement)` policies in the database with tickets that failed to fulfill a policy, are in progress,
 or have satisfied a policy are listed. By default, they are grouped by team and ticket count.
 
-.. figure:: sla/sla-status-analysis.png
+.. figure:: sla/sla-status-analysis.webp
    :align: center
    :alt: View of the SLA status analysis report in Odoo Helpdesk.
 
@@ -157,7 +157,7 @@ Whenever a measurement is picked, a :guilabel:`✔️ (checkmark)` icon appears 
 indicate that the measurement is included, and a corresponding new column emerges in the pivot table
 to show the relevant calculations.
 
-.. image:: sla/sla-pivot-measures.png
+.. image:: sla/sla-pivot-measures.webp
    :align: center
    :alt: View of the available measures in the SLA status analysis report.
 
@@ -165,7 +165,7 @@ To add a group to a row or column, click the :guilabel:`➕ (plus)` icon next to
 then select one of the groups. To remove one, click the :guilabel:`➖ (minus)` icon next to the
 policy name.
 
-.. image:: sla/sla-pivot-groups.png
+.. image:: sla/sla-pivot-groups.webp
    :align: center
    :alt: View of the available group by options in the SLA status analysis report.
 
@@ -181,7 +181,7 @@ at the top-left of the graph.
 
    .. tab:: Bar Chart
 
-       .. figure:: sla/sla-report-bar.png
+       .. figure:: sla/sla-report-bar.webp
           :align: center
           :alt: View of the SLA status analysis report in bar view.
 
@@ -189,7 +189,7 @@ at the top-left of the graph.
 
    .. tab:: Line Chart
 
-       .. figure:: sla/sla-report-line.png
+       .. figure:: sla/sla-report-line.webp
           :align: center
           :alt: View of the SLA status analysis report in line view.
 
@@ -197,7 +197,7 @@ at the top-left of the graph.
 
    .. tab:: Pie Chart
 
-       .. figure:: sla/sla-report-pie.png
+       .. figure:: sla/sla-report-pie.webp
           :align: center
           :alt: View of the SLA status analysis report in pie chart view.
 
@@ -208,7 +208,7 @@ at the top-left of the graph.
    selecting the :guilabel:`Stacked` icon. This displays two or more groups on top of each other
    instead of next to each other, making it easier to compare data.
 
-   .. image:: sla/sla-report-stacked.png
+   .. image:: sla/sla-report-stacked.webp
       :align: center
       :alt: View of the SLA status analysis report in bar view, stacked.
 
@@ -220,7 +220,7 @@ the :guilabel:`SLA Status Analysis` report in a :guilabel:`Cohort` view, click t
 :guilabel:`Cohort` button, represented by :guilabel:`(four cascading horizontal lines)`, in the
 top-right corner, next to the other view options.
 
-.. figure:: sla/sla-report-cohort.png
+.. figure:: sla/sla-report-cohort.webp
    :align: center
    :alt: View of the SLA status analysis report in cohort view.
 

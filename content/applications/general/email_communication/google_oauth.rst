@@ -35,7 +35,7 @@ browse for the :guilabel:`Location`. Set the :guilabel:`Location` as the *Google
 organization*. If you are using a personal Gmail account, then leave the :guilabel:`Location` as
 :guilabel:`No Organization`.
 
-.. image:: google_oauth/new-project.png
+.. image:: google_oauth/new-project.webp
    :align: center
    :alt: Project Name and Location for Google OAuth.
 
@@ -103,7 +103,7 @@ from the dropdown menu.
   Secret`. Finally, copy each generated value for later use when configuring in Odoo, and then
   navigate to the Odoo database.
 
-.. image:: google_oauth/client-credentials.png
+.. image:: google_oauth/client-credentials.webp
    :align: center
    :alt: Client ID and Client Secret for Google OAuth.
 
@@ -129,7 +129,7 @@ Configure outgoing email server
 To configure the external Gmail account, return to the top of the :guilabel:`Custom Email Servers`
 setting and then click the :guilabel:`Outgoing Email Servers` link.
 
-.. image:: google_oauth/outgoing-servers.png
+.. image:: google_oauth/outgoing-servers.webp
    :align: center
    :alt: Configure Outgoing Email Servers in Odoo.
 
@@ -151,7 +151,7 @@ Then, allow Odoo to access the Google account by clicking on :guilabel:`Continue
 server in Odoo. The configuration automatically loads the token in Odoo, and a tag stating
 :guilabel:`Gmail Token Valid` appears in green.
 
-.. image:: google_oauth/green-token.png
+.. image:: google_oauth/green-token.webp
    :align: center
    :alt: Configure Outgoing Email Servers in Odoo.
 
@@ -167,7 +167,7 @@ Production VS Testing Publishing Status
 Choosing :guilabel:`Production` as the :guilabel:`Publishing Status` (instead of
 :guilabel:`Testing`) will display the following warning message:
 
-.. image:: google_oauth/published-status.png
+.. image:: google_oauth/published-status.webp
    :align: center
    :alt: OAuth is Limited to 100 Sensitive Scope Logins.
 
@@ -181,7 +181,7 @@ No Test Users Added
 If no test users are added to the OAuth consent screen, then a 403 access denied error will
 populate.
 
-.. image:: google_oauth/403-error.png
+.. image:: google_oauth/403-error.webp
    :align: center
    :alt: 403 Access Denied Error.
 
@@ -194,7 +194,7 @@ Gmail Module not updated
 If the *Google Gmail* module in Odoo has not been updated to the latest version, then a
 :guilabel:`Forbidden` error message populates.
 
-.. image:: google_oauth/forbidden-error.png
+.. image:: google_oauth/forbidden-error.webp
    :align: center
    :alt: Forbidden you don't have the permission to access the requested resource.
 
@@ -208,7 +208,7 @@ Application Type
 When creating the credentials (OAuth *Client ID* and *Client Secret*), if :guilabel:`Desktop App` is
 selected for the :guilabel:`Application Type`, an :guilabel:`Authorization Error` appears.
 
-.. image:: google_oauth/error-400.png
+.. image:: google_oauth/error-400.webp
    :align: center
    :alt: Error 400 Redirect URI Mismatch.
 

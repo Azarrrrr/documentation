@@ -19,7 +19,7 @@ The first step to track expenses is to configure the different types of expenses
 needed. Go to :menuselection:`Expenses app --> Configuration --> Expense Categories` to view the
 current expensable categories in a default list view.
 
-.. image:: expenses/categories.png
+.. image:: expenses/categories.webp
    :align: center
    :alt: Set expense costs on products.
 
@@ -43,7 +43,7 @@ drop-down menu (most products will be set to :guilabel:`Units`).
    :guilabel:`Units of Measure` internal link to :doc:`view, create, and edit the units of measure
    <../inventory_and_mrp/inventory/product_management/configure/uom>`.
 
-.. image:: expenses/new-expense-product.png
+.. image:: expenses/new-expense-product.webp
    :align: center
    :alt: Set expense costs on products.
 

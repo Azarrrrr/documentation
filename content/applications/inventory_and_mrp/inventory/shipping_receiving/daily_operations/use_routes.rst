@@ -22,7 +22,7 @@ picking and packing areas, and shipping docks. All products go through all these
 products move through the locations, each location triggers the products' specified route and
 rules.
 
-.. image:: use_routes/stock-example.png
+.. image:: use_routes/stock-example.webp
    :align: center
    :alt: View of a generic warehouse with stock and quality control area.
 
@@ -31,7 +31,7 @@ then scan the products in the receiving area. Depending on the product's route a
 these products are sent to a quality control area (for example, products that are components used
 in the manufacturing process), while others are directly stored in their respective locations.
 
-.. image:: use_routes/push-to-rule-example.png
+.. image:: use_routes/push-to-rule-example.webp
    :align: center
    :alt: View of a generic push to rule when receiving products.
 
@@ -40,7 +40,7 @@ need to be prepared during the day. These items are picked from storage location
 picking area, close to where the orders are packed. Then, the orders are packed in their respective
 boxes, and conveyor belts bring them to the shipping docks, ready to be delivered to customers.
 
-.. image:: use_routes/pull-from-rule-example.png
+.. image:: use_routes/pull-from-rule-example.webp
    :align: center
    :alt: View of a generic pull from rule when preparing deliveries.
 
@@ -59,7 +59,7 @@ product arrives in the warehouse, a push rule can automatically transfer it to t
 Location*. Different push rules can be applied to different products, allowing for customized
 storage locations.
 
-.. figure:: use_routes/push-rule.png
+.. figure:: use_routes/push-rule.webp
    :align: center
    :alt: Rule for a Receive in one step route.
 
@@ -81,7 +81,7 @@ before being delivered to the *Customer Location*, the pull rule first creates a
 from *Stock* to *Output*. The warehouse workers then process these transfers in the reverse order:
 picking, then shipping.
 
-.. figure:: use_routes/pull-rule.png
+.. figure:: use_routes/pull-rule.webp
    :align: center
    :alt: Example pull rule.
 
@@ -108,7 +108,7 @@ To configure a route for a product, first, open the :guilabel:`Inventory` applic
 :menuselection:`Configuration --> Settings`. Then, in the :guilabel:`Warehouse` section, enable the
 :guilabel:`Multi-Step Routes` feature and click :guilabel:`Save`.
 
-.. image:: use_routes/multi-steps-routes-feature.png
+.. image:: use_routes/multi-steps-routes-feature.webp
    :align: center
    :alt: Activate the Multi-Step Routes feature in Odoo Inventory.
 
@@ -127,7 +127,7 @@ Warehouses`. Then, open a warehouse form. In the :guilabel:`Warehouse Configurat
 can view the warehouse's pre-configured routes for :guilabel:`Incoming Shipments` and
 :guilabel:`Outgoing Shipments`.
 
-.. image:: use_routes/example-preconfigured-warehouse.png
+.. image:: use_routes/example-preconfigured-warehouse.webp
    :align: center
    :alt: A pre-configured warehouse in Odoo Inventory.
 
@@ -136,7 +136,7 @@ route that best fits their business needs. Once the :guilabel:`Incoming Shipment
 :guilabel:`Outgoing Shipments` routes are set, head to :menuselection:`Inventory --> Configuration
 --> Routes` to see the specific routes that Odoo generated.
 
-.. image:: use_routes/preconfigured-routes.png
+.. image:: use_routes/preconfigured-routes.webp
    :align: center
    :alt: View of all the preconfigured routes Odoo offers.
 
@@ -149,7 +149,7 @@ Country B.
 .. seealso::
    :ref:`Applicable on packagings <inventory/product_management/packaging-route>`
 
-.. image:: use_routes/routes-example.png
+.. image:: use_routes/routes-example.webp
    :align: center
    :alt: View of a route example applicable on product categories and warehouses.
 
@@ -157,7 +157,7 @@ At the bottom of the route form, the user can view the specific :guilabel:`Rules
 Each :guilabel:`Rule` has an :guilabel:`Action`, a :guilabel:`Source Location`, and a
 :guilabel:`Destination Location`.
 
-.. image:: use_routes/rules-example.png
+.. image:: use_routes/rules-example.webp
    :align: center
    :alt: An example of rules with push & pull actions in Odoo Inventory.
 
@@ -168,7 +168,7 @@ To create a custom route, go to :menuselection:`Inventory --> Configuration --> 
 on :guilabel:`Create`. Next, choose the places where this route can be selected. A route can be
 applicable on a combination of places.
 
-.. image:: use_routes/advanced-custom-route.png
+.. image:: use_routes/advanced-custom-route.webp
    :align: center
    :alt: View of a pick-pack-ship route.
 
@@ -184,7 +184,7 @@ When applying the route on a product category, all the rules configured in the r
 **every** product in the category. This can be helpful if the business uses the dropshipping
 process for all the products from the same category.
 
-.. image:: use_routes/routes-logistic-section.png
+.. image:: use_routes/routes-logistic-section.webp
    :align: center
    :alt: View of a route applied to the "all" product category.
 
@@ -192,7 +192,7 @@ The same behavior applies to the warehouses. If the route can apply to :guilabel
 the transfers occurring inside the chosen warehouse that meet the conditions of the route's rules
 will then follow that route.
 
-.. image:: use_routes/applicable-on-warehouse.png
+.. image:: use_routes/applicable-on-warehouse.webp
    :align: center
    :alt: View of the warehouse drop-down menu when selecting applicable on warehouse.
 
@@ -203,7 +203,7 @@ different routes.
 Remember to toggle the visibility of the :guilabel:`Route` column on the quotation/sales order.
 Then, the route can be chosen on each line of the quotation/sales order.
 
-.. image:: use_routes/add-routes-to-sales-lines.png
+.. image:: use_routes/add-routes-to-sales-lines.webp
    :align: center
    :alt: View of the menu allowing to add new lines to sales orders.
 
@@ -214,7 +214,7 @@ To set a route on a product, go to :menuselection:`Inventory --> Products --> Pr
 the desired product. Then, go to the :guilabel:`Inventory` tab and under the :guilabel:`Operations`
 section, select the :guilabel:`Routes`.
 
-.. image:: use_routes/on-product-route.png
+.. image:: use_routes/on-product-route.webp
    :align: center
    :alt: View of a product form, where the route must be selected.
 
@@ -230,7 +230,7 @@ The rules are defined on the route form. First, go to :menuselection:`Inventory 
 --> Routes` and open the desired route form. Next, click :guilabel:`Edit` and in the
 :guilabel:`Rules` section, click on :guilabel:`Add a line`.
 
-.. image:: use_routes/add-new-rules.png
+.. image:: use_routes/add-new-rules.webp
    :align: center
    :alt: View of the rules menu, where it is possible to add new rules.
 
@@ -254,7 +254,7 @@ also available. Each rule has an :guilabel:`Action`:
 - :guilabel:`Manufacture`: when products are needed in the source location, a manufacturing order
   is created to fulfill the need.
 
-.. image:: use_routes/pull-from-rule-stock-to-packing.png
+.. image:: use_routes/pull-from-rule-stock-to-packing.webp
    :align: center
    :alt: Overview of a "Pull From" rule that creates a transfer between the stock and the packing
          zone.
@@ -293,14 +293,14 @@ First, a quick look at the route's rules and their supply methods. There are thr
   Locations/Customers`, *delivery orders* are created from :guilabel:`WH/Output` to fulfill the
   need.
 
-.. image:: use_routes/transfers-overview.png
+.. image:: use_routes/transfers-overview.webp
    :align: center
    :alt: Overview of all the transfers created by the pick - pack - ship route.
 
 This means that, when a customer orders products that have a *pick - pack - ship* route set on it,
 a delivery order is created to fulfill the order.
 
-.. image:: use_routes/operations-on-transfers.png
+.. image:: use_routes/operations-on-transfers.webp
    :align: center
    :alt: View of the operations created by a pull from transfer.
 
@@ -309,21 +309,21 @@ a delivery order is created to fulfill the order.
    The status will be :guilabel:`Waiting Another Operation` if the previous transfer in the list is
    not done yet.
 
-.. image:: use_routes/waiting-status.png
+.. image:: use_routes/waiting-status.webp
    :align: center
    :alt: View of the transfers' various statuses at the beginning of the process.
 
 To prepare the delivery order, packed products are needed at the output area, so an internal
 transfer is requested from the packing zone.
 
-.. image:: use_routes/detailed-operations-2.png
+.. image:: use_routes/detailed-operations-2.webp
    :align: center
    :alt: View of the detailed operations for a transfer between the packing and output zones.
 
 Obviously, the packing zone needs products ready to be packed. So, an internal transfer is
 requested to the stock and employees can gather the required products from the warehouse.
 
-.. image:: use_routes/detailed-operations-transfer.png
+.. image:: use_routes/detailed-operations-transfer.webp
    :align: center
    :alt: View of the detailed operations for a transfer between the stock and packing zones.
 
@@ -335,6 +335,6 @@ area). Now, everything is ready to be processed so the customer can get the orde
 In this example, the product is delivered to the customer when all the rules have been triggered and
 the transfers are done.
 
-.. image:: use_routes/transfers-status.png
+.. image:: use_routes/transfers-status.webp
    :align: center
    :alt: View of the transfers' statuses when the route is completed.

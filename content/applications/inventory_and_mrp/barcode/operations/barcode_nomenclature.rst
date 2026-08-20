@@ -44,7 +44,7 @@ Doing so installs the **Barcode** app in the database.
 Next, in the :guilabel:`Barcode Nomenclature` field, ensure :guilabel:`Default Nomenclature` is
 selected. Then, click :guilabel:`Save`.
 
-.. image:: barcode_nomenclature/enable-nomenclature.png
+.. image:: barcode_nomenclature/enable-nomenclature.webp
    :align: center
    :alt: Enabled barcode setting with Default Nomenclature selected.
 
@@ -94,7 +94,7 @@ To configure the product barcode for `Pasta Bolognese`, the |EAN| barcode for we
 going to :menuselection:`Inventory app --> Products --> Products`, and selecting the desired
 product). In addition, the :guilabel:`Unit of Measure` is set to :guilabel:`kg`.
 
-.. image:: barcode_nomenclature/barcode.png
+.. image:: barcode_nomenclature/barcode.webp
    :align: center
    :alt: Barcode field on the product form.
 
@@ -102,7 +102,7 @@ Next, a customer's bowl of pasta is weighed to be `1.5` kilograms. This generate
 the pasta, according to the weight: `211234501500`, which has a check digit of `2`. The new barcode
 is `2112345015002`.
 
-.. image:: barcode_nomenclature/weighted-barcode.png
+.. image:: barcode_nomenclature/weighted-barcode.webp
    :align: center
    :alt: Generated barcode that includes a weight of 1.5 kg.
 
@@ -111,7 +111,7 @@ Next, click any operation type, such as :guilabel:`Receipts`. Then, click the :g
 to create a draft stock move. Scan the product weight barcode, such as `2112345015002`, and if the
 intended product appears, the barcode setup is correct.
 
-.. image:: barcode_nomenclature/barcode-scan.png
+.. image:: barcode_nomenclature/barcode-scan.webp
    :align: center
    :alt: Show successfully scanned barcode.
 
@@ -138,7 +138,7 @@ On this page, configure the following optional fields:
 - :guilabel:`Is GS1 Nomenclature`: ensure this checkbox is **not** ticked, as the
   :guilabel:`Default Nomenclature` uses |UPC| and |EAN| encoding, *not* GS1 encoding.
 
-.. image:: barcode_nomenclature/rule-config.png
+.. image:: barcode_nomenclature/rule-config.webp
    :align: center
    :alt: Default Nomenclature page setting fields.
 

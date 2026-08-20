@@ -30,14 +30,14 @@ On the product form, under the :guilabel:`General Information` tab, make sure th
 Type` is set to :guilabel:`Storable Product`. This is necessary because Odoo only tracks stock
 quantities for storable products, and this number is used to trigger reordering rules.
 
-.. image:: reordering_rules/product-type.png
+.. image:: reordering_rules/product-type.webp
    :align: center
    :alt: Set the Product Type as Storable.
 
 Next, click on the :guilabel:`Inventory` tab and select one or more routes from the
 :guilabel:`Routes` section. Doing so tells Odoo which route to use to replenish the product.
 
-.. image:: reordering_rules/select-routes.png
+.. image:: reordering_rules/select-routes.webp
    :align: center
    :alt: Select one or more routes on the Inventory tab.
 
@@ -46,7 +46,7 @@ Purchased` checkbox is enabled under the product name. This makes the :guilabel:
 appear. Click on the :guilabel:`Purchase` tab, and specify at least one vendor, and the price that
 they sell the product for, so that Odoo knows which company the product should be purchased from.
 
-.. image:: reordering_rules/specify-vendor.png
+.. image:: reordering_rules/specify-vendor.webp
    :align: center
    :alt: Specify a vendor and price on the Purchase tab.
 
@@ -58,7 +58,7 @@ If a :abbr:`BoM (Bill of Materials)` does not already exist for the product, sel
 :guilabel:`Bill of Materials` smart button at the top of the product form, then click
 :guilabel:`New` to configure a new :abbr:`BoM (Bill of Materials)`.
 
-.. image:: reordering_rules/bom-smart-button.png
+.. image:: reordering_rules/bom-smart-button.webp
    :align: center
    :alt: The Bill of Materials smart button on a product form.
 
@@ -79,7 +79,7 @@ Reordering Rules`, then click :guilabel:`New`, and fill out the new line as foll
 - :guilabel:`UoM`: The unit of measure used for reordering the product. This value can simply be
   `Units` or a specific unit of measurement for weight, length, etc.
 
-.. image:: reordering_rules/reordering-rule-form.png
+.. image:: reordering_rules/reordering-rule-form.webp
    :align: center
    :alt: The form for creating a new reordering rule.
 
@@ -136,7 +136,7 @@ example, if the product should be purchased from a vendor, select the :guilabel:
 In the :guilabel:`Min Quantity` field and :guilabel:`Max Quantity` field, leave the values set to
 `0.00`. In the :guilabel:`To Order` field, enter a value of `1.00`.
 
-.. image:: reordering_rules/001-rule.png
+.. image:: reordering_rules/001-rule.webp
    :align: center
    :alt: A 0/0/1 reordering rule.
 
@@ -182,7 +182,7 @@ Reordering Rules`. Then, click the :guilabel:`(slider)` icon, located to the far
 titles, and enable the :guilabel:`Trigger` option from the additional options drop-down menu that
 appears.
 
-.. image:: reordering_rules/enable-trigger.png
+.. image:: reordering_rules/enable-trigger.webp
    :align: center
    :alt: Enable the Trigger field by toggling it in the additional options menu
 
@@ -214,7 +214,7 @@ Automatic reordering rules, configured by setting the reordering rule's :guilabe
    quantity falls below the :guilabel:`Min Quantity` of `5.00`. Since the current
    :guilabel:`Forecast` is `55.00`, the reordering rule is **not** triggered.
 
-   .. image:: reordering_rules/auto.png
+   .. image:: reordering_rules/auto.webp
       :align: center
       :alt: Show automatic reordering rule from the Reordering Rule page.
 
@@ -251,7 +251,7 @@ lead times. It displays needs **only** when it is time to reorder items.
 When a product appears on the replenishment dashboard, clicking the :guilabel:`Order Once` button
 generates the purchase or manufacturing order with the specified amounts :guilabel:`To Order`.
 
-.. image:: reordering_rules/manual.png
+.. image:: reordering_rules/manual.webp
    :align: center
    :alt: Click the Order Once button on the replenishment dashboard to replenish stock.
 
@@ -283,7 +283,7 @@ advance.
    appears on the replenishment dashboard five days before the delivery date, which, in this case,
    is February 27th.
 
-   .. image:: reordering_rules/need-dates.png
+   .. image:: reordering_rules/need-dates.webp
       :align: center
       :alt: Graphic representing when the need appears on the replenishment dashboard: Feb 27th.
 
@@ -306,7 +306,7 @@ subtract *today's date* from the *date the need appears* on the replenishment da
    Incorrectly setting the :guilabel:`Visibility Days` fewer than seven days in this case results in
    the need **not** appearing on the replenishment dashboard.
 
-   .. image:: reordering_rules/visibility-days.png
+   .. image:: reordering_rules/visibility-days.webp
       :align: center
       :alt: Show the replenishment dashboard with the correct and incorrect visibility days set.
 
@@ -331,7 +331,7 @@ the column titles, and checking the :guilabel:`Route` option from the drop-down 
 Click inside of the column on the row of a reordering rule, and a drop-down menu shows all available
 routes for that rule. Select one to set it as the preferred route.
 
-.. image:: reordering_rules/select-preferred-route.png
+.. image:: reordering_rules/select-preferred-route.webp
    :align: center
    :alt: Select a preferred route from the drop-down.
 

@@ -19,7 +19,7 @@ cable. More often than not, this is done with a :abbr:`USB (Universal Serial Bus
 If the footswitch is a `supported device <https://www.odoo.com/page/iot-hardware>`_, there is no
 need to take further action, since it'll be automatically detected when connected.
 
-.. image:: footswitch/footswitch-dropdown.png
+.. image:: footswitch/footswitch-dropdown.webp
    :align: center
    :alt: Footswitch recognized on the IoT box.
 
@@ -35,7 +35,7 @@ drop-down, and optionally, a key can be added to trigger it. An example of an :g
 the *Manufacturing app* could be the :guilabel:`Validate` or :guilabel:`Mark as Done` buttons on a
 manufacturing work order.
 
-.. image:: footswitch/footswitch-example.png
+.. image:: footswitch/footswitch-example.webp
    :align: center
    :alt: Footswitch trigger setup on the Odoo database.
 

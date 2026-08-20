@@ -105,7 +105,7 @@ phone number that should be used for calling out from that country code.
    select the number starting with the `+44` country code. Order the rules as necessary, and select
    the checkbox to supersede all other rules, if needed.
 
-   .. image:: dynamic_caller_id/advanced-callerid.png
+   .. image:: dynamic_caller_id/advanced-callerid.webp
       :align: center
       :alt: Advanced options for the default outgoing number.
 

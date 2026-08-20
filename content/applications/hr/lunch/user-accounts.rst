@@ -46,7 +46,7 @@ displaying each record's :guilabel:`Date`, :guilabel:`User`, :guilabel:`Descript
 :guilabel:`Amount`. The total of all the cash moves is displayed at the bottom of the
 :guilabel:`Amount` column.
 
-.. image:: user-accounts/cash.png
+.. image:: user-accounts/cash.webp
    :align: center
    :alt: The list view of all cash moves.
 
@@ -66,7 +66,7 @@ A blank :guilabel:`Cash Moves` form loads. Enter the following information on th
 - :guilabel:`Amount`: enter the amount being added to the lunch account.
 - :guilabel:`Description`: enter a brief description of the transaction.
 
-.. image:: user-accounts/cash-move-form.png
+.. image:: user-accounts/cash-move-form.webp
    :align: center
    :alt: The cash move form filled out for a transaction of $40.00.
 
@@ -89,7 +89,7 @@ group.
 Each record includes the :guilabel:`Date`, :guilabel:`User`, :guilabel:`Description`, and
 :guilabel:`Amount`.
 
-.. image:: user-accounts/control-accounts.png
+.. image:: user-accounts/control-accounts.webp
    :align: center
    :alt: The Control Accounts dashboard with two employee's transactions expanded.
 

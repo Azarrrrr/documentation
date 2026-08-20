@@ -27,7 +27,7 @@ modified.
 - :guilabel:`Advanced price rules (discounts, formulas)`: provides the option to create detailed
   price rules and apply discounts, margins, and roundings.
 
-.. image:: pricing/pricelist-feature-setting.png
+.. image:: pricing/pricelist-feature-setting.webp
    :align: center
    :alt: How the pricelist feature setting looks in Odoo Sales.
 
@@ -45,7 +45,7 @@ reloads and, from here, either select the :guilabel:`Pricelists` link (beneath t
 Either option reveals the :guilabel:`Pricelists` page, in which pricelists can be created and/or
 modified at any time.
 
-.. image:: pricing/pricelists-page.png
+.. image:: pricing/pricelists-page.webp
    :align: center
    :alt: How the pricelists page looks in Odoo Sales.
 
@@ -73,7 +73,7 @@ From the :guilabel:`Pricelists` page, either select the desired pricelist to edi
 :guilabel:`New` to create a new pricelist, which reveals a blank pricelist form that can be
 configured in a number of different ways.
 
-.. image:: pricing/pricelist-detail-form.png
+.. image:: pricing/pricelist-detail-form.webp
    :align: center
    :alt: How the pricelist detail form looks in Odoo Sales.
 
@@ -155,7 +155,7 @@ From this pop-up form, the new recurrence period can be configured, with specifi
 :guilabel:`Details`, :guilabel:`Self-Service`, and :guilabel:`Pricing` options. When the
 configurations are complete, click the :guilabel:`Save & Close` button.
 
-.. image:: pricing/time-period-popup.png
+.. image:: pricing/time-period-popup.webp
    :align: center
    :alt: Custom time period pop-up form in Odoo Sales.
 
@@ -185,7 +185,7 @@ Configuration tab
 Under the :guilabel:`Configuration` tab, there are a few options that can further customize the
 pricelist.
 
-.. image:: pricing/configuration-tab.png
+.. image:: pricing/configuration-tab.webp
    :align: center
    :alt: Configuration tab on pricelist detail form in Odoo Sales.
 
@@ -227,7 +227,7 @@ To do that, open the desired customer's contact form, either by navigating to :m
 app --> Orders --> Customers` and selecting the customer from the main :guilabel:`Customers` page,
 or by clicking on the customer's name on a sales order.
 
-.. image:: pricing/customer-detail-form.png
+.. image:: pricing/customer-detail-form.webp
    :align: center
    :alt: Sample customer detail form in Odoo Sales.
 
@@ -235,7 +235,7 @@ On the desired customer's contact form, under the :guilabel:`Sales & Purchase` t
 :guilabel:`Sales` section, designate what pricelist should be applied to this specific customer from
 the drop-down menu in the :guilabel:`Pricelist` field.
 
-.. image:: pricing/customer-form-pricelist-field.png
+.. image:: pricing/customer-form-pricelist-field.webp
    :align: center
    :alt: The pricelist field in a customer detail form in Odoo Sales.
 
@@ -266,14 +266,14 @@ specific product's product form on a separate page.
 On the product form, click the :guilabel:`Extra Prices` smart button, located at the top of the
 form.
 
-.. image:: pricing/extra-prices-smartbutton.png
+.. image:: pricing/extra-prices-smartbutton.webp
    :align: center
    :alt: How the extra prices smart button appears in Odoo Sales.
 
 Doing so reveals a separate page displaying the :guilabel:`Price Rules` that are specific to that
 particular product. Here, price rules can be edited or created at any time.
 
-.. image:: pricing/price-rules-product-page.png
+.. image:: pricing/price-rules-product-page.webp
    :align: center
    :alt: How the extra price rules per product page appears in Odoo Sales.
 
@@ -339,7 +339,7 @@ To access discounts, navigate to the *Sales* app setting page (:menuselection:`S
 Configuration --> Settings`), and click the :guilabel:`Discounts` checkbox, then click
 :guilabel:`Save`.
 
-.. image:: pricing/discounts-option.png
+.. image:: pricing/discounts-option.webp
    :align: center
    :alt: Click the checkbox labeled Discounts to activate Discounts.
 
@@ -357,7 +357,7 @@ discount for each product line and the new price will automatically be calculate
    :menuselection:`Sales app --> Orders --> Orders`, click on the desired sales order, and add the
    discount to :guilabel:`Disc.%` as described above.
 
-.. image:: pricing/discount-on-sales-order.png
+.. image:: pricing/discount-on-sales-order.webp
    :align: center
    :alt: The Dis.% heading will now appear in Order Lines.
 
@@ -371,7 +371,7 @@ Discount button
 In Odoo 17, with the :ref:`Discounts setting <sales/discounts>` enabled, a :guilabel:`Discount`
 button appears at the bottom of sales orders.
 
-.. image:: pricing/discount-button-sales-order.png
+.. image:: pricing/discount-button-sales-order.webp
    :align: center
    :alt: The discount button located at the bottom of a sales order form in the Odoo Sales app.
 
@@ -394,7 +394,7 @@ following discount options: :guilabel:`On All Order Lines`, :guilabel:`Global Di
      In this example, since the total of the order is $600, and there is a 30% global discount, that
      specific line is added to the sales order with a -180 value (which is 30% of $600).
 
-     .. image:: pricing/global-discount-option-so.png
+     .. image:: pricing/global-discount-option-so.webp
         :align: center
         :alt: The sales order with the applied global discount option in the Odoo Sales application.
 
@@ -437,7 +437,7 @@ On the pricelist form, under the :guilabel:`Price Rules` tab, click :guilabel:`A
 advanced price rule. Doing so reveals a :guilabel:`Create Pricelist Rules` pop-up form, in which the
 advanced rule is configured.
 
-.. image:: pricing/create-pricelist-rules-popup.png
+.. image:: pricing/create-pricelist-rules-popup.webp
    :align: center
    :alt: How the Create Pricelist Rules pop-up form looks in Odoo Sales.
 
@@ -459,7 +459,7 @@ below. If :guilabel:`Discount` is selected, enter the desired discount percentag
 
 If :guilabel:`Formula` is selected, a number of configurable options appear.
 
-.. image:: pricing/formula-computation-options.png
+.. image:: pricing/formula-computation-options.webp
    :align: center
    :alt: The various formula computation options present in Odoo Sales.
 
@@ -475,7 +475,7 @@ should be noted that a mark-up can be applied by setting a negative discount in 
    the :guilabel:`Based on` field to :guilabel:`Cost`, the :guilabel:`Discount` to `-100`, and the
    :guilabel:`Margins` to `5`. This is often seen in retail situations.
 
-   .. image:: pricing/formula-markup-cost-example.png
+   .. image:: pricing/formula-markup-cost-example.webp
       :align: center
       :alt: How it looks to formulate a markup cost with 5 dollar minimum margin in Odoo Sales.
 
@@ -500,7 +500,7 @@ blue block to the right of the configurations.
    :guilabel:`Sales Price`, the :guilabel:`Discount` field to `20`, the :guilabel:`Extra Fee` field
    to `-0.01`, and the :guilabel:`Rounding Method` field to `10`.
 
-   .. image:: pricing/formula-discount-example.png
+   .. image:: pricing/formula-discount-example.webp
       :align: center
       :alt: Example of a 20% discount with prices rounded to 9.99 in Odoo Sales.
 

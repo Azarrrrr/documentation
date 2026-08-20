@@ -69,7 +69,7 @@ and select the |BoM| for the subcontracted product.
 In the :guilabel:`BoM Type` field, select the :guilabel:`Subcontracting` option. Then, add one or
 more subcontractors in the :guilabel:`Subcontractors` field that appears below.
 
-.. image:: subcontracting_basic/bom-type.png
+.. image:: subcontracting_basic/bom-type.webp
    :align: center
    :alt: The "BoM Type" field on a BoM, configured to manufacture the product using subcontracting.
 
@@ -154,7 +154,7 @@ When a |PO| is confirmed for a product manufactured using basic subcontracting, 
 dropship order is automatically created, and can be accessed from the corresponding
 :guilabel:`Receipt` or :guilabel:`Dropship` smart button that appears at the top of the |PO|.
 
-.. figure:: subcontracting_basic/subcontractor-po.png
+.. figure:: subcontracting_basic/subcontractor-po.webp
    :align: center
    :alt: A PO for a basic subcontracting product, with a Receipt smart button at the top of the page.
 

@@ -35,7 +35,7 @@ After logging in with the Microsoft *Entra ID*, `register an application
 To create an application, click :guilabel:`+ Add` in the top menu. From the resulting drop-down
 menu, select :guilabel:`App Registration`.
 
-.. image:: outlook/app-register.png
+.. image:: outlook/app-register.webp
    :align: center
    :alt: Microsoft Azure management page with + Add and App Registration menu highlighted.
 
@@ -64,7 +64,7 @@ drop-down menu. Then, enter the Odoo database URI (URL) followed by
    Parameters`. Then, select it from the :guilabel:`Key` list on the :guilabel:`System Parameters`
    page.
 
-.. image:: outlook/azure-register-application.png
+.. image:: outlook/azure-register-application.webp
    :align: center
    :alt: The "Supported account type" and "Redirect URI" settings in the Microsoft Entra ID portal.
 
@@ -76,7 +76,7 @@ Finally, on the application registration page, click :guilabel:`Register` button
 application registration. The :guilabel:`Application (client) ID` is produced. Copy this value, as
 it is needed later, in the :ref:`outlook_calendar/odoo_setup`.
 
-.. image:: outlook/app-client-id.png
+.. image:: outlook/app-client-id.webp
    :align: center
    :alt: Application client ID highlighted in the essentials section of the newly created
          application.
@@ -91,7 +91,7 @@ itself, requiring no interaction from the user's side. *Certificates* are option
 To add a client secret, click :menuselection:`Certificates & secrets` in the left menu. Then click
 :guilabel:`+ New client secret` to create the client secret.
 
-.. image:: outlook/client-secret.png
+.. image:: outlook/client-secret.webp
    :align: center
    :alt: New client secret page with certificates and secrets menu and new client secret option
          highlighted.
@@ -124,7 +124,7 @@ In the Odoo database, go to :menuselection:`Settings app --> Integrations sectio
 checkbox beside the :guilabel:`Outlook Calendar` setting. Remember to click :guilabel:`Save` to
 implement the changes.
 
-.. image:: outlook/outlook-calendar-setting.png
+.. image:: outlook/outlook-calendar-setting.webp
    :align: center
    :alt: The "Outlook Calendar" setting activated in Odoo.
 
@@ -132,14 +132,14 @@ From the Microsoft *Azure* portal, under the :guilabel:`Overview` section of the
 the :guilabel:`Application (Client) ID`, if it has not already been copied, and paste it into the
 :guilabel:`Client ID` field in Odoo.
 
-.. image:: outlook/client-id.png
+.. image:: outlook/client-id.webp
    :align: center
    :alt: The "Client ID" in the Microsoft Azure portal.
 
 Copy the previously-acquired :guilabel:`Value` (Client Secret Value), and paste it into the
 :guilabel:`Client Secret` field in Odoo.
 
-.. image:: outlook/client-secret-value.png
+.. image:: outlook/client-secret-value.webp
    :align: center
    :alt: The "Client Secret" token to be copied from Microsoft to Odoo.
 
@@ -184,7 +184,7 @@ Sync Odoo Calendar and Outlook
 In the Odoo database, open to the *Calendar* module, and click the :guilabel:`Outlook` sync button
 on the right-side of the page, beneath the monthly calendar.
 
-.. image:: outlook/outlook-sync-button.png
+.. image:: outlook/outlook-sync-button.webp
    :align: center
    :alt: The "Outlook" sync button in Odoo Calendar.
 
@@ -193,7 +193,7 @@ The synchronization is a two-way process, meaning that events are reconciled in 
 to their account, if they are not already. Finally, grant the required permissions by clicking
 :guilabel:`Accept`.
 
-.. image:: outlook/accept-terms.png
+.. image:: outlook/accept-terms.webp
    :align: center
    :alt: Authentication process on Microsoft Outlook OAuth page.
 
@@ -218,7 +218,7 @@ In these cases, the account needs troubleshooting. A reset can be performed usin
 app --> Manage Users`. Then, select the user to modify the calendar, and click on the
 :guilabel:`Calendar` tab.
 
-.. image:: outlook/outlook-reset.png
+.. image:: outlook/outlook-reset.webp
    :align: center
    :alt: Reset buttons highlighted on the calendar tab of the user.
 
@@ -230,7 +230,7 @@ Reset options
 The following reset options are available for troubleshooting *Microsoft Outlook Calendar* sync with
 Odoo:
 
-.. image:: outlook/reset-calendar.png
+.. image:: outlook/reset-calendar.webp
    :align: center
    :alt: Outlook calendar reset options in Odoo.
 

@@ -128,7 +128,7 @@ for bulleted lists, for example.
 
    .. code-block:: rst
 
-      .. image:: media/example.png
+      .. image:: media/example.webp
          :alt: example
 
    The `:titlesonly:` and page references start below the `t` (three spaces):
@@ -371,7 +371,7 @@ name.
    - Do not include menu section names. For example, in the screenshot below, `Journals` should not
      be included in the menu path :menuselection:`Accounting --> Accounting --> Journal Entries`:
 
-     .. image:: rst_guidelines/accounting-menu.png
+     .. image:: rst_guidelines/accounting-menu.webp
         :alt: Accounting menu showing the Journals menu section.
 
 .. _contributing/rst/file:
@@ -674,12 +674,12 @@ The `image` markup allows inserting images in a document.
 .. list-table::
    :class: o-showcase-table
 
-   * - .. image:: rst_guidelines/create-invoice.png
+   * - .. image:: rst_guidelines/create-invoice.webp
           :alt: Create an invoice.
 
    * - .. code-block:: text
 
-          .. image:: rst_guidelines/create-invoice.png
+          .. image:: rst_guidelines/create-invoice.webp
              :alt: Create an invoice.
 
 .. tip::

@@ -57,7 +57,7 @@ Here is the list of Spanish-specific statement reports available:
 You can access Spain-specific tax reports by clicking on the **book** icon when on a report and
 selecting its Spain-specific version: :guilabel:`(ES)`.
 
-.. image:: spain/modelo-reports.png
+.. image:: spain/modelo-reports.webp
    :alt: Spain-specific tax reports.
 
 Modelo 130
@@ -122,7 +122,7 @@ Use case
 Once an invoice has been :doc:`created <../../finance/accounting/customer_invoices>` and confirmed,
 a TicketBAI **banner** appears at the top.
 
-.. image:: spain/ticketbai-invoice.png
+.. image:: spain/ticketbai-invoice.webp
    :alt: TicketBAI banner at the top of the invoice once sent.
 
 Odoo sends invoices through TicketBAI automatically every **24 hours**. However, you can click
@@ -136,7 +136,7 @@ the invoice (e.g., if the invoice should also be sent through the **SII**, it wi
 .. note::
    The TBAI **QR code** is displayed on the invoice PDF.
 
-   .. image:: spain/qr-code.png
+   .. image:: spain/qr-code.webp
       :alt: QR code of the TicketBAI on the invoice.
 
 FACe
@@ -187,7 +187,7 @@ Select :guilabel:`FACe Center` as the **type**, assign one or more **role(s)** t
 - Unidad tramitadora: :guilabel:`Pagador` (Payer);
 - Oficina contable: :guilabel:`Fiscal` (Fiscal).
 
-.. image:: spain/administrative-center.png
+.. image:: spain/administrative-center.webp
    :alt: Administrative center contact form for public entities.
 
 .. tip::

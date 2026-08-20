@@ -42,7 +42,7 @@ To refine the :guilabel:`Filter` rules of a campaign, click the :guilabel:`➕ A
 to reveal a new row with configurable rule parameters. See the :ref:`Search, filter, and group
 records <search/custom-filters>` documentation for more information on how to create filter rules.
 
-.. image:: target_audience/domain-filters.png
+.. image:: target_audience/domain-filters.webp
    :align: center
    :alt: A new filter rule row on the campaign form Filters.
 
@@ -73,7 +73,7 @@ number of records targeted by this domain. Select the :guilabel:`# record(s)` bu
 
    With the above configuration, the campaign targets :guilabel:`157 record(s)`.
 
-   .. image:: target_audience/filter-scenario-one.png
+   .. image:: target_audience/filter-scenario-one.webp
       :align: center
       :alt: A domain configuration in a Marketing Automation campaign.
 

@@ -32,7 +32,7 @@ Checkout payment options
 Once activated, customers can choose the payment provider of their choice during the **checkout
 process**, at the :guilabel:`Confirm Order` step.
 
-.. image:: payments/payments-checkout.png
+.. image:: payments/payments-checkout.webp
    :align: center
    :alt: Payment provider selection at checkout
 
@@ -46,7 +46,7 @@ section, enable :menuselection:`Discounts, Loyalty & Gift Card`.
 Once enabled, customers can enter their gift card **code** or pay with their eWallet at the checkout
 step.
 
-.. image:: payments/payments-ewallets-giftcards.png
+.. image:: payments/payments-ewallets-giftcards.webp
    :align: center
    :alt: Enter gift card code to process checkout
 

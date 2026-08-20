@@ -14,7 +14,7 @@ Inventory Adjustments page
 To view the *Inventory Adjustments* page, navigate to :menuselection:`Inventory app --> Operations
 --> Inventory Adjustments`.
 
-.. image:: count_products/inventory-adjustments-page.png
+.. image:: count_products/inventory-adjustments-page.webp
    :align: center
    :alt: In stock products listed on the Inventory adjustments page.
 
@@ -97,7 +97,7 @@ the :guilabel:`Difference` column is **green**. If the :guilabel:`Counted Quanti
 quantities match, and haven't been changed at all, no value appears in the :guilabel:`Difference`
 column.
 
-.. image:: count_products/difference-column.png
+.. image:: count_products/difference-column.webp
    :align: center
    :alt: Difference column on inventory adjustments page.
 
@@ -121,7 +121,7 @@ Once ready, click :guilabel:`Apply` to apply the inventory adjustment.
    Applying an inventory adjustment simultaneously creates a :doc:`stock move line (SML)
    <../reporting/moves_history>` in the *Moves History* report for traceability.
 
-.. image:: count_products/apply-inventory-adjustment.png
+.. image:: count_products/apply-inventory-adjustment.webp
    :align: center
    :alt: Apply all option applies the inventory adjustment once a reason is specified.
 
@@ -141,7 +141,7 @@ Doing so copies the value from the :guilabel:`On Hand Quantity` column over to t
 `0.00`. Subsequently, once applied, an inventory move with `0.00` :guilabel:`Quantity Done` is
 recorded in the product's inventory adjustment history.
 
-.. image:: count_products/zero-move.png
+.. image:: count_products/zero-move.webp
    :align: center
    :alt: Zero count inventory adjustment move.
 
@@ -166,7 +166,7 @@ column.
 Subsequently, once applied, a move with the difference between the :guilabel:`On Hand Quantity` and
 the :guilabel:`Counted Quantity` is recorded in the product's inventory adjustment history.
 
-.. image:: count_products/history-inventory-adjustments.png
+.. image:: count_products/history-inventory-adjustments.webp
    :align: center
    :alt: Inventory Adjustments History dashboard detailing a list of prior product moves.
 
@@ -188,7 +188,7 @@ To modify the default scheduled date, go to :menuselection:`Inventory app --> Co
 Settings`. Then, in the :guilabel:`Operations` section, locate the :guilabel:`Annual Inventory Day
 and Month` setting, which includes a drop-down menu that is set to `31 December` by default.
 
-.. image:: count_products/annual-inventory.png
+.. image:: count_products/annual-inventory.webp
    :align: center
    :alt: Adjust the next inventory count date with the Annual Inventory Day and Month setting.
 
@@ -214,7 +214,7 @@ product line.
    the table, in the header row next to the :guilabel:`Location` label. This selects **all** product
    lines.
 
-.. image:: count_products/count-popup.png
+.. image:: count_products/count-popup.webp
    :align: center
    :alt: Request a count popup on inventory adjustments page.
 

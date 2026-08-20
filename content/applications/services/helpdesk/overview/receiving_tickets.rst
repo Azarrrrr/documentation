@@ -40,7 +40,7 @@ Configuration --> Helpdesk Teams`, and click on a team name to open its settings
 Then, scroll to :menuselection:`Channels --> Email Alias`. In the :guilabel:`Alias` field, type the
 desired name for the team's email alias.
 
-.. image:: receiving_tickets/receiving-tickets-email-alias.png
+.. image:: receiving_tickets/receiving-tickets-email-alias.webp
    :align: center
    :alt: View of the settings page of a Helpdesk team emphasizing the email alias feature in Odoo
          Helpdesk.
@@ -88,7 +88,7 @@ channel to match the *Helpdesk* team name, by default.
    If a *Helpdesk* team is named `Customer Care`, a *Live Chat* channel is created called `Customer
    Care`.
 
-   .. image:: receiving_tickets/receiving-tickets-live-chat-new-channel.png
+   .. image:: receiving_tickets/receiving-tickets-live-chat-new-channel.webp
       :align: center
       :alt: View of the Kanban cards for the available Live Chat channels.
 
@@ -125,7 +125,7 @@ or by using one of the buttons located at the bottom of the form, such as :guila
    Users can add themselves as an operator by clicking the :guilabel:`Join Channel` button on a
    *Live Chat* channel.
 
-   .. image:: receiving_tickets/receiving-tickets-join-live-chat.png
+   .. image:: receiving_tickets/receiving-tickets-join-live-chat.webp
       :align: center
       :alt: View of a live chat channel Kanban card with the join button emphasized.
 
@@ -134,7 +134,7 @@ Options tab
 
 The :guilabel:`Options` tab contains the visual and text settings for the live chat window.
 
-.. image:: receiving_tickets/receiving-tickets-options-tab.png
+.. image:: receiving_tickets/receiving-tickets-options-tab.webp
    :align: center
    :alt: View of the options tab of a Live Chat channel's settings.
 
@@ -212,7 +212,7 @@ If this channel should only be available to users in specific countries, add tho
 :guilabel:`Country` field. If this field is left blank, the channel is available to all site
 visitors.
 
-.. image:: receiving_tickets/receiving-tickets-channel-rules.png
+.. image:: receiving_tickets/receiving-tickets-channel-rules.webp
    :align: center
    :alt: View of the Kanban cards for the available Live Chat channels.
 
@@ -278,7 +278,7 @@ automatically by Odoo.
    click the :guilabel:`Contact Us` button, at the bottom of the forum, to navigate to the ticket
    submission form.
 
-.. image:: receiving_tickets/receiving-tickets-go-to-website.png
+.. image:: receiving_tickets/receiving-tickets-go-to-website.webp
    :align: center
    :alt: View of the settings page of a helpdesk team emphasizing the Go to Website button in
          Odoo Helpdesk.
@@ -314,7 +314,7 @@ Edit the other options for the new field in the sidebar, as desired:
   such as, device visibility, appear when certain options are selected.
 - :guilabel:`Animation`: choose whether or not the field should include animation.
 
-.. image:: receiving_tickets/receiving-tickets-web-form.png
+.. image:: receiving_tickets/receiving-tickets-web-form.webp
    :align: center
    :alt: View of the unpublished website form to submit a ticket for Odoo Helpdesk.
 
@@ -328,7 +328,7 @@ Prioritizing tickets
 All tickets include a :guilabel:`Priority` field. The highest priority tickets appear at the top of
 the Kanban and list views.
 
-.. image:: receiving_tickets/receiving-tickets-priority.png
+.. image:: receiving_tickets/receiving-tickets-priority.webp
    :align: center
    :alt: View of a team's Kanban view and the prioritized tasks in Odoo Helpdesk.
 

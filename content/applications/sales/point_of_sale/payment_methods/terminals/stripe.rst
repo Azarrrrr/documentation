@@ -33,7 +33,7 @@ Then, create the payment method:
 - Enter your payment terminal serial number in the :guilabel:`Stripe Serial Number` field;
 - Click :guilabel:`Don't forget to complete Stripe connect before using this payment method.`
 
-.. image:: stripe/create-method-stripe.png
+.. image:: stripe/create-method-stripe.webp
    :align: center
    :alt: payment method creation form
 
@@ -56,7 +56,7 @@ completed, the API keys (:guilabel:`Publishable Key` and :guilabel:`Secret Key`)
 click the keys to copy them, and paste them into the corresponding fields in Odoo. Your terminal is
 ready to be configured in a POS.
 
-.. image:: stripe/stripe-connect.png
+.. image:: stripe/stripe-connect.webp
    :align: center
    :alt: stripe connection form
 

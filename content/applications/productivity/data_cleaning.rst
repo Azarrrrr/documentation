@@ -78,7 +78,7 @@ suggests groups of similar records to be :ref:`merged <data_cleaning/merge-recor
 conditions within the records set by the :ref:`deduplication rules
 <data_cleaning/deduplication-rules>`.
 
-.. image:: data_cleaning/data-cleaning-duplicates.png
+.. image:: data_cleaning/data-cleaning-duplicates.webp
    :align: center
    :alt: Deduplication dashboard in the Data Cleaning application.
 
@@ -217,7 +217,7 @@ On the :guilabel:`Field Recycle Records` dashboard (:menuselection:`Data Cleanin
 Records`), Odoo detects records that can be archived or deleted, by matching conditions within the
 records set by the :ref:`recycle record's rules <data_cleaning/recylce-rule>`.
 
-.. image:: data_cleaning/data-cleaning-recycle.png
+.. image:: data_cleaning/data-cleaning-recycle.webp
    :align: center
    :alt: Field Recycle Records dashboard in the Data Cleaning application.
 
@@ -305,7 +305,7 @@ With the rule's configuration complete, either close the rule form, or :ref:`run
    - :guilabel:`Recycle Action`: :guilabel:`Delete`
    - :guilabel:`Include Archived`: :icon:`fa-check-square`
 
-   .. image:: data_cleaning/data-cleaning-recycle-rule.png
+   .. image:: data_cleaning/data-cleaning-recycle-rule.webp
       :align: center
       :alt: Recycle records rule form for a lead/opportunity.
 

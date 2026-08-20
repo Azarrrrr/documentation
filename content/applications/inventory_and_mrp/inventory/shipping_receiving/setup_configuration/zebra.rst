@@ -34,7 +34,7 @@ window, choose :guilabel:`Settings / Technical / Reporting / Reports` to open th
    To manually navigate to the :guilabel:`Reports` page, go to :menuselection:`Settings app -->
    Technical --> Reporting: Reports`.
 
-.. image:: zebra/search.png
+.. image:: zebra/search.webp
    :align: center
    :alt: Show global search result for "Reports".
 
@@ -55,7 +55,7 @@ label from the list to modify it on a separate page.
 Next, click the :icon:`fa-code` :guilabel:`Qweb Views` smart button, and choose the desired label
 :doc:`view <../../../../../developer/reference/user_interface/view_records>`.
 
-.. figure:: zebra/qweb-views.png
+.. figure:: zebra/qweb-views.webp
    :align: center
    :alt: Show Qweb smart button on the Lot and Serial Number (ZPL) report.
 
@@ -70,7 +70,7 @@ On the resulting view form, go to the :guilabel:`Architecture` tab to view the |
    ensure the :guilabel:`No Update` field is set to :guilabel:`true (change)`. Click :guilabel:`Ok`
    to exit the :guilabel:`View Metadata` pop-up window.
 
-.. image:: zebra/architecture.png
+.. image:: zebra/architecture.webp
    :align: center
    :alt: Architecture tab in the view.
 
@@ -101,7 +101,7 @@ pixels for printers`) from the left and top margins.
 
    .. tab:: Default
 
-      .. image:: zebra/default-margin.png
+      .. image:: zebra/default-margin.webp
          :align: center
          :alt: Example barcode label with the product name cut off.
 
@@ -116,7 +116,7 @@ pixels for printers`) from the left and top margins.
 
    .. tab:: Modified
 
-      .. image:: zebra/fixed-margin.png
+      .. image:: zebra/fixed-margin.webp
          :align: center
          :alt: Example barcode label with the product name margin adjusted to the left.
 
@@ -149,7 +149,7 @@ width to three dots, a typical size that is easy for barcode scanners to read.
 
    .. tab:: Default
 
-      .. image:: zebra/normal-barcode.png
+      .. image:: zebra/normal-barcode.webp
          :align: center
          :alt: Example barcode label.
 
@@ -165,7 +165,7 @@ width to three dots, a typical size that is easy for barcode scanners to read.
 
    .. tab:: Modified
 
-      .. image:: zebra/shrink-barcode.png
+      .. image:: zebra/shrink-barcode.webp
          :align: center
          :alt: Example barcode label with the barcode size reduced.
 
@@ -202,7 +202,7 @@ defines the rotation of an item, which can be:
 
    .. tab:: Default
 
-      .. image:: zebra/lot.png
+      .. image:: zebra/lot.webp
          :align: center
          :alt: Example barcode label.
 
@@ -218,7 +218,7 @@ defines the rotation of an item, which can be:
 
    .. tab:: Modified
 
-      .. image:: zebra/rotate.png
+      .. image:: zebra/rotate.webp
          :align: center
          :alt: Example barcode label with the barcode rotated.
 

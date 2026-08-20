@@ -25,7 +25,7 @@ NPWP/NIK settings
     field on the customer's contact to set the NPWP needed to generate the e-Faktur file. If your
     customer does not have an NPWP, just enter the NIK in the same VAT field.
 
-  .. image:: indonesia/indonesia-partner-nik.png
+  .. image:: indonesia/indonesia-partner-nik.webp
      :align: center
 
 .. _localization_indonesia/e-faktur_usage:
@@ -49,7 +49,7 @@ Generate Tax Invoice Serial Number
    number, as requested by the Indonesia Tax Revenue Department.
 #. There is a counter to inform you how many unused numbers are left in that group.
 
-   .. image:: indonesia/indonesia-sn-count.png
+   .. image:: indonesia/indonesia-sn-count.webp
       :align: center
 
 .. _localization_indonesia/csv:
@@ -63,7 +63,7 @@ Generate e-faktur csv for a single invoice or a batch invoices
 #. Set a Kode Transaksi for the e-Faktur. There are constraints related to the Kode transaksi and
    the type of VAT applied to invoice lines.
 
-   .. image:: indonesia/indonesia-kode-transaksi.png
+   .. image:: indonesia/indonesia-kode-transaksi.webp
       :align: center
 
 #. Odoo will automatically pick the next available serial number from the e-Faktur number table (see
@@ -71,13 +71,13 @@ Generate e-faktur csv for a single invoice or a batch invoices
    number as a concatenation of Kode Transaksi and serial number. You can see this from the invoice
    form view under the page *Extra Info* in the box *Electronic Tax*.
 
-   .. image:: indonesia/indonesia-e-faktur-sn.png
+   .. image:: indonesia/indonesia-e-faktur-sn.webp
       :align: center
 
 #. Once the invoice is posted, you can generate and download the e-Faktur from the *Action* menu
    item *Download e-faktur*. The checkbox *CSV created* will be set.
 
-   .. image:: indonesia/indonesia-csv-created.png
+   .. image:: indonesia/indonesia-csv-created.webp
       :align: center
 
 #. You can select multiple invoices in list view and generate a batch e-Faktur .csv.
@@ -110,7 +110,7 @@ Correct an invoice that has been posted and downloaded: Replace Invoice feature
    replaced invoice replacing the third digit of the original serial number with *1* (as requested
    to upload a replacement invoice in the e-Faktur app).
 
-.. image:: indonesia/indonesia-replace-invoice.png
+.. image:: indonesia/indonesia-replace-invoice.webp
    :align: center
 
 .. _localization_indonesia/reset_e-faktur:
@@ -123,7 +123,7 @@ Correct an invoice that has been posted but not downloaded yet: Reset e-Faktur
 #. The serial number will be unassigned, and we will be able to reset the invoice to draft, edit it
    and re-assign a new serial number.
 
-.. image:: indonesia/indonesia-e-faktur-reset.png
+.. image:: indonesia/indonesia-e-faktur-reset.webp
    :align: center
 
 .. _localization_indonesia/qris-qr:
@@ -155,7 +155,7 @@ based on the information provided by QRIS.
 .. important::
    The account holder's country must be set to `Indonesia` on its contact form.
 
-.. image:: indonesia/qris-setup.png
+.. image:: indonesia/qris-setup.webp
    :alt: QRIS bank account configuration
 
 .. seealso::
@@ -167,7 +167,7 @@ Bank journal configuration
 Go to :menuselection:`Accounting --> Configuration --> Journals`, open the bank journal, then fill
 out the :guilabel:`Account Number` and :guilabel:`Bank` under the :guilabel:`Journal Entries` tab.
 
-.. image:: indonesia/journal-bank-config.png
+.. image:: indonesia/journal-bank-config.webp
     :alt: Bank journal configuration
 
 Issue invoices with QRIS QR codes
@@ -176,7 +176,7 @@ Issue invoices with QRIS QR codes
 When creating a new invoice, open the :guilabel:`Other Info` tab and set the :guilabel:`Payment
 QR-code` option to `QRIS`.
 
-.. image:: indonesia/invoice-qris.png
+.. image:: indonesia/invoice-qris.webp
    :alt: Select QRIS QR-code option
 
 Ensure that the :guilabel:`Recipient Bank` is the one you configured, as Odoo uses this field to

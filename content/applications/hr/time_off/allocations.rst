@@ -91,7 +91,7 @@ information:
 - :guilabel:`Add a reason...`: If any description or note is necessary to explain the time off
   allocation, enter it in this field at the bottom of the form.
 
-.. image:: allocations/new-allocation.png
+.. image:: allocations/new-allocation.webp
    :align: center
    :alt: A new allocation form with all the fields filled out for the annual two week vacation
          granted to all employees.
@@ -136,7 +136,7 @@ If the form was completed from the :guilabel:`My Allocations` list view, the inf
 automatically saved as it is entered. However, the form can be saved manually at any time by
 clicking the :icon:`fa-cloud-upload` :guilabel:`(cloud upload)` icon.
 
-.. image:: allocations/allocation-request.png
+.. image:: allocations/allocation-request.webp
    :align: center
    :alt: An allocation request form filled out for an employee requesting an additional week of
          sick time.

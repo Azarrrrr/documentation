@@ -8,7 +8,7 @@ and manage data.
 .. tip::
    Hold :kbd:`Ctrl` to view the keyboard shortcuts assigned to each element on the interface.
 
-   .. image:: keyboard_shortcuts/menu-shortcuts.png
+   .. image:: keyboard_shortcuts/menu-shortcuts.webp
       :align: center
       :alt: A selection of keyboard shortcuts in Odoo.
 
@@ -81,6 +81,6 @@ operating system.
    options. Then, click :kbd:`Ctrl` + :kbd:`Enter` to open the selected app, module, or menu in a
    new tab.
 
-   .. image:: keyboard_shortcuts/command-palete.png
+   .. image:: keyboard_shortcuts/command-palete.webp
       :align: center
       :alt: The command palette in Odoo, with the menu search option selected.

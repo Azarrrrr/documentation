@@ -36,7 +36,7 @@ to the database, but they can be adjusted at any point in the user's profile.
 
 To make changes to a user's rights, click on the desired user to edit their profile.
 
-.. image:: access_rights/navigate-to-users-menu.png
+.. image:: access_rights/navigate-to-users-menu.webp
    :align: center
    :alt: Users menu in the Users & Companies section of the Settings app of Odoo.
 
@@ -50,7 +50,7 @@ Documents`, :guilabel:`User: All Documents`, or :guilabel:`Administrator`.
 The :guilabel:`Administration` field in the :guilabel:`Access Rights` tab has the following options:
 :guilabel:`Settings` or :guilabel:`Access Rights`.
 
-.. image:: access_rights/user-permissions-dropdown-menu.png
+.. image:: access_rights/user-permissions-dropdown-menu.webp
    :align: center
    :alt: The Sales apps drop-down menu to set the user's level of permissions.
 
@@ -66,7 +66,7 @@ define rules for models within an application.
 To access groups, first activate Odoo's :ref:`developer mode <developer-mode>`, then go to
 :menuselection:`Settings app --> Users & Companies --> Groups`.
 
-.. image:: access_rights/click-users-and-companies.png
+.. image:: access_rights/click-users-and-companies.webp
    :align: center
    :alt: Groups menu in the Users & Companies section of the Settings app of Odoo.
 
@@ -86,7 +86,7 @@ The group form contains multiple tabs for managing all elements of the group. In
 :guilabel:`Add a line` to add a new row for users or rules, and click the :guilabel:`❌ (remove)`
 icon to remove a row.
 
-.. image:: access_rights/groups-form.png
+.. image:: access_rights/groups-form.webp
    :align: center
    :alt: Tabs in the Groups form to modify the settings of the group.
 
@@ -127,7 +127,7 @@ icon to remove a row.
      reveals itself with the specific Odoo :guilabel:`Model` name in the backend. This is the
      technical name of the model that should be added.
 
-     .. image:: access_rights/technical-info.png
+     .. image:: access_rights/technical-info.webp
         :align: center
         :alt: Technical information shown on a field of a model, with object highlighted.
 

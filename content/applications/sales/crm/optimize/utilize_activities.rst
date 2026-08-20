@@ -6,7 +6,7 @@ Utilize activities for sales teams
 on any page of the database that contains a chatter thread, Kanban view, list view, or activities
 view of an application.
 
-.. figure:: utilize_activities/activities-view.png
+.. figure:: utilize_activities/activities-view.webp
    :align: center
    :alt: The summary view of activities for leads and opportunities in an Odoo database.
 
@@ -65,7 +65,7 @@ after an activity is scheduled.
 - If :guilabel:`Request Signature` is selected, a link is added to the planned activity in the
   chatter that opens a signature request pop-up window.
 
-.. image:: utilize_activities/action-field.png
+.. image:: utilize_activities/action-field.webp
    :align: center
    :alt: The Activity settings on a new activity type with emphasis on the Action field.
 
@@ -104,7 +104,7 @@ In the :guilabel:`Chaining Type` field, select :guilabel:`Suggest Next Activity`
 field underneath changes to: :guilabel:`Suggest`. Click the :guilabel:`Suggest` field drop-down menu
 to select any activities to recommend as follow-up tasks to this activity type.
 
-.. image:: utilize_activities/next-activity.png
+.. image:: utilize_activities/next-activity.webp
    :align: center
    :alt: The Next Activity section on a new activity type form.
 
@@ -122,7 +122,7 @@ When all configurations are complete, click :guilabel:`Save`.
    has activities listed in the :guilabel:`Suggest` field, users are presented with recommendations
    for activities as next steps.
 
-   .. image:: utilize_activities/suggest-next-activity.png
+   .. image:: utilize_activities/suggest-next-activity.webp
       :align: center
       :alt: A schedule activity pop-up with emphasis on the recommended activities.
 
@@ -195,7 +195,7 @@ If :guilabel:`Default user` is selected in the :guilabel:`Assignment` field, cho
    Activity plans can feature activities that are assigned to default users and users assigned at
    the plan launch.
 
-  .. image:: utilize_activities/create-activity-plan.png
+  .. image:: utilize_activities/create-activity-plan.webp
      :align: center
      :alt: A Lead Plan form with scheduled activities.
 
@@ -238,7 +238,7 @@ the intervals configured on the :ref:`activity plan <crm/activity-plans>`.
 Select a user in the :guilabel:`Assigned To` field. This user is assigned to any of the activities
 on the plan were configured with :guilabel:`Ask at launch` in the :guilabel:`Assignment` field.
 
-.. image:: utilize_activities/schedule-activity-plan.png
+.. image:: utilize_activities/schedule-activity-plan.webp
    :align: center
    :alt: The schedule activity pop-up window with an Activity plan selected.
 
@@ -246,7 +246,7 @@ Click :guilabel:`Schedule`.
 
 The details of the plan are added to the chatter, in addition to each of the activities.
 
-.. image:: utilize_activities/activity-plan-chatter.png
+.. image:: utilize_activities/activity-plan-chatter.webp
    :align: center
    :alt: The chatter thread of a CRM opportunity with a launched activity plan.
 

@@ -31,7 +31,7 @@ Registration error
 
 In case of a registration error, the following message should be displayed.
 
-.. image:: on_premise/error-message-sub-code.png
+.. image:: on_premise/error-message-sub-code.webp
    :alt: Database registration error message
 
 To resolve the issue:
@@ -51,7 +51,7 @@ To resolve the issue:
   `Odoo Contract <https://accounts.odoo.com/my/subscription>`_. If two or more databases share the
   same UUID, their name will be displayed.
 
-  .. image:: on_premise/unlink-db-name-collision.png
+  .. image:: on_premise/unlink-db-name-collision.webp
      :alt: Database UUID error message
 
   If that is the case, manually change the database(s) UUID or `send a support ticket
@@ -73,7 +73,7 @@ Too many users error
 If you have more users in a local database than provisioned in your Odoo Enterprise subscription,
 the following message should be displayed.
 
-.. image:: on_premise/add-more-users.png
+.. image:: on_premise/add-more-users.webp
    :alt: Too many users on a database error message
 
 When the message appears, you have 30 days to act before the database expires. The countdown is
@@ -100,7 +100,7 @@ Database expired error
 If your database expires before you renew your subscription, the following message should be
 displayed.
 
-.. image:: on_premise/database-expired.png
+.. image:: on_premise/database-expired.webp
    :alt: Database expired error message
 
 This message appears if you fail to act before the end of the 30-day countdown.

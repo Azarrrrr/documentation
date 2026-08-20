@@ -28,22 +28,22 @@ Use the following settings:
 
      .. tab:: Light
 
-        .. image:: pdf_reports/layout-light.png
+        .. image:: pdf_reports/layout-light.webp
            :alt: Light report layout sample
 
      .. tab:: Boxed
 
-        .. image:: pdf_reports/layout-boxed.png
+        .. image:: pdf_reports/layout-boxed.webp
            :alt: Boxed report layout sample
 
      .. tab:: Bold
 
-        .. image:: pdf_reports/layout-bold.png
+        .. image:: pdf_reports/layout-bold.webp
            :alt: Bold report layout sample
 
      .. tab:: Striped
 
-        .. image:: pdf_reports/layout-striped.png
+        .. image:: pdf_reports/layout-striped.webp
            :alt: Striped report layout sample
 
 .. _studio/pdf-reports/default-layout/font:
@@ -141,7 +141,7 @@ To access the reports available for a model, access the model (e.g., sales order
    of the report, click the vertical ellipsis icon (:guilabel:`⋮`), and then select
    :guilabel:`Duplicate`.
 
-   .. image:: pdf_reports/duplicate-report.png
+   .. image:: pdf_reports/duplicate-report.webp
       :alt: Duplicating a PDF report
 
 Options
@@ -190,12 +190,12 @@ Conditional blocks
 The dashed rectangles represent **conditional blocks** (*if/else* statements). These are used to
 show/hide content based on specific conditions. Click on the block to view the conditions.
 
-.. image:: pdf_reports/conditional-block-if.png
+.. image:: pdf_reports/conditional-block-if.webp
    :alt: View conditions applied to a block.
 
 Select a value to preview its corresponding output and edit it if necessary.
 
-.. image:: pdf_reports/conditional-block-else.png
+.. image:: pdf_reports/conditional-block-else.webp
    :alt: Preview the output of another condition.
 
 .. note::
@@ -229,7 +229,7 @@ To add a field, type `/` and select the :guilabel:`Field` command. In the list t
 or search for the field; click the right arrow next to the field name to access the list of related
 fields if needed. Then, specify the default value and press `Enter`.
 
-.. image:: pdf_reports/powerbox-field.png
+.. image:: pdf_reports/powerbox-field.webp
    :alt: Select a related field.
 
 Add a data table
@@ -245,14 +245,14 @@ displayed in the table.
 Once the table has been added, you can add columns using the table tools. Position the cursor on top
 of the column, then click the purple rectangle and select an option.
 
-.. image:: pdf_reports/table-add-column.png
+.. image:: pdf_reports/table-add-column.webp
    :alt: Add a column in a dynamic table.
 
 You can then insert the :ref:`field of your choice
 <studio/pdf-reports/add-field>` in the columns. The dialog box that opens shows the source object
 for the field (e.g., the *Tag* model) and the list of available fields.
 
-.. image:: pdf_reports/dynamic-table.png
+.. image:: pdf_reports/dynamic-table.webp
    :alt: List of available fields for the Tag model.
 
 .. note::
@@ -267,7 +267,7 @@ Formatting
 To format text in the report, select it, then format it using the options in the
 :ref:`knowledge/text-editor`.
 
-  .. image:: pdf_reports/text-editor.png
+  .. image:: pdf_reports/text-editor.webp
      :alt: Format text using the text editor.
 
 .. _studio/pdf-reports/XML-editing:
@@ -368,7 +368,7 @@ Examples
                                  <span t-field="line.product_uom">units</span>
                                  <span t-if="line.product_packaging_id">
 
-    .. image:: pdf_reports/XML-SO-product-category.png
+    .. image:: pdf_reports/XML-SO-product-category.webp
        :alt: Add a Product Category column in a SO.
 
 .. spoiler:: Add a data table
@@ -400,7 +400,7 @@ Examples
           </tbody>
       </table>
 
-   .. image:: pdf_reports/XML-data-table.png
+   .. image:: pdf_reports/XML-data-table.webp
       :alt: Add a data table in XML
 
    .. note::
@@ -477,12 +477,12 @@ Examples
    By using the `t-if/t-else` notation, the report editor recognizes that these sections are
    mutually exclusive and should be displayed as conditional blocks:
 
-   .. image:: pdf_reports/XML-condition-if.png
+   .. image:: pdf_reports/XML-condition-if.webp
       :alt: Output preview if there are tags.
 
    You can switch conditions using the editor to preview their output:
 
-   .. image:: pdf_reports/XML-condition-else.png
+   .. image:: pdf_reports/XML-condition-else.webp
       :alt: Output preview if there are no tags.
 
    If you wish to have multiple options, you can also use `t-elif` directives to add intermediary
@@ -567,5 +567,5 @@ Examples
    The `t-options-width` attribute restricts the image width to 64 pixels, and the Bootstrap classes
    used in `t-options-class` create a thumbnail-like border with rounded corners and a shadow.
 
-   .. image:: pdf_reports/XML-images.png
+   .. image:: pdf_reports/XML-images.webp
       :alt: Add a column with the product image in the quotation table.

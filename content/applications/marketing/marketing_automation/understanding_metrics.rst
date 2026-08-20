@@ -14,7 +14,7 @@ where the various campaign activities are located, a collection of useful data c
 individual activity block, like number of communications :guilabel:`Sent`, percentage of messages
 that have been :guilabel:`Clicked`, and more.
 
-.. image:: understanding_metrics/activity-analytics-block-sample.png
+.. image:: understanding_metrics/activity-analytics-block-sample.webp
    :align: center
    :alt: An activity block in the workflow section with useful analytical data in Odoo.
 
@@ -27,7 +27,7 @@ displayed as a duration (either :guilabel:`Hours`, :guilabel:`Days`, :guilabel:`
    Replied`, etc.) the time is displayed, along with the necessary action for that activity to be
    activated (e.g. `Replied after 2 Hours`).
 
-   .. image:: understanding_metrics/replied-after-activity-time-trigger.png
+   .. image:: understanding_metrics/replied-after-activity-time-trigger.webp
       :align: center
       :alt: Time trigger display when dependent on another activity in Odoo Marketing Automation.
 
@@ -63,7 +63,7 @@ to the right of the line graph.
    Hovering over any point in the line graph of the activity block reveals a notated breakdown of
    data for that specific date.
 
-   .. image:: understanding_metrics/graph-breakdown-data.png
+   .. image:: understanding_metrics/graph-breakdown-data.webp
       :align: center
       :alt: Hovering over any point in line graph reveals notated breakdown of data in Odoo.
 
@@ -82,7 +82,7 @@ Activity filter tab
 Next to the :guilabel:`Graph` tab on the activity block, there's the option to open a
 :guilabel:`Filter` tab (represented by a :guilabel:`filter/funnel` icon).
 
-.. image:: understanding_metrics/activity-filter-tab.png
+.. image:: understanding_metrics/activity-filter-tab.webp
    :align: center
    :alt: What a campaign activity filter tab looks like in Odoo Marketing Automation.
 
@@ -101,7 +101,7 @@ Odoo tracks all URLs used in marketing campaigns. To access and analyze those UR
 :menuselection:`Marketing Automation app --> Reporting --> Link Tracker`. Doing so reveals a
 :guilabel:`Link Statistics` page, wherein all campaign-related URLs can be analyzed.
 
-.. image:: understanding_metrics/campaign-link-tracker.png
+.. image:: understanding_metrics/campaign-link-tracker.webp
    :align: center
    :alt: What a campaign activity filter tab looks like in Odoo Marketing Automation.
 
@@ -128,7 +128,7 @@ Odoo tracks all activities used in every marketing campaign. The data related to
 can be accessed and analyzed in the :guilabel:`Traces` page, which can be found by navigating to
 :menuselection:`Marketing Automation app --> Reporting --> Traces`.
 
-.. image:: understanding_metrics/traces-page-marketing-automation.png
+.. image:: understanding_metrics/traces-page-marketing-automation.webp
    :align: center
    :alt: The Traces page in the Odoo Marketing Automation application.
 
@@ -160,7 +160,7 @@ Odoo tracks all participants related to every marketing campaign. The data relat
 participants can be accessed and analyzed in the :guilabel:`Participants` page, which can be found
 by navigating to :menuselection:`Marketing Automation app --> Reporting --> Participants`.
 
-.. image:: understanding_metrics/participants-page-marketing-automation.png
+.. image:: understanding_metrics/participants-page-marketing-automation.webp
    :align: center
    :alt: The Participants page in the Odoo Marketing Automation application.
 

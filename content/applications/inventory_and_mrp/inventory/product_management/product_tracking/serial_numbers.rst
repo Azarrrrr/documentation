@@ -35,7 +35,7 @@ to the :guilabel:`Traceability` section, and tick the :guilabel:`Lots & Serial N
 Remember to click the :guilabel:`Save` button to save changes.
 
 
-.. image:: serial_numbers/enabled-setting.png
+.. image:: serial_numbers/enabled-setting.webp
    :alt: Enabled Lots & Serial Numbers setting.
 
 .. _inventory/product_management/operation-type-setting:
@@ -60,7 +60,7 @@ From the :guilabel:`Operations Types` page, select the desired operation type (e
 :guilabel:`Create New` option in the :guilabel:`Lots/Serial Numbers` section of the operation type's
 configuration page.
 
-.. image:: serial_numbers/create-new-setting.png
+.. image:: serial_numbers/create-new-setting.webp
    :alt: Show "Create New" option is selected on the Receipts operation type.
 
 .. _inventory/product_management/detailed-operations:
@@ -77,7 +77,7 @@ In the :guilabel:`General Information` tab on the product form, make sure the bo
 :guilabel:`Save` to save the changes. Now, existing or new serial numbers can now be selected and
 assigned to newly-received or manufactured batches of this product.
 
-.. image:: serial_numbers/product-tracking.png
+.. image:: serial_numbers/product-tracking.webp
    :alt: Enabled serial number tracking on product form.
 
 .. _inventory/product_management/assign-sn:
@@ -128,7 +128,7 @@ below.
 
 When all desired configurations are complete, click the :guilabel:`Save` button to save all changes.
 
-.. image:: serial_numbers/new-serial-number.png
+.. image:: serial_numbers/new-serial-number.webp
    :alt: New serial number created for existing product stock.
 
 After a new serial number has been created, assigned to the desired product, and saved, navigate
@@ -163,7 +163,7 @@ Lots/serial number field
 Serial numbers can be entered directly into the :guilabel:`Serial Numbers` field on a receipt or
 delivery order.
 
-.. image:: serial_numbers/enter-in-field.png
+.. image:: serial_numbers/enter-in-field.webp
    :alt: Select value for Serial Number field on receipt.
 
 .. tip::
@@ -171,7 +171,7 @@ delivery order.
    :icon:`oi-settings-adjust` :guilabel:`(Adjust Settings)` icon, and in the drop-down menu, tick
    the :guilabel:`Serial Numbers` checkbox.
 
-   .. figure:: serial_numbers/field-visible.png
+   .. figure:: serial_numbers/field-visible.webp
       :alt: Allow Serial Numbers field to show on a receipt or delivery order.
 
       Example **Serial Numbers** field on a delivery order.
@@ -191,7 +191,7 @@ In the :guilabel:`Open: Stock move` pop-up window, manually enter serial numbers
 :guilabel:`Lot/Serial Number` column. This method is best reserved for adding only one or a few
 serial numbers.
 
-.. image:: serial_numbers/stock-move-add-line.png
+.. image:: serial_numbers/stock-move-add-line.webp
    :alt: Add a line on the stock move pop-up.
 
 .. _inventory/product_management/generate-serials:
@@ -202,7 +202,7 @@ Generate Serials/Lots
 Assign multiple serial numbers at once by clicking the :guilabel:`Generate Serials/Lots` button in
 the :guilabel:`Open: Stock move` pop-up window.
 
-.. image:: serial_numbers/stock-move-generate-serials.png
+.. image:: serial_numbers/stock-move-generate-serials.webp
    :alt: Show generate serials pop-up.
 
 Doing so opens a new popup, :guilabel:`Generate Serial numbers`, which contains a few fields:
@@ -217,7 +217,7 @@ Doing so opens a new popup, :guilabel:`Generate Serial numbers`, which contains 
      :guilabel:`Demand` value, Odoo still allows the quantity (based on the serial numbers) to be
      delivered or received.
 
-     .. image:: serial_numbers/stock-move-generate-quantity-tip.png
+     .. image:: serial_numbers/stock-move-generate-quantity-tip.webp
         :alt: Show how the quantity of serial numbers alters the delivery order quantity.
 
 - :guilabel:`Keep current lines` checkbox: Check this box to keep existing serial numbers that may
@@ -252,7 +252,7 @@ overwrite them.
 
 Finally, click :guilabel:`Generate`.
 
-.. image:: serial_numbers/stock-move-import-serials.png
+.. image:: serial_numbers/stock-move-import-serials.webp
    :alt: Show import serials pop-up.
 
 .. example::
@@ -271,7 +271,7 @@ Finally, click :guilabel:`Generate`.
    The :guilabel:`Keep current lines` option is selected to add these two serial numbers **in
    addition** to the serial number, `123`, that has already been assigned.
 
-   .. image:: serial_numbers/import-serial.png
+   .. image:: serial_numbers/import-serial.webp
       :alt: Show example of correctly inputting serial numbers in the text field.
 
 .. _inventory/product_management/moves-button:
@@ -291,7 +291,7 @@ To access this page, first :ref:`select a warehouse receipt or delivery order
 In the :guilabel:`Lot/Serial Number` column, manually type (or select from the drop-down menu)
 the desired serial numbers for each individual product.
 
-.. image:: serial_numbers/moves-button.png
+.. image:: serial_numbers/moves-button.webp
    :alt: Show the detailed Moves page.
 
 When finished, click the receipt/delivery order's breadcrumbs, and the assigned serial numbers are
@@ -327,7 +327,7 @@ Doing so reveals all existing serial numbers and lots. Each row can be expanded 
 quantities of product assigned to that serial/lot number. For unique serial numbers that are not
 reused, there should be just one product per serial number.
 
-.. image:: serial_numbers/serial-numbers-dashboard.png
+.. image:: serial_numbers/serial-numbers-dashboard.webp
    :alt: Serial numbers reporting page with drop-down lists.
 
 .. tip::

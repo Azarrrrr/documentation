@@ -19,13 +19,13 @@ First, log in to the Gmail account that the user wishes to connect to Odoo.
 From the Gmail inbox, click the plus sign icon on the right side panel to get add-ons. If the side
 panel is not visible, click on the arrow icon at the bottom right corner of the inbox to reveal it.
 
-.. image:: gmail/gmail-side-panel.png
+.. image:: gmail/gmail-side-panel.webp
    :align: center
    :alt: Plus sign icon on the Gmail inbox side panel.
 
 Then, use the search bar to search for `Odoo` and locate the :guilabel:`Odoo Inbox Addin`.
 
-.. image:: gmail/google-workspace-marketplace.png
+.. image:: gmail/google-workspace-marketplace.webp
    :align: center
    :alt: Odoo Inbox Addin on Google Workspace Marketplace.
 
@@ -47,7 +47,7 @@ Plugin. To enable the feature, go to :menuselection:`Settings --> General Settin
 :guilabel:`Integrations` section, activate :guilabel:`Mail Plugin`, and then click
 :guilabel:`Save`.
 
-.. image:: gmail/mail-plugin-setting.png
+.. image:: gmail/mail-plugin-setting.webp
    :align: center
    :alt: The Mail Plugin feature in the Settings.
 
@@ -58,7 +58,7 @@ In the Gmail inbox, a purple Odoo icon is now visible on the right side panel. C
 icon to open up the Odoo plugin window. Then, click on any email in the inbox. Click
 :guilabel:`Authorize Access` in the plugin window to grant Odoo access to the Gmail inbox.
 
-.. image:: gmail/authorize-access.png
+.. image:: gmail/authorize-access.webp
    :align: center
    :alt: The Authorize Access button in the right sidebar of the Odoo plugin panel.
 
@@ -97,7 +97,7 @@ First, access the `GitHub repository <https://github.com/odoo/mail-client-extens
 Odoo Mail Plugins. Next, click on the green :guilabel:`Code` button. Then, click
 :guilabel:`Download ZIP` to download the Mail Plugin files onto the user's computer.
 
-.. image:: gmail/gh-download-zip.png
+.. image:: gmail/gh-download-zip.webp
    :align: center
    :alt: Download the ZIP file from the Odoo GitHub repository for Mail Plugins.
 
@@ -137,7 +137,7 @@ The :guilabel:`Mail Plugin` feature must be enabled in the Odoo database in orde
 Plugin. To enable the feature, go to :menuselection:`Settings --> General Settings`. Under the
 :guilabel:`Integrations` section, activate :guilabel:`Mail Plugin`, and then click :guilabel:`Save`.
 
-.. image:: gmail/mail-plugin-setting.png
+.. image:: gmail/mail-plugin-setting.webp
    :align: center
    :alt: The Mail Plugin feature in the Settings.
 
@@ -148,7 +148,7 @@ In the Gmail inbox, a purple Odoo icon is now visible on the right side panel. C
 icon to open up the Odoo plugin window. Then, click on any email in the inbox. Click
 :guilabel:`Authorize Access` in the plugin window to grant Odoo access to the Gmail inbox.
 
-.. image:: gmail/authorize-access.png
+.. image:: gmail/authorize-access.webp
    :align: center
    :alt: The Authorize Access button in the right sidebar of the Odoo plugin panel.
 

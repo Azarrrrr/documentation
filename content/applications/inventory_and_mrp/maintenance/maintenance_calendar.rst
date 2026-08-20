@@ -21,7 +21,7 @@ calendar, navigate to :menuselection:`Maintenance app --> Maintenance --> Mainte
 To create a new request, click anywhere on the calendar. Doing so opens a :guilabel:`New Event`
 pop-up window. In the :guilabel:`Name:` field, assign a title to the new request.
 
-.. image:: maintenance_calendar/maintenance-calendar-new-event-popup.png
+.. image:: maintenance_calendar/maintenance-calendar-new-event-popup.webp
    :align: center
    :alt: New event creation pop-up window.
 
@@ -40,7 +40,7 @@ In the :guilabel:`Request` field, assign a title to the new request. In the :gui
 field, from the drop-down menu, select which user the request was created by. By default, this field
 populates with the user actually creating the request.
 
-.. image:: maintenance_calendar/maintenance-calendar-new-request-form.png
+.. image:: maintenance_calendar/maintenance-calendar-new-request-form.webp
    :align: center
    :alt: New maintenance request form creation.
 
@@ -84,7 +84,7 @@ From the drop-down menu for the :guilabel:`Team` field, select the desired maint
 perform the maintenance. In the :guilabel:`Responsible` field, select the technician responsible for
 the request.
 
-.. image:: maintenance_calendar/maintenance-calendar-filled-out-form.png
+.. image:: maintenance_calendar/maintenance-calendar-filled-out-form.webp
    :align: center
    :alt: Filled-out details of maintenance request form.
 
@@ -109,7 +109,7 @@ In the :guilabel:`Instructions` tab, if necessary, select one of the three radio
 provide maintenance instructions to the assigned team or technician. The available methods for
 providing instructions are via :guilabel:`PDF`, :guilabel:`Google Slide`, or :guilabel:`Text`.
 
-.. image:: maintenance_calendar/maintenance-calendar-instructions-tab.png
+.. image:: maintenance_calendar/maintenance-calendar-instructions-tab.webp
    :align: center
    :alt: Instructions tab options on maintenance request form.
 
@@ -145,7 +145,7 @@ are displayed.
 The right-hand side of the drop-down menu lists the :guilabel:`Favorites`, or any searches that have
 been saved as a favorite to be revisited at a later date.
 
-.. image:: maintenance_calendar/maintenance-calendar-favorites-popover.png
+.. image:: maintenance_calendar/maintenance-calendar-favorites-popover.webp
    :align: center
    :alt: Favorites section of filters drop-down menu.
 
@@ -172,7 +172,7 @@ The :guilabel:`Maintenance Calendar` is available in six different views: :guila
 (default), :guilabel:`Kanban`, :guilabel:`List`, :guilabel:`Pivot`, :guilabel:`Graph`, and
 :guilabel:`Activity`.
 
-.. image:: maintenance_calendar/maintenance-calendar-view-type-icons.png
+.. image:: maintenance_calendar/maintenance-calendar-view-type-icons.webp
    :align: center
    :alt: Different view type icons for maintenance calendar.
 
@@ -189,7 +189,7 @@ viewed: :guilabel:`Day`, :guilabel:`Month`, and :guilabel:`Year`. There is also 
 :guilabel:`Show weekends`, selected by default. If unselected, weekends are not shown on the
 calendar.
 
-.. image:: maintenance_calendar/maintenance-calendar-period-dropdown.png
+.. image:: maintenance_calendar/maintenance-calendar-period-dropdown.webp
    :align: center
    :alt: Calendar period drop-down menu options.
 
@@ -223,7 +223,7 @@ Each column has a name (i.e. :guilabel:`In Progress`). Hovering at the top of a 
 :guilabel:`⚙️ (gear)` icon. Clicking the :guilabel:`⚙️ (gear)` icon reveals a list of options for
 that column: :guilabel:`Fold`, :guilabel:`Edit`, :guilabel:`Automations`, and :guilabel:`Delete`.
 
-.. image:: maintenance_calendar/maintenance-calendar-kanban-column.png
+.. image:: maintenance_calendar/maintenance-calendar-kanban-column.webp
    :align: center
    :alt: Column options for stage in Kanban view.
 
@@ -233,7 +233,7 @@ Clicking :guilabel:`Edit` opens an :guilabel:`Edit: (stage name)` pop-up window,
 corresponding stage name, wherein the column's details can be edited. The following are the column
 options that can be edited:
 
-.. image:: maintenance_calendar/maintenance-calendar-edit-stage-popup.png
+.. image:: maintenance_calendar/maintenance-calendar-edit-stage-popup.webp
    :align: center
    :alt: Edit In Progress pop-up window.
 
@@ -278,7 +278,7 @@ To add more data to the pivot table, click the :guilabel:`Measures` button to re
 menu. By default, :guilabel:`Count` is selected. Additional options to add to the table are
 :guilabel:`Additional Leaves to Plan Ahead`, :guilabel:`Duration`, and :guilabel:`Repeat Every`.
 
-.. image:: maintenance_calendar/maintenance-calendar-measures-menu.png
+.. image:: maintenance_calendar/maintenance-calendar-measures-menu.webp
    :align: center
    :alt: Measures options on Pivot view page.
 
@@ -304,7 +304,7 @@ With the graph view selected, the following options appear between the search ba
 representation of the data. These graph-specific options are located to the right of the
 :guilabel:`Measures` and :guilabel:`Insert in Spreadsheet` buttons.
 
-.. image:: maintenance_calendar/maintenance-calendar-graph-view-icons.png
+.. image:: maintenance_calendar/maintenance-calendar-graph-view-icons.webp
    :align: center
    :alt: Graph type icons on Graph view page.
 
@@ -338,7 +338,7 @@ Activity view
 With the :guilabel:`Activity` view selected, all open maintenance requests are listed in their own
 row, with the ability to schedule activities related to those requests.
 
-.. image:: maintenance_calendar/maintenance-calendar-activity-view-type.png
+.. image:: maintenance_calendar/maintenance-calendar-activity-view-type.webp
    :align: center
    :alt: Maintenance requests on Activity view.
 
@@ -351,7 +351,7 @@ From the pop-up window, choose the :guilabel:`Activity Type`, provide a :guilabe
 schedule a :guilabel:`Due Date`, and choose the responsible user in the :guilabel:`Assigned to`
 field.
 
-.. image:: maintenance_calendar/maintenance-calendar-schedule-activity-popover.png
+.. image:: maintenance_calendar/maintenance-calendar-schedule-activity-popover.webp
    :align: center
    :alt: Schedule Activity pop-up window.
 
@@ -371,7 +371,7 @@ To schedule an activity with that specific activity type, click into any blank b
 corresponding row for the desired maintenance request, and click the :guilabel:`➕ (plus)` icon. This
 opens an :guilabel:`Odoo` pop-up window, wherein the activity can be scheduled.
 
-.. image:: maintenance_calendar/maintenance-calendar-odoo-activity-popup.png
+.. image:: maintenance_calendar/maintenance-calendar-odoo-activity-popup.webp
    :align: center
    :alt: Odoo pop-up schedule activity window.
 

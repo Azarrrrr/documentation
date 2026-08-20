@@ -10,7 +10,7 @@ candidates can apply, a :guilabel:`Published` banner appears in the top-right co
 
 View submitted applications by clicking anywhere on a job position card.
 
-.. image:: new_job/jobs.png
+.. image:: new_job/jobs.webp
    :align: center
    :alt: Main dashboard view of Recruitment app showing all job positions.
 
@@ -32,7 +32,7 @@ them automatically.
 When complete, click the :guilabel:`Create` button to save the entry, or the :guilabel:`Discard`
 button to delete it.
 
-.. image:: new_job/job-title.png
+.. image:: new_job/job-title.webp
    :align: center
    :alt: Create a new job position.
 
@@ -48,7 +48,7 @@ After the job position is created, it's time to enter the details for the positi
 :guilabel:`⋮ (three dots)` icon in the upper-right corner of the relevant card to reveal several
 options, and then click :guilabel:`Configuration` to edit the details.
 
-.. image:: new_job/edit-job.png
+.. image:: new_job/edit-job.webp
    :align: center
    :alt: Edit the job position card.
 
@@ -99,7 +99,7 @@ The fields can be filled out as follows:
 
 Finally, enter the job description in the :guilabel:`Job Summary` tab.
 
-.. image:: new_job/recruitment-tab.png
+.. image:: new_job/recruitment-tab.webp
    :align: center
    :alt: Enter job information details in the recruitment tab.
 
@@ -124,7 +124,7 @@ several options populate beneath the entry: :guilabel:`Create (interview form na
 :guilabel:`Search More...`, and :guilabel:`Create and edit...`. Click :guilabel:`Create and edit...`
 and a :guilabel:`Create Interview Form` modal appears.
 
-.. image:: new_job/blank-interview-form.png
+.. image:: new_job/blank-interview-form.webp
    :align: center
    :alt: The blank interview form modal.
 

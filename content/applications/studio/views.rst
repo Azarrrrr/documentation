@@ -60,7 +60,7 @@ contacts, sales orders, products, etc.
 
 .. example::
 
-   .. image:: views/form-sales-order.png
+   .. image:: views/form-sales-order.webp
       :alt: Sales order model's Form view
 
 .. _studio/views/general/activity:
@@ -76,7 +76,7 @@ activities (emails, calls, etc.) linked to records.
 
 .. example::
 
-   .. image:: views/activity-lead-opportunity.png
+   .. image:: views/activity-lead-opportunity.webp
       :alt: Lead/Opportunity model's Activity view
 
 .. _studio/views/general/search:
@@ -94,7 +94,7 @@ search records.
 
 .. example::
 
-   .. image:: views/search-project-kanban.png
+   .. image:: views/search-project-kanban.webp
       :alt: Project model's Search view on the Kanban view
 
 .. _studio/views/multiple-records:
@@ -125,7 +125,7 @@ records across stages or as an alternative way to display records inside *cards*
 
 .. example::
 
-   .. image:: views/kanban-project.png
+   .. image:: views/kanban-project.webp
       :alt: Project model's Kanban view
 
 .. _studio/views/multiple-records/list:
@@ -160,12 +160,12 @@ records, and edit simple records.
    To add a :icon:`oi-draggable` (:guilabel:`drag handle`) icon to reorder records manually, add an
    :ref:`Integer field <studio/fields/simple-fields/integer>` with the :guilabel:`Handle` widget.
 
-   .. image:: views/list-drag-handle.png
+   .. image:: views/list-drag-handle.webp
       :alt: Drag handle icon enabling to sort records manually in List view
 
 .. example::
 
-   .. image:: views/list-sales-order.png
+   .. image:: views/list-sales-order.webp
       :alt: Sales order model's List view
 
 .. _studio/views/multiple-records/map:
@@ -190,7 +190,7 @@ is used in the Field Service app to plan an itinerary between different tasks.
 
 .. example::
 
-   .. image:: views/map-task.png
+   .. image:: views/map-task.webp
       :alt: Task model's Map view
 
 .. _studio/views/timeline:
@@ -245,7 +245,7 @@ calendar.
 
 .. example::
 
-   .. image:: views/calendar-event.png
+   .. image:: views/calendar-event.webp
       :alt: Calendar Event model's Calendar view
 
 .. _studio/views/timeline/cohort:
@@ -271,7 +271,7 @@ rate.
 
 .. example::
 
-   .. image:: views/cohort-subscription.png
+   .. image:: views/cohort-subscription.webp
       :alt: Subscription model's Cohort view
 
 .. _studio/views/timeline/gantt:
@@ -310,7 +310,7 @@ records. Records are represented by a bar under a time scale.
 
 .. example::
 
-   .. image:: views/gantt-planning.png
+   .. image:: views/gantt-planning.webp
       :alt: Planning Shift model's Gantt view
 
 .. _studio/views/reporting:
@@ -342,7 +342,7 @@ categories, and drill down the data by expanding and collapsing different levels
 
 .. example::
 
-   .. image:: views/pivot-purchase-report.png
+   .. image:: views/pivot-purchase-report.webp
       :alt: Purchase Report model's Pivot view
 
 .. _studio/views/reporting/graph:
@@ -369,6 +369,6 @@ line, or pie chart.
 
 .. example::
 
-   .. image:: views/graph-sales-report.png
+   .. image:: views/graph-sales-report.webp
        :alt: Sales Analysis Report model's Bar chart on Graph view
        :scale: 75%

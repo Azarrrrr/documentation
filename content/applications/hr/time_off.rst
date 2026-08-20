@@ -163,7 +163,7 @@ field appears. In this field, enter the maximum amount of negative time allowed,
    These settings allow Sara to submit a request for five days of the `Vacation` time off type. If
    approved, her `Vacation` time off balance will be negative two (-2) days.
 
-.. image:: time_off/time-off-type-form-top.png
+.. image:: time_off/time-off-type-form-top.webp
    :align: center
    :alt: The top half of the time off type form, with all the information filled out for sick time
          off.
@@ -194,7 +194,7 @@ Display Option section
 - :guilabel:`Color`: Select a color to be used in the **Time Off** app dashboard.
 - :guilabel:`Cover Image`: Select an icon to be used in the **Time Off** app dashboard.
 
-.. image:: time_off/time-off-type-form-bottom.png
+.. image:: time_off/time-off-type-form-bottom.webp
    :align: center
    :alt: The lower half of the time off type form, with all the information filled out for sick time
          off.
@@ -263,7 +263,7 @@ Enter the following information on the form:
   menu, select the company the accrual plan applies to. If left blank, the accrual plan can be used
   for all companies.
 
-.. image:: time_off/accrual-plan-form.png
+.. image:: time_off/accrual-plan-form.webp
    :align: center
    :alt: An accrual plan form with all the entries filled out.
 
@@ -342,7 +342,7 @@ Once the form is completed, click :guilabel:`Save & Close` to save the :guilabel
 form, and close the modal, or click :guilabel:`Save & New` to save the form and create another
 milestone. Add as many milestones as desired.
 
-.. image:: time_off/milestone.png
+.. image:: time_off/milestone.webp
    :align: center
    :alt: A milestone form with all the entries filled out.
 
@@ -414,7 +414,7 @@ Enter the following information on that new line:
   entries <payroll/work-entries>` for the holiday appear. Select the work entry type from the
   drop-down menu.
 
-.. image:: time_off/holidays.png
+.. image:: time_off/holidays.webp
    :align: center
    :alt: The list of public holidays in the configuration menu.
 
@@ -459,7 +459,7 @@ Enter the following information on that new line:
   across it. The selected color appears on the main **Time Off** app dashboard, in both the calendar
   and in the legend.
 
-.. image:: time_off/mandatory.png
+.. image:: time_off/mandatory.webp
    :align: center
    :alt: The Mandatory Days section with three configured days.
 
@@ -501,7 +501,7 @@ Click on a time off entry to view the details for the specific time off entry. T
 hours or days are listed, along with the start and end time of the time off. To view the details of
 the time off request in a modal, click the :guilabel:`View` button.
 
-.. image:: time_off/overview.png
+.. image:: time_off/overview.webp
    :align: center
    :alt: Overview of the user's team, with time off requests shown.
 
@@ -539,7 +539,7 @@ The information shown in the list includes: the :guilabel:`Employee` name, :guil
 Days` off requested, the :guilabel:`Start Date`, :guilabel:`End Date`, :guilabel:`Status`, and
 :guilabel:`Description`.
 
-.. image:: time_off/employee-report.png
+.. image:: time_off/employee-report.webp
    :align: center
    :alt: Report of time off, shown by each employee in a list view.
 
@@ -560,7 +560,7 @@ To view a list of all time off, organized by time off type, navigate to :menusel
 
 Hover over a bar to view the :guilabel:`Duration (Days)` of that specific time off type.
 
-.. image:: time_off/bar-chart.png
+.. image:: time_off/bar-chart.webp
    :align: center
    :alt: The various time off types, and how many days requested, in a bar chart. Details are
          highlighted in a red box.

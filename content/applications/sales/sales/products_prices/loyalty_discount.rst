@@ -27,7 +27,7 @@ a new program from scratch.
 
 Or, if there are already existing programs, select an existing program to edit it.
 
-.. image:: loyalty_discount/price-discount-loyalty.png
+.. image:: loyalty_discount/price-discount-loyalty.webp
    :align: center
    :alt: Discount and loyalty program template cards.
 
@@ -37,7 +37,7 @@ Or, if there are already existing programs, select an existing program to edit i
 
 Creating or editing a program opens the program form.
 
-.. image:: loyalty_discount/price-programs.png
+.. image:: loyalty_discount/price-programs.webp
    :align: center
    :alt: Program options on the loyalty program form.
 
@@ -78,7 +78,7 @@ The program form contains the following fields:
 All of the existing cards, codes, coupons, etc. that have been generated for the program are
 accessible through the smart button located at the top of the form.
 
-.. image:: loyalty_discount/price-programs-items.png
+.. image:: loyalty_discount/price-programs-items.webp
    :align: center
    :alt: Program items smart button on the loyalty program form.
 
@@ -86,7 +86,7 @@ accessible through the smart button located at the top of the form.
    In Odoo 17 (and later), when a loyalty card or coupon is associated with a contact in the
    database, a :guilabel:`Loyalty Cards` smart button conditionally appears on the contact form.
 
-   .. image:: loyalty_discount/loyalty-cards-smart-button.png
+   .. image:: loyalty_discount/loyalty-cards-smart-button.webp
       :align: center
       :alt: The Loyalty Card smart button as it appears on a contact form in Odoo 17.
 
@@ -122,7 +122,7 @@ In the :guilabel:`Rules & Rewards` tab, click :guilabel:`Add` next to :guilabel:
 to add *conditions* to the program. This reveals a :guilabel:`Create Conditional rules` pop-up
 window.
 
-.. image:: loyalty_discount/price-conditional-rewards.png
+.. image:: loyalty_discount/price-conditional-rewards.webp
    :align: center
    :alt: Rules & Rewards tab of the loyalty program form.
 
@@ -151,7 +151,7 @@ The following options are available for configuring conditional rules:
   :guilabel:`per currency spent`, or :guilabel:`per unit paid` (for the :guilabel:`Loyalty Cards`
   and :guilabel:`Buy X Get Y` programs).
 
-.. image:: loyalty_discount/price-conditions.png
+.. image:: loyalty_discount/price-conditions.webp
    :align: center
    :alt: Conditional rules configuration window for a discount or loyalty program.
 
@@ -202,6 +202,6 @@ The following options are available for configuring rewards:
 - :guilabel:`Description on order`: Enter the description of the reward, which is displayed to the
   customer upon checkout.
 
-.. image:: loyalty_discount/price-rewards.png
+.. image:: loyalty_discount/price-rewards.webp
    :align: center
    :alt: Rewards configuration window for a discount or loyalty program.

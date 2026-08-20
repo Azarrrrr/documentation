@@ -26,7 +26,7 @@ How does it work?
 
 Internal workings of the mobile application:
 
-.. image:: mobile/mobile_working.jpg
+.. image:: mobile/mobile_working.webp
 
 Of course, it is a web page that loads on a Mobile Native Web container. But it
 is integrated in such a way that you can access native resources from your web
@@ -50,7 +50,7 @@ How to use it?
 Just like the Odoo Web Framework, the Mobile API can be used anywhere by getting the object from
 **web_mobile.rpc**
 
-.. image:: mobile/odoo_mobile_api.png
+.. image:: mobile/odoo_mobile_api.webp
 
 The mobile RPC object provides a list of methods that are available (this only works with the mobile
 app).
@@ -78,7 +78,7 @@ remains visible and interactive.
 
     mobile.methods.showToast({'message': 'Message sent'});
 
-.. image:: mobile/toast.png
+.. image:: mobile/toast.webp
 
 Vibrating device
 ~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ displayed at a time.
         }
     });
 
-.. image:: mobile/snackbar.png
+.. image:: mobile/snackbar.webp
 
 Showing notification
 ~~~~~~~~~~~~~~~~~~~~
@@ -137,7 +137,7 @@ view at any time.
 
     mobile.showNotification({'title': 'Simple Notification', 'message': 'This is a test for a simple notification'})
 
-.. image:: mobile/mobile_notification.png
+.. image:: mobile/mobile_notification.webp
 
 
 Create contact in device
@@ -171,7 +171,7 @@ Create a new device contact with the given contact details.
 
     mobile.methods.addContact(contact);
 
-.. image:: mobile/mobile_contact_create.png
+.. image:: mobile/mobile_contact_create.webp
 
 Scanning barcodes
 ~~~~~~~~~~~~~~~~~
@@ -206,4 +206,4 @@ Use switchAccount to switch from one account to another on the device.
 
     mobile.methods.switchAccount();
 
-.. image:: mobile/mobile_switch_account.png
+.. image:: mobile/mobile_switch_account.webp

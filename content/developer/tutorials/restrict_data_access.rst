@@ -111,7 +111,7 @@ As simple example `can be found here <https://github.com/odoo/odoo/blob/532c083c
     If you go to :menuselection:`Settings --> Manage Users` and open the
     ``admin`` user ("Mitchell Admin"), you should see a new section:
 
-    .. figure:: restrict_data_access/groups.png
+    .. figure:: restrict_data_access/groups.webp
 
     Set the admin user to be a *Real Estate manager*.
 
@@ -124,7 +124,7 @@ As simple example `can be found here <https://github.com/odoo/odoo/blob/532c083c
     a password), as the real-estate agent you should only see the real estate
     application, and possibly the Discuss (chat) application:
 
-    .. figure:: restrict_data_access/agent.png
+    .. figure:: restrict_data_access/agent.webp
 
 Access Rights
 =============
@@ -274,7 +274,7 @@ Bypassing Security
 If you try to mark a property as "sold" as the real estate agent, you should get
 an access error:
 
-.. figure:: restrict_data_access/error.png
+.. figure:: restrict_data_access/error.webp
 
 This happens because ``estate_account`` tries to create an invoice during the
 process, but creating an invoice requires the right to all invoice management.

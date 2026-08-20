@@ -15,7 +15,7 @@ To use an ePos printer in Point of Sale:
 #. Activate the :guilabel:`ePos Printer` feature.
 #. Fill in the field with your ePos IP address.
 
-.. image:: epos_printers/setting.png
+.. image:: epos_printers/setting.webp
    :alt: setting to enable the ePos printer feature
 
 .. note::

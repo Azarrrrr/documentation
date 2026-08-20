@@ -25,7 +25,7 @@ that is designated on their profile page.
    last name in a live chat conversation. They would then set their :guilabel:`Online Chat Name` to
    include only their first name.
 
-   .. image:: participate/online-chat-name.png
+   .. image:: participate/online-chat-name.webp
       :align: center
       :alt: View of user profile in Odoo, emphasizing the Online Chat name field.
 
@@ -59,7 +59,7 @@ To join a live chat channel, go to the :menuselection:`Live Chat app --> Channel
 Any channel where the user is currently active shows a :guilabel:`Leave` button. Click this button
 to disconnect from the channel.
 
-.. image:: participate/leave-channel.png
+.. image:: participate/leave-channel.webp
    :align: center
    :alt: View of a channel form and the option to join a channel for Odoo Live Chat.
 
@@ -78,14 +78,14 @@ while still participating in the conversation.
    Conversations can also be accessed by clicking the :icon:`fa-comments` :guilabel:`(messages)`
    icon in the menu bar.
 
-   .. image:: participate/menu-bar.png
+   .. image:: participate/menu-bar.webp
       :align: center
       :alt: View of the menu bar in Odoo emphasizing the comments icon.
 
 Live chat conversations can also be viewed by navigating to the :menuselection:`Discuss app`. New
 conversations appear in bold under the :guilabel:`LIVECHAT` heading, located along the left panel.
 
-.. image:: participate/managing-chat-responses.png
+.. image:: participate/managing-chat-responses.webp
    :align: center
    :alt: View of the discuss application with a message sent through live chat in Odoo.
 

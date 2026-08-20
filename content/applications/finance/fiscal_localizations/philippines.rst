@@ -31,7 +31,7 @@ installed and linked to the relevant account:
 For the withholding taxes (:menuselection:`Configuration --> Taxes`), there is an additional
 :guilabel:`Philippines ATC` field under the :guilabel:`Philippines` tab.
 
-.. image:: philippines/philippines-atc-code.png
+.. image:: philippines/philippines-atc-code.webp
    :alt: Philippines ATC code field set on taxes.
 
 .. note::
@@ -50,7 +50,7 @@ For individuals not belonging to a company, identify them by using the following
 - :guilabel:`Middle Name`
 - :guilabel:`Last Name`
 
-.. image:: philippines/philippines-contact-individual.png
+.. image:: philippines/philippines-contact-individual.webp
    :alt: Individual type contact with First, Middle, and Last Name fields.
 
 .. note::
@@ -68,7 +68,7 @@ orders and vendor payments with the applicable withholding taxes.
 To generate a BIR 2307 report, select one or multiple vendor bills from the list view, and click
 :menuselection:`Action --> Download BIR 2307 XLS`.
 
-.. image:: philippines/philippines-multi-bill.png
+.. image:: philippines/philippines-multi-bill.webp
    :alt: Multiple vendor bills selected with action to "Download BIR 2307 XLS".
 
 .. tip::
@@ -76,7 +76,7 @@ To generate a BIR 2307 report, select one or multiple vendor bills from the list
 
 A pop-up appears to review the selection, then click on :guilabel:`Generate`.
 
-.. image:: philippines/philippines-generate.png
+.. image:: philippines/philippines-generate.webp
    :alt: Pop up menu to generate BIR 2307 XLS file.
 
 This generates the `Form_2307.xls` file that lists all the vendor bill lines with the applicable
@@ -113,7 +113,7 @@ top:
 - | :guilabel:`Purchases` for :abbr:`SLP (Summary List of Purchases)` report
   | All vendor bills with the associated purchase taxes applied are shown in this report.
 
-.. image:: philippines/slsp.png
+.. image:: philippines/slsp.webp
    :alt: SLSP Report
 
 By default, both reports exclude journal entries containing partners without a TIN number set and
@@ -135,7 +135,7 @@ The tax report report is accessible by navigating to :menuselection:`Reporting -
 --> Tax Report --> 2550Q(PH)`. The form is based on the latest *2550Q (Quarterly Value-Added Tax
 Return)* Jan. 2023 version.
 
-.. image:: philippines/2550Q.png
+.. image:: philippines/2550Q.webp
    :alt: 2550Q Tax Report
 
 .. tip::

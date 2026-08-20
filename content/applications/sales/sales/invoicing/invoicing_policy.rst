@@ -21,7 +21,7 @@ Configuration --> Settings`, and under the :guilabel:`Invoicing` heading, select
 :guilabel:`Invoicing Policy` rule: :guilabel:`Invoice what is ordered` or :guilabel:`Invoice what is
 delivered`.
 
-.. image:: invoicing_policy/invoicing-policy-setting.png
+.. image:: invoicing_policy/invoicing-policy-setting.webp
    :align: center
    :alt: Choosing an invoicing policy on Odoo Sales.
 
@@ -37,7 +37,7 @@ On any product page, via the :menuselection:`Sales app --> Products --> Products
 the :guilabel:`Invoicing Policy` option located under the :guilabel:`General Information` tab. It
 can be changed manually using the drop-down menu.
 
-.. image:: invoicing_policy/invoicing-policy-general-info-tab.png
+.. image:: invoicing_policy/invoicing-policy-general-info-tab.webp
    :align: center
    :alt: How to change your invoicing policy on a product form on Odoo Sales.
 
@@ -61,7 +61,7 @@ The following is a breakdown of how invoicing policy rules impact the aforementi
    error message appears: :guilabel:`There is no invoiceable line. If a product has a Delivered
    quantities invoicing policy, please make sure that a quantity has been delivered.`
 
-   .. image:: invoicing_policy/invoicing-policy-error-message.png
+   .. image:: invoicing_policy/invoicing-policy-error-message.webp
       :align: center
       :alt: If Delivered Quantities invoicing policy is chosen, ensure a quantity has been delivered.
 
@@ -70,7 +70,7 @@ The following is a breakdown of how invoicing policy rules impact the aforementi
    :guilabel:`Sales order`, the delivered and invoiced quantities are available to view, directly
    from the sales order. This is true for both invoicing policy rule options.
 
-   .. image:: invoicing_policy/invoicing-policy-order-lines.png
+   .. image:: invoicing_policy/invoicing-policy-order-lines.webp
       :align: center
       :alt: How to see your delivered and invoiced quantities on Odoo Sales.
 

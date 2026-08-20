@@ -31,7 +31,7 @@ Then, in the :guilabel:`Warehouse` section, ensure the :guilabel:`Storage Locati
 
 Next, activate the :guilabel:`Storage Categories` feature. Finally, click :guilabel:`Save`.
 
-.. image:: storage_category/enable-categories.png
+.. image:: storage_category/enable-categories.webp
    :align: center
    :alt: Show the Storage Categories feature.
 
@@ -90,7 +90,7 @@ their capacities in the :guilabel:`Quantity` field.
    single storage location, by specifying those amounts in the :guilabel:`Capacity by Product` tab
    of a storage category form.
 
-   .. image:: storage_category/capacity-by-product.png
+   .. image:: storage_category/capacity-by-product.webp
       :align: center
       :alt: Show storage category limiting by product count.
 
@@ -114,7 +114,7 @@ boxes, etc.).
    In the :guilabel:`Capacity by Package` tab, specify the number of packages for the designated
    :guilabel:`Package Type`, and set a maximum of `2.00` `Pallets` for a specific location.
 
-   .. image:: storage_category/storage-category.png
+   .. image:: storage_category/storage-category.webp
       :align: center
       :alt: Create a storage category on the page.
 
@@ -131,7 +131,7 @@ Then, select the created category in the :guilabel:`Storage Category` field.
    Assign the `High Frequency pallets` storage category (which limits pallets stored at any location
    to two pallets) to the `WH/Stock/pallets/PAL 1` sub-location.
 
-   .. image:: storage_category/location-storage-category.png
+   .. image:: storage_category/location-storage-category.webp
       :align: center
       :alt: When a Storage Category is created, it can be linked to a warehouse location.
 
@@ -152,7 +152,7 @@ field of the new putaway rule form, select the storage category.
    the putaway rule directing pallets of lemonade to locations with the `High Frequency Pallets`
    storage category :ref:`assigned to them <inventory/routes/assign-location>`.
 
-   .. image:: storage_category/smart-putaways.png
+   .. image:: storage_category/smart-putaways.webp
       :align: center
       :alt: Storage Categories used in a variety of putaway rules.
 

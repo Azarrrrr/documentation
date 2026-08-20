@@ -76,7 +76,7 @@ Enable the payment terminal :ref:`in the application settings <configuration/set
 :guilabel:`Bank` and select :guilabel:`Worldline` in the :guilabel:`Use a Payment Terminal` field.
 Then, select your terminal device in the :guilabel:`Payment Terminal Device` field.
 
-.. image:: worldline/worldline-payment-terminals.png
+.. image:: worldline/worldline-payment-terminals.webp
 
 Once the payment method is created, you can select it in your POS settings. To do so, go to the
 :ref:`POS' settings <configuration/settings>`, click :guilabel:`Edit`, and add the payment method

@@ -20,7 +20,7 @@ pipeline, and are expected to close within four months. It also shows opportunit
 assigned expected closing date. The opportunities are grouped by month in a :icon:`oi-view-kanban`
 :guilabel:`(Kanban)` view.
 
-.. image:: forecast_report/sample-report.png
+.. image:: forecast_report/sample-report.webp
    :align: center
    :alt: A sample version of the Forecast report in the CRM app.
 
@@ -73,7 +73,7 @@ to reflect the change.
    The combined prorated revenue of the opportunities is `$7,920`, which is listed at the top of the
    column for the month.
 
-   .. image:: forecast_report/example-revenue.png
+   .. image:: forecast_report/example-revenue.webp
       :align: center
       :alt: An example of the prorated revenue for one month of the forecast report.
 
@@ -89,7 +89,7 @@ the corresponding icon at the top of the report to switch to a :icon:`fa-bar-cha
 chart)`, :icon:`fa-line-chart` :guilabel:`(line chart)`, or :icon:`fa-pie-chart` :guilabel:`(pie
 chart)`.
 
-.. image:: forecast_report/pie-chart-view.png
+.. image:: forecast_report/pie-chart-view.webp
    :align: center
    :alt: A pie chart view of the Forecast report.
 
@@ -100,7 +100,7 @@ Click the |pivot| to change to the pivot view, or the |list| to change to the li
    in-depth manner. Multiple measures can be selected, and data can be viewed by month, and by
    opportunity stage.
 
-   .. image:: forecast_report/pivot-view.png
+   .. image:: forecast_report/pivot-view.webp
       :align: center
       :alt: A sample of the forecast report in the pivot view.
 

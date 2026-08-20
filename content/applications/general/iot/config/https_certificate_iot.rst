@@ -57,7 +57,7 @@ Internet of Things (IoT) eligibility
     If the subscription is linked to a `<https://www.odoo.com>`_ portal user check the information
     on the portal subscription page.
 
-    .. figure:: https_certificate_iot/sub-example-in-progress.png
+    .. figure:: https_certificate_iot/sub-example-in-progress.webp
        :align: center
        :alt: Odoo.com portal subscriptions filtered by "in progress".
 
@@ -177,14 +177,14 @@ Secure)` :abbr:`URL (Uniform Resource Locator)` for the :abbr:`IoT (Internet of 
 with `.odoo-iot.com` will appear on the Odoo database, inside of the :menuselection:`IoT`
 application on that specific device's form.
 
-.. image:: https_certificate_iot/odoo-new-domain.png
+.. image:: https_certificate_iot/odoo-new-domain.webp
    :align: center
    :alt: Odoo IoT app IoT box with .odoo-iot.com domain.
 
 When navigating to the :abbr:`URL (Uniform Resource Locator)` in a browser a secured :abbr:`HTTPS
 (Hypertext Transfer Protocol Secure)` connection will be established.
 
-.. figure:: https_certificate_iot/secured-connection.png
+.. figure:: https_certificate_iot/secured-connection.webp
    :align: center
    :alt: Example of valid SSL certificate details on the browser.
 
@@ -194,7 +194,7 @@ When navigating to the :abbr:`URL (Uniform Resource Locator)` in a browser a sec
 The IoT-box homepage will now display an `OK` status next to `HTTPS certificate`. The
 drop-down menu icon, when clicked, will reveal information regarding the certificate.
 
-.. image:: https_certificate_iot/status-ok.png
+.. image:: https_certificate_iot/status-ok.webp
    :align: center
    :alt: IoT box homepage with HTTPS certificate OK status.
 
@@ -212,7 +212,7 @@ These :abbr:`DNS (Domain Name System)` issues may appear as the following in dif
 
    .. tab:: Chrome
 
-      .. figure:: https_certificate_iot/dns-chrome.png
+      .. figure:: https_certificate_iot/dns-chrome.webp
          :align: center
          :alt: DNS issue on Chrome browser on Windows 10.
 
@@ -221,7 +221,7 @@ These :abbr:`DNS (Domain Name System)` issues may appear as the following in dif
 
    .. tab:: Firefox
 
-      .. figure:: https_certificate_iot/dns-firefox.png
+      .. figure:: https_certificate_iot/dns-firefox.webp
          :align: center
          :alt: DNS issue on Firefox browser on Windows 10.
 
@@ -229,7 +229,7 @@ These :abbr:`DNS (Domain Name System)` issues may appear as the following in dif
 
    .. tab:: Edge
 
-      .. figure:: https_certificate_iot/dns-edge.png
+      .. figure:: https_certificate_iot/dns-edge.webp
          :align: center
          :alt: DNS issue on Edge browser on Windows 10.
 

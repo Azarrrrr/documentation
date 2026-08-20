@@ -33,7 +33,7 @@ In this view, it is easy to see which :guilabel:`Medium` is the most successful.
    In this example, both :guilabel:`Email` and :guilabel:`LinkedIn` are the mediums with the most
    referrals, but :guilabel:`Email` has the most referrals that were hired.
 
-   .. image:: reporting/employee-report.png
+   .. image:: reporting/employee-report.webp
       :align: center
       :alt: The default report in the Referrals app.
 
@@ -68,7 +68,7 @@ Admin` has the lowest performance in terms of referrals, as he has only one appl
 This information can be helpful to the recruitment team, so they can determine the most active
 referrers in the company, and who is the most successful in terms of hires.
 
-.. image:: reporting/employee-counts.png
+.. image:: reporting/employee-counts.webp
    :align: center
    :alt: The customized report showing which employees have the most referrals and hires.
 

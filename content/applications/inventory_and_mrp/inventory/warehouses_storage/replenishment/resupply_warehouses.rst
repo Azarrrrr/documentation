@@ -25,7 +25,7 @@ The initial configuration for both replenishment strategies is the same. First g
 :menuselection:`Inventory app --> Configuration --> Settings`. In the :guilabel:`Warehouse` section,
 activate :guilabel:`Storage Locations`. Then, click :guilabel:`Save` to apply the setting.
 
-.. image:: resupply_warehouses/storage-locations.png
+.. image:: resupply_warehouses/storage-locations.webp
    :align: center
    :alt: Enable Storage Locations in Inventory settings.
 
@@ -56,7 +56,7 @@ resupply this warehouse.
 .. seealso::
    :doc:`../inventory_management/warehouses`
 
-.. image:: resupply_warehouses/warehouse.png
+.. image:: resupply_warehouses/warehouse.webp
    :align: center
    :alt: Supply one warehouse with another in the Warehouse Configuration tab.
 
@@ -94,7 +94,7 @@ warehouse <inventory/warehouses_storage/resupply-workflow>`.
    - :guilabel:`Store: Supply Product from YourCompany`
    - :guilabel:`Replenish on Order (MTO)`
 
-   .. image:: resupply_warehouses/resupply-route.png
+   .. image:: resupply_warehouses/resupply-route.webp
       :align: center
       :alt: Route setting which enables a product to resupplied from a second warehouse.
 
@@ -124,7 +124,7 @@ Click :guilabel:`New`, and set:
    warehouse is created, with the :guilabel:`Location` set to `SHOP/Stock`, and the
    :guilabel:`Route` set to :guilabel:`Store: Resupply from YourCompany`.
 
-   .. image:: resupply_warehouses/reordering-rule.png
+   .. image:: resupply_warehouses/reordering-rule.webp
       :align: center
       :alt: Show reordering rule configurations.
 
@@ -140,7 +140,7 @@ After completing the setup, trigger replenishment using one of several methods, 
   Click the :guilabel:`Replenish` button on the top-left of the product page. In the pop-up window,
   set the warehouse to the retail shop, (e.g. `Store`), and click :guilabel:`Confirm`.
 
-  .. image:: resupply_warehouses/replenish.png
+  .. image:: resupply_warehouses/replenish.webp
      :align: center
      :alt: Replenish pop-up window on the product form.
 
@@ -148,7 +148,7 @@ After completing the setup, trigger replenishment using one of several methods, 
   retail shop (e.g. `Store`), when selling the product makes the on-hand quantity of the product go
   below the minimum set on the reordering rule.
 
-  .. image:: resupply_warehouses/warehouse-field.png
+  .. image:: resupply_warehouses/warehouse-field.webp
      :align: center
      :alt: Create a quote at the store.
 
@@ -167,6 +167,6 @@ While in transit, the product is located at `Physical Locations/Inter-warehouse 
    The final delivery order is from the shop to the customer's delivery address, and is not
    pertinent to the workflow in this guide.
 
-   .. image:: resupply_warehouses/transfers.png
+   .. image:: resupply_warehouses/transfers.webp
       :alt: Show shipments from warehouse to store.
 

@@ -18,7 +18,7 @@ Marketing app --> Mailing Lists --> Mailing Lists --> New`.
 
 Clicking :guilabel:`New` reveals a blank mailing list form.
 
-.. image:: mailing_lists/new-mailing-list-form.png
+.. image:: mailing_lists/new-mailing-list-form.webp
    :align: center
    :alt: View of the mailing list form in the Odoo Email Marketing application.
 
@@ -81,13 +81,13 @@ list, where contacts can be created or imported, and then added to the specific 
 Contacts can also be directly imported to a specific mailing list from the :guilabel:`Mailing Lists`
 page, by clicking :guilabel:`Import Contacts` to the far-right of the desired mailing list.
 
-.. image:: mailing_lists/import-contacts-button.png
+.. image:: mailing_lists/import-contacts-button.webp
    :align: center
    :alt: The import contacts button of a mailing list line in Odoo Email Marketing.
 
 Doing so reveals an :guilabel:`Import Mailing Contacts` pop-up form.
 
-.. image:: mailing_lists/import-mailing-contacts-popup.png
+.. image:: mailing_lists/import-mailing-contacts-popup.webp
    :align: center
    :alt: The import mailing contacts pop-up form that appears in Odoo Email Marketing.
 
@@ -104,7 +104,7 @@ database, navigate to :menuselection:`Email Marketing app --> Mailing Lists --> 
 Contacts`. Doing so reveals the :guilabel:`Mailing List Contacts` page, featuring a list of all
 contacts associated with every mailing list.
 
-.. image:: mailing_lists/mailing-list-page.png
+.. image:: mailing_lists/mailing-list-page.webp
    :align: center
    :alt: The Mailing List page in the Odoo Email Marketing application.
 
@@ -119,7 +119,7 @@ To add an existing contact to a mailing list, select the desired contact from th
 At the bottom of their contact form, click :guilabel:`Add a line` under the :guilabel:`Mailing List`
 column, locate the desired mailing list from the drop-down menu, and select it.
 
-.. image:: mailing_lists/contact-form-mailing-list-add.png
+.. image:: mailing_lists/contact-form-mailing-list-add.webp
    :align: center
    :alt: The Add a line for mailing lists on a standard contact form in Odoo Email Marketing.
 
@@ -166,7 +166,7 @@ Next, in the search bar of the right-sidebar, search for `Newsletter`. The :guil
 selection of building blocks is used to add subscription fields for any mailing list onto the
 website.
 
-.. image:: mailing_lists/newsletter-block-search.png
+.. image:: mailing_lists/newsletter-block-search.webp
    :align: center
    :alt: View of how to quickly search for Newsletter blocks in the Odoo Website application.
 
@@ -177,7 +177,7 @@ subscription fields for a mailing list onto the website.
 The :guilabel:`Newsletter Block` option places a customizable block onto the body of the website
 where a visitor to enter their email and click a button to subscribe to a designated mailing list.
 
-.. image:: mailing_lists/newsletter-block-sample.png
+.. image:: mailing_lists/newsletter-block-sample.webp
    :align: center
    :alt: Sample of how a newsletter block appears on an Odoo Website.
 
@@ -186,7 +186,7 @@ visitor scrolls to the specific section of the webpage on which the building blo
 the visitor reaches the designated section, a pop-up window appears, in which a visitor can enter
 their email address, click a button, and subscribe to that predetermined mailing list.
 
-.. image:: mailing_lists/newsletter-popup-sample.png
+.. image:: mailing_lists/newsletter-popup-sample.webp
    :align: center
    :alt: Sample of how a newsletter popup block appears on an Odoo Website.
 
@@ -197,7 +197,7 @@ the mailing list.
 It is covertly designed in this fashion to be cleanly implemented into the content of the webpage
 and/or footer.
 
-.. image:: mailing_lists/newsletter-sample.png
+.. image:: mailing_lists/newsletter-sample.webp
    :align: center
    :alt: Sample of how a newsletter block appears on an Odoo Website.
 
@@ -208,7 +208,7 @@ on the right-sidebar.
 From there, open the :guilabel:`Newsletter` drop-down menu, and select the specific mailing list
 that should be applied to the block.
 
-.. image:: mailing_lists/newsletter-dropdown-customize-sidebar.png
+.. image:: mailing_lists/newsletter-dropdown-customize-sidebar.webp
    :align: center
    :alt: The newsletter drop-down menu in the customize sidebar that appears in Odoo Website.
 

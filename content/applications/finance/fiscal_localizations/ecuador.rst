@@ -103,7 +103,7 @@ to your company or activate :ref:`developer mode <developer-mode>` and go to :me
 
 #. Upload company logo and save
 
-.. image:: ecuador/ecuador-company.png
+.. image:: ecuador/ecuador-company.webp
    :align: center
    :alt: Populate company data for Ecuador in Odoo Contacts.
 
@@ -135,7 +135,7 @@ Configure the next information:
 - :guilabel:`Special tax contributor number`: if your company is qualified as a special taxpayer,
   fill out this field with it's corresponding tax contributor number.
 
-.. image:: ecuador/electronic-signature.png
+.. image:: ecuador/electronic-signature.webp
    :align: center
    :alt: Electronic signature for Ecuador.
 
@@ -155,7 +155,7 @@ skip this step. To configure your VAT withholding, go to :menuselection:`Account
 You must configure the withholding percentage that applies for each type of taxpayer, specify the
 :guilabel:`Goods VAT Withholding` and the :guilabel:`Services VAT Withholding`.
 
-.. image:: ecuador/contributor-type.png
+.. image:: ecuador/contributor-type.webp
    :align: center
    :alt: Taxpayer Type configuration for Ecuador.
 
@@ -190,7 +190,7 @@ For each printer point, you need to configure the following information:
 Customer Invoice, Credit Notes and Debit Notes need to use the same journal as the
 :guilabel:`Emission Point`, and the :guilabel:`Entity Point` should be unique per journal.
 
-.. image:: ecuador/printer-point.png
+.. image:: ecuador/printer-point.webp
    :align: center
    :alt: Configuring a printer point for Ecuador electronic document type of Customer Invoices.
 
@@ -219,7 +219,7 @@ Accounting:  Journals` where you need to configure the following information:
 - :guilabel:`Short Code`: This is the unique code for the sequence of accounting entries, enter a
   unique 5-digit code, for example: `RT001`
 
-.. image:: ecuador/withhold.png
+.. image:: ecuador/withhold.webp
    :align: center
    :alt: Configuring withholding for Ecuador electronic document type of Withholding.
 
@@ -245,7 +245,7 @@ information:
 - :guilabel:`Short Code`: This is the unique code for the sequence of accounting entries, enter a
   unique 5-digit code, for example: `RT001`
 
-.. image:: ecuador/purchase-liqudations.png
+.. image:: ecuador/purchase-liqudations.webp
    :align: center
    :alt: Configuring purchase liquidations for Ecuador electronic document type of Withholding.
 
@@ -276,7 +276,7 @@ withholding code (tax) that applies.
 
 Go to :menuselection:`Accounting --> Vendors:  Products` under the tab "Purchase"
 
-.. image:: ecuador/products.png
+.. image:: ecuador/products.webp
    :align: center
    :alt: Product for Ecuador.
 
@@ -294,7 +294,7 @@ Configure the next information when you create a contact:
 - :guilabel:`Phone`
 - :guilabel:`Email`
 
-.. image:: ecuador/contacts.png
+.. image:: ecuador/contacts.webp
    :align: center
    :alt: Contacts for Ecuador.
 
@@ -309,7 +309,7 @@ Review your taxes
 As part of the localization module, taxes are automatically created with its configuration and
 related financial accounts.
 
-.. image:: ecuador/taxes.png
+.. image:: ecuador/taxes.webp
    :align: center
    :alt: Taxes for Ecuador.
 
@@ -332,7 +332,7 @@ Once the Ecuador module is installed, the most common taxes are automatically co
 need to create an additional one, you can do so, for which you must base yourself on the
 configuration of the existing taxes.
 
-.. image:: ecuador/taxes-with-tax-support.png
+.. image:: ecuador/taxes-with-tax-support.webp
    :align: center
    :alt: Taxes with tax support for Ecuador.
 
@@ -349,7 +349,7 @@ data is created automatically when the localization module is installed.
 The information required for the document types is included by default so the user does not need to
 fill anything there.
 
-.. image:: ecuador/document-types.png
+.. image:: ecuador/document-types.webp
    :align: center
    :alt: Document types for Ecuador.
 
@@ -373,7 +373,7 @@ documents can be created from your sales order or manually. They must contain th
 - :guilabel:`Payment Method (SRI)`: select how the invoice is going to be paid.
 - :guilabel:`Products`: specify the product with the correct taxes.
 
-.. image:: ecuador/customer-invoice.png
+.. image:: ecuador/customer-invoice.webp
    :align: center
    :alt: Customer invoice for Ecuador.
 
@@ -404,7 +404,7 @@ form, then complete the following information:
 
 Once reviewed, you can click on the :guilabel:`Reverse` button.
 
-.. image:: ecuador/add-customer-credit-note.png
+.. image:: ecuador/add-customer-credit-note.webp
    :align: center
    :alt: Add Customer Credit Note for Ecuador.
 
@@ -416,7 +416,7 @@ then validate it. Before validating the credit note, review the following inform
 - :guilabel:`Document Type`: this is the document type `(04) Credit Note`.
 - :guilabel:`Products`: It must specify the product with the correct taxes.
 
-.. image:: ecuador/customer-credit-note.png
+.. image:: ecuador/customer-credit-note.webp
    :align: center
    :alt: Customer Credit Note for Ecuador.
 
@@ -437,7 +437,7 @@ invoice there is a button named :guilabel:`Debit Note`, click on this button to 
 
 Once reviewed you can click on the :guilabel:`Create Debit Note` button.
 
-.. image:: ecuador/add-customer-debit-note.png
+.. image:: ecuador/add-customer-debit-note.webp
    :align: center
    :alt: Add Customer Debit Note for Ecuador.
 
@@ -449,7 +449,7 @@ the following information:
 - :guilabel:`Document Type`: this is the document type `(05) Debit Note`.
 - :guilabel:`Products`: It must specify the product with the correct taxes.
 
-.. image:: ecuador/customer-debit-note.png
+.. image:: ecuador/customer-debit-note.webp
    :align: center
    :alt: Customer Debit Note for Ecuador.
 
@@ -469,7 +469,7 @@ to the :guilabel:`Customer withholding` form, then complete the following inform
 Before validating the withholding, review that the amounts for each tax are the same as the original
 document.
 
-.. image:: ecuador/customer-withhold.png
+.. image:: ecuador/customer-withhold.webp
    :align: center
    :alt: Customer withhold for Ecuador.
 
@@ -493,7 +493,7 @@ information:
 - :guilabel:`Payment Method (SRI)`: select how the invoice is going to be paid.
 - :guilabel:`Products`: specify the product with the correct taxes.
 
-.. image:: ecuador/purchase-invoice.png
+.. image:: ecuador/purchase-invoice.webp
    :align: center
    :alt: Purchases for Ecuador.
 
@@ -533,7 +533,7 @@ from the :guilabel:`Vendor Bills` form view. It must contain the following data:
 
 Once you review the information you can validate the :guilabel:`Purchase Liquidation`.
 
-.. image:: ecuador/purchase-liquidation.png
+.. image:: ecuador/purchase-liquidation.webp
    :align: center
    :alt: Purchase liquidation for Ecuador.
 
@@ -554,7 +554,7 @@ to be directed to the :guilabel:`Withholding` form, then complete the following 
 
 Once you review the information you can validate the :guilabel:`Withholding`.
 
-.. image:: ecuador/purchase-withhold.png
+.. image:: ecuador/purchase-withhold.webp
    :align: center
    :alt: Purchase withhold for Ecuador.
 
@@ -626,7 +626,7 @@ time.
 .. seealso::
    :doc:`Payment provider <../payment_providers>`
 
-.. image:: ecuador/l10n-ec-sri-payment-method.png
+.. image:: ecuador/l10n-ec-sri-payment-method.webp
    :align: center
    :alt: l10n_ec SRI Payment Method.
 
@@ -640,7 +640,7 @@ The client who is making a purchase will have the option to indicate their ident
 number during the checkout process. This information is required to correctly generate the
 electronic invoice after the checkout is completed.
 
-.. image:: ecuador/website-checkout-form.png
+.. image:: ecuador/website-checkout-form.webp
    :alt: Website checkout form.
 
 .. note::
@@ -726,7 +726,7 @@ monthly or semi-annually.
 You can see the information needed to report, which includes base and tax amounts, but also includes
 the tax code within the parenthesis in order to report it to the SRI.
 
-.. image:: ecuador/103-form.png
+.. image:: ecuador/103-form.webp
    :align: center
    :alt: Report 103 form for Ecuador.
 
@@ -739,7 +739,7 @@ monthly or semi-annually.
 You can see the information needed to report, which includes base and tax amounts, but also includes
 the tax code within the parenthesis to report it to the SRI.
 
-.. image:: ecuador/104-form.png
+.. image:: ecuador/104-form.webp
    :align: center
    :alt: Report 104 form for Ecuador.
 
@@ -792,7 +792,7 @@ To generate the :abbr:`ATS (Anexo Transaccional Simplificado)` report, go to
 
 The downloaded XML file is ready to be uploaded to *DIMM Formularios*.
 
-.. image:: ecuador/ats-report.png
+.. image:: ecuador/ats-report.webp
    :align: center
    :alt: ATS report download for Ecuador in Odoo Accounting.
 

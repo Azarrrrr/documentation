@@ -40,7 +40,7 @@ for the currently signed-in user, as well as the employees who are listed under 
 To change the currently loaded meetings and events being displayed, uncheck an attendee whose
 calendar events are to be hidden. Only the checked attendees are visible on the calendar.
 
-.. image:: schedule_interviews/calendar.png
+.. image:: schedule_interviews/calendar.webp
    :align: center
    :alt: The calendar view, highlighting how to change the displayed meetings.
 
@@ -147,7 +147,7 @@ window. Enter any of the following additional fields:
   meeting participants of the meeting, via the selected option at the specified time. Multiple
   reminders can be selected in this field.
 
-.. image:: schedule_interviews/new-event.png
+.. image:: schedule_interviews/new-event.webp
    :align: center
    :alt: A new meeting card with all the details populated, and ready to save.
 
@@ -171,7 +171,7 @@ the email to the applicant, as well. Make any other desired changes to the email
 is needed, click the :guilabel:`Attachments` button, navigate to the file, then click
 :guilabel:`Open`. Once the email is ready to be sent, click :guilabel:`Send`.
 
-.. image:: schedule_interviews/email-event.png
+.. image:: schedule_interviews/email-event.webp
    :align: center
    :alt: Enter the information to send the event via email.
 
@@ -192,7 +192,7 @@ GSM7 criteria) appears beneath the :guilabel:`Message` field. Click :guilabel:`P
 the text sent later, after any other messages are scheduled, or click :guilabel:`Send Now` to send
 the message immediately.
 
-.. image:: schedule_interviews/send-sms.png
+.. image:: schedule_interviews/send-sms.webp
    :align: center
    :alt: Send a text message to the attendees of the meeting.
 
@@ -231,7 +231,7 @@ upper-right hand side of the stage name. Click the :icon:`fa-cog` :guilabel:`(ge
 drop-down menu appears. Then, click on the :guilabel:`Edit` option, and an :guilabel:`Edit: (Stage)`
 form appears.
 
-.. image:: schedule_interviews/edit-stage.png
+.. image:: schedule_interviews/edit-stage.webp
    :align: center
    :alt: The drop-down that appears after clicking the cog.
 
@@ -239,7 +239,7 @@ The :guilabel:`Email Template` field is blank, by default. Using the drop-down m
 :guilabel:`Recruitment: Schedule interview` for the :guilabel:`Email Template` field, then click
 :guilabel:`Save & Close` when done.
 
-.. image:: schedule_interviews/interview-template.png
+.. image:: schedule_interviews/interview-template.webp
    :align: center
    :alt: The Recruitment: Schedule Interview email template populating the Email Template field.
 
@@ -276,7 +276,7 @@ meeting with, by clicking on their icon and name. If only one person is availabl
 applicant, this step is not available. If the applicant does not wish to chose an interviewer, they
 can just click :guilabel:`See all availabilities` :icon:`fa-arrow-right`.
 
-.. image:: schedule_interviews/select-interviewer.png
+.. image:: schedule_interviews/select-interviewer.webp
    :align: center
    :alt: The first screen seen after clicking 'Plan my interview', where the applicant selects their
          interviewer.
@@ -294,7 +294,7 @@ can just click :guilabel:`See all availabilities` :icon:`fa-arrow-right`.
 Then the applicant clicks on an available day on the calendar, signified by a square around the
 date. Once a day is selected, they click on one of the available times to select that date and time.
 
-.. image:: schedule_interviews/select-date-time.png
+.. image:: schedule_interviews/select-date-time.webp
    :align: center
    :alt: The calendar screen with dates and times to schedule an interview.
 
@@ -310,7 +310,7 @@ the applicant is contacted to remind them about the scheduled interview.
 When everything is entered on the :guilabel:`Add more details about you` page, the applicant clicks
 the :guilabel:`Confirm Appointment` button, and the interview is scheduled.
 
-.. image:: schedule_interviews/confirmation.png
+.. image:: schedule_interviews/confirmation.webp
    :align: center
    :alt: The confirmation page with all the details for the interview displayed.
 

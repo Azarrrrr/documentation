@@ -25,7 +25,7 @@ Inline Views
     **Goal**: at the end of this section, a specific list of properties should be added to the property
     type view:
 
-    .. image:: 11_sprinkles/inline_view.png
+    .. image:: 11_sprinkles/inline_view.webp
       :align: center
       :alt: Inline list view
 
@@ -100,7 +100,7 @@ Widgets
     **Goal**: at the end of this section, the state of the property should be displayed using a
     specific widget:
 
-    .. image:: 11_sprinkles/widget.png
+    .. image:: 11_sprinkles/widget.webp
       :align: center
       :alt: Statusbar widget
 
@@ -320,7 +320,7 @@ List
     Additionally, offers and tags will be editable directly in the list, and the availability date will be
     hidden by default.
 
-    .. image:: 11_sprinkles/decoration.png
+    .. image:: 11_sprinkles/decoration.webp
       :align: center
       :alt: List view with decorations and optional field
 

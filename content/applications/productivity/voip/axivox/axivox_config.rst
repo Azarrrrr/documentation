@@ -27,7 +27,7 @@ out the :guilabel:`Asterisk (VoIP)` field:
 - :guilabel:`WebSocket`: type in `wss://pabx.axivox.com:3443`
 - :guilabel:`VoIP Environment`: set as :guilabel:`Production`
 
-.. image:: axivox_config/voip-configuration.png
+.. image:: axivox_config/voip-configuration.webp
    :align: center
    :alt: Integration of Axivox as VoIP provider in an Odoo database.
 
@@ -54,7 +54,7 @@ user's form to configure :abbr:`VoIP (Voice over Internet Protocol)`. Under the
 - :guilabel:`Reject incoming calls`: option to reject all incoming calls
 - :guilabel:`How to place calls on mobile`: method to make calls on a mobile device
 
-.. image:: axivox_config/odoo-user.png
+.. image:: axivox_config/odoo-user.webp
    :align: center
    :alt: Integration of Axivox user in the Odoo user preference.
 
@@ -63,7 +63,7 @@ user's form to configure :abbr:`VoIP (Voice over Internet Protocol)`. Under the
    <https://manage.axivox.com/>`_. After logging into the portal, go to :menuselection:`Users -->
    Edit (next to the user) --> SIP Identifiers tab --> SIP username / SIP password`.
 
-   .. image:: axivox_config/manager-sip.png
+   .. image:: axivox_config/manager-sip.webp
       :align: center
       :alt: SIP credentials in the Axivox manager.
 

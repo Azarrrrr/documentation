@@ -36,7 +36,7 @@ Each appraisal card displays the following information:
 
 To view the details of any appraisal, click on the card to open the appraisal form.
 
-.. image:: new_appraisals/dashboard.png
+.. image:: new_appraisals/dashboard.webp
    :align: center
    :alt: The Appraisals dashboard with each appraisal in its own box.
 
@@ -106,7 +106,7 @@ file explorer window appears. Navigate to the file(s), select them, then click :
 
 When the email is ready to send, click :guilabel:`Send.`
 
-.. image:: new_appraisals/ask-feedback.png
+.. image:: new_appraisals/ask-feedback.webp
    :align: center
    :alt: The email pop-up when requesting feedback from other employees.
 
@@ -131,7 +131,7 @@ Feedback` section, under the :guilabel:`Appraisal` tab.
 When completed, click the :guilabel:`Not Visible to Manager` toggle (the default setting once an
 appraisal is confirmed). When clicked, the toggle changes to :guilabel:`Visible to Manager`.
 
-.. image:: new_appraisals/employee-feedback.png
+.. image:: new_appraisals/employee-feedback.webp
    :align: center
    :alt: The feedback section for the employee with the toggle button highlighted.
 
@@ -151,7 +151,7 @@ When the feedback section is completed, click the :guilabel:`Not Visible to Empl
 default setting once an appraisal is confirmed). When clicked, the toggle changes to
 :guilabel:`Visible to Employee`.
 
-.. image:: new_appraisals/manager-feedback.png
+.. image:: new_appraisals/manager-feedback.webp
    :align: center
    :alt: The feedback section for both employees and managers. The toggle buttons are highlighted.
 
@@ -178,7 +178,7 @@ certification`.
 After an appraisal is completed, and the skills have been updated, the next time an appraisal is
 confirmed, the updated skills populate the :guilabel:`Skills` tab.
 
-.. image:: new_appraisals/skills.png
+.. image:: new_appraisals/skills.webp
    :align: center
    :alt: The skills tab of an appraisal form, all filled out.
 
@@ -240,7 +240,7 @@ Once all the desired changes are complete, click :guilabel:`Save & Close`.
 
 The meeting now appears on the calendar, and the invited parties are informed, via email.
 
-.. image:: new_appraisals/meeting.png
+.. image:: new_appraisals/meeting.webp
    :align: center
    :alt: The meeting form with all information entered for Ronnie Hart's annual appraisal.
 

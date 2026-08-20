@@ -63,7 +63,7 @@ can be viewed in a number of different ways. Those different view options are ac
 By default, the :guilabel:`Events` dashboard is displayed in the :icon:`oi-view-kanban`
 :guilabel:`Kanban` view, which is populated with a variety of pipeline stages.
 
-.. image:: events/kanban-dashboard.png
+.. image:: events/kanban-dashboard.webp
    :align: center
    :alt: Overview of events setting with the kanban view in Odoo Events.
 
@@ -82,7 +82,7 @@ of the event, and the person responsible for the event.
 To quickly add a new event to a pipeline, click the :icon:`fa-plus` :guilabel:`(plus)` icon at the
 top of the stage to which the event should be added to reveal a blank Kanban card to fill out.
 
-.. image:: events/blank-kanban-card.png
+.. image:: events/blank-kanban-card.webp
    :align: center
    :alt: Typical blank kanban card to fill out in the Odoo Events application.
 
@@ -108,7 +108,7 @@ Events section
 In the :guilabel:`Events` section of the :guilabel:`Settings` page, there are selectable features
 that can be enabled to add various elements to events created with the Odoo **Events** application.
 
-.. image:: events/settings-events-section.png
+.. image:: events/settings-events-section.webp
    :align: center
    :alt: The Events section on the Odoo Events settings page in the Odoo Events application.
 
@@ -148,7 +148,7 @@ Registration section
 The :guilabel:`Registration` section of the :guilabel:`Settings` page provides selectable settings
 that are directly related to event registration.
 
-.. image:: events/settings-registration-section.png
+.. image:: events/settings-registration-section.webp
    :align: center
    :alt: The Registration section in the Odoo Events settings page in the Odoo Events application.
 
@@ -164,7 +164,7 @@ Attendance section
 In the :guilabel:`Attendance` section of the :guilabel:`Settings` page, there is a selectable
 setting that is directly related to how attendees can attend/enter the event.
 
-.. image:: events/settings-attendance-section.png
+.. image:: events/settings-attendance-section.webp
    :align: center
    :alt: The Attendance section in the Odoo Events Settings page in the Odoo Events application.
 

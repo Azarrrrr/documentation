@@ -33,7 +33,7 @@ This presents the salary attachments for the current year, and only displays thr
 Each entry displays the total amount paid for each specific type of salary attachment, for each
 employee.
 
-.. image:: salary_attachment/salary-attachment.png
+.. image:: salary_attachment/salary-attachment.webp
    :alt: The Attachment of Salary report that shows all salary garnishments in a condensed view.
 
 The report can be downloaded as an XLSX file, or :doc:`inserted into a spreadsheet
@@ -59,5 +59,5 @@ End Date: Previous Year`, beneath the :icon:`fa-adjust` :guilabel:`Comparison` c
 The report updates and displays the current time period values, and the previous time period values,
 as well as the :guilabel:`Variation` between the two, in a percentage.
 
-.. image:: salary_attachment/comparison-attachment.png
+.. image:: salary_attachment/comparison-attachment.webp
    :alt: The salary attachment report modified to compare to the previous year.

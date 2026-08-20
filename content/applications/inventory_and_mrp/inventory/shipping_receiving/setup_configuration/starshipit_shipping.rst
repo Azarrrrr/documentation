@@ -27,7 +27,7 @@ Pickup address configuration
 Once logged into the Starshipit account, navigate to :menuselection:`Settings --> Pickup address`,
 and fill in the :guilabel:`Pickup address`. Ensure this field matches the warehouse address.
 
-.. image:: starshipit_shipping/starshipit-settings-address.png
+.. image:: starshipit_shipping/starshipit-settings-address.webp
    :align: center
    :alt: Adding addresses in the Starshipit settings.
 
@@ -37,7 +37,7 @@ Couriers configuration
 To integrate with third-party couriers, navigate to :menuselection:`Settings --> Couriers`, and
 select :guilabel:`Couriers`.
 
-.. image:: starshipit_shipping/starshipit-settings-couriers.png
+.. image:: starshipit_shipping/starshipit-settings-couriers.webp
    :align: center
    :alt: Adding addresses in the Starshipit settings.
 
@@ -51,7 +51,7 @@ Checkout rates
 To configure shipping rate calculations, navigate to :menuselection:`Settings --> Checkout rates`.
 The selected delivery costs are automatically applied in Odoo when calculating shipping costs.
 
-.. image:: starshipit_shipping/starshipit-checkout-rate.png
+.. image:: starshipit_shipping/starshipit-checkout-rate.webp
    :align: center
    :alt: Checkout rates in the Starshipit settings.
 
@@ -69,7 +69,7 @@ While there are multiple ways to configure rules, it is recommended to set:
 #. :guilabel:`Value` to the :guilabel:`product code`
 #. :guilabel:`Action` to :guilabel:`Set Courier & Product Code`
 
-.. image:: starshipit_shipping/starshipit-rules.png
+.. image:: starshipit_shipping/starshipit-rules.webp
    :align: center
    :alt: Shipping rules in the Starshipit settings.
 
@@ -82,7 +82,7 @@ In the Starshipit account, navigate to :menuselection:`Settings --> API` in the 
 This page contains the :abbr:`API (Application Programming Interface)` keys needed to connect to
 Odoo.
 
-.. image:: starshipit_shipping/starshipit-settings-api.png
+.. image:: starshipit_shipping/starshipit-settings-api.webp
    :align: center
    :alt: Finding the Starshipit API keys.
 
@@ -96,7 +96,7 @@ After the Starshipit account is set up, integrate it with the Odoo database. To 
 Odoo's :guilabel:`Apps` module, search for the :guilabel:`Starshipit Shipping` module, and click
 :guilabel:`Activate` to install it.
 
-.. image:: starshipit_shipping/starshipit-app.png
+.. image:: starshipit_shipping/starshipit-app.webp
    :align: center
    :alt: Starshipit Shipping module in the Odoo Apps module.
 
@@ -162,7 +162,7 @@ The chosen delivery service will populate in the :guilabel:`Service Name` field.
    | :guilabel:`Shipping Product`: `Sendle Delivery`
    | :guilabel:`Starshipit Service Code`: `STANDARD-DROPOFF`
 
-.. image:: starshipit_shipping/starshipit-configuration.png
+.. image:: starshipit_shipping/starshipit-configuration.webp
    :align: center
    :alt: Example of shipping products configured in Odoo.
 
@@ -206,7 +206,7 @@ chatter, which includes the following:
 #. :guilabel:`Tracking number(s)` if the selected courier supports it.
 #. :guilabel:`Return label(s)` if the Starshipit connector is configured for returns.
 
-.. image:: starshipit_shipping/starshipit-shipping.png
+.. image:: starshipit_shipping/starshipit-shipping.webp
    :align: center
    :alt: Example of a shipped order in Odoo.
 

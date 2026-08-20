@@ -45,7 +45,7 @@ section, click :guilabel:`Update info`. From here, fill out the fields:
 - :guilabel:`Codice Fiscale`: the fiscal code of the company;
 - :guilabel:`Tax System`: the tax system under which the company falls;
 
-.. image:: italy/company.png
+.. image:: italy/company.webp
    :alt: Company information to be provided
 
 Taxes configuration
@@ -70,7 +70,7 @@ justify the exemption operated on an invoice line.
    found under :menuselection:`Accounting --> Configuration --> Taxes`. Exports are exempt from VAT,
    and therefore, they require :guilabel:`Exoneration` kind and :guilabel:`Law Reference` filled in.
 
-.. image:: italy/tax-exemption.png
+.. image:: italy/tax-exemption.webp
    :alt: Tax Exemption Settings
 
 .. seealso::
@@ -140,7 +140,7 @@ The Italian localization has a specific :ref:`tax grid <tax-returns/tax-grids>` 
 **reverse charge** taxes. These tax grids are identifiable by the :ref:`VJ <italy/grids>` tag, and
 can be found by going to :menuselection:`Accounting --> Reporting --> Audit Reports: Tax Report`.
 
-.. image:: italy/grids.png
+.. image:: italy/grids.webp
    :alt: Reverse charge tax grid from the VJ section of the Tax Declaration
 
 .. _italy/e-invoicing:
@@ -205,7 +205,7 @@ Accounting.
    Entrate)`: `0803HR0` - `N8MIMM9` - `X9XX79Z`. Any real production :guilabel:`Codice Destinario`
    of your customers will not be recognized as valid by the test service.
 
-.. image:: italy/edi.png
+.. image:: italy/edi.webp
    :alt: Electronic document invoicing settings
 
 .. _italy/e-invoicing-process:
@@ -221,7 +221,7 @@ process used for the mandatory transmission of tax documents in XML format betwe
    You can check the current status of an invoice by the :guilabel:`SdI State` field. The XML file
    is attached to the invoice.
 
-.. image:: italy/edi-process.png
+.. image:: italy/edi-process.webp
    :alt: EDI system architecture
 
 XML Documents creation
@@ -231,18 +231,18 @@ Odoo generates the required XML files as attachments to invoices in the `Fattura
 by the :abbr:`AdE (Agenzia delle Entrate)`. Once the invoices needed are selected, go to
 :guilabel:`Action` and click on :guilabel:`Send and Print`.
 
-.. image:: italy/edi-menu.png
+.. image:: italy/edi-menu.webp
    :alt: Send and Print menu
 
 When the pop-up window opens there is a selection of actions that can be taken. :guilabel:`Generate
 XML File` generates the attachments.
 
-.. image:: italy/edi-send-and-print.png
+.. image:: italy/edi-send-and-print.webp
    :alt: Send and Print dialog
 
 The XML file as well as the PDF once can be found attached to the invoice.
 
-.. image:: italy/edi-attachments.png
+.. image:: italy/edi-attachments.webp
    :alt: EDI Attachments
 
 Submission to SDI
@@ -262,7 +262,7 @@ also gets assigned a :guilabel:`FatturaPA Transaction` number that is shown in t
 :guilabel:`Electronic Invoicing` tab. The checks may take variable time, ranging from a few seconds
 up to a day, depending on the queue of invoices sent throughout Italy.
 
-.. image:: italy/edi-processing.png
+.. image:: italy/edi-processing.webp
    :alt: Check Sending button and Sdi Processing state
 
 Acceptance
@@ -297,7 +297,7 @@ issue, it is sufficient to delete the attachments of the invoice, return the inv
    To regenerate the XML, both the XML attachment and the PDF report must be deleted, so that they
    are then regenerated together. This ensures that both always contain the same data.
 
-.. image:: italy/edi-rejected.png
+.. image:: italy/edi-rejected.webp
    :alt: EDI Rejected State
 
 Forwarding Completed
@@ -344,7 +344,7 @@ integration, as detailed in the :ref:`italy/document-types` section.
    When clicking on the :guilabel:`Send Tax Integration` button, an XML file of the appropriate
    :guilabel:`Document Type` is generated, attached to the bill, and sent as for invoices.
 
-   .. image:: italy/edi-tax-integration-button.png
+   .. image:: italy/edi-tax-integration-button.webp
       :alt: EDI Send Tax Integration button
 
 .. _italy/document-types:

@@ -29,13 +29,13 @@ either:
   reconciliation. You can remove the :guilabel:`Not Matched` filter from the search bar to include
   previously reconciled transactions.
 
-.. image:: reconciliation/bank-card.png
+.. image:: reconciliation/bank-card.webp
    :alt: Reaching the bank reconciliation tool from your accounting dashboard
 
 The bank reconciliation view is structured into three distinct sections: transactions, counterpart
 entries, and resulting entry.
 
-.. image:: reconciliation/user-interface.png
+.. image:: reconciliation/user-interface.webp
    :alt: The user interface of the reconciliation view of a bank journal.
 
 Transactions
@@ -127,7 +127,7 @@ of the relevant optional fields.
    Lines are silently reconciled unless a write-off entry is required, which launches a
    reconciliation wizard.
 
-   .. image:: reconciliation/fully-paid.png
+   .. image:: reconciliation/fully-paid.webp
       :alt: Click on fully paid to manually set an invoice as entirely paid.
 
 .. _reconciliation/button:

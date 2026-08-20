@@ -68,7 +68,7 @@ the warehouse form, which contains the following fields:
 .. seealso::
    :doc:`Use inventory adjustments to add stock to new warehouses <count_products>`
 
-.. image:: warehouses/warehouse-form.png
+.. image:: warehouses/warehouse-form.webp
    :align: center
    :alt: Example warehouse form.
 

@@ -22,7 +22,7 @@ From the resulting :guilabel:`Teams` page, a list of all existing teams (if any)
 the :guilabel:`Team Name`, :guilabel:`Team Members`, and :guilabel:`Company` listed in the columns,
 by default.
 
-.. image:: maintenance_setup/maintenance-setup-teams-list.png
+.. image:: maintenance_setup/maintenance-setup-teams-list.webp
    :align: center
    :alt: List of Teams on Maintenance Teams page.
 
@@ -36,7 +36,7 @@ users in the database. Choose which users should be members of the new maintenan
 Click :guilabel:`Search More...` to open a :guilabel:`Search: Team Members` pop-up window to search
 for users **not** shown on the initial drop-down menu.
 
-.. image:: maintenance_setup/maintenance-setup-search-team-members.png
+.. image:: maintenance_setup/maintenance-setup-search-team-members.webp
    :align: center
    :alt: Search: Team Members pop-up window.
 
@@ -54,7 +54,7 @@ Once ready, click :guilabel:`Save` to save changes.
    field. The name listed in the field is the team member, and is the user responsible for that
    particular request.
 
-   .. image:: maintenance_setup/maintenance-setup-popover-technician.png
+   .. image:: maintenance_setup/maintenance-setup-popover-technician.webp
       :align: center
       :alt: Maintenance request popover with Technician field shown.
 
@@ -79,7 +79,7 @@ To create a new equipment category, navigate to :menuselection:`Maintenance app 
 --> Equipment Categories`, and click :guilabel:`New`. Doing so opens a blank equipment category
 form.
 
-.. image:: maintenance_setup/maintenance-setup-category-form.png
+.. image:: maintenance_setup/maintenance-setup-category-form.webp
    :align: center
    :alt: Equipment category form with various information filled out.
 
@@ -105,7 +105,7 @@ relation to this category, if necessary.
    select a category to view. Locate the :guilabel:`Equipment` and :guilabel:`Maintenance` smart
    buttons at the top of the form.
 
-   .. image:: maintenance_setup/maintenance-setup-smart-buttons.png
+   .. image:: maintenance_setup/maintenance-setup-smart-buttons.webp
       :align: center
       :alt: Equipment and Maintenance smart buttons on equipment category form.
 
@@ -129,7 +129,7 @@ select the company in the database to whom the new equipment belongs.
 In the :guilabel:`Used By` field, select from one of three radio button options:
 :guilabel:`Department`, :guilabel:`Employee`, or :guilabel:`Other`.
 
-.. image:: maintenance_setup/maintenance-setup-new-equipment-left-side.png
+.. image:: maintenance_setup/maintenance-setup-new-equipment-left-side.webp
    :align: center
    :alt: Left-hand side of information fields on new equipment form.
 
@@ -147,7 +147,7 @@ for the respective fields, and choose which department and employee uses this eq
 In the :guilabel:`Maintenance Team` field, select the team responsible for this equipment. In the
 :guilabel:`Technician` field, select the team member/user responsible for this equipment.
 
-.. image:: maintenance_setup/maintenance-setup-new-equipment-right-side.png
+.. image:: maintenance_setup/maintenance-setup-new-equipment-right-side.webp
    :align: center
    :alt: Right-hand side of information fields on new equipment form.
 
@@ -166,7 +166,7 @@ Product Information tab
 To add any relevant information while creating a new piece of equipment, from the equipment form,
 click the :guilabel:`Product Information` tab.
 
-.. image:: maintenance_setup/maintenance-setup-product-information.png
+.. image:: maintenance_setup/maintenance-setup-product-information.webp
    :align: center
    :alt: Product Information tab with available fields below it.
 
@@ -195,7 +195,7 @@ computed, based on corrective maintenance, and planned preventive maintenance.
 To view the maintenance metrics for a specific piece of equipment, from the equipment form, click
 the :guilabel:`Maintenance` tab.
 
-.. image:: maintenance_setup/maintenance-setup-metrics.png
+.. image:: maintenance_setup/maintenance-setup-metrics.webp
    :align: center
    :alt: Maintenance tab on equipment form showing computed metrics fields.
 
@@ -227,7 +227,7 @@ Each piece of equipment is listed with certain relevant information: the :guilab
 the responsible :guilabel:`Technician`, the :guilabel:`Equipment Category` it belongs to, and a few
 important maintenance metrics: its |MTBF|, |MTTR|, and :guilabel:`Est. Next Failure` date.
 
-.. image:: maintenance_setup/maintenance-setup-work-center.png
+.. image:: maintenance_setup/maintenance-setup-work-center.webp
    :align: center
    :alt: List of equipment included in a work center.
 

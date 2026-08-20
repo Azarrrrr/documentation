@@ -21,7 +21,7 @@ Click :guilabel:`Translate` to start translating. Depending on the language, som
 automatically translated and highlighted in green, while everything that should be translated
 manually is highlighted in yellow.
 
-.. image:: translations/translate-button.png
+.. image:: translations/translate-button.webp
    :alt: Translate button
    :width: 570
 
@@ -32,7 +32,7 @@ Translating pages directly from the backend allows you to translate several lang
 time. To do so, go to :menuselection:`Settings --> Technical --> User Interface: Views`, search for
 the name of the page you want to translate, and click the :guilabel:`Edit Translations` button.
 
-.. image:: translations/edit-translations.png
+.. image:: translations/edit-translations.webp
    :alt: Edit translations
    :width: 718
 

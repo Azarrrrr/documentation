@@ -25,12 +25,12 @@ To register a one-year free domain name for your Odoo Online database, sign in t
 go to the `database manager <https://www.odoo.com/my/databases>`_. Click the gear icon
 (:guilabel:`⚙️`) next to the database name and select :guilabel:`Domain Names`.
 
-.. image:: domain_names/domain-names.png
+.. image:: domain_names/domain-names.webp
    :alt: Accessing a database's domain names configuration
 
 Search for the desired domain name and check its availability.
 
-.. image:: domain_names/domain-search.png
+.. image:: domain_names/domain-search.webp
    :alt: Searching for an available domain name
 
 .. tip::
@@ -39,7 +39,7 @@ Search for the desired domain name and check its availability.
 Select the desired domain name, fill in the :guilabel:`Domain Owner` form, and click
 :guilabel:`Register`. The chosen domain name is directly linked to the database.
 
-.. image:: domain_names/domain-owner.png
+.. image:: domain_names/domain-owner.webp
    :alt: Filling in the domain owner information
 
 Next, you should :ref:`map your domain name to your Odoo website <domain-name/website-map>`.
@@ -216,7 +216,7 @@ Map a domain name to an Odoo database
       own domain`. Then, enter the domain name (e.g., `yourdomain.com`), click :guilabel:`Verify`
       and :guilabel:`I confirm, it's done`.
 
-      .. image:: domain_names/map-database-online.png
+      .. image:: domain_names/map-database-online.webp
          :alt: Mapping a domain name to an Odoo Online database
 
    .. group-tab:: Odoo.sh
@@ -224,7 +224,7 @@ Map a domain name to an Odoo database
       On Odoo.sh, go to :menuselection:`Branches --> select your branch --> Settings --> Custom
       domains`, type the domain name to add, then click :guilabel:`Add domain`.
 
-      .. image:: domain_names/map-database-sh.png
+      .. image:: domain_names/map-database-sh.webp
          :alt: Mapping a domain name to an Odoo.sh branch
 
       .. seealso::

@@ -37,19 +37,19 @@ In the branches view:
 
   |pic1|  |pic2|
 
-.. |pic1| image:: first_module/firstmodule-development-+.png
+.. |pic1| image:: first_module/firstmodule-development-+.webp
    :width: 45%
 
-.. |pic2| image:: first_module/firstmodule-development-fork.png
+.. |pic2| image:: first_module/firstmodule-development-fork.webp
    :width: 45%
 
 Once the build created, you can access the editor and browse to the folder *~/src/user* to access
 to the code of your development branch.
 
-.. image:: first_module/firstmodule-development-editor.png
+.. image:: first_module/firstmodule-development-editor.webp
    :align: center
 
-.. image:: first_module/firstmodule-development-editor-interface.png
+.. image:: first_module/firstmodule-development-editor-interface.webp
    :align: center
 
 From your computer
@@ -198,19 +198,19 @@ Test your module
 
 Your branch should appear in your development branches in your project.
 
-.. image:: first_module/firstmodule-test-branch.png
+.. image:: first_module/firstmodule-test-branch.webp
   :align: center
 
 In the branches view of your project,
 you can click on your branch name in the left navigation panel to access its history.
 
-.. image:: first_module/firstmodule-test-branch-history.png
+.. image:: first_module/firstmodule-test-branch-history.webp
   :align: center
 
 You can see here the changes you just pushed, including the comment you set.
 Once the database ready, you can access it by clicking the *Connect* button.
 
-.. image:: first_module/firstmodule-test-database.png
+.. image:: first_module/firstmodule-test-database.webp
   :align: center
 
 If your Odoo.sh project is configured to install your module automatically,
@@ -232,12 +232,12 @@ You can either:
 * Make your development branch a staging branch, by drag and dropping it onto the *staging* section
   title.
 
-  .. image:: first_module/firstmodule-test-devtostaging.png
+  .. image:: first_module/firstmodule-test-devtostaging.webp
      :align: center
 
 * Merge it in an existing staging branch, by drag and dropping it onto the given staging branch.
 
-  .. image:: first_module/firstmodule-test-devinstaging.png
+  .. image:: first_module/firstmodule-test-devinstaging.webp
      :align: center
 
 You can also use the :code:`git merge` command to merge your branches.
@@ -245,7 +245,7 @@ You can also use the :code:`git merge` command to merge your branches.
 This will create a new staging build, which will duplicate the production database and make it run
 using a server updated with your latest changes of your branch.
 
-.. image:: first_module/firstmodule-test-mergedinstaging.png
+.. image:: first_module/firstmodule-test-mergedinstaging.webp
    :align: center
 
 Once the database ready, you can access it using the *Connect* button.
@@ -267,12 +267,12 @@ list first:
 * in the apps menu, click the *Update Apps List* button,
 * in the dialog that appears, click the *Update* button.
 
-  .. image:: first_module/firstmodule-test-updateappslist.png
+  .. image:: first_module/firstmodule-test-updateappslist.webp
     :align: center
 
 Your module will then appear in the list of available apps.
 
-.. image:: first_module/firstmodule-test-mymoduleinapps.png
+.. image:: first_module/firstmodule-test-mymoduleinapps.webp
   :align: center
 
 Deploy in production
@@ -283,7 +283,7 @@ and believe it is ready for production, you can merge your branch in the product
 
 Drag and drop your staging branch on the production branch.
 
-.. image:: first_module/firstmodule-test-mergeinproduction.png
+.. image:: first_module/firstmodule-test-mergeinproduction.webp
   :align: center
 
 You can also use the :code:`git merge` command to merge your branches.
@@ -291,7 +291,7 @@ You can also use the :code:`git merge` command to merge your branches.
 This will merge the latest changes of your staging branch in the production branch,
 and update your production server with these latest changes.
 
-.. image:: first_module/firstmodule-test-mergedinproduction.png
+.. image:: first_module/firstmodule-test-mergedinproduction.webp
   :align: center
 
 Once the database ready, you can access it using the *Connect* button.
@@ -414,7 +414,7 @@ Or, from your computer terminal:
 
 The platform will then create a new build for the branch *feature-1*.
 
-.. image:: first_module/firstmodule-test-addachange-build.png
+.. image:: first_module/firstmodule-test-addachange-build.webp
    :align: center
 
 Once you tested your changes, you can merge your changes in the production branch, for instance by

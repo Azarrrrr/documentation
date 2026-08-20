@@ -65,7 +65,7 @@ Click the task to open it. The task form includes the following fields that you 
      add the "School" tag, assign it to Audrey and set its priority to :guilabel:`High`, enter the
      following task title: Prepare workshop 5h #school @Audrey !
 
-     .. image:: task_creation/task-shortcuts.png
+     .. image:: task_creation/task-shortcuts.webp
         :alt: Using keyboard shortcuts to create a task in Project.
 
 .. _task_creation/email_alias:
@@ -88,7 +88,7 @@ Fill in the :guilabel:`Create tasks by sending an email to` field as follows:
    <../../../general/email_communication>`.
  - **Accept Emails From**: refine the senders whose emails will create tasks in the project.
 
-.. image:: task_creation/email-configuration.png
+.. image:: task_creation/email-configuration.webp
    :alt: View of the email alias chosen on the dashboard view in Odoo Project
 
 Once configured, the email alias can be seen under the name of your project on the Kanban dashboard.

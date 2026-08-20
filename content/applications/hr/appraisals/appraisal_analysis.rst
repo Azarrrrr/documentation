@@ -46,7 +46,7 @@ details appear in a pop-up window.
 The report can have other :ref:`filters <search/filters>` and :ref:`groupings <search/group>` set in
 the search bar at the top.
 
-.. image:: appraisal_analysis/analysis.png
+.. image:: appraisal_analysis/analysis.webp
    :align: center
    :alt: A report showing all the appraisals for the Appraisal Analysis report.
 
@@ -70,7 +70,7 @@ All the appraisals are now organized by status, in the following order: :guilabe
 This view makes it easy to see which appraisals need to be completed, and when, as well as which
 appraisals still need to be confirmed.
 
-.. image:: appraisal_analysis/by-status.png
+.. image:: appraisal_analysis/by-status.webp
    :align: center
    :alt: A report showing all the appraisals, grouped by status.
 
@@ -97,7 +97,7 @@ scroll down and click on :guilabel:`Manager`. Next, set the middle field to :gui
 :guilabel:`(equal)`. Last, click the third field and select the desired user from the list. When all
 the fields are set, click :guilabel:`Add`.
 
-.. image:: appraisal_analysis/custom.png
+.. image:: appraisal_analysis/custom.webp
    :align: center
    :alt: A customized filter to show only the user's employees.
 
@@ -106,7 +106,7 @@ instead of viewing *all* the appraisals.
 
 This report can also be :ref:`grouped by status <appraisals/group-status>`.
 
-.. image:: appraisal_analysis/users-appraisals.png
+.. image:: appraisal_analysis/users-appraisals.webp
    :align: center
    :alt: A report showing only the appraisals the user is responsible for, by status.
 

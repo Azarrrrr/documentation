@@ -127,7 +127,7 @@ If the user is busy on another call, or away from the phone, there is an option 
 to :guilabel:`Send to voicemail as a last resort`, located in the :guilabel:`Forwarding on no
 answer` and :guilabel:`Forwarding on busy` fields.
 
-.. image:: vm_audio_messages/forwardings.png
+.. image:: vm_audio_messages/forwardings.webp
    :align: center
    :alt: Send to voicemail as a last resort options highlighted on the Forwardings tab of the user.
 
@@ -225,7 +225,7 @@ Finally, when these steps are complete, click :guilabel:`Save` to save the audio
 
 To implement the changes, click :guilabel:`Apply changes` in the upper-right corner of the screen.
 
-.. image:: vm_audio_messages/sample-message.png
+.. image:: vm_audio_messages/sample-message.webp
    :align: center
    :alt:  Convert text to message window with voice, text, generate button and save highlighted.
 

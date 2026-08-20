@@ -25,7 +25,7 @@ Select a :guilabel:`Company` from the drop-down menu to assign this team to.
 .. note::
    The :guilabel:`Company` field is only visible in multi-company databases, and is not required.
 
-.. image:: manage_sales_teams/sales-team-creation.png
+.. image:: manage_sales_teams/sales-team-creation.webp
    :align: center
    :alt: The settings page for a new sales team.
 
@@ -47,7 +47,7 @@ team's configuration page. This opens a :guilabel:`Create Sales Team Members` po
    :guilabel:`Add: Salespersons` pop-up window. Tick the checkbox to the far-left of the
    salesperson to be added to the team, then click :guilabel:`Select`.
 
-   .. image:: manage_sales_teams/add-salespersons.png
+   .. image:: manage_sales_teams/add-salespersons.webp
       :align: center
       :alt: The Add: Salespersons pop-up window on a new sales team.
 
@@ -55,7 +55,7 @@ Select a user from the :guilabel:`Salesperson` drop-down list to add them to the
 this salesperson from being automatically assigned leads, tick the :guilabel:`Skip auto assignment`
 checkbox. If this feature is activated, the salesperson can still be assigned leads manually.
 
-.. image:: manage_sales_teams/create-sales-team-members.png
+.. image:: manage_sales_teams/create-sales-team-members.webp
    :align: center
    :alt: The Create Sales Team Members pop-up window.
 
@@ -78,7 +78,7 @@ be enabled. First, navigate to :menuselection:`CRM app --> Configuration --> Set
 :guilabel:`CRM` section, tick the checkbox labeled :guilabel:`Multi Teams`. Then, click
 :guilabel:`Save` at the top-left of the page.
 
-.. image:: manage_sales_teams/enable-multi-teams.png
+.. image:: manage_sales_teams/enable-multi-teams.webp
    :align: center
    :alt: The settings page of the CRM app with the Multi Teams setting enabled.
 
@@ -90,7 +90,7 @@ Sales team dashboard
 To view the sales team dashboard, go to :menuselection:`CRM app --> Sales --> Teams`. Any team the
 user is a member of appears in the dashboard.
 
-.. image:: manage_sales_teams/sales-teams-dashboard.png
+.. image:: manage_sales_teams/sales-teams-dashboard.webp
    :align: center
    :alt: The sales team dashboard in the CRM app.
 

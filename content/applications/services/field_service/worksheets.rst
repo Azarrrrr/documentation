@@ -47,7 +47,7 @@ By default, the :guilabel:`Default Worksheet` template is selected. To define an
 worksheet template, click the :guilabel:`➔` (:guilabel:`Internal link`) icon that appears when you
 hover your mouse over the :guilabel:`Project` field on the task form.
 
-.. image:: worksheets/template-default.png
+.. image:: worksheets/template-default.webp
    :scale: 75%
    :alt: Mouse on project name to setup default worksheet template
 

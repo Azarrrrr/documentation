@@ -69,7 +69,7 @@ Modules installation
    .. tip::
       If these modules are not listed, :ref:`update the app list <general/install>`.
 
-.. image:: germany/pos-upgrade.png
+.. image:: germany/pos-upgrade.webp
    :align: center
    :alt: Upgrading Odoo Point of Sale from the Apps dashboard
 
@@ -90,7 +90,7 @@ Update Info`, fill out the following fields and *Save*.
 You can then **register your company through fiskaly** by opening the *fiskaly* tab and clicking on
 the *fiskaly Registration* button.
 
-.. image:: germany/fiskaly-registration.png
+.. image:: germany/fiskaly-registration.webp
    :align: center
    :alt: Button to register a company through fiskaly in Odoo
 
@@ -104,7 +104,7 @@ Once the registration has been finalized, new fields appear:
 - **fiskaly API key** and **secret** are the credentials the system uses to access the services
   offered by fiskaly.
 
-.. image:: germany/fiskaly-keys.png
+.. image:: germany/fiskaly-keys.webp
    :align: center
    :alt: fiskaly keys as displayed on Odoo
 
@@ -114,7 +114,7 @@ Once the registration has been finalized, new fields appear:
 Create and link a Technical Security System to your PoS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: germany/create-tss.png
+.. image:: germany/create-tss.webp
    :align: right
    :alt: Create TSS option from a point of sale
 
@@ -124,7 +124,7 @@ System)` for it.
 To do so, go to :menuselection:`Point of Sale --> Configuration --> Point of Sale`, open the point
 of sale you want to edit, then check the box next to **Create TSS** and *Save*.
 
-.. image:: germany/tss-ids.png
+.. image:: germany/tss-ids.webp
    :align: right
    :alt: Example of TSS ID and Client ID from fiskaly in Odoo Point of Sale
 
@@ -137,7 +137,7 @@ Once the creation of the TSS is successful, you can find your **TSS ID** and **C
 DSFinV-K
 --------
 
-.. image:: germany/dsfinv-k-export.png
+.. image:: germany/dsfinv-k-export.webp
    :align: right
    :alt: Menu to export DSFinV-K
 
@@ -158,7 +158,7 @@ Specify a Point of Sale if you want to export this specific PoS' data only.
 
 The creation of a DSFinV-K export triggers on export at fiskaly's side.
 
-.. image:: germany/dsfinv-k-export-fields.png
+.. image:: germany/dsfinv-k-export-fields.webp
    :align: center
    :alt: Pending DSFinV-K export on Odoo
 

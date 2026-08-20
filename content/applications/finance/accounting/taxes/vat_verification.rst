@@ -27,7 +27,7 @@ field is populated *and* its country is different from your company's country, O
 automatically checks or unchecks the :guilabel:`Intra-Community Valid` checkbox depending on the
 validity of the VAT number.
 
-.. image:: vat_verification/intra-community-valid.png
+.. image:: vat_verification/intra-community-valid.webp
    :alt: Intra-community valid checkbox on the contact record
 
 .. important::

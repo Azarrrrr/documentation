@@ -18,7 +18,7 @@ left.
 Next, click the green button labeled, :guilabel:`Add a conference`, and a :guilabel:`New conference`
 form appears.
 
-.. image:: conference_calls/new-conference.png
+.. image:: conference_calls/new-conference.webp
    :align: center
    :alt: New conference form on Axivox.
 
@@ -58,7 +58,7 @@ Once the extension or number is added into the :guilabel:`Please enter the phone
 person you want to invite` field, click the green :guilabel:`Invite` button, and the recipient
 immediately receives a phone call, automatically linking them to the conference.
 
-.. image:: conference_calls/conference-invite.png
+.. image:: conference_calls/conference-invite.webp
    :align: center
    :alt: New conference form on Axivox.
 
@@ -90,7 +90,7 @@ Anywhere in the Odoo database, open the *VoIP* widget, by clicking the :guilabel
 located in the upper-right corner. Then, dial the specific extension number for the conference, and
 click the :guilabel:`📞 (phone)` icon.
 
-.. image:: conference_calls/phone-widget.png
+.. image:: conference_calls/phone-widget.webp
    :align: center
    :alt: Connecting to a conference extension using the Odoo VoIP widget.
 

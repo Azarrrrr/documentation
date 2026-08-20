@@ -8,7 +8,7 @@ First, navigate to :menuselection:`Employees app --> Reporting --> Contracts` to
 :guilabel:`Employee Analysis` report. This report shows the number of all employees for the
 :guilabel:`Last 365 Days`, in a default :icon:`fa-line-chart` :guilabel:`Line Chart`.
 
-.. image:: retention_report/employees-analysis.png
+.. image:: retention_report/employees-analysis.webp
    :align: center
    :alt: The default Employees Analysis report.
 
@@ -25,7 +25,7 @@ totals: the monthly :guilabel:`Wage`, the :guilabel:`Fuel Card` budget, total :g
 Employee Budget` (also referred to as the *annual salary*), the number of :guilabel:`New Employees`,
 as well as the number of :guilabel:`Departure Employees` (employees who left).
 
-.. image:: retention_report/pivot-departures.png
+.. image:: retention_report/pivot-departures.webp
    :align: center
    :alt: The Employees Analysis report, modified to show departed employees only.
 
@@ -82,7 +82,7 @@ for both years, including the difference, in a percentage.
    employees who left in 2024 as compared to 2023. Additionally, there was a :guilabel:`143.37%`
    increase in the total number of employees in 2024 as compared to 2023.
 
-   .. image:: retention_report/comparison-years.png
+   .. image:: retention_report/comparison-years.webp
       :align: center
       :alt: The report modified to show the difference between two years of employees who left.
 
@@ -98,6 +98,6 @@ drop-down to close it, and now the pivot table displays the total number of empl
    :guilabel:`-100%`. Additionally, it can be determined that the :guilabel:`Management / Research &
    Development` department had the most turnover, with a :guilabel:`Variation` of :guilabel:`300%`.
 
-   .. image:: retention_report/department-totals.png
+   .. image:: retention_report/department-totals.webp
      :align: center
      :alt: The expanded employee retention report by department.

@@ -18,7 +18,7 @@ To access a complete overview of all social marketing campaigns, open the :menus
 Marketing` application, and click :menuselection:`Campaigns` from the header menu. Doing so reveals
 a separate page with every campaign in a default kanban view.
 
-.. image:: social_campaigns/campaigns-page.png
+.. image:: social_campaigns/campaigns-page.webp
    :align: center
    :alt: View of the campaigns page in the Odoo Social Marketing application.
 
@@ -30,7 +30,7 @@ the :guilabel:`+ (plus sign)` - located to the right of the stage title.
    When the gear icon is clicked, a drop-down menu reveals the options: :guilabel:`Fold`,
    :guilabel:`Edit Stage`, and :guilabel:`Delete`.
 
-.. image:: social_campaigns/campaign-stage-dropdown.png
+.. image:: social_campaigns/campaign-stage-dropdown.webp
    :align: center
    :alt: View of the campaigns page in the Odoo Social Marketing application.
 
@@ -67,7 +67,7 @@ corner of the :guilabel:`Campaigns` dashboard.
 Both options reveal a new campaign detail window directly on the :guilabel:`Campaigns` dashboard
 when clicked.
 
-.. image:: social_campaigns/quick-add-campaign.png
+.. image:: social_campaigns/quick-add-campaign.webp
    :align: center
    :alt: View of the quick add option for campaigns in Odoo Social Marketing.
 
@@ -97,7 +97,7 @@ On a *Campaign Template* page, numerous elements can be customized/modified, and
 communications can be created, modified, and sent or scheduled. Below is a sample of a completed
 campaign template.
 
-.. image:: social_campaigns/create-campaign.png
+.. image:: social_campaigns/create-campaign.webp
    :align: center
    :alt: View of a sample campaign template page in Odoo Social Marketing.
 

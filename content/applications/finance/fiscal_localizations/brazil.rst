@@ -85,7 +85,7 @@ given to your company.
    - :guilabel:`Phone`
    - :guilabel:`Email`
 
-   .. image:: brazil/contact-configuration.png
+   .. image:: brazil/contact-configuration.webp
       :alt: Company configuration.
 
 #. Configure the :guilabel:`Fiscal Information` within the :guilabel:`Sales and Purchase` tab:
@@ -96,7 +96,7 @@ given to your company.
      or :guilabel:`Non-Taxpayer`
    - :guilabel:`Main Activity Sector`
 
-   .. image:: brazil/contact-fiscal-configuration.png
+   .. image:: brazil/contact-fiscal-configuration.webp
       :alt: Company fiscal configuration.
 
 #. Configure the following extra :guilabel:`Fiscal Information` if you are going to issue NFS-e:
@@ -108,7 +108,7 @@ given to your company.
      Suspended`
    - :guilabel:`CSLL Taxable` If the company is subject to CSLL or not
 
-   .. image:: brazil/contact-fiscal-configuration-nfse.png
+   .. image:: brazil/contact-fiscal-configuration-nfse.webp
       :alt: Company fiscal configuration for NFSe.
 
 #. Finally, upload a company logo and save the contact.
@@ -160,7 +160,7 @@ Brazil` section, add the administration email address to be used for the AvaTax 
    email used to open the account cannot be used to open another account. Save your :guilabel:`API
    ID` and :guilabel:`API Key` when you create the account from Odoo.
 
-   .. image:: brazil/transfer-api-credentials.png
+   .. image:: brazil/transfer-api-credentials.webp
       :alt: Transfer API Credentials.
 
 After you create the account from Odoo, you need to go to the Avalara Portal to set up your
@@ -178,7 +178,7 @@ password:
    accessing the Avalara portal in the Odoo database. However, in order to use the electronic
    invoice service, you **must** access the AvaTax portal and upload your certificate there.
 
-.. image:: brazil/avatax-account-configuration.png
+.. image:: brazil/avatax-account-configuration.webp
    :alt: AvaTax account configuration.
 
 .. note::
@@ -231,7 +231,7 @@ invoices, the :guilabel:`Type` field selects the document type used when creatin
 :guilabel:`Type` field will only be displayed if the :guilabel:`Use Documents` field is selected on
 the journal.
 
-.. image:: brazil/journal-configuration.png
+.. image:: brazil/journal-configuration.webp
    :alt: Journal configuration with the Use Documents? field checked.
 
 .. note::
@@ -280,7 +280,7 @@ E-Invoice for goods (NF-e)
 - :guilabel:`SPED Fiscal Product Type`: Fiscal product type according to SPED list table
 - :guilabel:`Purpose of Use`: Specify the intended purpose of use for this product
 
-.. image:: brazil/product-configuration.png
+.. image:: brazil/product-configuration.webp
    :alt: Product configuration.
 
 .. note::
@@ -326,7 +326,7 @@ Before using the integration, specify the following information on the contact:
    - :guilabel:`Phone`
    - :guilabel:`Email`
 
-   .. image:: brazil/contact-configuration.png
+   .. image:: brazil/contact-configuration.webp
       :alt: Contact configuration.
 
    .. note::
@@ -342,7 +342,7 @@ Before using the integration, specify the following information on the contact:
      :guilabel:`ICMS regime`, :guilabel:`Exempt status`, or :guilabel:`Non-taxpayer`
    - :guilabel:`Main Activity Sector`: list of main activity sectors of the contact
 
-   .. image:: brazil/contact-fiscal-configuration.png
+   .. image:: brazil/contact-fiscal-configuration.webp
       :alt: Contact fiscal configuration.
 
 #. Configure the following extra :guilabel:`Fiscal Information` if you are going to issue NFS-e:
@@ -354,7 +354,7 @@ Before using the integration, specify the following information on the contact:
      Suspended`
    - :guilabel:`CSLL Taxable`: If the company is subject to CSLL or not
 
-   .. image:: brazil/contact-fiscal-configuration-nfse.png
+   .. image:: brazil/contact-fiscal-configuration-nfse.webp
       :alt: Contact fiscal configuration for NFSe.
 
 .. _brazil/fiscal-positions:
@@ -369,7 +369,7 @@ the :guilabel:`Fiscal Position`.
 The :guilabel:`Fiscal Position` can be configured on the :ref:`contact <brazil/contacts>` or
 selected when creating a sales order or an invoice.
 
-.. image:: brazil/fiscal-position-configuration.png
+.. image:: brazil/fiscal-position-configuration.webp
    :alt: Fiscal position configuration
 
 Workflows
@@ -455,10 +455,10 @@ populated for most cases:
 - :guilabel:`Freight Model` determines how the goods are planned to be transported - domestic
 - :guilabel:`Transporter Brazil` determines who is doing the transportation
 
-.. image:: brazil/invoice-info-needed.png
+.. image:: brazil/invoice-info-needed.webp
    :alt: Invoice information needed to process an electronic invoice.
 
-.. image:: brazil/process-electronic-invoice.png
+.. image:: brazil/process-electronic-invoice.webp
    :alt: Process electronic invoice pop-up in Odoo.
 
 .. note::
@@ -512,7 +512,7 @@ Cancel an e-invoice for goods (NF-e) in Odoo by clicking :guilabel:`Request Canc
 cancellation :guilabel:`Reason` on the pop-up that appears. If you want to send this cancellation
 reason to the customer via email, activate the :guilabel:`E-mail` checkbox.
 
-.. image:: brazil/invoice-cancellation.png
+.. image:: brazil/invoice-cancellation.webp
    :alt: Invoice cancellation reason in Odoo.
 
 .. note::
@@ -537,7 +537,7 @@ This can be done in Odoo by clicking :guilabel:`Correction Letter` and adding a 
 :guilabel:`Reason` on the pop-up that appears. To send this correction reason to a customer via
 email, activate the :guilabel:`E-mail` checkbox.
 
-.. image:: brazil/correction-letter.png
+.. image:: brazil/correction-letter.webp
    :alt: Correction letter reason in Odoo.
 
 .. note::
@@ -553,10 +553,10 @@ journal, and click the :menuselection:`⚙️ (gear) icon --> Invalidate Number 
 :guilabel:`End Number` of the range that should be cancelled, and enter an invalidation
 :guilabel:`Reason`.
 
-.. image:: brazil/range-number-invalidation.png
+.. image:: brazil/range-number-invalidation.webp
    :alt: Number range invalidation selection in Odoo.
 
-.. image:: brazil/range-number-invalidation-wizard.png
+.. image:: brazil/range-number-invalidation-wizard.webp
    :alt: Number range invalidation wizard in Odoo.
 
 .. note::

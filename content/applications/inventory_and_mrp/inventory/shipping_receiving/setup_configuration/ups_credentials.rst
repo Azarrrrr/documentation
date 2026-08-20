@@ -26,7 +26,7 @@ button in the top-right corner to log in or create a UPS account.
 After logging in, click the profile icon in the top-right corner, and select :guilabel:`Accounts and
 Payment` from the drop-down menu.
 
-.. image:: ups_credentials/accounts-payment.png
+.. image:: ups_credentials/accounts-payment.webp
    :align: center
    :alt: Show how to navigate to the "Accounts and Payment" page from the home screen.
 
@@ -39,7 +39,7 @@ Shipping account
 To add an Odoo shipment account, select :guilabel:`Add New Account` from the :guilabel:`Add a
 Payment Method` drop-down menu, and click :guilabel:`Add`.
 
-.. image:: ups_credentials/new-account.png
+.. image:: ups_credentials/new-account.webp
    :align: center
    :alt: Display "Add an account" option from the drop-down menu.
 
@@ -51,7 +51,7 @@ Identity`, and :guilabel:`Explore Discounts`, with the last option being optiona
 When complete, submit the application on the last page of the wizard to finish setting up the
 shipping account.
 
-.. image:: ups_credentials/shipping-account.png
+.. image:: ups_credentials/shipping-account.webp
    :align: center
    :alt: Display UPS form to fill out company shipping information.
 
@@ -64,7 +64,7 @@ With the shipping account set up, the UPS :guilabel:`Account Number` becomes ava
 it, navigate to :menuselection:`Profile --> Accounts and Payment` and refer to the shipping
 account's :guilabel:`Number` field.
 
-.. image:: ups_credentials/account-number.png
+.. image:: ups_credentials/account-number.webp
    :align: center
    :alt: Show Account "Number" field for the shipping account.
 
@@ -75,7 +75,7 @@ Navigate back to the :guilabel:`Accounts and Payments` page and select the :guil
 Card` option from the :guilabel:`Add a Payment Method` drop-down menu. Then, complete the form to
 add the credit card information.
 
-.. image:: ups_credentials/payment-card.png
+.. image:: ups_credentials/payment-card.webp
    :align: center
    :alt: Show "Add Payment Card" option from the drop-down.
 
@@ -86,7 +86,7 @@ Next, log into the `UPS developer account <http://developer.ups.com/>`_ to gener
 key. To begin, click the profile icon in the top-right corner, and choose the :guilabel:`Apps`
 option from the drop-down menu.
 
-.. image:: ups_credentials/apps.png
+.. image:: ups_credentials/apps.webp
    :align: center
    :alt: Display the "Apps" drop-down option after clicking the profile picture icon.
 
@@ -102,7 +102,7 @@ Under the next label, :guilabel:`Choose an account to associate with these crede
 the :ref:`account number <inventory/shipping_receiving/ups-account-number>` linked to the UPS
 account created in the previous step.
 
-.. image:: ups_credentials/developer-account-setup.png
+.. image:: ups_credentials/developer-account-setup.webp
    :align: center
    :alt: Show form to fill in the UPS account number.
 
@@ -131,7 +131,7 @@ Finally, click :guilabel:`Save` and accept UPS's terms and conditions.
 .. seealso::
    `UPS API Catalog <https://developer.ups.com/catalog?loc=en_US>`_
 
-.. image:: ups_credentials/add-app-development.png
+.. image:: ups_credentials/add-app-development.webp
    :align: center
    :alt: Show "Add Apps" form, where the app details are configured.
 
@@ -143,14 +143,14 @@ Client ID and Client Secret
 With the new app created, in the :menuselection:`Profile --> My Apps --> App` page, select the app
 from the :guilabel:`Credentials` section to view the UPS credentials.
 
-.. image:: ups_credentials/my-apps.png
+.. image:: ups_credentials/my-apps.webp
    :align: center
    :alt: Show newly created app in the "My Apps" section.
 
 In the :guilabel:`Credentials` section, copy the :guilabel:`Client ID` and :guilabel:`Client Secret`
 key.
 
-.. image:: ups_credentials/credentials.png
+.. image:: ups_credentials/credentials.webp
    :align: center
    :alt: Display the "Client ID" and "Client Secret" key.
 
@@ -187,7 +187,7 @@ In the :guilabel:`UPS Configuration` tab, complete the following fields:
 - :guilabel:`Label Format`: Choose the label format shipping labels: :guilabel:`PDF`,
   :guilabel:`ZPL`, :guilabel:`EPL`, or :guilabel:`SPL`.
 
-.. image:: ups_credentials/ups-configuration.png
+.. image:: ups_credentials/ups-configuration.webp
    :align: center
    :alt: Show the "UPS Configuration" tab on the Shipping Methods form.
 

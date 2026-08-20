@@ -38,7 +38,7 @@ click on :guilabel:`Import File`.
      selecting :guilabel:`Transactions`, then click the gear icon :guilabel:`(⚙)` and select
      :guilabel:`Import records`.
 
-     .. image:: transactions/import-transactions.png
+     .. image:: transactions/import-transactions.webp
         :alt: Import bank transactions from the bank journal
 
 Next, select the file and upload it.
@@ -86,7 +86,7 @@ Open the bank reconciliation view by clicking on the name of the bank journal, a
 transaction corresponding to the last transaction of your bank statement. Click on the
 :guilabel:`STATEMENT` button when hovering on the upper separator line.
 
-.. image:: transactions/statements-kanban.png
+.. image:: transactions/statements-kanban.webp
    :alt: A "STATEMENT" button is visible when hovering on the line separating two transactions.
 
 Fill out the statement's details and save. The newly created statement includes the previous

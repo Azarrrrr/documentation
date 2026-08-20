@@ -14,7 +14,7 @@ leads linked to that customer.
 
 .. admonition:: Goal
 
-   .. image:: 03_customize_kanban_view/overview.png
+   .. image:: 03_customize_kanban_view/overview.webp
       :align: center
 
 .. spoiler:: Solutions
@@ -66,7 +66,7 @@ We will need to display a list of customers, so we might as well create the comp
 #. Subclass the kanban controller to add `CustomerList` in its sub-components.
 #. Make sure you see your component in the kanban view.
 
-.. image:: 03_customize_kanban_view/customer_list_component.png
+.. image:: 03_customize_kanban_view/customer_list_component.webp
    :align: center
 
 .. seealso::
@@ -80,7 +80,7 @@ We will need to display a list of customers, so we might as well create the comp
 #. Display the list in the template with a `t-foreach`.
 #. Whenever a customer is selected, call the `selectCustomer` function prop.
 
-.. image:: 03_customize_kanban_view/customer_data.png
+.. image:: 03_customize_kanban_view/customer_data.webp
    :align: center
 
 .. seealso::
@@ -133,7 +133,7 @@ We will need to display a list of customers, so we might as well create the comp
    to make sure that the custom `isFromAwesomeKanban` key will not collide with keys any other
    code might add to the object.
 
-.. image:: 03_customize_kanban_view/customer_filter.png
+.. image:: 03_customize_kanban_view/customer_filter.webp
    :align: center
 
 5. Only display customers which have an active order
@@ -146,7 +146,7 @@ customers with at least one opportunity.
    next to it.
 #. Changing the value of the checkbox should filter the list of customers.
 
-.. image:: 03_customize_kanban_view/active_customer.png
+.. image:: 03_customize_kanban_view/active_customer.webp
    :align: center
    :scale: 60%
 
@@ -160,7 +160,7 @@ displayed customers, according to their name.
    You can use the `fuzzyLookup` from :file:`@web/core/utils/search` function to perform the
    filter.
 
-.. image:: 03_customize_kanban_view/customer_search.png
+.. image:: 03_customize_kanban_view/customer_search.webp
    :align: center
    :scale: 60%
 
@@ -195,6 +195,6 @@ us see how we could do it in a more declarative way, with the `t-model
 This is actually pretty hard, in particular in combination with the filtering done in the
 previous exercise. There are many edge cases to take into account.
 
-.. image:: 03_customize_kanban_view/customer_pager.png
+.. image:: 03_customize_kanban_view/customer_pager.webp
    :align: center
    :scale: 60%

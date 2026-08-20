@@ -30,7 +30,7 @@ feature: :guilabel:`Barcode Nomenclature` (with a corresponding drop-down menu),
 There is also a :guilabel:`Configure Product Barcodes` internal link arrow, and a set of
 :guilabel:`Print` buttons for printing barcode commands and a barcode demo sheet.
 
-.. image:: receipts_deliveries/receipts-deliveries-barcode-setting.png
+.. image:: receipts_deliveries/receipts-deliveries-barcode-setting.webp
    :align: center
    :alt: Enabled Barcode feature in Inventory app settings.
 
@@ -57,7 +57,7 @@ to the quotation.
 Once ready, click :guilabel:`Save` at the top of the form, then click :guilabel:`Confirm Order` to
 confirm the :abbr:`RFQ (request for quotation)` to a :abbr:`PO (purchase order)`.
 
-.. image:: receipts_deliveries/receipts-deliveries-purchase-order.png
+.. image:: receipts_deliveries/receipts-deliveries-purchase-order.webp
    :align: center
    :alt: Completed purchase order for barcode product.
 
@@ -67,7 +67,7 @@ Once inside the :guilabel:`Barcode app`, a :guilabel:`Barcode Scanning` screen d
 options is presented. To process receipts, click on the :guilabel:`Operations` button at the bottom
 of the screen. This navigates to an :menuselection:`Operations` overview page.
 
-.. image:: receipts_deliveries/receipts-deliveries-barcode-scanner.png
+.. image:: receipts_deliveries/receipts-deliveries-barcode-scanner.webp
    :align: center
    :alt: Barcode app start screen with scanner.
 
@@ -87,7 +87,7 @@ shown. At the bottom of the screen, there are options to :guilabel:`Add Product`
 :guilabel:`Validate`, depending on if products need to be added to the operation, or if the whole
 operation should be validated at once.
 
-.. image:: receipts_deliveries/receipts-deliveries-scanner-overview.png
+.. image:: receipts_deliveries/receipts-deliveries-scanner-overview.webp
    :align: center
    :alt: Overview of receipts in transfer to scan.
 
@@ -106,7 +106,7 @@ the quantity ordered from the :abbr:`PO (purchase order)`.
    the barcode of the `Barcode Product` to receive one unit. Afterwards, click the
    :guilabel:`pencil` icon to manually enter the received quantities.
 
-   .. image:: receipts_deliveries/receipts-deliveries-product-line-editor.png
+   .. image:: receipts_deliveries/receipts-deliveries-product-line-editor.webp
       :align: center
       :alt: Product line editor for individual transfer in Barcode app.
 
@@ -124,7 +124,7 @@ click the :guilabel:`+#` button on the product line for the products being recei
 :guilabel:`Validate`. The receipt has now been processed, and the :guilabel:`Barcode app` can be
 closed out.
 
-.. image:: receipts_deliveries/receipts-deliveries-validate-transfer.png
+.. image:: receipts_deliveries/receipts-deliveries-validate-transfer.webp
    :align: center
    :alt: Overview of receipts in transfer to validate.
 
@@ -144,7 +144,7 @@ add a customer. Then, on the :guilabel:`Product` line under the :guilabel:`Order
 Once ready, click :guilabel:`Save` at the top of the form, and click :guilabel:`Confirm Order` to
 confirm the quotation to a :abbr:`SO (sales order)`.
 
-.. image:: receipts_deliveries/receipts-deliveries-sales-order.png
+.. image:: receipts_deliveries/receipts-deliveries-sales-order.webp
    :align: center
    :alt: Completed sales order for barcode product.
 
@@ -158,7 +158,7 @@ From this page, locate the :guilabel:`Delivery Orders` card, and click the :guil
 button to view all outstanding deliveries. Then, select the desired delivery order to process. This
 navigates to the barcode transfer screen.
 
-.. image:: receipts_deliveries/receipts-deliveries-operations-page.png
+.. image:: receipts_deliveries/receipts-deliveries-operations-page.webp
    :align: center
    :alt: Operations overview page in Barcode app dashboard.
 
@@ -197,6 +197,6 @@ Then, from the overview page with all receipts to process within that transfer (
 click the :guilabel:`+#` button on the product line for the products being received, and click
 :guilabel:`Validate`. The delivery has now been processed, and the *Barcode* app can be closed out.
 
-.. image:: receipts_deliveries/receipts-deliveries-validate-delivery.png
+.. image:: receipts_deliveries/receipts-deliveries-validate-delivery.webp
    :align: center
    :alt: Overview of deliveries in transfer to validate.

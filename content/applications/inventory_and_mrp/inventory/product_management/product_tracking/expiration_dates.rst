@@ -27,7 +27,7 @@ enable the :guilabel:`Lots & Serial Numbers` feature.
 Once that feature is activated, a new option will appear to enable :guilabel:`Expiration Dates`.
 Click that checkbox to enable the feature, and be sure to :guilabel:`Save` changes.
 
-.. image:: expiration_dates/expiration-dates-enabled-settings.png
+.. image:: expiration_dates/expiration-dates-enabled-settings.webp
    :align: center
    :alt: Enabled lots and serial numbers and expiration dates settings.
 
@@ -70,7 +70,7 @@ are enabled, a new :guilabel:`Dates` field appears to the right.
    For processing large quantities of products on receipts or deliveries, it is recommended to track
    using lots, so multiple products can be traced back to the same lot, if any issues arise.
 
-.. image:: expiration_dates/expiration-dates-product-configuration.png
+.. image:: expiration_dates/expiration-dates-product-configuration.webp
    :align: center
    :alt: Expiration dates configuration on the product form.
 
@@ -120,7 +120,7 @@ warehouse receipt form.
    number for the ordered products. The :abbr:`RFQ (request for quotation)` cannot be validated
    without an assigned lot or serial number.
 
-   .. image:: expiration_dates/expiration-dates-user-error-popup.png
+   .. image:: expiration_dates/expiration-dates-user-error-popup.webp
       :align: center
       :alt: User error popup when validating an order with no lot number.
 
@@ -140,7 +140,7 @@ previously configured).
 After the expiration date has been established, mark the :guilabel:`Done` quantities, and click
 :guilabel:`Confirm` to close the pop-up. Finally, click :guilabel:`Validate`.
 
-.. image:: expiration_dates/expiration-dates-detailed-operations-popup.png
+.. image:: expiration_dates/expiration-dates-detailed-operations-popup.webp
    :align: center
    :alt: Detailed operations popup showing expiration dates for ordered products.
 
@@ -159,7 +159,7 @@ To create a :abbr:`MO (manufacturing order)`, go to :menuselection:`Manufacturin
 --> Manufacturing Orders`, and click :guilabel:`Create`. Choose a product to manufacture from the
 :guilabel:`Product` field drop-down menu, then select the :guilabel:`Quantity` to produce.
 
-.. image:: expiration_dates/expiration-dates-manufacturing-order.png
+.. image:: expiration_dates/expiration-dates-manufacturing-order.webp
    :align: center
    :alt: Manufacturing order for product with expiration date.
 
@@ -185,7 +185,7 @@ configured for the product is displayed. That same information is also available
 for that specific product, or by going to :menuselection:`Inventory app --> Products --> Lots/Serial
 Numbers`.
 
-.. image:: expiration_dates/expiration-dates-dates-tab-lot-number.png
+.. image:: expiration_dates/expiration-dates-dates-tab-lot-number.webp
    :align: center
    :alt: Dates tab with expiration information for specific lot number.
 
@@ -237,7 +237,7 @@ Date` parameter from the drop-down menu. Finally, click :guilabel:`Apply` to app
 
 Doing so breaks down all perishable products, their expiration dates, and the assigned lot number.
 
-.. image:: expiration_dates/expiration-dates-group-by-dates.png
+.. image:: expiration_dates/expiration-dates-group-by-dates.webp
    :align: center
    :alt: Group by expiration dates on lots and serial numbers page.
 
@@ -266,6 +266,6 @@ expire soon), remove all of the search filters from the :guilabel:`Search...` ba
 
 Then, click :guilabel:`Filters`, and choose :guilabel:`Expiration Alerts`.
 
-.. image:: expiration_dates/expiration-dates-expiration-alert.png
+.. image:: expiration_dates/expiration-dates-expiration-alert.webp
    :align: center
    :alt: Expiration alert for product past the expiration date.

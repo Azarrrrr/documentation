@@ -53,7 +53,7 @@ that can be scanned at a kiosk to check in and out.
 
 Badges can be printed for employees using any thermal or inkjet printer.
 
-.. image:: hardware/badge.png
+.. image:: hardware/badge.webp
    :align: center
    :alt: A badge for an employee that is created from the Employees app.
 
@@ -94,7 +94,7 @@ It is **required** to purchase *both* RFID key fobs and an RFID reader to use th
 in and out. Follow the manufacturer's directions to install the RFID reader, and set up the RFID key
 fob.
 
-.. image:: hardware/rfid-reader.jpg
+.. image:: hardware/rfid-reader.webp
    :align: center
    :width: 50%
    :alt: An RFID key fob is placed on an RFID reader.

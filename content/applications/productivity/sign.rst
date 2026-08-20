@@ -154,7 +154,7 @@ When ready, click :guilabel:`Send`, and fill in the required fields. Once sent, 
 remains available. Go to :menuselection:`Documents --> All Documents` to see your document
 and the status of the signatures.
 
-.. image:: sign/signature-status.png
+.. image:: sign/signature-status.webp
    :alt: Signature status
 
 Validity dates and reminders
@@ -166,7 +166,7 @@ document. On the new page, go to the :guilabel:`Options` section, fill in the
 :guilabel:`Valid Until` field, toggle the :guilabel:`Reminder` switch, and click the value to edit
 the default number of days between reminders.
 
-.. image:: sign/reminder.png
+.. image:: sign/reminder.webp
    :alt: Set the number of days between reminders
 
 Templates
@@ -245,7 +245,7 @@ The person signing the document fills in the :guilabel:`Signature` field, then :
 clicks :guilabel:`Validate & Send Completed Document`. A :guilabel:`Final Validation` page pops up
 where to add their phone number. One-time codes are sent by SMS.
 
-.. image:: sign/sms-verification.png
+.. image:: sign/sms-verification.webp
    :alt: Add a hash to your document
 
 .. note::
@@ -269,7 +269,7 @@ Step` column for the role, and select :guilabel:`Via itsme®`.
 Go to the document that needs to be signed and add the :guilabel:`Signature` field. Switch to any
 role configured to use the feature, and click :guilabel:`Validate` and :guilabel:`Send`.
 
-.. image:: sign/itsme-identification.png
+.. image:: sign/itsme-identification.webp
    :alt: select customer identified with itsme®
 
 Upon signing the document, the signer completes the :guilabel:`Signature` field and proceeds by
@@ -288,7 +288,7 @@ A visual security frame displaying the beginning of the hash is added to the sig
 users can hide or show it by turning the :guilabel:`Frame` option on or off when signing the
 document.
 
-.. image:: sign/sign-hash.png
+.. image:: sign/sign-hash.webp
    :alt: Adding the visual security frame to a signature.
 
 .. _sign/field-types:
@@ -321,7 +321,7 @@ After uploading a PDF with at least two signature fields with two different role
 name or email information to add them. You can decide on the signing order by typing **1** or **2**
 in the first column.
 
-.. image:: sign/specify-signing-order.png
+.. image:: sign/specify-signing-order.webp
    :alt: Toggle the switch to specify the signing order.
 
 Each recipient receives the signature request notification only once the previous recipient has
@@ -379,5 +379,5 @@ screen during the signing process to help them understand what the step entails 
 or “Fill in your birthdate”). You can also use a :guilabel:`Placeholder` text to be displayed inside
 the field before it is completed.
 
-.. image:: sign/tip-placeholder.png
+.. image:: sign/tip-placeholder.webp
    :alt: Tip and placeholder example in Odoo Sign

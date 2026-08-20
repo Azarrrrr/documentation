@@ -32,7 +32,7 @@ The policy selected acts as the default for any new product created. Each policy
 - :guilabel:`Received quantities`: a bill is only created **after** all (or part) of the total order
   has been received. The products and quantities received are used to generate a draft bill.
 
-.. image:: manage/manage-configuration-settings.png
+.. image:: manage/manage-configuration-settings.webp
    :align: center
    :alt: Bill control policies in purchase app settings.
 
@@ -43,7 +43,7 @@ Once a policy is selected, click :guilabel:`Save` to save the changes.
    that product's control policy can be overridden by going to the :guilabel:`Purchase` tab on a
    product form, and selecting the desired policy in the :guilabel:`Control Policy` field.
 
-   .. image:: manage/manage-product-form.png
+   .. image:: manage/manage-product-form.webp
       :align: center
       :alt: Control policy field on product form.
 
@@ -110,7 +110,7 @@ Additionally, the bill :guilabel:`Amount`, :guilabel:`Payment Date`, and :guilab
 Once ready, click :guilabel:`Create Payment` to finish creating the :guilabel:`Vendor Bill`. Doing
 so displays a green :guilabel:`Paid` banner on the |RfQ| form.
 
-.. image:: manage/manage-draft-vendor-bill.png
+.. image:: manage/manage-draft-vendor-bill.webp
    :align: center
    :alt: Vendor bill form for ordered quantities control policy.
 
@@ -135,7 +135,7 @@ Once ready, click :guilabel:`Confirm Order` to confirm the |RfQ| into a |PO|.
    Odoo requires at least partial quantities of the items included in the |PO| to be received in
    order to create a vendor bill.
 
-   .. image:: manage/manage-user-error-popup.png
+   .. image:: manage/manage-user-error-popup.webp
       :align: center
       :alt: User error pop-up for received quantities control policy.
 
@@ -195,7 +195,7 @@ the :guilabel:`Vendor Bill`.
 
    The bill auto-populates with the information from the chosen |PO|.
 
-   .. image:: manage/manage-auto-complete.png
+   .. image:: manage/manage-auto-complete.webp
       :align: center
       :alt: Auto-complete drop-down list on draft vendor bill.
 
@@ -232,7 +232,7 @@ appears if the *Batch Payments* feature is enabled in the settings of the
 Once ready, click the :guilabel:`Create Payment` button. This creates a list of journal entries on a
 separate page. The journal entries on this list are all tied to their corresponding vendor bills.
 
-.. image:: manage/manage-batch-billing.png
+.. image:: manage/manage-batch-billing.webp
    :align: center
    :alt: Batch billing register payment pop-up window.
 

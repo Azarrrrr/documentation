@@ -93,12 +93,12 @@ To export a statement:
   :guilabel:`Report 1 Download` sheet of the :ref:`Excel import template
   <authorize-import-template>`.
 
-.. image:: authorize/authorize-report1.png
+.. image:: authorize/authorize-report1.webp
    :alt: Selecting Authorize.Net transactions to import
 
 .. example::
 
-   .. image:: authorize/authorize-settlement-batch.png
+   .. image:: authorize/authorize-settlement-batch.webp
       :align: center
       :alt: Settlement batch of an Authorize.Net statement
 
@@ -148,7 +148,7 @@ To import the data into Odoo:
 
 .. example::
 
-   .. image:: authorize/authorize-chargeback-desc.png
+   .. image:: authorize/authorize-chargeback-desc.webp
       :alt: Chargeback description
 
 - Next, delete *zero transaction* and *void transaction* line items, and change the format

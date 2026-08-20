@@ -84,7 +84,7 @@ performed. Select one of the three options, and then include the instructions as
 - :guilabel:`Text`: enter the instructions in the text-entry field that appears after the option is
   selected.
 
-.. image:: maintenance_requests/request-form.png
+.. image:: maintenance_requests/request-form.webp
    :align: center
    :alt: A maintenance request form filled out for a piece of equipment.
 

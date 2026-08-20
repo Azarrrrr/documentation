@@ -22,7 +22,7 @@ configurable in their respective view.
 In the pop-up box, either create a new spreadsheet by selecting :guilabel:`Blank spreadsheet` or
 insert it in an existing one by selecting it and clicking :guilabel:`Confirm`.
 
-.. image:: insert/insert-spreadsheet.png
+.. image:: insert/insert-spreadsheet.webp
    :align: center
    :alt: Inserting a pivot in a spreadsheet
 
@@ -50,7 +50,7 @@ go to the menu bar and click :menuselection:`Data --> Re-insert pivot` to fully 
 Alternatively, click :guilabel:`Insert pivot`, select the pivot, and tick :guilabel:`Display missing
 cells only` to preview first the missing data.
 
-   .. image:: insert/missing-cells.png
+   .. image:: insert/missing-cells.webp
       :align: center
       :alt: Displaying missing cells in a pivot
 

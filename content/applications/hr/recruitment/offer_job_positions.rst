@@ -104,7 +104,7 @@ Once the email is ready to send, click :guilabel:`Send`. The email pop-up window
    be sent to the applicant by the recruiter, and they can actually sign the offer. The applicant
    does **not** need any software installed to sign the offer.
 
-.. image:: offer_job_positions/send-offer.png
+.. image:: offer_job_positions/send-offer.webp
    :align: center
    :alt: Send an email to the applicant with a link to the offered salary.
 
@@ -142,7 +142,7 @@ button to the right of :guilabel:`Contract Proposal` on the applicant's form, an
 Once the applicant is moved to the :guilabel:`Contract Signed` stage, a green :guilabel:`HIRED`
 banner appears in the top-right of the applicant's card and form.
 
-.. image:: offer_job_positions/hired.png
+.. image:: offer_job_positions/hired.webp
    :align: center
    :alt: Hired banner in the top right corner of applicant card.
 

@@ -24,7 +24,7 @@ different groups for A/B testing, or saved as a template for later.
    - :guilabel:`Lost Reason` *is in* `Not enough stock`
    - and either :guilabel:`Active` *is* `set` or `not set`
 
-   .. image:: lost_leads_email/example.png
+   .. image:: lost_leads_email/example.webp
       :align: center
       :alt: A lost leads reactivation filter list excluding lost reasons like Too Expensive.
 
@@ -35,7 +35,7 @@ different groups for A/B testing, or saved as a template for later.
 
    To view a list of all matching records, click the :guilabel:`# record(s)` text.
 
-   .. image:: lost_leads_email/records.png
+   .. image:: lost_leads_email/records.webp
       :align: center
       :alt: The # record(s) text is located below the list of Recipient filters.
 
@@ -96,7 +96,7 @@ selection chosen in the third field.
 In the third field, use the calendar popover window to select dates, and click :guilabel:`Apply` to
 lock in the time range.
 
-.. image:: lost_leads_email/created-on.png
+.. image:: lost_leads_email/created-on.webp
    :align: center
    :alt: A custom filter rule setting the time period to be anything before today's date.
 
@@ -106,7 +106,7 @@ lock in the time range.
    does not, click on the statement, and select :guilabel:`all` from the drop-down menu (as opposed
    to :guilabel:`any`).
 
-   .. image:: lost_leads_email/match-all.png
+   .. image:: lost_leads_email/match-all.webp
       :align: center
       :alt: The statement at the top of the filters list, with the drop-down menu open.
 
@@ -131,7 +131,7 @@ rule's parameters.
 When the rule is added in this way, the logic in the third field renders as :code:`OR` (`|`)
 statements.
 
-.. image:: lost_leads_email/stage-is-in.png
+.. image:: lost_leads_email/stage-is-in.webp
    :align: center
    :alt: Include multiple Stages in the filtering rule, using the "is in" operator.
 
@@ -141,7 +141,7 @@ statements.
    defining characters in each stage name. This method, however, only allows for one selection at a
    time, which can be useful for quickly turning on/off filters in the :guilabel:`Search...` bar.
 
-   .. image:: lost_leads_email/stages.png
+   .. image:: lost_leads_email/stages.webp
       :align: center
       :alt: Three filter rules requiring that the Stage does not contain New, Qualified, or Won.
 
@@ -165,7 +165,7 @@ lost reasons, as needed, where each lost reason occupies one rule row at a time.
 For more information, refer to the section below outlining how to :ref:`select appropriate lost
 reasons <email_marketing/select_lost_reasons>`.
 
-.. image:: lost_leads_email/reasons.png
+.. image:: lost_leads_email/reasons.webp
    :align: center
    :alt: A list of filter rules that exclude all lost reasons other than the desired reason.
 
@@ -193,7 +193,7 @@ For the first field of the bottom rule of the branch, select :guilabel:`Active` 
 menu again. However, this time, select :guilabel:`is not` from the operator drop-down menu in the
 second field. The rule should then read: :guilabel:`Active` *is not* `set`.
 
-.. image:: lost_leads_email/active.png
+.. image:: lost_leads_email/active.webp
    :align: center
    :alt: A pair of Match Any Of filter rules that include both active and inactive leads.
 
@@ -209,7 +209,7 @@ using any of the premade stylized templates, or choose between the :guilabel:`Pl
    To save the set of filters for later use, click :guilabel:`Save as Favorite Filter 💾 (floppy
    disk)`, enter a name (such as `Lost Leads`), and click :guilabel:`Add`.
 
-   .. image:: lost_leads_email/favorite-filter.png
+   .. image:: lost_leads_email/favorite-filter.webp
       :align: center
       :alt: The Save as Favorite Filter pop-up can save the lost leads criteria for later.
 
@@ -232,7 +232,7 @@ Once all the components of the email campaign are complete, either:
    :guilabel:`Allow A/B Testing`. Then, adjust the parameters as needed, and click :guilabel:`Create
    an Alternative Version`.
 
-   .. image:: lost_leads_email/ab-testing.png
+   .. image:: lost_leads_email/ab-testing.webp
       :align: center
       :alt: The A/B Tests tab with the Allow A/B Testing box checked to create an alternate version.
 
@@ -267,14 +267,14 @@ the relevant one(s).
    If the email advertises a selection of previously-limited merchandise that is now back in stock,
    it makes sense to target leads with the lost reason: *not enough stock*.
 
-   .. image:: lost_leads_email/out-of-stock.png
+   .. image:: lost_leads_email/out-of-stock.webp
       :align: center
       :alt: A list of filter rules that exclude all lost reasons except for Out of Stock.
 
    If the email advertises a price reduction, it makes sense to target leads with the lost reason:
    *too expensive*.
 
-   .. image:: lost_leads_email/too-expensive.png
+   .. image:: lost_leads_email/too-expensive.webp
       :align: center
       :alt: A list of filter rules that exclude all lost reasons except for Too Expensive.
 
@@ -287,7 +287,7 @@ top of the email to analyze the results, and determine follow-up actions.
 Clicking on any of the smart buttons opens a list of records matching that button's specific
 criteria.
 
-.. image:: lost_leads_email/smart-buttons.png
+.. image:: lost_leads_email/smart-buttons.webp
    :align: center
    :alt: The Mailing page of a sent email showing the smart buttons along the top of the page.
 

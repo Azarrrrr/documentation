@@ -19,7 +19,7 @@ top-right of the screen to open the web editor. Click on the form building block
 webpage to open the form configuration settings on the right sidebar. The following options are
 available to customize the contact form from the :guilabel:`From` section of the right sidebar:
 
-.. image:: opportunities_form/form-customization.png
+.. image:: opportunities_form/form-customization.webp
    :align: center
    :alt: The form configuration settings on an Odoo website.
 
@@ -81,7 +81,7 @@ settings section on the sidebar. The following options are available to customiz
   choose whether to show or hide this field to mobile users.
 - :guilabel:`Animation`: select if this field should have any animation.
 
-.. image:: opportunities_form/field-customization.png
+.. image:: opportunities_form/field-customization.webp
    :align: center
    :alt: The field configuration settings on an Odoo website.
 

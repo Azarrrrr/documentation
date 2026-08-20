@@ -23,13 +23,13 @@ documentation).
 To start a test, click the :guilabel:`Launch a Test` button at the top of the campaign form, to the
 right of the :guilabel:`Start` button.
 
-.. image:: testing_running/launch-test.png
+.. image:: testing_running/launch-test.webp
    :align: center
    :alt: Launch a test button on a campaign detail form in Odoo Marketing Automation.
 
 When clicked, a :guilabel:`Launch a test` pop-up window appears.
 
-.. image:: testing_running/launch-test-popup-window.png
+.. image:: testing_running/launch-test-popup-window.webp
    :align: center
    :alt: Launch a test pop-up window that appears in Odoo Markting Automation.
 
@@ -43,7 +43,7 @@ select an existing contact (or create a new one) to run the test on.
 To create a new contact directly from the :guilabel:`Launch a test` pop-up window, start typing the
 name of the new contact in the blank field, and click :guilabel:`Create and edit...`.
 
-.. image:: testing_running/new-contact-from-launch-test-popup.png
+.. image:: testing_running/new-contact-from-launch-test-popup.webp
    :align: center
    :alt: Typing in a new contact directly from the launch a test pop-up window in Odoo.
 
@@ -51,7 +51,7 @@ Doing so reveals a blank :guilabel:`Create Record` pop-up form, in which the nec
 information (:guilabel:`Email`, :guilabel:`Mobile`, etc.) *must* be entered, in order for the test
 to work. When the necessary information is entered, click :guilabel:`Save & Close`.
 
-.. image:: testing_running/blank-contact-form.png
+.. image:: testing_running/blank-contact-form.webp
    :align: center
    :alt: A blank contact form from a launch test pop-up window in Odoo Marketing Automation.
 
@@ -60,7 +60,7 @@ When all the necessary fields have been entered, click :guilabel:`Save & Close` 
 
 Once a contact is selected, click :guilabel:`Launch` to reveal the campaign test page.
 
-.. image:: testing_running/test-screen.png
+.. image:: testing_running/test-screen.webp
    :align: center
    :alt: Test screen in Odoo Marketing Automation.
 
@@ -78,7 +78,7 @@ various results (and analytics) connected to that specific activity as they occu
    slightly indented in the workflow, once that parent activity has been run, via the :guilabel:`▶️
    (play button)` icon.
 
-.. image:: testing_running/workflow-test-progress.png
+.. image:: testing_running/workflow-test-progress.webp
    :align: center
    :alt: Workflow test progress in Odoo Marketing Automation.
 
@@ -101,7 +101,7 @@ configured target audience specified on the campaign detail form.
 Clicking :guilabel:`Start` launches the campaign, and the status bar of the campaign switches to
 :guilabel:`Running`, which is located in the upper-right corner of the campaign detail form.
 
-.. image:: testing_running/campaign-running-status.png
+.. image:: testing_running/campaign-running-status.webp
    :align: center
    :alt: The status of a marketing campaign changing to running in the upper-right corner.
 
@@ -110,7 +110,7 @@ Clicking :guilabel:`Start` launches the campaign, and the status bar of the camp
    the :guilabel:`Start` button again prompts a pop-up warning. This warning advises the user to
    click an :guilabel:`Update` button to apply any modifications made to the campaign.
 
-   .. image:: testing_running/workflow-modification-warning.png
+   .. image:: testing_running/workflow-modification-warning.webp
       :align: center
       :alt: The workflow has been modified warning pop-up window of a marketing campaign form.
 
@@ -125,7 +125,7 @@ smart buttons that appear at the top of the campaign detail form, as well.
 These analytical smart buttons will *also* populate with real-time data as the campaign progresses:
 :guilabel:`Templates`, :guilabel:`Clicks`, :guilabel:`Tests`, :guilabel:`Participants`.
 
-.. image:: testing_running/campaign-smart-buttons.png
+.. image:: testing_running/campaign-smart-buttons.webp
    :align: center
    :alt: The row of smart buttons that appear in a currently running marketing campaign in Odoo.
 
@@ -136,14 +136,14 @@ To stop a campaign that's currently running, navigate to the :menuselection:`Mar
 app`, and select the desired campaign to stop. On the campaign detail form, click the
 :guilabel:`Stop` button in the upper-left corner.
 
-.. image:: testing_running/stop-button-campaign-form.png
+.. image:: testing_running/stop-button-campaign-form.webp
    :align: center
    :alt: The stop button on a typical campaign detail form in Odoo Marketing Automation application.
 
 When clicked, the campaign is officially stopped, and the status changes to :guilabel:`Stopped` in
 the upper-right corner of the campaign detail form.
 
-.. image:: testing_running/campaign-stopped-status-bar.png
+.. image:: testing_running/campaign-stopped-status-bar.webp
    :align: center
    :alt: Marketing campaign's stopped status on a campaign detail form in Odoo Marketing Automation.
 

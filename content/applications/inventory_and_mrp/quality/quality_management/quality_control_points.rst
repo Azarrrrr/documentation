@@ -127,6 +127,6 @@ The :guilabel:`Notes` tab is used to provide additional information about the |Q
 it was created. The information entered in this tab is **not** shown to employees processing the
 quality checks created by the |QCP|.
 
-.. image:: quality_control_points/qcp-form.png
+.. image:: quality_control_points/qcp-form.webp
    :align: center
    :alt: A QCP configured to create Pass - Fail checks for a work order operation.

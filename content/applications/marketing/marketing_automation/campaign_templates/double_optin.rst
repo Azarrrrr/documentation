@@ -130,7 +130,7 @@ Double Opt-in use-case
    must be procured. One way of collecting subscribers is through a sign-up form on the website that
    adds contacts to the *Newsletter* mailing list on the form submission.
 
-   .. image:: double_optin/newsletter-signup.png
+   .. image:: double_optin/newsletter-signup.webp
       :align: center
       :alt: Newsletter sign-up form on Odoo website footer.
 
@@ -142,7 +142,7 @@ Double Opt-in use-case
    *Confirmed contacts* mailing list (:menuselection:`Email Marketing app --> Mailing Lists -->
    Mailing Lists`).
 
-   .. image:: double_optin/double-optin-metrics.png
+   .. image:: double_optin/double-optin-metrics.webp
       :align: center
       :alt: Activity metrics on the campaign form.
 

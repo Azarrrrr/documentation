@@ -45,7 +45,7 @@ Pages need to be published to make them accessible to website visitors. To publi
 page, access it and toggle the switch in the upper-right corner from :guilabel:`Unpublished`
 to :guilabel:`Published`, or vice versa.
 
-.. image:: pages/un-published_toggle.png
+.. image:: pages/un-published_toggle.webp
    :alt: Unpublished/Published toggle
 
 .. note::
@@ -87,7 +87,7 @@ The :guilabel:`Name` tab allows you to:
   - :guilabel:`301 Moved permanently`: to redirect the page permanently;
   - :guilabel:`302 Moved temporarily`: to redirect the page temporarily.
 
-  .. image:: pages/page-redirection.png
+  .. image:: pages/page-redirection.webp
      :alt: Redirect old URL
 
 You can further adapt the page's properties in the :guilabel:`Publish` tab:

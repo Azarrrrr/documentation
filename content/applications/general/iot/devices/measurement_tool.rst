@@ -18,7 +18,7 @@ To add a device connected by :abbr:`USB (Universal Serial Bus)`, plug the :abbr:
 Serial Bus)` cable into the :abbr:`IoT (Internet of Things)` box, and the device appears in the Odoo
 database.
 
-.. image:: measurement_tool/device-dropdown.png
+.. image:: measurement_tool/device-dropdown.webp
    :align: center
    :alt: Measurement tool recognized on the IoT box.
 
@@ -28,7 +28,7 @@ Connect with bluetooth
 Activate the Bluetooth functionality on the device (see the device manual for further explanation),
 and the :abbr:`IoT (Internet of Things)` box automatically connects to the device.
 
-.. image:: measurement_tool/measurement-tool.jpeg
+.. image:: measurement_tool/measurement-tool.webp
    :align: center
    :alt: Bluetooth indicator on measurement tool.
 
@@ -50,7 +50,7 @@ changes, if required.
 At this point, the measurement tool is linked to the chosen quality control point. The value, which
 usually needs to be changed manually, is automatically updated while the tool is being used.
 
-.. image:: measurement_tool/measurement-control-point.png
+.. image:: measurement_tool/measurement-control-point.webp
    :align: center
    :alt: Measurement tool input in the Odoo database.
 

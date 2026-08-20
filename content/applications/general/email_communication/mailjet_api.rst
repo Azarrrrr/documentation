@@ -17,7 +17,7 @@ To get started, sign in to the `Mailjet Account Information <https://app.mailjet
 page. Next, navigate to the :guilabel:`Senders & Domains` section and click on :guilabel:`SMTP and
 SEND API Settings`.
 
-.. image:: mailjet_api/api-settings.png
+.. image:: mailjet_api/api-settings.webp
    :align: center
    :alt: SMTP and Send API Settings link in the Senders & Domains section of Mailjet.
 
@@ -36,7 +36,7 @@ port number. The settings are needed to configure Mailjet in Odoo, which is cove
    Odoo :ref:`blocks port 25 <email-outbound-port-restriction>` on Odoo Online and Odoo.sh
    databases.
 
-.. image:: mailjet_api/smtp-config.png
+.. image:: mailjet_api/smtp-config.webp
    :align: center
    :alt: SMTP configuration from Mailjet.
 
@@ -56,7 +56,7 @@ email address or domain is approved to send emails using Mailjet's servers. Firs
 `Mailjet Account Information <https://app.mailjet.com/account>`_ page. Next, click on the
 :guilabel:`Add a Sender Domain or Address` link under the :guilabel:`Senders & Domains` section.
 
-.. image:: mailjet_api/add-domain-email.png
+.. image:: mailjet_api/add-domain-email.webp
    :align: center
    :alt: Add a sender domain or address in the Mailjet interface.
 
@@ -124,7 +124,7 @@ After adding the domain, a validation page will populate. Unless the Odoo databa
 Copy the TXT record information to a notepad and then navigate to the domain's :abbr:`DNS (Domain
 Name System)` provider to complete validation.
 
-.. image:: mailjet_api/host-value-dns.png
+.. image:: mailjet_api/host-value-dns.webp
    :align: center
    :alt: The TXT record information to input on the domain's DNS.
 
@@ -150,7 +150,7 @@ account/sender>`_ page on the Mailjet account information and clicking on :guila
 Next, click :guilabel:`Check Now` to validate the TXT record that was added on the domain. A
 success screen will appear if the domain is configured correctly.
 
-.. image:: mailjet_api/check-dns.png
+.. image:: mailjet_api/check-dns.webp
    :align: center
    :alt: Check DNS record in Mailjet.
 
@@ -162,7 +162,7 @@ Identified Mail) records to input into the :abbr:`DNS (Domain Name System)` prov
    `Mailjet's SPF/DKIM/DMARC documentation <https://documentation.mailjet.com/hc/articles/
    360042412734-Authenticating-Domains-with-SPF-DKIM>`_
 
-.. image:: mailjet_api/authenticate.png
+.. image:: mailjet_api/authenticate.webp
    :align: center
    :alt: Authenticate the domain with SPF/DKIM records in Mailjet.
 
@@ -189,7 +189,7 @@ Settings`.
 Then, if the Mailjet server is used for mass emailing, set the :guilabel:`Priority` value higher
 than that of any transactional email server(s). Finally, save the settings and :guilabel:`Test the Connection`.
 
-.. image:: mailjet_api/server-settings.png
+.. image:: mailjet_api/server-settings.webp
    :align: center
    :alt: Odoo outgoing email server settings.
 

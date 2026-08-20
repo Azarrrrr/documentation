@@ -20,7 +20,7 @@ product, or create a new one by clicking :guilabel:`New`.
 On the product page, select the :guilabel:`Inventory` tab, then enable the :guilabel:`Manufacture`
 checkbox in the :guilabel:`Routes` section. This tells Odoo the product can be manufactured.
 
-.. image:: configure_manufacturing_product/manufacturing-route.png
+.. image:: configure_manufacturing_product/manufacturing-route.webp
    :align: center
    :alt: The Manufacturing route on the Inventory tab of a product page.
 
@@ -38,13 +38,13 @@ Number` or :guilabel:`By Lots`.
 Doing so enables the *Lot/Serial Number* field on a manufacturing order, or the *Register
 Production* instruction on a work order card in the *Shop Floor* app.
 
-.. figure:: configure_manufacturing_product/lot-number-field.png
+.. figure:: configure_manufacturing_product/lot-number-field.webp
    :align: center
    :alt: "Lot/Serial Number" field on the MO.
 
    **Lot/Serial Number** field on the MO.
 
-.. figure:: configure_manufacturing_product/register-production.png
+.. figure:: configure_manufacturing_product/register-production.webp
    :align: center
    :alt: **Register Production** option to generate lot/serial number on a work order card.
 
@@ -60,7 +60,7 @@ To create a |BOM| for a specific product, navigate to :menuselection:`Manufactur
 Products`, then select the product. On the product page, click the :guilabel:`Bill of Materials`
 smart button at the top of the page, then select :guilabel:`New` to configure a new |BOM|.
 
-.. image:: configure_manufacturing_product/bom-smart-button.png
+.. image:: configure_manufacturing_product/bom-smart-button.webp
    :align: center
    :alt: The Bill of Materials smart button on a product page.
 
@@ -72,7 +72,7 @@ a line`. Select a component from the :guilabel:`Component` drop-down menu, then 
 in the :guilabel:`Quantity` field. Continue adding components on new lines until all components have
 been added.
 
-.. image:: configure_manufacturing_product/components-tab.png
+.. image:: configure_manufacturing_product/components-tab.webp
    :align: center
    :alt: The Components tab on a bill of materials.
 
@@ -87,7 +87,7 @@ to finish adding operations, or :guilabel:`Save & New` to add more.
    do so, navigate to :menuselection:`Manufacturing --> Configuration --> Settings`, then enable the
    :guilabel:`Work Orders` checkbox.
 
-.. image:: configure_manufacturing_product/operations-tab.png
+.. image:: configure_manufacturing_product/operations-tab.webp
    :align: center
    :alt: The Operations tab on a bill of materials.
 

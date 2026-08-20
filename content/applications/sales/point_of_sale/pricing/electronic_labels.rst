@@ -6,7 +6,7 @@ Electronic shelf labels allow you to display product information like prices and
 shelves and to synchronize them remotely from the backend. This removes the need to print new labels
 when product information changes.
 
-.. image:: electronic_labels/electronic-label.png
+.. image:: electronic_labels/electronic-label.webp
    :alt: electronic label from Pricer
 
 .. note::
@@ -51,7 +51,7 @@ Odoo setup
 As a pre-requisite, :ref:`activate <general/install>` the :guilabel:`POS Pricer` module *(technical
 name: pos_pricer)* to have all the required features to use Pricer electronic tags.
 
-.. image:: electronic_labels/pricer-module.png
+.. image:: electronic_labels/pricer-module.webp
    :alt: Installing POS Pricer module from Apps
 
 Once the module is activated, configure your :ref:`pricer stores <pricer_tags/stores>` and associate
@@ -74,7 +74,7 @@ To do so, go to :menuselection:`Point of Sale --> Configuration --> Pricer Store
 - :guilabel:`Pricer Store ID`: the ID of the related Pricer store as defined on your Pricer
   database.
 
-.. image:: electronic_labels/pricer-stores-setup.png
+.. image:: electronic_labels/pricer-stores-setup.webp
    :alt: Configuring a Pricer Store
 
 .. note::
@@ -100,7 +100,7 @@ product. To do so:
 #. Go to the :guilabel:`Sales` tab, scroll to the :guilabel:`Pricer` section, and select the
    corresponding :guilabel:`Pricer Store`.
 
-   .. image:: electronic_labels/pricer-product.png
+   .. image:: electronic_labels/pricer-product.webp
       :alt: Linking Pricer tags to products
       :scale: 75%
 
@@ -141,7 +141,7 @@ To force the update, activate the :ref:`developer mode <developer-mode>`. Then:
 Alternatively, click :guilabel:`Update all tags` to force the update of every tag, regardless of
 whether changes were made.
 
-.. image:: electronic_labels/update-all.png
+.. image:: electronic_labels/update-all.webp
    :alt: Update all Pricer tags
 
 If Pricer has processed and accepted the request, the status field shows :guilabel:`Update

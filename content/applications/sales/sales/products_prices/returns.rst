@@ -18,13 +18,13 @@ To start a return before invoicing, navigate to the :menuselection:`Sales` app, 
 sales order, and click on the :guilabel:`Delivery` smart button to open the associated delivery
 order.
 
-.. image:: returns/sales-order-delivery-smart-button.png
+.. image:: returns/sales-order-delivery-smart-button.webp
    :align: center
    :alt: A typical sales order with a highlighted delivery smart button in Odoo Sales.
 
 On the validated delivery order, click :guilabel:`Return`.
 
-.. image:: returns/validated-delivery-order-return-button.png
+.. image:: returns/validated-delivery-order-return-button.webp
    :align: center
    :alt: A validated delivery order with a highlighted Return button in Odoo Sales.
 
@@ -34,14 +34,14 @@ By default, the :guilabel:`Quantity` matches the validated quantities from the d
 Update the quantities, if necessary. Click on the :guilabel:`🗑️ (trash)` icon next to a line item
 to remove it from the return.
 
-.. image:: returns/reverse-transfer-popup.png
+.. image:: returns/reverse-transfer-popup.webp
    :align: center
    :alt: The "Reverse Transfer" pop-up window, to make a return before invoicing the customer.
 
 Next, click :guilabel:`Return` to confirm the return. This generates a new warehouse operation for
 the incoming returned product(s).
 
-.. image:: returns/warehouse-operation-confirmed-return.png
+.. image:: returns/warehouse-operation-confirmed-return.webp
    :align: center
    :alt: Warehouse operation after a return has been confirmed in Odoo Sales.
 
@@ -49,7 +49,7 @@ Upon receiving the return, the warehouse team validates the warehouse operation 
 :guilabel:`Validate`. Then, on the original sales order, the :guilabel:`Delivered` quantity updates
 to reflect the difference between the initial validated quantities and the returned quantities.
 
-.. image:: returns/updated-sales-quantities.png
+.. image:: returns/updated-sales-quantities.webp
    :align: center
    :alt: The updated "Delivered" quantity on the sales order after the reverse transfer.
 
@@ -73,7 +73,7 @@ If there is a payment registered on the sales order, the payment details appear 
 the invoice (accessible through the :guilabel:`Invoices` smart button) has a green :guilabel:`In
 Payment` banner.
 
-.. image:: returns/green-in-payment-banner.png
+.. image:: returns/green-in-payment-banner.webp
    :align: center
    :alt: Sample of a green in payment banner in Odoo Sales.
 
@@ -92,13 +92,13 @@ To process a refund, navigate to the relevant invoice (from the sales order, cli
 :guilabel:`Invoices` smart button). Then, click the :guilabel:`Credit Note` button at the top of the
 validated invoice.
 
-.. image:: returns/credit-note-button.png
+.. image:: returns/credit-note-button.webp
    :align: center
    :alt: A typical customer invoice with a Credit Note button highlighted in Odoo Sales.
 
 Doing so reveals a :guilabel:`Credit Note` pop-up form.
 
-.. image:: returns/credit-note-pop-up-form.png
+.. image:: returns/credit-note-pop-up-form.webp
    :align: center
    :alt: Typical credit note pop-up form that appears in Odoo Sales.
 

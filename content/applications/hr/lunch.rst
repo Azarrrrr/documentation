@@ -47,7 +47,7 @@ Configure the following:
 
    Enter the text that should appear for each language, then click :guilabel:`Save`.
 
-  .. image:: lunch/translation.png
+  .. image:: lunch/translation.webp
      :align: center
      :alt: The translation text box, with the current language highlighted, and the Arabic
            translation field highlighted.
@@ -68,7 +68,7 @@ address field.
 
 Repeat this for all locations that need to be added.
 
-.. image:: lunch/locations.png
+.. image:: lunch/locations.webp
    :align: center
    :alt: A list view of the locations with the new button highlighted.
 
@@ -108,7 +108,7 @@ lunch alert form loads. Enter the following information on the form:
   if the time is either :guilabel:`AM` or :guilabel:`PM` using the drop-down menu to the right of
   the :guilabel:`Time` field.
 
-.. image:: lunch/alert.png
+.. image:: lunch/alert.webp
    :align: center
    :alt: An alert form with all of the information filled out for a chat alert sent at 10:30 AM,
          asking employees to submit orders by 11:30 AM.

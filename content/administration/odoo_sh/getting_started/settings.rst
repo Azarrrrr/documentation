@@ -7,7 +7,7 @@ Overview
 
 The settings allow you to manage the configuration of your project.
 
-.. image:: settings/interface-settings.png
+.. image:: settings/interface-settings.webp
    :align: center
 
 Project name
@@ -15,7 +15,7 @@ Project name
 
 The name of your project.
 
-.. image:: settings/interface-settings-projectname.png
+.. image:: settings/interface-settings-projectname.webp
    :align: center
 
 This defines the address that will be used to access your production database.
@@ -30,7 +30,7 @@ Collaborators
 
 Manage the Github users who can access your project.
 
-.. image:: settings/interface-settings-collaborators.png
+.. image:: settings/interface-settings-collaborators.webp
    :align: center
 
 There are three levels of users:
@@ -208,7 +208,7 @@ Public Access
 
 Allow public access to your development builds.
 
-.. image:: settings/interface-settings-public.png
+.. image:: settings/interface-settings-public.webp
    :align: center
 
 If activated, this option exposes the Builds page publicly, allowing visitors to view logs of development builds.
@@ -256,7 +256,7 @@ as submodules in your branches to allow Odoo.sh to download them.
    up your submodules, instructions are available in the chapter :ref:`Submodules
    <odoosh-advanced-submodules>` of this documentation.
 
-.. image:: settings/interface-settings-submodules.png
+.. image:: settings/interface-settings-submodules.webp
    :align: center
 
 When a repository is private, it is not possible to publicly download its branches and revisions.
@@ -288,7 +288,7 @@ Storage Size
 
 This section shows the storage size used by your project.
 
-.. image:: settings/interface-settings-storage.png
+.. image:: settings/interface-settings-storage.webp
    :align: center
 
 Storage size is computed as follows:
@@ -311,7 +311,7 @@ Additional database workers can be configured here. More workers help increase t
 production database is able to handle. If you add more, it will automatically be synchronized
 with your subscription.
 
-.. image:: settings/interface-settings-workers.png
+.. image:: settings/interface-settings-workers.webp
    :align: center
 
 .. Warning::
@@ -326,7 +326,7 @@ Staging Branches
 Additional staging branches allow you to develop and test more features at the same time. If you
 add more, it will automatically be synchronized with your subscription.
 
-.. image:: settings/interface-settings-staging-branches.png
+.. image:: settings/interface-settings-staging-branches.webp
    :align: center
 
 Activation
@@ -335,5 +335,5 @@ Activation
 Shows the status of the project's activation. You can change the project's activation code if
 needed.
 
-.. image:: settings/interface-settings-activation.png
+.. image:: settings/interface-settings-activation.webp
    :align: center

@@ -8,7 +8,7 @@ In-app purchases (IAP) are optional services that enhance Odoo databases. Each s
 own specific features and functionality. A full list of services is available on the `Odoo IAP
 Catalog <https://iap.odoo.com/iap/all-in-app-services>`_.
 
-.. image:: in_app_purchase/iap.png
+.. image:: in_app_purchase/iap.webp
    :align: center
    :alt: The IAP catalog with various services available on IAP.Odoo.com.
 
@@ -60,7 +60,7 @@ settings. To use a service, simply interact with it wherever it appears in the d
 
    This can be done by clicking the :guilabel:`📱 SMS` icon within the database.
 
-   .. image:: in_app_purchase/sms-icon.png
+   .. image:: in_app_purchase/sms-icon.webp
       :align: center
       :alt: The SMS icon on a typical contact information form located within an Odoo database.
 
@@ -112,7 +112,7 @@ Credits are purchased in *Packs* from the `Odoo IAP Catalog
    - :guilabel:`Advanced Pack`: 500 credits
    - :guilabel:`Expert Pack`: 1,000 credits
 
-   .. image:: in_app_purchase/packs.png
+   .. image:: in_app_purchase/packs.webp
       :align: center
       :alt: Four different packs of credits for the SMS IAP service.
 
@@ -147,7 +147,7 @@ bar. Alternatively users can scroll down to the :guilabel:`Contacts` section. Un
 :guilabel:`Contacts` section, where it says :guilabel:`Odoo IAP`, click :guilabel:`View My
 Services`.
 
-.. image:: in_app_purchase/view-services.png
+.. image:: in_app_purchase/view-services.webp
    :align: center
    :alt: The Settings app showing the Odoo IAP heading and View My Services button.
 
@@ -160,7 +160,7 @@ a :guilabel:`Buy Credits for (IAP Account)` page in a new tab. From here, click 
 the desired pack of credits. Then, follow the prompts to enter payment details, and confirm the
 order.
 
-.. image:: in_app_purchase/buy-pack.png
+.. image:: in_app_purchase/buy-pack.webp
    :align: center
    :alt: The SMS service page on IAP.Odoo.com with four packs of credits available for purchase.
 

@@ -28,7 +28,7 @@ includes details of the change, and a time stamp.
    - The email address as it was previously listed.
    - The updated email address.
 
-   .. image:: chatter/chatter-thread-email-update.png
+   .. image:: chatter/chatter-thread-email-update.webp
       :align: center
       :alt: A close up of a chatter thread with an update to a contact record.
 
@@ -36,7 +36,7 @@ If a record was created, or edited, via an imported file, or was otherwise updat
 intervention by the system, the chatter thread creates a log note, and credits the change to
 OdooBot.
 
-.. image:: chatter/odoo-bot-created.png
+.. image:: chatter/odoo-bot-created.webp
    :align: center
    :alt: A close up of a chatter thread of an OdooBot created contact record.
 
@@ -90,7 +90,7 @@ available for the followers of a *CRM* opportunity.
 Tick the checkbox for any updates the follower should receive, and clear the checkbox for any
 updates they should **not** receive. Click :guilabel:`Apply` when finished.
 
-.. figure:: chatter/chatter-edit-subscription.png
+.. figure:: chatter/chatter-edit-subscription.webp
    :align: center
    :alt: The Edit Subscription window on a Helpdesk ticket.
 
@@ -150,7 +150,7 @@ recipients of the message.
    automatically. If a follower should **not** receive a message, they must be removed as a follower
    before the message is sent, or a note is logged.
 
-.. image:: chatter/send-message-followers.png
+.. image:: chatter/send-message-followers.webp
    :align: center
    :alt: A chatter composer preparing to send a message to the followers of a CRM opportunity and
          the customer listed on the opportunity record.
@@ -164,7 +164,7 @@ customizations.
 To open the full composer, click the :icon:`fa-expand` :guilabel:`(expand)` icon in the bottom-right
 corner of the composer window.
 
-.. figure:: chatter/chatter-expand-icon.png
+.. figure:: chatter/chatter-expand-icon.webp
    :align: center
    :alt: A chatter composer with emphasis on the expand icon.
 
@@ -183,7 +183,7 @@ from the drop-down menu in the :guilabel:`Load template` field.
 Click :icon:`fa-paperclip` :guilabel:`(paperclip)` icon to add any files to the message, then click
 :guilabel:`Send`.
 
-.. image:: chatter/chatter-full-composer.png
+.. image:: chatter/chatter-full-composer.webp
    :align: center
    :alt: The expanded full chatter composer in the CRM application.
 
@@ -200,7 +200,7 @@ information.
 To edit a sent message, click the :icon:`fa-ellipsis-h` :guilabel:`(ellipsis)` icon menu to the
 right of the message. Then, select :guilabel:`Edit`. Make any necessary adjustments to the message.
 
-.. image:: chatter/chatter-edit.png
+.. image:: chatter/chatter-edit.webp
    :align: center
    :alt: The edit message option in a chatter thread.
 
@@ -233,7 +233,7 @@ To be taken directly to a particular message in the chatter thread, hover over t
 corner of the result to reveal a :guilabel:`Jump` button. Click this button to be directed to that
 message's location in the thread.
 
-.. figure:: chatter/chatter-search.png
+.. figure:: chatter/chatter-search.webp
    :align: center
    :alt: Search results in a chatter thread emphasising the search icon and the jump button.
 
@@ -287,7 +287,7 @@ and are color-coded based on their due date.
 - **Yellow** icons indicate an activity with a due date scheduled for the current date.
 - **Green** icons indicate an activity with a due date scheduled in the future.
 
-.. image:: chatter/chatter-activity-icons.png
+.. image:: chatter/chatter-activity-icons.webp
    :align: center
    :alt: A chatter thread with planned activities with varying due dates.
 
@@ -295,7 +295,7 @@ and are color-coded based on their due date.
    Click the :icon:`fa-info-circle` :guilabel:`(info)` icon next to a planned activity to see
    additional details.
 
-   .. image:: chatter/planned-activity-details.png
+   .. image:: chatter/planned-activity-details.webp
       :align: center
       :alt: A detailed view of a planned activity.
 
@@ -307,7 +307,7 @@ entered. After adding any comments to the pop-up window, click: :guilabel:`Done 
 After the activity is marked complete, an entry with the activity type, title, and any other details
 that were included in the pop-up window are listed in the chatter.
 
-.. image:: chatter/chatter-completed-activity.png
+.. image:: chatter/chatter-completed-activity.webp
    :align: center
    :alt: A chatter thread with a completed activity, included additional details.
 
@@ -344,7 +344,7 @@ heading.
    longer opens a file explorer pop-up window. Instead, clicking the |paperclip| toggles the
    :guilabel:`Files` section from visible to invisible in the chatter thread.
 
-   .. image:: chatter/chatter-attach-files.png
+   .. image:: chatter/chatter-attach-files.webp
       :align: center
       :alt: A chatter thread with a file attached and the Attach files button added.
 
@@ -384,7 +384,7 @@ pop-up window.
    *WhatsApp* templates **must** be approved before they can be used. See :ref:`WhatsApp templates
    <productivity/whatsapp/templates>` for more information.
 
-.. image:: chatter/whats-app-message.png
+.. image:: chatter/whats-app-message.webp
    :align: center
    :alt: A send WhatsApp message pop-up window.
 
@@ -409,7 +409,7 @@ To translate a user's text from another language, click the :icon:`fa-ellipsis-h
 content translates to the language set in the :doc:`user's preferences
 <../../general/users/language/>`.
 
-.. image:: chatter/chatter-translate-message.png
+.. image:: chatter/chatter-translate-message.webp
    :align: center
    :alt: alt text
 

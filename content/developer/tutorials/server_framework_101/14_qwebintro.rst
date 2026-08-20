@@ -29,7 +29,7 @@ Concrete Example: A Kanban View
 
     **Goal**: at the end of this section a Kanban view of the properties should be created:
 
-    .. image:: 14_qwebintro/kanban.png
+    .. image:: 14_qwebintro/kanban.webp
         :align: center
         :alt: Kanban view
 

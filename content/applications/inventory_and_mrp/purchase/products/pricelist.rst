@@ -31,7 +31,7 @@ information auto-populate on a request for quotation each time the product is li
 .. seealso::
    :ref:`Vendor pricelist on product form <purchase/manage_deals/vendor-pricelist>`
 
-.. image:: pricelist/product-form-pricelist.png
+.. image:: pricelist/product-form-pricelist.webp
    :alt: Vendor pricelist on product form.
 
 .. _purchase/products/import-pricelist:
@@ -57,7 +57,7 @@ On the page, tick the checkbox(es) for the desired vendor pricelists.
 Then, click the :icon:`fa-cog` :guilabel:`Actions` button that appears, and choose :icon:`fa-upload`
 :guilabel:`Export` from the drop-down menu.
 
-.. image:: pricelist/export.png
+.. image:: pricelist/export.webp
    :alt: Show selected exported fields, with the Export button visible.
 
 In the resulting pop-up window, fields listed under the :guilabel:`Fields to export` section are
@@ -87,7 +87,7 @@ Finally, click :guilabel:`Export`.
    display the *field name* with the *technical name* in parenthesis.
 
 .. example::
-   .. figure:: pricelist/export-data.png
+   .. figure:: pricelist/export-data.webp
       :alt: Exporting vendor pricelist.
 
       Export vendor pricelist in XLSX format. It includes :guilabel:`Product Template` and other
@@ -103,7 +103,7 @@ records create new entries, instead of updating existing ones. Including this fi
 CSV, indicates the line replaces an existing vendor pricelist in the Odoo database.
 
 .. example::
-   .. figure:: pricelist/duplicate-values.png
+   .. figure:: pricelist/duplicate-values.webp
       :alt: Show 'Ready Mat' appear twice.
 
       `Ready Mat` appears twice because the external ID was omitted during the price update from
@@ -188,7 +188,7 @@ file, confirm the correct fields, and click :guilabel:`Import`.
    - :doc:`../../../essentials/export_import_data`
    - :ref:`Common fields <purchase/products/common-fields>`
 
-.. image:: pricelist/supplier-pricelist-example.png
+.. image:: pricelist/supplier-pricelist-example.webp
    :alt: Upload file screen.
 
 Formatting import file

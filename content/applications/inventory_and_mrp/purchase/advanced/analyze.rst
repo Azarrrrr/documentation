@@ -93,7 +93,7 @@ about which vendors they want to purchase from.
    Based on these findings, David makes the decision to reduce the quantity of products purchased
    from Bike Friends.
 
-   .. image:: analyze/dtr.png
+   .. image:: analyze/dtr.webp
       :align: center
       :alt: The Purchase report, showing the average days to receive products from vendors.
 
@@ -141,6 +141,6 @@ purchases from the vendor have increased or decreased.
    Friends during June. Using this report, David is able to see that Bike Haus has spent much less
    money on products purchased from Bike Friends, compared to the previous month.
 
-   .. image:: analyze/comparison.png
+   .. image:: analyze/comparison.webp
       :align: center
       :alt: The Purchase report, comparing the amount spent at a vendor.

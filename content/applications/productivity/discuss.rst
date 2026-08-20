@@ -17,7 +17,7 @@ Choose notifications preference
 Access user-specific preferences for the *Discuss* app by navigating to :menuselection:`Settings app
 --> Users --> User --> Preferences tab`.
 
-.. image:: discuss/preferences-user.png
+.. image:: discuss/preferences-user.webp
    :alt: View of the Preferences tab for Odoo Discuss.
 
 By default, the :guilabel:`Notification` field is set as :guilabel:`Handle by Emails`. With this
@@ -33,13 +33,13 @@ actions may include starring the message by clicking :guilabel:`Marked as Todo`,
 message by selecting :guilabel:`Pin` or even mark the message as unread by selecting
 :guilabel:`Marked as unread`.
 
-.. image:: discuss/reactions-discuss.png
+.. image:: discuss/reactions-discuss.webp
    :alt: View of an inbox message and its action options in Odoo Discuss.
 
 Clicking :guilabel:`Mark as Todo` on a message causes it to appear on the :guilabel:`Starred` page,
 while clicking :guilabel:`Mark as Read` moves the message to :guilabel:`History`.
 
-.. image:: discuss/starred-messages.png
+.. image:: discuss/starred-messages.webp
    :alt: View of messages marked as todo in Odoo Discuss.
 
 Start chatting
@@ -49,7 +49,7 @@ The first time a user logs in to their account, OdooBot sends a message asking f
 send desktop notifications for chats. If accepted, the user will receive push notifications on their
 desktop for the messages they receive, regardless of where the user is in Odoo.
 
-.. image:: discuss/odoobot-push.png
+.. image:: discuss/odoobot-push.webp
    :alt: View of the messages under the messaging menu emphasizing the request for push
          notifications for Odoo Discuss.
 
@@ -59,7 +59,7 @@ desktop for the messages they receive, regardless of where the user is in Odoo.
 To start a chat, go to the :menuselection:`Discuss` app and click on the :guilabel:`+ (plus)` icon
 next to :guilabel:`Direct Messages` or :guilabel:`Channels` in the left menu of the dashboard.
 
-.. image:: discuss/channels-direct-messages.png
+.. image:: discuss/channels-direct-messages.webp
    :height: 400
    :alt: View of Discuss's panel emphasizing the titles channels and direct messages in Odoo
          Discuss.
@@ -73,7 +73,7 @@ To mention a user within a chat or the chatter, type `@user-name`; to refer to a
 `#channel-name`. The user mentioned will be notified in their *inbox* or through an email, depending
 on their communication settings.
 
-.. image:: discuss/chat-windows.png
+.. image:: discuss/chat-windows.webp
    :alt: View of a couple of chat window messages for Odoo Discuss.
 
 .. tip::
@@ -93,7 +93,7 @@ checking their *status*. The status is shown on the left side of a contact's nam
 - White = offline
 - Airplane = out of the office
 
-.. image:: discuss/status.png
+.. image:: discuss/status.webp
    :height: 300
    :alt: View of the contacts' status for Odoo Discuss.
 

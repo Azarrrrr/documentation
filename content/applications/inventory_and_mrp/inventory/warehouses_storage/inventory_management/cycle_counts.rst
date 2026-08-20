@@ -21,7 +21,7 @@ To enable this feature, navigate to :menuselection:`Inventory app --> Configurat
 and scroll down to the :guilabel:`Warehouse` section. Then, tick the checkbox next to
 :guilabel:`Storage Locations`, and click :guilabel:`Save`.
 
-.. image:: cycle_counts/cycle-counts-enabled-setting.png
+.. image:: cycle_counts/cycle-counts-enabled-setting.webp
    :align: center
    :alt: Enabled Storage Locations setting in inventory settings.
 
@@ -42,7 +42,7 @@ Under the :guilabel:`Cyclic Counting` section, locate the :guilabel:`Inventory F
 field, which should be set to `0` by default (if this location has not been edited previously). In
 this field, change the value to any number of days desired for the frequency of counts.
 
-.. image:: cycle_counts/cycle-counts-frequency-value.png
+.. image:: cycle_counts/cycle-counts-frequency-value.webp
    :align: center
    :alt: Location frequency setting on location.
 
@@ -69,7 +69,7 @@ To select a specific location, and view all products within that location, click
 (down arrow)` icon, to the right of the :guilabel:`Search...` bar. Then, in the :guilabel:`Group By`
 column, click :guilabel:`Add Custom Group` to reveal a new drop-down menu.
 
-.. image:: cycle_counts/cycle-counts-filter-menu.png
+.. image:: cycle_counts/cycle-counts-filter-menu.webp
    :align: center
    :alt: Filters and Group By menu on Inventory Adjustments page.
 
@@ -91,7 +91,7 @@ products in that location.
 
    Click :guilabel:`Add` for that location to appear on the page.
 
-   .. image:: cycle_counts/cycle-counts-add-custom-filter.png
+   .. image:: cycle_counts/cycle-counts-add-custom-filter.webp
       :align: center
       :alt: Add Custom Filter pop-up window with location values entered.
 
@@ -107,7 +107,7 @@ Settings`. Then, in the :guilabel:`Operations` section, locate the :guilabel:`An
 and Month` setting field, which includes a drop-down field that is set to `31` :guilabel:`December`,
 by default.
 
-.. image:: cycle_counts/cycle-counts-frequency-calendar.png
+.. image:: cycle_counts/cycle-counts-frequency-calendar.webp
    :align: center
    :alt: Frequency field in inventory app settings.
 

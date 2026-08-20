@@ -50,11 +50,11 @@ If you browse the ``petstore`` folder, you should see the following content:
 
     oepetstore
     |-- images
-    |   |-- alligator.jpg
-    |   |-- ball.jpg
-    |   |-- crazy_circle.jpg
-    |   |-- fish.jpg
-    |   `-- mice.jpg
+    |   |-- alligator.webp
+    |   |-- ball.webp
+    |   |-- crazy_circle.webp
+    |   |-- fish.webp
+    |   `-- mice.webp
     |-- __init__.py
     |-- oepetstore.message_of_the_day.csv
     |-- __manifest__.py
@@ -122,10 +122,10 @@ loaded correctly. Everything in ``src/xml`` is defined in ``__manifest__.py`` wh
     Odoo screen) and select :guilabel:`About Odoo` then :guilabel:`Activate
     the developer mode`:
 
-    .. image:: web/about_odoo.png
+    .. image:: web/about_odoo.webp
         :align: center
 
-    .. image:: web/devmode.png
+    .. image:: web/devmode.webp
         :align: center
 
     This will reload the web client with optimizations disabled, making
@@ -904,7 +904,7 @@ Exercise
                 border-radius: 3px;
             }
 
-        .. image:: web/qweb.png
+        .. image:: web/qweb.webp
            :align: center
            :width: 70%
 
@@ -1812,7 +1812,7 @@ When an ``ActionManager`` instance receive an action of type
 the views themselves to a *view manager*, which will then set up one or
 multiple views depending on the original action's requirements:
 
-.. image:: web/viewarchitecture.png
+.. image:: web/viewarchitecture.webp
    :align: center
    :width: 40%
 

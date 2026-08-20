@@ -75,7 +75,7 @@ Multiple addresses can be added on both :guilabel:`Individual` and :guilabel:`Co
 do so, click :guilabel:`Add` in the :guilabel:`Contacts & Addresses` tab. Doing so reveals a
 :guilabel:`Create Contact` pop-up form, in which additional addresses can be configured.
 
-.. image:: contacts/contact-form-add-address.png
+.. image:: contacts/contact-form-add-address.webp
    :align: center
    :alt: Add a contact/address to the contact form.
 
@@ -90,7 +90,7 @@ Select any of the following options:
 - :guilabel:`Other Address`: adds an alternate address to the existing contact form.
 - :guilabel:`Private Address`: adds a private address to the existing contact form.
 
-.. image:: contacts/create-contact-window.png
+.. image:: contacts/create-contact-window.webp
    :align: center
    :alt: Create a new contact/address on a contact form.
 

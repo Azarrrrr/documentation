@@ -217,26 +217,26 @@ This can be accomplished by typing `windows defender` in the :guilabel:`Search` 
 
 Next, click :guilabel:`Advanced settings` in the left menu.
 
-.. image:: windows_iot/advanced-settings.png
+.. image:: windows_iot/advanced-settings.webp
    :align: center
    :alt: Advanced settings option highlighted in the left pane of the Windows Defender Firewall app.
 
 In the left menu, choose :guilabel:`Inbound Rules`.
 
-.. image:: windows_iot/inbound-rules.png
+.. image:: windows_iot/inbound-rules.webp
    :align: center
    :alt: Windows Defender left window pane with inbound rules menu item highlighted.
 
 After selecting :guilabel:`Inbound Rules`, select :guilabel:`New Rule` in the far right menu.
 
-.. image:: windows_iot/new-rule.png
+.. image:: windows_iot/new-rule.webp
    :align: center
    :alt: New rule dropdown shown with new rule option highlighted.
 
 Then, for the :guilabel:`Rule Type`, select the radio button for :guilabel:`Port`. Click
 :guilabel:`Next` to continue to the rest of the configuration.
 
-.. image:: windows_iot/radio-port.png
+.. image:: windows_iot/radio-port.webp
    :align: center
    :alt: Rule Type window open, with the radio button next to port highlighted.
 
@@ -247,7 +247,7 @@ Next, under :guilabel:`Does this rule apply to all local ports or specific ports
 button for :guilabel:`Specific local ports`. Then, enter `9050`, and click :guilabel:`Next` to
 continue.
 
-.. image:: windows_iot/protocol-port.png
+.. image:: windows_iot/protocol-port.webp
    :align: center
    :alt: Protocol/port configuration window with TCP, specific port (9050) and Next highlighted.
 

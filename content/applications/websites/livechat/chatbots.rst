@@ -11,7 +11,7 @@ Chatbots can be customized to fill various roles, from customer support, to crea
 collecting contact information. The goal of each chatbot can vary based on several criteria,
 including the webpage where it is located, and the information it captures.
 
-.. image:: chatbots/chatbot-visitor-view.png
+.. image:: chatbots/chatbot-visitor-view.webp
    :align: center
    :alt: View of the chat window with a helpdesk ticket created in Odoo Live Chat.
 
@@ -35,7 +35,7 @@ app --> Configuration --> Chatbots`.
 
    *Welcome Bot* can be deleted or archived, if necessary.
 
-   .. image:: chatbots/chatbot-welcome-bot.png
+   .. image:: chatbots/chatbot-welcome-bot.webp
       :align: center
       :alt: View of the Welcome Bot script in Odoo Live Chat.
 
@@ -110,7 +110,7 @@ The **only** accepted inputs for this step type are email addresses that are in 
 visitor attempts to enter anything other than a valid email address, the chatbot responds with a
 message stating it does not recognize the information submitted.
 
-.. image:: chatbots/chatbot-invalid-email.png
+.. image:: chatbots/chatbot-invalid-email.webp
    :align: center
    :alt: View of a chatbot responding to an invalid email.
 
@@ -139,7 +139,7 @@ qualify conversations before they reach live operators.
    available operators (e.g. `Uh-oh, it looks like none of our operators are available`) and
    continue the conversation (e.g. `Would you like to leave your email address?`).
 
-   .. image:: chatbots/chatbot-no-operator.png
+   .. image:: chatbots/chatbot-no-operator.webp
       :align: center
       :alt: View of a chatbot follow up messages when no live chat operator is available.
 
@@ -207,7 +207,7 @@ previous responses, those responses **must** be added to this field.
    been selected in the :guilabel:`Only If` field. As such, this step is **only** shown in
    conversations where that response has been selected.
 
-   .. image:: chatbots/chatbot-only-if.png
+   .. image:: chatbots/chatbot-only-if.webp
       :align: center
       :alt: View of the new message form emphasizing the Only If field.
 
@@ -254,7 +254,7 @@ field.
 If the chatbot should **only** be active if there are no live chat operators available, check the
 box labeled :guilabel:`Enabled only if no operator`.
 
-.. image:: chatbots/chatbot-add-to-channel.png
+.. image:: chatbots/chatbot-add-to-channel.webp
    :align: center
    :alt: View of the channel rules emphasizing the chatbot field.
 

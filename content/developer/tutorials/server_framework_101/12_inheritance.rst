@@ -124,7 +124,7 @@ The second inheritance mechanism (delegation) allows every record of a model to 
 to a parent model's record and provides transparent access to the
 fields of this parent record.
 
-.. image:: 12_inheritance/inheritance_methods.png
+.. image:: 12_inheritance/inheritance_methods.webp
     :align: center
     :alt: Inheritance Methods
 
@@ -171,7 +171,7 @@ View Inheritance
     **Goal**: at the end of this section, the list of available properties linked
     to a salesperson should be displayed in their user form view
 
-    .. image:: 12_inheritance/users.png
+    .. image:: 12_inheritance/users.webp
         :align: center
         :alt: Users
 

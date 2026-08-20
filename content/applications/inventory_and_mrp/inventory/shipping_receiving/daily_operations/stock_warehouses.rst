@@ -68,7 +68,7 @@ Configuration` tab.
 Lastly, click :guilabel:`Save` to finish creating a *regular* warehouse. Continue following the
 steps below to finish configuring the virtual parent warehouse.
 
-.. image:: stock_warehouses/stock-warehouses-create-warehouse.png
+.. image:: stock_warehouses/stock-warehouses-create-warehouse.webp
    :align: center
    :alt: New warehouse form.
 
@@ -102,7 +102,7 @@ configure the physical stock locations.
    | :guilabel:`Warehouses`: `Warehouse A` and `Warehouse B`
    | :guilabel:`Locations`: `WHA` and `WHB`
 
-   .. image:: stock_warehouses/parent-location.png
+   .. image:: stock_warehouses/parent-location.webp
       :align: center
       :alt: Graphic of child locations 'WHA' and 'WHB' tied to the parent location.
 
@@ -132,7 +132,7 @@ warehouse's **stock location** (e.g. `VWH/Stock`) from the drop-down menu, and c
    menu, the parent warehouse stock location (e.g. `VWH/Stock`) **must**  have its
    :guilabel:`Location Type` set to :guilabel:`Internal Location`.
 
-.. image:: stock_warehouses/configure-physical-wh.png
+.. image:: stock_warehouses/configure-physical-wh.webp
    :align: center
    :alt: Set the child warehouse's *Parent Location* to the virtual warehouse.
 
@@ -155,7 +155,7 @@ Click the virtual warehouse's stock location (e.g. `VWH/Stock`) that was :ref:`p
 On the location form, under the :guilabel:`Additional Information` heading, set the
 :guilabel:`Location Type` to :guilabel:`View`. :guilabel:`Save` the changes.
 
-.. image:: stock_warehouses/set-location-type-view.png
+.. image:: stock_warehouses/set-location-type-view.webp
    :align: center
    :alt: Warehouse location types in location creation screen.
 
@@ -163,7 +163,7 @@ On the location form, under the :guilabel:`Additional Information` heading, set 
    To view the total quantity across **all** linked child warehouses, go to the product form and
    click the :guilabel:`On Hand` smart button.
 
-   .. image:: stock_warehouses/on-hand.png
+   .. image:: stock_warehouses/on-hand.webp
       :align: center
       :alt: Display stock across all linked warehouses.
 
@@ -189,7 +189,7 @@ Then, click the :guilabel:`Other Info` tab on the sales order form. Under the :g
 section, change the :guilabel:`Warehouse` field value to the virtual warehouse that was
 :ref:`previously created <inventory/routes/virtual-wh>`. Next, :guilabel:`Confirm` the sales order.
 
-.. image:: stock_warehouses/set-virtual-wh.png
+.. image:: stock_warehouses/set-virtual-wh.webp
    :align: center
    :alt: Set virtual warehouse as the *Warehouse* field in sales order's *Other Info* tab.
 
@@ -201,7 +201,7 @@ Finally, on the warehouse delivery form, under the :guilabel:`Detailed Operation
 the :guilabel:`Locations` in the :guilabel:`From` column for each product match the child locations
 that are tied to the virtual parent location.
 
-.. image:: stock_warehouses/delivery-order.png
+.. image:: stock_warehouses/delivery-order.webp
    :align: center
    :alt: Delivery order with matching source and child locations.
 
@@ -228,6 +228,6 @@ that are tied to the virtual parent location.
    should have the virtual warehouse assigned to them from the drop-down menu next to
    :guilabel:`Default Warehouse` on their employee form.
 
-   .. image:: stock_warehouses/stock-warehouses-employee-form.png
+   .. image:: stock_warehouses/stock-warehouses-employee-form.webp
       :align: center
       :alt: Default warehouse location on employee form.

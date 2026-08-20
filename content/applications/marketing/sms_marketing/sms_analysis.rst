@@ -14,7 +14,7 @@ For example, while in the default :guilabel:`Graph` view, :abbr:`SMS (Short Mess
 is visualized as different graphs and charts, which can be sorted and grouped in various ways (e.g.
 :guilabel:`Measures` drop down menu).
 
-.. image:: sms_analysis/sms-reporting-page.png
+.. image:: sms_analysis/sms-reporting-page.webp
    :align: center
    :alt: Reporting page in SMS Marketing.
 
@@ -85,7 +85,7 @@ is visualized as different graphs and charts, which can be sorted and grouped in
    note, by making a selection in the drop-down menu: :guilabel:`Send SMS as`. Click
    :guilabel:`Save and Close` to save the changes to this new action.
 
-   .. image:: sms_analysis/automation-rule-sms.png
+   .. image:: sms_analysis/automation-rule-sms.webp
       :align: center
       :alt: Automation rule template with rule to do, SMS template and log as note highlighted.
 

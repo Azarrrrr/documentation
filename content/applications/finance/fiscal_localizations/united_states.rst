@@ -45,7 +45,7 @@ Below are the available modules in Odoo for accounting use in the United States.
    Chart Template` selection to be listed next to the :guilabel:`Package` field label. This chart
    template includes the necessary settings for the US localization for the Odoo *Accounting* app.
 
-   .. image:: united_states/us-l10n-generic-chart-template.png
+   .. image:: united_states/us-l10n-generic-chart-template.webp
       :align: center
       :alt: The Generic Chart Template comes pre-configured for the US localization.
 
@@ -201,7 +201,7 @@ the :icon:`fa-caret-down` :guilabel:`(caret down)` icon to access the drop-down 
 select :guilabel:`Account Type` under the :guilabel:`Group By` column heading to list all of the
 account types in the table.
 
-.. image:: united_states/us-l10n-coa-account-types.png
+.. image:: united_states/us-l10n-coa-account-types.webp
    :align: center
    :alt: Chart of Accounts grouped by Account Type.
 
@@ -314,7 +314,7 @@ Depending on the type of report, certain filters are available at the top of the
     more relevant viewing, along with a :guilabel:`Split Horizontally` option to keep the report
     above the screen's fold, removing the need to scroll.
 
-    .. image:: united_states/us-l1on-accounting-method-reporting-menu.png
+    .. image:: united_states/us-l1on-accounting-method-reporting-menu.webp
        :align: center
        :alt: Accounting method filter menu for reports, covering accrual vs. cash basis methods.
 
@@ -373,7 +373,7 @@ By default, an account labeled with any of the three default :guilabel:`Tags` on
 :guilabel:`Operating Activities`, :guilabel:`Financing Activities`, and :guilabel:`Investing &
 Extraordinary Activities`.
 
-.. image:: united_states/us-l10n-cash-flow-statement-tags.png
+.. image:: united_states/us-l10n-cash-flow-statement-tags.webp
    :align: center
    :alt: Examples of tagged accounts that are included in the Cash Flow Statement in Odoo.
 
@@ -389,7 +389,7 @@ Additionally, the cash flow statement in Odoo:
    and the transaction **will** reflect on the cash flow statement as :guilabel:`Cash paid for
    operating activities`.
 
-   .. image:: united_states/us-l10n-operating-expenses-example.png
+   .. image:: united_states/us-l10n-operating-expenses-example.webp
       :align: center
       :alt: Example of a bill registered as an operating expense as part of a cash flow statement.
 
@@ -658,7 +658,7 @@ Configuration
 First, navigate to the :menuselection:`Accounting app --> Configuration --> Journals`. Open the
 bank journal and click into the :guilabel:`Outgoing Payments` tab.
 
-.. image:: united_states/us-l10n-nacha-settings.png
+.. image:: united_states/us-l10n-nacha-settings.webp
    :align: center
    :alt: NACHA (National Automated Clearing House Association) configuration settings on Odoo.
 
@@ -693,7 +693,7 @@ Enter the :guilabel:`Originating DFI Identification` number next, which should c
    (e.g. bank or credit union) has provided them, otherwise risk failing a successful |NACHA|
    configuration in Odoo.
 
-.. image:: united_states/us-l10n-nacha-dropdown.png
+.. image:: united_states/us-l10n-nacha-dropdown.webp
    :align: center
    :alt: NACHA settings with the standard entry class code drop-down menu highlighted.
 
@@ -732,7 +732,7 @@ To create the batch payments, access the payments page, by navigating to :menuse
 --> Vendors --> Payments`. Select all the payments that should be included in the |NACHA| |ACH|
 file, by ticking the checkboxes to the far-left of the rows.
 
-.. image:: united_states/us-l10n-create-batch-payments.png
+.. image:: united_states/us-l10n-create-batch-payments.webp
    :align: center
    :alt: On the payments screen, the action menu is highlighted with create a batch payment
          selected.
@@ -745,7 +745,7 @@ Click into the payment just created and then click into the :guilabel:`Exported 
 generated file is listed with the :guilabel:`Generation Date`. Click the :icon:`fa-download`
 :guilabel:`(download)` button to download the file.
 
-.. image:: united_states/us-l10n-batch-file.png
+.. image:: united_states/us-l10n-batch-file.webp
    :align: center
    :alt: The exported file tab highlighted in the batch payment with the download circled.
 

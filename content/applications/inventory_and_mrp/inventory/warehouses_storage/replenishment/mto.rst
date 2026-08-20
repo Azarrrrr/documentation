@@ -39,7 +39,7 @@ To do so, begin by navigating to :menuselection:`Inventory app --> Configuration
 :guilabel:`Routes` page, click the :icon:`fa-caret-down` :guilabel:`(down arrow)` icon on the right
 side of the search bar, and click the :guilabel:`Archived` filter to enable it.
 
-.. image:: mto/archived-filter.png
+.. image:: mto/archived-filter.webp
    :align: center
    :alt: The archived filter on the Routes page.
 
@@ -48,7 +48,7 @@ are currently archived. Tick the checkbox next to :guilabel:`Replenish on Order 
 the :icon:`fa-cog` :guilabel:`Actions` button to reveal a drop-down menu. From the drop-down menu,
 select :guilabel:`Unarchive`.
 
-.. image:: mto/unarchive-button.png
+.. image:: mto/unarchive-button.webp
    :align: center
    :alt: The unarchive action on the Routes page.
 
@@ -72,7 +72,7 @@ Order (MTO)` route in the :guilabel:`Routes` section, along with the :guilabel:`
    as well. This is because Odoo needs to know how to replenish the product when an order is placed
    for it (buy or manufacture it).
 
-.. image:: mto/select-routes.png
+.. image:: mto/select-routes.webp
    :align: center
    :alt: Select the MTO route and a second route on the Inventory tab.
 

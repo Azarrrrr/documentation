@@ -67,7 +67,7 @@ to customers. Only keep the payment method published if payments are ready to be
    payments are ready to be received. To do that, set the smart button to :icon:`fa-eye-slash`
    :guilabel:`Unpublished` after setting the :guilabel:`State` to :guilabel:`Enabled`.
 
-.. image:: wire_transfer/wire-transfer-published.png
+.. image:: wire_transfer/wire-transfer-published.webp
    :align: center
    :alt: The wire transfer card enabled and published.
 
@@ -103,7 +103,7 @@ When this method is selected by a customer, they are shown the *Pending Message*
 :ref:`wire transfer configuration page <subscriptions/wire-transfer-configuration>`, after
 confirming their purchase. Once the purchase is confirmed, a sales order is created.
 
-.. image:: wire_transfer/payment-instructions-checkout.png
+.. image:: wire_transfer/payment-instructions-checkout.webp
    :align: center
    :alt: The wire transfer pending message shown to customers.
 
@@ -137,14 +137,14 @@ Next, click the :guilabel:`Register payment` button on the invoice page. A pop-u
 :guilabel:`Payment Method` to :guilabel:`Manual`. Ensure the :guilabel:`Amount` and
 :guilabel:`Payment Date` are correct, then click the :guilabel:`Create Payment` button.
 
-.. image:: wire_transfer/register-payment.png
+.. image:: wire_transfer/register-payment.webp
    :align: center
    :alt: The register payment pop-up window.
 
 The customer invoice is revealed with a green :guilabel:`In Payment` banner in the upper-right
 corner. At this point, the flow is now complete.
 
-.. image:: wire_transfer/in-payment-banner.png
+.. image:: wire_transfer/in-payment-banner.webp
    :align: center
    :alt: The green in payment banner displayed on the invoice.
 

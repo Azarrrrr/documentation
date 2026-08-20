@@ -53,7 +53,7 @@ subcontractor in the :guilabel:`Vendor` field.
 Once the subcontractor has been added, enter the number of days it takes them to manufacture and
 deliver the product, in the :guilabel:`Delivery Lead Time` column.
 
-.. image:: resupply_subcontracting_lead_times/delivery-lead-time.png
+.. image:: resupply_subcontracting_lead_times/delivery-lead-time.webp
    :align: center
    :alt: The Delivery Lead Time field for a subcontractor, on the Purchase tab of a product page.
 
@@ -67,7 +67,7 @@ On the |BoM|, select the :guilabel:`Miscellaneous` tab. In the :guilabel:`Manuf.
 enter the same number of days that was entered in the :guilabel:`Delivery Lead Time` field of the
 |BoM|'s product.
 
-.. image:: resupply_subcontracting_lead_times/manufacturing-lead-time.png
+.. image:: resupply_subcontracting_lead_times/manufacturing-lead-time.webp
    :align: center
    :alt: The Manuf. Lead Time field on a product's BoM.
 
@@ -152,7 +152,7 @@ delivering it to the contracting company.
    It takes Mike's Bikes two days to deliver the components, so they update the *Scheduled Date*
    field on the resupply subcontractor order to May 23rd, two days before the Deadline.
 
-   .. image:: resupply_subcontracting_lead_times/scheduled-deadline.png
+   .. image:: resupply_subcontracting_lead_times/scheduled-deadline.webp
       :align: center
       :alt: The Scheduled Date and Deadline fields on a resupply subcontractor order.
 

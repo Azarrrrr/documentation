@@ -76,7 +76,7 @@ Then, click :guilabel:`New`, and then fill out the following fields on the form 
 - :guilabel:`Notes...`: If any notes are needed to clarify the expense, enter them in the notes
   field.
 
-.. image:: log_expenses/expense-filled-in.png
+.. image:: log_expenses/expense-filled-in.webp
    :align: center
    :alt: A filled in expense form for a client lunch.
 
@@ -91,7 +91,7 @@ The new receipt is recorded in the *chatter*, and the number of receipts appears
 :icon:`fa-paperclip` :guilabel:`(paperclip)` icon. Multiple receipts can be attached to an
 individual expense record, as needed.
 
-.. image:: log_expenses/receipt-icon.png
+.. image:: log_expenses/receipt-icon.webp
    :align: center
    :alt: Attach a receipt and it appears in the chatter.
 
@@ -142,7 +142,7 @@ Open the :guilabel:`Expenses app`, and from the :guilabel:`My Expenses` dashboar
 :guilabel:`Upload`, and a file explorer appears. Navigate to the desired receipt, select it, then
 click :guilabel:`Open`.
 
-.. image:: log_expenses/upload.png
+.. image:: log_expenses/upload.webp
    :align: center
    :alt: Create an expense by scanning a receipt. Click Scan at the top of the Expenses dashboard
          view.
@@ -167,7 +167,7 @@ Configuration --> Settings`. Ensure the checkbox beside :guilabel:`Incoming Emai
 default email alias is *expense@(domain).com*. Change the email alias by entering the desired email
 in the field to the right of :guilabel:`Alias`. Then, click :guilabel:`Save`.
 
-.. image:: log_expenses/alias-email.png
+.. image:: log_expenses/alias-email.webp
    :align: center
    :alt: Te default email that populates the expenses email alias.
 
@@ -176,7 +176,7 @@ in the field to the right of :guilabel:`Alias`. Then, click :guilabel:`Save`.
    alias` appears beneath the :guilabel:`Incoming Emails` checkbox, instead of the email address
    field.
 
-   .. image:: log_expenses/email-alias.png
+   .. image:: log_expenses/email-alias.webp
       :align: center
       :alt: Create the domain alias by clicking the link.
 
@@ -198,7 +198,7 @@ To check an expense category's internal reference, go to :menuselection:`Expense
 Configuration --> Expense Categories`. If an internal reference is listed on the expense category,
 it is listed in the :guilabel:`Internal Reference` column.
 
-.. image:: log_expenses/ref.png
+.. image:: log_expenses/ref.webp
    :align: center
    :alt: Internal reference numbers are listed in the main Expense Categories view.
 
@@ -207,7 +207,7 @@ category form. Enter the :guilabel:`Internal Reference` in the corresponding fie
 :guilabel:`Internal Reference` field, this sentence appears: :guilabel:`Use this reference as a
 subject prefix when submitting by email.`
 
-.. image:: log_expenses/mileage-internal-reference.png
+.. image:: log_expenses/mileage-internal-reference.webp
    :align: center
    :alt: Internal reference numbers are listed in the main Expense Products view.
 
@@ -225,6 +225,6 @@ subject prefix when submitting by email.`
    expense from an email. To confirm an authenticated employee email address, go to the employee
    card in the :menuselection:`Employees app`, and refer to the :guilabel:`Work Email` field.
 
-   .. image:: log_expenses/authenticated-email-address.png
+   .. image:: log_expenses/authenticated-email-address.webp
       :align: center
       :alt: Create the domain alias by clicking the link.

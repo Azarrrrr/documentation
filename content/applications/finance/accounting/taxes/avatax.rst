@@ -226,7 +226,7 @@ First, tick the checkbox to the left of the :guilabel:`AvaTax` settings, to acti
 database. This is a quick, convenient way to activate and deactivate *AvaTax* tax calculation on the
 Odoo database.
 
-.. image:: avatax/avatax-configuration-settings.png
+.. image:: avatax/avatax-configuration-settings.webp
    :align: center
    :alt: Configure AvaTax settings
 
@@ -266,7 +266,7 @@ First, log into the *AvaTax* portal (`sandbox <https://sandbox.admin.avalara.com
 The :guilabel:`Company Code` value is located in the row of the :guilabel:`Company` in the
 :guilabel:`Company Code` column.
 
-.. image:: avatax/company-code.png
+.. image:: avatax/company-code.webp
    :align: center
    :alt: AvaTax company code highlighted on the company details page.
 
@@ -311,7 +311,7 @@ Additionally, tick the checkbox next to the :guilabel:`Address validation` field
    :guilabel:`Original Address` listed. If the :guilabel:`Validated Address` is the correct mailing
    address for tax purposes, click :guilabel:`Save Validated`.
 
-   .. image:: avatax/validate-address.png
+   .. image:: avatax/validate-address.webp
       :align: center
       :alt: Validate address pop-up window in Odoo with "Save Validated" button and "Validated
             Address" highlighted.
@@ -402,7 +402,7 @@ product category to add the :guilabel:`AvaTax Category` to. In the :guilabel:`Av
 field, select a category from the drop-down menu, or :guilabel:`Search More...` to open the complete
 list of options.
 
-.. image:: avatax/avatax-category.png
+.. image:: avatax/avatax-category.webp
    :align: center
    :alt: Specify AvaTax Category on products.
 
@@ -419,7 +419,7 @@ menu, and select a category, or :guilabel:`Search More...` to find one that is n
    If both the product, and its category, have an :guilabel:`AvaTax Category` set, the product's
    :guilabel:`AvaTax Category` takes precedence.
 
-.. image:: avatax/override-avatax-product-category.png
+.. image:: avatax/override-avatax-product-category.webp
    :align: center
    :alt: Override product categories as needed.
 

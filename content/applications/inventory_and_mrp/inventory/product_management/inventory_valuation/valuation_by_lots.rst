@@ -41,7 +41,7 @@ Lots` or :guilabel:`By Unique Serial Number` from the resulting drop-down menu.
 Doing so makes the :guilabel:`Valuation by Lot/Serial number` checkbox appear below it. Tick that
 checkbox, and the configuration to track valuation by lot or serial numbers is complete.
 
-.. figure:: valuation_by_lots/product-form.png
+.. figure:: valuation_by_lots/product-form.webp
    :alt: Product form showing the Valuation by Lot or Serial Number feature.
 
    Product form showing the Valuation by Lot or Serial Number feature
@@ -97,7 +97,7 @@ Consider how purchasing products affect the inventory valuation, in the table be
      - :math:`\frac{10+20}{2}`
      - $15
 
-.. figure:: valuation_by_lots/lip-gloss.png
+.. figure:: valuation_by_lots/lip-gloss.webp
    :alt: Show Cost on the product form.
 
    As a result, the product form displays an average cost of $15 in the **Cost** field.
@@ -125,7 +125,7 @@ To view the valuation layer, go to :menuselection:`Inventory app --> Reporting -
    Continuing the example in the table above, when the product cost is `$15`, the valuation for a
    newly-created `LOT3` is also be `$15`.
 
-   .. image:: valuation_by_lots/create-new.png
+   .. image:: valuation_by_lots/create-new.webp
       :alt: Show inventory adjustment valuation.
 
 .. _inventory/product_management/valuation-cost-existing:
@@ -142,7 +142,7 @@ valuation layer for that specific lot/serial number.
    So, when the quantity is updated from `1.00` to `2.00`, the additional quantity is also valued at
    `$10`, reflecting the latest valuation layer for `LOT 1`.
 
-   .. figure:: valuation_by_lots/existing.png
+   .. figure:: valuation_by_lots/existing.webp
       :alt: Show valuation of LOT 1 getting updated.
 
       The inventory adjustment (top line) is valued the same as LOT 1 (bottom line).
@@ -162,7 +162,7 @@ Both the :guilabel:`Cost` and :guilabel:`Average Cost` fields show a unit's aver
    Ensure the costing method is set to *First In First Out (FIFO)* or *Average Cost (AVCO)* to
    display the cost on this page.
 
-.. figure:: valuation_by_lots/lot.png
+.. figure:: valuation_by_lots/lot.webp
    :alt: Show cost of the lot/serial number.
 
    Lot form, displaying **Cost** field. The **Valuation** smart button is in the top-right.
@@ -191,7 +191,7 @@ On the resulting :guilabel:`Stock Valuation` report, click the search bar, and i
    This is useful for adjusting individual lot prices when a purchase order or bill includes
    multiple lots/serial numbers, as initial prices are identical upon reception.
 
-.. image:: valuation_by_lots/stock-valuation.png
+.. image:: valuation_by_lots/stock-valuation.webp
    :alt: Show valuation report, by lots.
 
 Valuation smart button
@@ -202,7 +202,7 @@ To access a filtered part of the *Stock Valuation* report, specific to a lot or 
 
 On the :guilabel:`Lot/Serial Numbers` page, click the :guilabel:`Valuation` smart button.
 
-.. figure:: valuation_by_lots/lot-stock-valuation.png
+.. figure:: valuation_by_lots/lot-stock-valuation.webp
    :alt: All stock moves relating to `LOT 1`.
 
    All stock moves that affect the valuation of `LOT 1`.

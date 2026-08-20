@@ -16,7 +16,7 @@ Once the *Accounting* app has been installed, foreign currencies can be added to
 Navigate to :menuselection:`Accounting app --> Configuration --> Settings`, scroll to the
 :guilabel:`Currencies` section, and locate the :guilabel:`Main Currency` setting.
 
-.. image:: currencies/main-currency-setting-page.png
+.. image:: currencies/main-currency-setting-page.webp
    :align: center
    :alt: How the main currency feature appears on settings page in Odoo Accounting.
 
@@ -30,7 +30,7 @@ field, select the desired currency, and be sure to :guilabel:`Save` the changes.
    on the *Accounting* settings page (:menuselection:`Accounting app --> Configuration --> Settings
    --> Currencies section`).
 
-   .. image:: currencies/automatic-currency-rates.png
+   .. image:: currencies/automatic-currency-rates.webp
       :align: center
       :alt: How the main currency feature appears on settings page in Odoo Accounting.
 
@@ -58,7 +58,7 @@ To view, edit, and add currencies to the database, making them available on pric
 
 When the :guilabel:`Currencies` link is clicked, a separate :guilabel:`Currencies` page is revealed.
 
-.. image:: currencies/main-currencies-page.png
+.. image:: currencies/main-currencies-page.webp
    :align: center
    :alt: How the main currencies page appears in Odoo Accounting.
 
@@ -89,7 +89,7 @@ Currency detail form
 To edit any currency on the :guilabel:`Currencies` page, click the desired currency to reveal the
 detail form for that specific currency, and proceed to make any necessary changes.
 
-.. image:: currencies/currency-detail-form.png
+.. image:: currencies/currency-detail-form.webp
    :align: center
    :alt: How a currency detail form looks in Odoo Accounting.
 
@@ -120,7 +120,7 @@ Main currency detail form
 If the selected currency is the main currency of the company, a blue banner appears at the top of
 the currency detail form with the message: :guilabel:`This is your company's currency.`.
 
-.. image:: currencies/main-currency-detail-form.png
+.. image:: currencies/main-currency-detail-form.webp
    :align: center
    :alt: How a main currency detail form looks in Odoo Accounting.
 
@@ -137,7 +137,7 @@ open a blank currency template form.
 .. tip::
    The same :guilabel:`New` button is located in the upper-right corner of any currency detail form.
 
-.. image:: currencies/blank-currency-detail-form.png
+.. image:: currencies/blank-currency-detail-form.webp
    :align: center
    :alt: How a blank currency detail form looks in Odoo Accounting.
 
@@ -199,7 +199,7 @@ Then, on the product detail form, click the :guilabel:`Extra Prices` smart butto
 upper-left corner. Doing so reveals a separate :guilabel:`Price Rules` page, specific to that
 particular product.
 
-.. image:: currencies/price-rules-currencies.png
+.. image:: currencies/price-rules-currencies.webp
    :align: center
    :alt: How to set product prices based on foreign currency pricelists in Odoo Sales.
 

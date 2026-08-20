@@ -18,7 +18,7 @@ desired quotation, or create a new one by clicking :guilabel:`New`.
 On the quotation form, click the :guilabel:`Expiration` field to reveal a pop-up calendar. From this
 pop-up calendar, select the desired month and date as the expiration date for the quotation.
 
-.. image:: deadline/quotation-deadlines-expiration-field.png
+.. image:: deadline/quotation-deadlines-expiration-field.webp
    :align: center
    :alt: The expiration field on a standard quotation form in Odoo Sales.
 
@@ -26,7 +26,7 @@ pop-up calendar, select the desired month and date as the expiration date for th
    By clicking the :guilabel:`Preview` button on a quotation, Odoo clearly displays when that
    specific offer expires.
 
-   .. image:: deadline/quotation-deadlines-preview.png
+   .. image:: deadline/quotation-deadlines-preview.webp
       :align: center
       :alt: How customers will see deadlines on Odoo Sales.
 
@@ -44,7 +44,7 @@ On the quotation template form, add a specific number of days to the :guilabel:`
 after` field, located beneath the quotation template name. The number of days represents how long
 the quotation will be valid for, before it expires.
 
-.. image:: deadline/quotation-deadlines-expires-after.png
+.. image:: deadline/quotation-deadlines-expires-after.webp
    :align: center
    :alt: The quotation expires after field on a quotation template form in Odoo Sales.
 

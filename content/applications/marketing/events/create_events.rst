@@ -21,7 +21,7 @@ alternatively from the :icon:`oi-view-list` :guilabel:`List` or :icon:`fa-tasks`
 views, click the :guilabel:`New` button in the upper-left corner of the dashboard to open up a new
 event form.
 
-.. image:: create_events/blank-event-template.png
+.. image:: create_events/blank-event-template.webp
    :align: center
    :alt: Typical event template in the Odoo Events application.
 
@@ -78,7 +78,7 @@ The following are fields found on an event form:
 
      Doing so reveals :guilabel:`Create Twitter Wall` pop-up window.
 
-     .. image:: create_events/twitter-wall-popup.png
+     .. image:: create_events/twitter-wall-popup.webp
         :align: center
         :alt: The Twitter Wall pop-up window in the Odoo Events application.
 
@@ -158,7 +158,7 @@ Tickets tab
 
 Create custom tickets (and ticket tiers) for events in the :guilabel:`Tickets` tab of an event form.
 
-.. image:: create_events/tickets-tab.png
+.. image:: create_events/tickets-tab.webp
    :align: center
    :alt: A typical tickets tab on an event form in the Odoo Events application.
 
@@ -221,7 +221,7 @@ Communication tab
 In the :guilabel:`Communication` tab of an event form, create various marketing communications that
 can be scheduled to be sent at specific intervals leading up to, and following, the event.
 
-.. image:: create_events/communication-tab.png
+.. image:: create_events/communication-tab.webp
    :align: center
    :alt: Typical communication tab on an event form in the Odoo Events application.
 
@@ -302,7 +302,7 @@ their preferences, expectations, and other things of that nature. This informati
 to create more detailed reporting metrics, in addition to being utilized to create specific lead
 generation rules.
 
-.. image:: create_events/questions-tab.png
+.. image:: create_events/questions-tab.webp
    :align: center
    :alt: Typical questions tab on an event form in the Odoo Events application.
 
@@ -319,7 +319,7 @@ generation rules.
 To add a question in the :guilabel:`Questions` tab, click :guilabel:`Add a line`. Doing so reveals a
 :guilabel:`Create Question` pop-up window. From here, users can create and configure their question.
 
-.. image:: create_events/create-question-popup.png
+.. image:: create_events/create-question-popup.webp
    :align: center
    :alt: The Create Question pop-up window that appears in the Odoo Events application.
 
@@ -378,7 +378,7 @@ Notes tab
 In the :guilabel:`Notes` tab of an event form, users can leave detailed internal notes and/or
 event-related instructions/information for attendees.
 
-.. image:: create_events/notes-tab.png
+.. image:: create_events/notes-tab.webp
    :align: center
    :alt: Typical notes tab on an event form in the Odoo Events application.
 

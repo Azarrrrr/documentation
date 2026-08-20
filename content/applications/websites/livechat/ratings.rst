@@ -18,7 +18,7 @@ satisfaction. The icons represent the following ratings:
  - **Okay** - *yellow neutral face*
  - **Dissatisfied** - *red frowning face*
 
-.. image:: ratings/live-chat-ratings-faces.png
+.. image:: ratings/live-chat-ratings-faces.webp
    :align: center
    :alt: View of the chat window from a user's side for Odoo Live Chat.
 
@@ -30,7 +30,7 @@ satisfaction. The icons represent the following ratings:
 If the customer selects :guilabel:`Satisfied (smile)` icon, they are presented with a thank you
 message and a :guilabel:`Close Conversation` link.
 
-.. image:: ratings/live-chat-thank-you.png
+.. image:: ratings/live-chat-thank-you.webp
    :align: center
    :alt: View of customer's live chat window with thank you message.
 
@@ -38,7 +38,7 @@ If the customer selects either :guilabel:`Okay (neutral)` icon or :guilabel:`Dis
 icon, a text box will appear. Customers can add comments in this text box to explain why they chose
 this rating. This message will be sent to the live chat operator, along with the rating icon.
 
-.. image:: ratings/live-chat-ratings-operator-window.png
+.. image:: ratings/live-chat-ratings-operator-window.webp
    :align: center
    :alt: View of a chat window from an operator's window highlighting a rating for Odoo Live Chat.
 
@@ -53,7 +53,7 @@ Statistics` page.
 In the upper right corner of the page, click the red :guilabel:`Unpublished` slider.  The slider
 changes from :guilabel:`Unpublished` to :guilabel:`Published`.
 
-.. image:: ratings/live-chat-ratings-unpublished.png
+.. image:: ratings/live-chat-ratings-unpublished.webp
    :align: center
    :alt: View of the published ratings on the portal for Odoo Live Chat.
 
@@ -84,7 +84,7 @@ The page lists the names of the :guilabel:`Live Chat Channels` whose ratings pag
 published. On the left side of the channel name is a speech bubble icon, which users can click on to
 go to the ratings' page for the respective channel.
 
-.. image:: ratings/live-chat-published-icon.png
+.. image:: ratings/live-chat-published-icon.webp
    :align: center
    :alt: View of the webpage for Live Chat ratings emphasizing the channel icon.
 
@@ -97,7 +97,7 @@ list of pages to select the page and highlight the line. Then, click the checkbo
 labeled :guilabel:`Is Published`. The field with the checkbox is highlighted in white. Click the
 checkbox a second time to activate the :guilabel:`Is Published` box. The webpage is now published.
 
-.. image:: ratings/live-chat-is-published.png
+.. image:: ratings/live-chat-is-published.webp
    :align: center
    :alt: View of the list of pages for a website with the 'is published' box emphasized.
 
@@ -115,7 +115,7 @@ The :guilabel:`Customer Ratings` report (:menuselection:`Live Chat --> Report --
 displays an overview of the ratings received on individual support tickets, as well as any
 additional comments submitted with the rating.
 
-.. image:: ratings/live-chat-ratings-report.png
+.. image:: ratings/live-chat-ratings-report.webp
    :align: center
    :alt: View of the customer ratings report in Odoo Live Chat.
 
@@ -138,7 +138,7 @@ To hide a rating, go to :menuselection:`Live Chat app --> Reports --> Customer R
 the kanban card for the rating to be hidden. On the individual rating's detail page, check the box
 labeled :guilabel:`Visible Internally Only`.
 
-.. image:: ratings/live-chat-ratings-visible-internally.png
+.. image:: ratings/live-chat-ratings-visible-internally.webp
    :align: center
    :alt: View of an individual rating's detail page with the visible internally setting checked.
 

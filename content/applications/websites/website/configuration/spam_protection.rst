@@ -38,7 +38,7 @@ On Cloudflare
   - The :guilabel:`Managed` mode is **recommended**, as visitors can be prompted to check a box
     confirming they are human if deemed necessary by Turnstile.
 
-    .. image:: spam_protection/turnstile-human.png
+    .. image:: spam_protection/turnstile-human.webp
        :alt: Cloudflare Turnstile human verification widget
 
   - For the :guilabel:`Non-interactive` and :guilabel:`Invisible` modes, visitors are never
@@ -49,12 +49,12 @@ On Cloudflare
        If the Turnstile check fails, visitors are not able to submit the form, and the following
        error message is displayed:
 
-       .. image:: spam_protection/turnstile-error.png
+       .. image:: spam_protection/turnstile-error.webp
           :alt: Cloudflare Turnstile verification error message
 
 - Click :guilabel:`Create`.
 
-.. image:: spam_protection/turnstile-configuration.png
+.. image:: spam_protection/turnstile-configuration.webp
    :alt: Adding a website to Cloudflare Turnstile
 
 The generated keys are then displayed. Leave the page open for convenience, as copying the keys in
@@ -101,7 +101,7 @@ On the website registration page:
 - Agree to the terms of service.
 - Click :guilabel:`Submit`.
 
-.. image:: spam_protection/recaptcha-google-configuration.png
+.. image:: spam_protection/recaptcha-google-configuration.webp
    :alt: reCAPTCHA website registration example
 
 A new page with the generated keys is then displayed. Leave it open for convenience, as copying the
@@ -135,13 +135,13 @@ navigate to the form. Then, click somewhere on the form, and on the right sideba
 :guilabel:`Customize` tab, toggle :guilabel:`Show reCAPTCHA Policy` found under the :guilabel:`Form`
 section.
 
-.. image:: spam_protection/recaptcha-policy.png
+.. image:: spam_protection/recaptcha-policy.webp
    :alt: reCAPTCHA policy message displayed on a form
 
 .. note::
    If the reCAPTCHA check fails, the following error message is displayed:
 
-   .. image:: spam_protection/recaptcha-error.png
+   .. image:: spam_protection/recaptcha-error.webp
       :alt: Google reCAPTCHA verification error message
 
 .. tip::

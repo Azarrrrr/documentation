@@ -25,7 +25,7 @@ message.
 To create or update a sales teams' email alias, navigate to :menuselection:`CRM app -->
 Configuration --> Sales Teams`. Click on a team from the list to open the team's details page.
 
-.. image:: email_manual/email-alias.png
+.. image:: email_manual/email-alias.webp
    :align: center
    :alt: The sales team details page, focused on the email alias section.
 
@@ -51,7 +51,7 @@ The email received by the alias is added to the *chatter* thread for the lead. T
 the message is added to the title field, and the :guilabel:`Email` field is updated with the
 contact's email address.
 
-.. image:: email_manual/chatter-message.png
+.. image:: email_manual/chatter-message.webp
    :align: center
    :alt: The chatter thread of a newly created lead in the CRM app.
 
@@ -95,7 +95,7 @@ opportunity.
    In the example below, the opportunity is named `5 VP Chairs`. This identifies the product the
    customer is interested in, as well as the potential number of products.
 
-   .. image:: email_manual/opportunity-example.png
+   .. image:: email_manual/opportunity-example.webp
       :align: center
       :alt: An example of an opportunity in the CRM pipeline.
 
@@ -123,6 +123,6 @@ Then, use the |st-o| :guilabel:`(star)` icons to assign a priority.
 
 Once all the necessary information has been entered, click :guilabel:`Add`.
 
-.. image:: email_manual/create-opportunities.png
+.. image:: email_manual/create-opportunities.webp
    :align: center
    :alt: The CRM pipeline with a newly created opportunity.

@@ -26,7 +26,7 @@ Link your bank accounts with Ponto
 #. Create an account if you don't have one yet.
 #. Once you are logged in, create an *organization*.
 
-   .. image:: ponto/ponto-organization.png
+   .. image:: ponto/ponto-organization.webp
       :alt: Fill out the form to add an organization in Ponto.
 
 #. Go to :menuselection:`Accounts --> Live`, and click :guilabel:`Add account`. You might have to
@@ -34,7 +34,7 @@ Link your bank accounts with Ponto
 #. Select your country, your bank institutions, give your consent to Ponto, and follow the steps
    on-screen to link your bank account with your Ponto account.
 
-   .. image:: ponto/ponto-add-account.png
+   .. image:: ponto/ponto-add-account.webp
       :alt: Add bank accounts to your Ponto account.
 
 #. Add all bank accounts you want to synchronize with your Odoo database and move to the next steps.
@@ -49,7 +49,7 @@ Link your Ponto account with your Odoo database
 #. Select **all accounts** you want to access and synchronize in Odoo, even the ones coming from
    other banking institutions.
 
-   .. image:: ponto/ponto-select-accounts.png
+   .. image:: ponto/ponto-select-accounts.webp
       :alt: Selection of the accounts you wish to synchronize with Odoo.
 
 #. Finish the flow.

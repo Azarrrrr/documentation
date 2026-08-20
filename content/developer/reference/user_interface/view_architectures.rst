@@ -994,7 +994,7 @@ The `app` element can have the following attributes:
 
    :requirement: Optional
    :type: path_
-   :default: A path computed with the `name` attribute: :file:`/{name}/static/description/icon.png`
+   :default: A path computed with the `name` attribute: :file:`/{name}/static/description/icon.webp`
 
 .. todo: document attribute notApp
 

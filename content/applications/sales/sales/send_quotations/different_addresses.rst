@@ -13,7 +13,7 @@ To properly utilize multiple addresses in Odoo, go to :menuselection:`Sales app 
 --> Settings` and scroll down to the :guilabel:`Quotations & Orders` heading. Then, check the box
 next to :guilabel:`Customer Addresses`, and click :guilabel:`Save`.
 
-.. image:: different_addresses/customer-addresses-setting.png
+.. image:: different_addresses/customer-addresses-setting.webp
    :align: center
    :alt: Activate the Customer Addresses setting.
 
@@ -33,7 +33,7 @@ From the contact form, click :guilabel:`Edit`, and then select :guilabel:`Add`, 
 under the :guilabel:`Contacts & Addresses` tab. Doing so reveals a :guilabel:`Create Contact` pop-up
 form, in which additional addresses can be configured.
 
-.. image:: different_addresses/contact-form-add-address.png
+.. image:: different_addresses/contact-form-add-address.webp
    :align: center
    :alt: Add a contact/address to the contact form.
 
@@ -51,7 +51,7 @@ Select any of the following options:
 Once an option is selected, proceed to enter the corresponding contact information that should be
 used for the specified address type.
 
-.. image:: different_addresses/create-contact-window.png
+.. image:: different_addresses/create-contact-window.webp
    :align: center
    :alt: Create a new contact/address on a contact form.
 
@@ -65,7 +65,7 @@ When a customer is added to a quotation, the :guilabel:`Invoice Address` and :gu
 Address` fields autopopulate with the corresponding addresses specified on the customer's contact
 form.
 
-.. image:: different_addresses/quotation-address-autopopulate.png
+.. image:: different_addresses/quotation-address-autopopulate.webp
    :align: center
    :alt: Invoice and Delivery Addresses autopopulate on a quotation.
 

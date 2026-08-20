@@ -80,7 +80,7 @@ to install it. Multiple third-party shipping connectors can be selected at once.
    *Sales*, *eCommerce*, and *Website* apps. To install, refer to the :ref:`install apps and modules
    <general/install>` documentation.
 
-.. image:: third_party_shipper/shipping-connectors.png
+.. image:: third_party_shipper/shipping-connectors.webp
    :align: center
    :alt: Options of available shipping connectors in Odoo.
 
@@ -140,7 +140,7 @@ The :guilabel:`Shipping Method` page contains details about the provider, includ
 - :guilabel:`Insurance Percentage`: specify a percentage amount of the shipping costs reimbursed to
   the senders if the package is lost or stolen in transit.
 
-.. figure:: third_party_shipper/fedex.png
+.. figure:: third_party_shipper/fedex.webp
    :align: center
    :alt: Screenshot of a FedEx shipping method.
 
@@ -171,7 +171,7 @@ set it to :guilabel:`Production Environment`.
    users charge customers for shipping. Verify all configurations are correct before launching the
    delivery method to :guilabel:`Production`.
 
-.. image:: third_party_shipper/production.png
+.. image:: third_party_shipper/production.webp
    :align: center
    :alt: Show the "Test Environment" smart button.
 
@@ -187,14 +187,14 @@ Warehouses`, and select the desired warehouse.
 On the warehouse configuration page, open the warehouse contact page by clicking the
 :guilabel:`Company` field.
 
-.. image:: third_party_shipper/internal-link.png
+.. image:: third_party_shipper/internal-link.webp
    :align: center
    :alt: Highlight the "Company" field.
 
 Verify that the :guilabel:`Address` and :guilabel:`Phone` number are correct, as they are required
 for the shipping connector to work properly.
 
-.. image:: third_party_shipper/company.png
+.. image:: third_party_shipper/company.webp
    :align: center
    :alt: Show company address and phone number.
 
@@ -209,7 +209,7 @@ For the carrier integration to work properly, specify the weight of products by 
 Then, switch to the :guilabel:`Inventory` tab, and define the :guilabel:`Weight` of the product in
 the :guilabel:`Logistics` section.
 
-.. image:: third_party_shipper/product-weight.png
+.. image:: third_party_shipper/product-weight.webp
    :align: center
    :alt: Display the "Weight" field in the Inventory tab of the product form.
 
@@ -232,7 +232,7 @@ To assign a third-party shipping carrier, and get an estimated cost of shipping,
 add the cost of shipping through a third-party carrier to a quotation, by clicking the
 :guilabel:`Add Shipping` button in the bottom-right corner of the :guilabel:`Order Lines` tab.
 
-.. image:: third_party_shipper/add-shipping.png
+.. image:: third_party_shipper/add-shipping.webp
    :align: center
    :alt: Show the "Add shipping" button at the bottom of a quotation.
 
@@ -274,7 +274,7 @@ provided.
 .. seealso::
    :doc:`Generate shipping labels <labels>`
 
-.. image:: third_party_shipper/delivery-info.png
+.. image:: third_party_shipper/delivery-info.webp
    :align: center
    :alt: Show the delivery order's "Additional info" tab.
 
@@ -312,7 +312,7 @@ method's configuration page (:menuselection:`Inventory app --> Configuration -->
 Method`), and select the desired shipping method. Click the :guilabel:`No Debugging` smart button to
 activate :guilabel:`Debug Requests`.
 
-.. image:: third_party_shipper/no-debug.png
+.. image:: third_party_shipper/no-debug.webp
    :align: center
    :alt: Show the "No Debug" smart button.
 
@@ -327,7 +327,7 @@ Database Structure section --> Logging`.
    and invoices, **and** when a customer adds the shipping carrier to their order through the
    *Website* app.
 
-.. image:: third_party_shipper/log.png
+.. image:: third_party_shipper/log.webp
    :align: center
    :alt: Show how to find the "Logging" option from the "Technical" menu.
 
@@ -335,6 +335,6 @@ Click the *HTTP request* line item to open a detailed page, and verify the corre
 sent from Odoo to the shipping carrier. In the *HTTP response*, verify that the same information is
 received.
 
-.. image:: third_party_shipper/logging.png
+.. image:: third_party_shipper/logging.webp
    :align: center
    :alt: Show debug request history in Settings > Technical > Logging.

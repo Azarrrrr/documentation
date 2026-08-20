@@ -21,13 +21,13 @@ Configuration
    --> Settings`. More fields become visible after clicking on :guilabel:`Enable Employment Hero
    Integration`.
 
-   .. image:: employment_hero/employment-hero-integration.png
+   .. image:: employment_hero/employment-hero-integration.webp
       :alt: Enabling Employment Hero Integration in Odoo Accounting displays new fields in the
             settings
 
    - You can find the API Key in the :guilabel:`My Account` section of the Employment Hero platform.
 
-     .. image:: employment_hero/employment-hero-myaccount.png
+     .. image:: employment_hero/employment-hero-myaccount.webp
         :alt: "Account Details" section on the Employment Hero dashboard
 
    - The **Payroll URL** is left empty by default to avoid any confusion. Please fill it according
@@ -42,7 +42,7 @@ Configuration
 
    - You can find the **Business ID** in the Employment Hero URL. (i.e., `189241`)
 
-     .. image:: employment_hero/employment-hero-business-id.png
+     .. image:: employment_hero/employment-hero-business-id.webp
         :alt: The Employment Hero "Business ID" number is in the URL
 
    - You can choose any Odoo journal to post the payslip entries.
@@ -57,7 +57,7 @@ The API syncs the journal entries from Employment Hero to Odoo and leaves them i
 reference includes the Employment Hero payslip entry ID in brackets for the user to easily retrieve
 the same record in Employment Hero and Odoo.
 
-.. image:: employment_hero/employment-hero-journal-entry.png
+.. image:: employment_hero/employment-hero-journal-entry.webp
    :alt: Example of a Employment Hero Journal Entry in Odoo Accounting (Australia)
 
 By default, the synchronisation happens once per week. You can fetch the records manually by going
@@ -68,7 +68,7 @@ Employment Hero payslip entries also work based on double-entry bookkeeping.
 
 The accounts used by Employment Hero are defined in the section :guilabel:`Payroll settings`.
 
-.. image:: employment_hero/employment-hero-chart-of-accounts.png
+.. image:: employment_hero/employment-hero-chart-of-accounts.webp
    :alt: Chart of Accounts menu in Employment Hero
 
 For the API to work, you need to create the same accounts as the default accounts of your Employment

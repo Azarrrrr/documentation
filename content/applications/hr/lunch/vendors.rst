@@ -51,7 +51,7 @@ Vendor information
   from the drop-down menu. If this field is left blank, the vendor's items are available to **all**
   companies.
 
-.. image:: vendors/vendor-info.png
+.. image:: vendors/vendor-info.webp
    :align: center
    :alt: The top portion of the vendor form filled out.
 
@@ -66,7 +66,7 @@ week the vendor is available.
 
 By default, Monday through Friday are ticked.
 
-.. image:: vendors/availability.png
+.. image:: vendors/availability.webp
    :align: center
    :alt: The default view of the availability section, with Mon-Fri enabled.
 
@@ -95,7 +95,7 @@ for, in addition to how and when orders are placed and received.
   accepted. Enter the time in the following format: `HH:MM`. Then select either :guilabel:`AM` or
   :guilabel:`PM` from the drop-down menu, next to the time field.
 
-.. image:: vendors/orders.png
+.. image:: vendors/orders.webp
    :align: center
    :alt: The orders section of a vendor form, with all fields filled out.
 
@@ -149,7 +149,7 @@ or condiments.
    is set to `Toppings`, and the :guilabel:`Extra 1 Quantity` is set to :guilabel:`None or More`.
    The various toppings are then added, with their corresponding costs.
 
-   .. image:: vendors/extras.png
+   .. image:: vendors/extras.webp
       :align: center
       :alt: The first of the extras configured for pizza toppings.
 
@@ -157,6 +157,6 @@ or condiments.
    2 Label` is set to `Beverages`, and the :guilabel:`Extra 1 Quantity` is set to :guilabel:`Only
    One`. The various beverage choices are added, and the cost for each remains zero.
 
-   .. image:: vendors/beverages.png
+   .. image:: vendors/beverages.webp
       :align: center
       :alt: The second of the extras configured for a free beverage with purchase.

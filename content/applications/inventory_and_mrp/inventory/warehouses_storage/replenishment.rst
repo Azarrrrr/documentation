@@ -83,7 +83,7 @@ reordered. If there is no specific rule for a product, Odoo assumes the :guilabe
    not have its inventory levels tracked, so Odoo cannot account for a consumable product in the
    replenishment report.
 
-.. image:: replenishment/replenishment/replenishment-report-dashboard.png
+.. image:: replenishment/replenishment/replenishment-report-dashboard.webp
    :align: center
    :alt: Replenishment report listing all items needing to be purchased to meet current needs.
 
@@ -145,7 +145,7 @@ On the :guilabel:`Replenishment` page, a reordering rule or manual replenishment
 deactivated for a given period, by clicking the :guilabel:`🔕 (snooze)` icon on the far-right of the
 line.
 
-.. image:: replenishment/replenishment/reordering-rule-snooze-settings.png
+.. image:: replenishment/replenishment/reordering-rule-snooze-settings.webp
    :align: center
    :alt: Snooze options to turn off notifications for reordering for a period of time.
 
@@ -153,7 +153,7 @@ A |PO| or |MO| created by a manual replenishment has a :guilabel:`Replenishment 
 source document. A |PO| or |MO| created by an automated reordering rule has the |SO| reference
 number(s) that triggered the rule as the source document.
 
-.. image:: replenishment/replenishment/rfq-source-document.png
+.. image:: replenishment/replenishment/rfq-source-document.webp
    :align: center
    :alt: Quote request list shows which quotes are directly from the replenishment report.
 
@@ -195,7 +195,7 @@ on the product form.
    The |MTO| route cannot be selected alone. |MTO| **only** works if the :guilabel:`Manufacture` or
    :guilabel:`Buy` route is also selected.
 
-.. image:: replenishment/replenishment/acoustic-block-screen-replenish.png
+.. image:: replenishment/replenishment/acoustic-block-screen-replenish.webp
    :align: center
    :alt: Replenish on Order selected on the product form.
 

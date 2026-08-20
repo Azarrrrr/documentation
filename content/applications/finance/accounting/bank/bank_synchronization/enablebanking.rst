@@ -6,7 +6,7 @@ Enable Banking
 in one place. It offers non-intrusive connectivity to ASPSPs' official APIs across Europe without
 storing data.
 
-.. image:: enablebanking/enablebanking.png
+.. image:: enablebanking/enablebanking.webp
    :alt:   Enable Banking logo
 
 **Odoo** synchronizes directly with banks to get access to all bank transactions and automatically
@@ -28,7 +28,7 @@ Link bank accounts with Odoo
 #. Make sure you give your consent to share your account information with Odoo by clicking
    :guilabel:`Continue authentication`;
 
-   .. image:: enablebanking/enablebankingauth.png
+   .. image:: enablebanking/enablebankingauth.webp
       :alt: Enable Banking authentication page
 
 #. Finally, you are redirected to your bank's login page.

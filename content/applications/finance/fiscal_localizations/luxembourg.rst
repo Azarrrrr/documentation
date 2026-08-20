@@ -24,7 +24,7 @@ localization:
      - `l10n_lu_reports_annual_vat`
      - Country-specific reports
 
-.. image:: luxembourg/modules.png
+.. image:: luxembourg/modules.webp
    :align: center
    :alt: The three modules for the Luxembourgish Fiscal Localization Package on Odoo
 
@@ -61,7 +61,7 @@ on :guilabel:`Create`, then define the annual period in the :guilabel:`Year` fie
 The **simplified annual declaration** is automatically generated. You can manually add values in all
 the fields to get a **complete annual declaration**.
 
-.. image:: luxembourg/annual-tax-report.png
+.. image:: luxembourg/annual-tax-report.webp
    :align: center
    :alt: Odoo Accounting (Luxembourg localization) generates an annual tax declaration.
 
@@ -69,7 +69,7 @@ To help you complete it, you can use the information provided on the :guilabel:`
 so, go to :menuselection:`Accounting --> Report --> Audit Reports --> Tax Report`, then click on the
 :guilabel:`Tax Report` dropdown menu and select the type of report you want to display.
 
-.. image:: luxembourg/tax-report-types.png
+.. image:: luxembourg/tax-report-types.webp
    :align: center
    :alt: Dropdown menu to select the type of Tax Report
 

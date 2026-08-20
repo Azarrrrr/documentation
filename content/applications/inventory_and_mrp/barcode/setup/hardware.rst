@@ -7,7 +7,7 @@ Barcode scanner setup
 Follow this guide to choose and set up a barcode scanner compatible with Odoo's *Inventory* and
 *Barcode* apps.
 
-.. figure:: hardware/barcode-scanner.png
+.. figure:: hardware/barcode-scanner.webp
    :align: center
    :alt: An image of an example barcode scanner.
 
@@ -53,7 +53,7 @@ keyboard (HID), with the language set based on the keyboard that is in use.
 To configure the keyboard layout for a **Zebra** scanner, scan the keyboard wedge barcode for the
 desired language in the scanner's user manual.
 
-.. figure:: hardware/keyboard-barcode.png
+.. figure:: hardware/keyboard-barcode.webp
    :align: center
    :alt: Example of a user manual for keyboard layout.
 
@@ -92,7 +92,7 @@ settings.
 Once the profile is selected, scroll down to the :guilabel:`Keyboard Output` option, and ensure the
 :guilabel:`Enable/disable keystroke output` option is :guilabel:`Enabled`.
 
-.. image:: hardware/enable-keystroke.png
+.. image:: hardware/enable-keystroke.webp
    :align: center
    :alt: Show keystroke option in the Zebra scanner's DataWedge app.
 
@@ -123,7 +123,7 @@ resulting list of options, select :guilabel:`Data Processing Settings`.
 The :guilabel:`Data Processing Settings` specify how barcode data is processed by the computer.
 Locate the :guilabel:`Wedge Method` setting. By default, this is set to :guilabel:`Standard`.
 
-.. image:: hardware/hardware-honeywell-settings.png
+.. image:: hardware/hardware-honeywell-settings.webp
    :align: center
    :alt: Data processing settings options for Honeywell scanner.
 
@@ -147,14 +147,14 @@ Next, select the :guilabel:`Default Profile`, or create a new profile, if needed
 Under the :guilabel:`General Settings`, click :guilabel:`Data Output`, followed by
 :guilabel:`Keyboard Emulation`.
 
-.. image:: hardware/hardware-cipherlab-settings.png
+.. image:: hardware/hardware-cipherlab-settings.webp
    :align: center
    :alt: Cipherlab scanner data output setting page.
 
 By default, the :guilabel:`Input Method`, under :guilabel:`Keyboard Emulation`, is set to
 :guilabel:`Default Mode`. Change this setting to :guilabel:`KeyEvent`.
 
-.. image:: hardware/hardware-cipherlab-emulation.png
+.. image:: hardware/hardware-cipherlab-emulation.webp
    :align: center
    :alt: Cipherlab scanner keyboard emulation settings.
 

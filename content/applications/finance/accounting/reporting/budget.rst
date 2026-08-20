@@ -40,13 +40,13 @@ First, we need to define what accounts relate to our project’s expenses. Go to
 :menuselection:`Accounting --> Configuration --> Management: Budgetary positions`, and click
 :guilabel:`New` to add a position. Add the accounts wherein expenses will be booked.
 
-.. image::  budget/smith-and-co-expenses.png
+.. image::  budget/smith-and-co-expenses.webp
    :align: center
    :alt: display the Smith and Co expenses
 
 Let's repeat the steps to create a budgetary position that reflects the revenue.
 
-.. image::  budget/smith-and-co-revenue.png
+.. image::  budget/smith-and-co-revenue.webp
    :align: center
    :alt: display the Smith and Co revenue
 
@@ -65,7 +65,7 @@ Analytic Plans`.
 
 When creating a new customer invoice and/or vendor bill, you have to refer to this analytic account.
 
-.. image:: budget/analytic-accounts.png
+.. image:: budget/analytic-accounts.webp
    :align: center
    :alt: add analytic accounts in a new invoice or bill.
 
@@ -80,7 +80,7 @@ First, fill in your :guilabel:`Budget Name`. Then, select the :guilabel:`Period`
 is applicable. Next, add the :guilabel:`Budgetary Position` you want to track, define the related
 :guilabel:`Analytic Account`, and add the :guilabel:`Planned Amount`.
 
-.. image:: budget/define-the-budget.png
+.. image:: budget/define-the-budget.webp
    :align: center
    :alt: budget lines display
 

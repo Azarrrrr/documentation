@@ -93,7 +93,7 @@ To access it, go to :menuselection:`Accounting --> Reporting --> Deferred Revenu
 To view the journal items of each account, click on the account name and then :guilabel:`Journal
 Items`.
 
-.. image:: deferred_revenues/deferred_revenue_report.png
+.. image:: deferred_revenues/deferred_revenue_report.webp
    :alt: Deferred revenue report
 
 .. note::

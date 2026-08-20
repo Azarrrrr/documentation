@@ -15,7 +15,7 @@ Configuration
 To get started, go to :menuselection:`CRM app --> Configuration --> Settings`, and tick the
 :guilabel:`Lead Mining` checkbox to activate the feature. Then, click :guilabel:`Save`.
 
-.. image:: lead_mining/activate-lead-mining.png
+.. image:: lead_mining/activate-lead-mining.webp
    :align: center
    :alt: Activate lead mining in Odoo CRM settings.
 
@@ -30,14 +30,14 @@ Lead mining requests are also available through :menuselection:`CRM app --> Conf
 Mining Requests`, or through :menuselection:`CRM app --> Leads --> Leads`, where the
 :guilabel:`Generate Leads` button is also available.
 
-.. image:: lead_mining/generate-leads-button.png
+.. image:: lead_mining/generate-leads-button.webp
    :align: center
    :alt: The Generate Leads button to use the lead mining feature.
 
 Click the :guilabel:`Generate Leads` button, and a pop-up window appears, offering a variety of
 criteria by which to generate leads.
 
-.. image:: lead_mining/generate-leads-popup.png
+.. image:: lead_mining/generate-leads-popup.webp
    :align: center
    :alt: The pop-up window with the selection criteria in order to generate leads in Odoo.
 
@@ -74,7 +74,7 @@ additional information regarding the lead, select one from the list, and click t
 In the chatter thread for the lead, additional information is provided. This can include the number
 of employees, the technology used by the company, the timezone, and direct contact information.
 
-.. image:: lead_mining/generated-lead.png
+.. image:: lead_mining/generated-lead.webp
    :align: center
    :alt: The chatter thread of a newly generated lead.
 
@@ -104,7 +104,7 @@ Credits may also be purchased by navigating to the :menuselection:`Settings app`
 :guilabel:`Contacts` section, under the :guilabel:`Odoo IAP` feature, click :guilabel:`View My
 Services`.
 
-.. image:: lead_mining/view-my-services-setting.png
+.. image:: lead_mining/view-my-services-setting.webp
    :align: center
    :alt: Buy credits in the Odoo IAP settings.
 

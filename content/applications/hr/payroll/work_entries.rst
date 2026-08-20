@@ -22,7 +22,7 @@ To remove the filter from the :guilabel:`Search...` bar to view all work entries
 :guilabel:`✖️ (remove)` icon on the :guilabel:`Conflicting` filter in the :guilabel:`Search...` bar,
 and all work entries appear in the list.
 
-.. image:: work_entries/work-entries-overview.png
+.. image:: work_entries/work-entries-overview.webp
    :align: center
    :alt: Conflicts dashboard view showing all employee's conflicts in work entries.
 
@@ -79,7 +79,7 @@ Enter the following information on the form:
 Once the desired information is entered, click :guilabel:`Save & Close` to save the entry, and close
 the pop-up form.
 
-.. image:: work_entries/create.png
+.. image:: work_entries/create.webp
    :align: center
    :alt: Filling in the work entry Create form in Odoo.
 
@@ -100,7 +100,7 @@ Conflicts are indicated with an orange triangle in the top-left corner of each i
 entry. Click on an individual work entry to see the date and time for the specific work entry, then
 click :guilabel:`Edit` to view the conflict details in a pop-up window.
 
-.. image:: work_entries/conflict-pop-up.png
+.. image:: work_entries/conflict-pop-up.webp
    :align: center
    :alt: A row of conflicts, with one entry showing details for the conflict.
 
@@ -114,7 +114,7 @@ well as the total time (in hours) in the :guilabel:`Duration` field, appears on 
 If the conflict is due to a time off request that has not been approved yet, a :guilabel:`Time Off`
 field appears on the left side, with the type of time off requested in the description.
 
-.. image:: work_entries/conflict-details.png
+.. image:: work_entries/conflict-details.webp
    :align: center
    :alt: The detailed conflict pop-up window that appears when Edit is clicked.
 
@@ -151,7 +151,7 @@ request details appear in a new pop-up window. The request can be modified, if n
 Click the :guilabel:`Approve` button to approve the request, then click the :guilabel:`Save & Close`
 button to save the changes, and go back to the work entry conflict pop-up window.
 
-.. image:: work_entries/time-off-details.png
+.. image:: work_entries/time-off-details.webp
    :align: center
    :alt: The detailed time off request form.
 
@@ -194,7 +194,7 @@ the :guilabel:`From` and :guilabel:`To` fields, so the correct date range is dis
 Click the :guilabel:`Regenerate Work Entries` button, and the work entries are recreated. Once
 finished, the pop-up window closes.
 
-.. image:: work_entries/regenerate-details.png
+.. image:: work_entries/regenerate-details.webp
    :align: center
    :alt: Regenerate a work entry for a particular employee.
 
@@ -236,7 +236,7 @@ Click the :guilabel:`Create Draft Entry` button to create the payslips for the b
 Click the :guilabel:`Payslips` smart button at the top of the page to view all the payslips for the
 batch.
 
-.. image:: work_entries/generate-payslips.png
+.. image:: work_entries/generate-payslips.webp
    :align: center
    :alt: Information that appears when generating payslips.
 
@@ -252,7 +252,7 @@ all the payslips in the list at once.
 
 Click the :guilabel:`Print` button, and a PDF file is created with all the specified payslips.
 
-.. image:: work_entries/print-payslips.png
+.. image:: work_entries/print-payslips.webp
    :align: center
    :alt: Print button for printing the payslips.
 
@@ -289,7 +289,7 @@ report is :guilabel:`To Defer`.
 All time off requests that need to be applied to the following pay period appear with a
 :guilabel:`Payslip State` of :guilabel:`To defer to next payslip`.
 
-.. image:: work_entries/time-off-to-report.png
+.. image:: work_entries/time-off-to-report.webp
    :align: center
    :alt: A list of all time off requests that were not approved before payslips were generated.
 
@@ -308,7 +308,7 @@ When all the desired work entries are selected, click the :guilabel:`Actions` bu
 appears with several choices. Click :guilabel:`Defer to Next Month` in the list, and all selected
 entries are deferred to the following month.
 
-.. image:: work_entries/batch-defer.png
+.. image:: work_entries/batch-defer.webp
    :align: center
    :alt: The actions button and # Selected buttons that appear after any selections are made.
 
@@ -331,7 +331,7 @@ in Current Payslip`.
 To go back to the :guilabel:`Time Off to Report` list, click on :guilabel:`Time Off` in the
 breadcrumb menu.
 
-.. image:: work_entries/single-defer.png
+.. image:: work_entries/single-defer.webp
    :align: center
    :alt: The time off details for an individual request that needs to be deferred.
 

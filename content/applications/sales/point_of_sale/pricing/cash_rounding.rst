@@ -19,7 +19,7 @@ Configuration
 Go to :menuselection:`Point of Sale --> Configuration --> Settings`
 and enable *Cash Rounding*, then click on *Save*.
 
-.. image:: cash_rounding/cash_rounding01.png
+.. image:: cash_rounding/cash_rounding01.webp
     :align: center
 
 Go to :menuselection:`Point of Sale --> Configuration --> Point of
@@ -33,13 +33,13 @@ Define here your *Rounding Precision*, *Profit Account*, and
 *Loss Account*, then save both the Rounding Method and your Point
 of Sale settings.
 
-.. image:: cash_rounding/cash_rounding02.png
+.. image:: cash_rounding/cash_rounding02.webp
     :align: center
 
 All total amounts of this point of sale now add a line to apply the
 rounding according to your settings.
 
-.. image:: cash_rounding/cash_rounding03.png
+.. image:: cash_rounding/cash_rounding03.webp
     :align: center
 
 .. note::

@@ -91,7 +91,7 @@ settings.
 Once the profile is selected, scroll down to the :guilabel:`Keyboard Output` option, and ensure the
 :guilabel:`Enable/disable keystroke output` option is :guilabel:`Enabled`.
 
-.. image:: device_troubleshooting/device-troubleshooting-zebra-settings.png
+.. image:: device_troubleshooting/device-troubleshooting-zebra-settings.webp
    :align: center
    :alt: Show keystroke option in the Zebra scanner's DataWedge app.
 
@@ -114,7 +114,7 @@ When using MUNBYN Android scanners, ensure the following configurations are set 
 From the device's home screen, click :menuselection:`AppSettings`. On the resulting page, locate the
 :guilabel:`Process mode` section, and select :guilabel:`Keyboard input`.
 
-.. image:: device_troubleshooting/device-troubleshooting-munbyn-process-mode.png
+.. image:: device_troubleshooting/device-troubleshooting-munbyn-process-mode.webp
    :align: center
    :alt: Process mode section on MUNBYN scanner's AppSettings page.
 
@@ -140,7 +140,7 @@ working as intended.
    the different output options available to users. Select :guilabel:`Keyboard Mode`, then click
    :guilabel:`OK`.
 
-   .. image:: device_troubleshooting/device-troubleshooting-output-mode-popup.png
+   .. image:: device_troubleshooting/device-troubleshooting-output-mode-popup.webp
       :align: center
       :alt: Output mode pop-up window on MUNBYN scanner.
 
@@ -165,7 +165,7 @@ activated.
 Then, also under the :guilabel:`Keyboard wedge` section, locate the :guilabel:`Keyboard wedge input
 mode` option. By default, the input mode is set to :guilabel:`Text injection`.
 
-.. image:: device_troubleshooting/device-troubleshooting-wedge-menu.png
+.. image:: device_troubleshooting/device-troubleshooting-wedge-menu.webp
    :align: center
    :alt: Wedge configuration menu on Datalogic scanner.
 
@@ -173,7 +173,7 @@ Click :guilabel:`Keyboard wedge input mode`, and change the setting to :guilabel
 This ensures that scanned barcodes are translated into keyboard strokes, instead of being injected
 into the text area.
 
-.. image:: device_troubleshooting/device-troubleshooting-keyboard-wedge-input.png
+.. image:: device_troubleshooting/device-troubleshooting-keyboard-wedge-input.webp
    :align: center
    :alt: Keyboard wedge input mode selection on Datalogic scanner.
 
@@ -200,7 +200,7 @@ NETUM devices
 By default, the NETUM barcode scanner's user manual only shows the French keyboard configuration. To
 use the Belgian keyboard, scan the code below:
 
-.. image:: device_troubleshooting/device-troubleshooting-belgium-fr-key.png
+.. image:: device_troubleshooting/device-troubleshooting-belgium-fr-key.webp
    :align: center
    :alt: Belgian FR key barcode.
 

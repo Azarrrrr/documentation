@@ -44,7 +44,7 @@ To create a new project where the timesheets are recorded, click into the :guila
 drop-down menu, type a name for the project, and then click :guilabel:`Create` from the drop-down
 menu beneath.
 
-.. image:: track_and_bill/track-bill-enable-settings.png
+.. image:: track_and_bill/track-bill-enable-settings.webp
    :align: center
    :alt: View of a helpdesk team settings page emphasizing the track and bill time settings.
 
@@ -64,7 +64,7 @@ form. The product is configured with the :guilabel:`Product Type` set to :guilab
 :guilabel:`Invoicing Policy` set to :guilabel:`Based on Timesheets`. Make any necessary changes to
 the product record, such as the :guilabel:`Cost` or :guilabel:`Sales Price`.
 
-.. image:: track_and_bill/track-bill-product-based-on-timesheets.png
+.. image:: track_and_bill/track-bill-product-based-on-timesheets.webp
    :align: center
    :alt: View of a service product with the invoicing policy set to 'Based on timesheets'.
 
@@ -79,7 +79,7 @@ On the new product form, add a :guilabel:`Product Name`, and set the :guilabel:`
 This means an invoice can be generated and payment can be received for this product before any
 timesheets entries have been recorded for these services.
 
-.. image:: track_and_bill/track-bill-product-prepaid-fixed.png
+.. image:: track_and_bill/track-bill-product-prepaid-fixed.webp
    :align: center
    :alt: View of a service product with the invoicing policy set to 'prepaid/fixed'.
 
@@ -150,7 +150,7 @@ Choose an :guilabel:`Employee`, add a :guilabel:`Description` of the task, and e
 As new lines are added to :guilabel:`Timesheets` tab, the :guilabel:`Remaining Hours on SO` field,
 at the bottom-right of the tab, is automatically updated.
 
-.. image:: track_and_bill/track-bill-remaining-hours-total.png
+.. image:: track_and_bill/track-bill-remaining-hours-total.webp
    :align: center
    :alt: View of the timesheets tab on a ticket with an emphasis on the remaining hours on an SO.
 
@@ -214,7 +214,7 @@ drop-down menu, and record the time spent in the :guilabel:`Hours Spent` column.
 
 Repeat these steps as needed until all time spent on the issues has been recorded.
 
-.. image:: track_and_bill/track-bill-record-timesheet-hours.png
+.. image:: track_and_bill/track-bill-record-timesheet-hours.webp
    :align: center
    :alt: View of the timesheets tab on a helpdesk ticket.
 
@@ -230,7 +230,7 @@ button at the top of the ticket.
 Before creating the invoice, confirm that the number in the :guilabel:`Delivered` column matches the
 total number of :guilabel:`Hours Spent` listed in the :guilabel:`Timesheets` tab on the ticket.
 
-.. image:: track_and_bill/track-bill-delivered-timesheet-hours.png
+.. image:: track_and_bill/track-bill-delivered-timesheet-hours.webp
    :align: center
    :alt: View of a sales order with emphasis on the delivered column.
 
@@ -245,7 +245,7 @@ payment (percentage)` or :guilabel:`Down payment (fixed amount)`.
    from a certain time period. If this field is left blank, **all** applicable timesheets that have
    not yet been invoiced will be included.
 
-.. image:: track_and_bill/track-bill-create-invoice-timesheets-period.png
+.. image:: track_and_bill/track-bill-create-invoice-timesheets-period.webp
    :align: center
    :alt: View of create invoices pop up showing timesheets period fields.
 

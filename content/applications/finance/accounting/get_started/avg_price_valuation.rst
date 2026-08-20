@@ -136,7 +136,7 @@ valuation is affected.
    valuation at a specific point in time = on-hand quantity * unit price`). The 8 tables in-stock
    are worth $80.
 
-   .. image:: avg_price_valuation/inventory-val-8-tables.png
+   .. image:: avg_price_valuation/inventory-val-8-tables.webp
       :align: center
       :alt: Show inventory valuation of 8 tables in Odoo.
 
@@ -177,7 +177,7 @@ customer location.
    **Note**: What is not represented in this stock valuation record is the revenue made from this
    sale, so this decrease is not a loss to the company.
 
-   .. image:: avg_price_valuation/inventory-val-send-10-tables.png
+   .. image:: avg_price_valuation/inventory-val-send-10-tables.webp
       :align: center
       :alt: Show how deliveries decrease inventory valuation.
 
@@ -220,7 +220,7 @@ average cost.
    Return to :menuselection:`Inventory --> Reporting --> Inventory Valuation` to see how the
    outgoing shipment decreases the inventory value by $12.
 
-   .. image:: avg_price_valuation/inventory-valuation-return.png
+   .. image:: avg_price_valuation/inventory-valuation-return.webp
       :align: center
       :alt: Inventory valuation for return.
 
@@ -334,7 +334,7 @@ Under :guilabel:`Account Properties`, create a new :guilabel:`Price Difference A
 the name of the account and clicking :guilabel:`Create and Edit`. Then set the account
 :guilabel:`Type` as `Expenses`, and click :guilabel:`Save`.
 
-.. image:: avg_price_valuation/create-price-difference.png
+.. image:: avg_price_valuation/create-price-difference.webp
    :align: center
    :alt: Create price difference account.
 
@@ -342,7 +342,7 @@ Then, receive the shipment in the *Purchase* app or *Inventory* app, and navigat
 :menuselection:`Accounting app --> Accounting --> Journal Entries`. In the list, find the
 :guilabel:`Reference` that matches the warehouse reception operation for the relevant product.
 
-.. image:: avg_price_valuation/search-for-entry-of-tables.png
+.. image:: avg_price_valuation/search-for-entry-of-tables.webp
    :align: center
    :alt: Show accounting entry of 8 tables from the list.
 
@@ -350,7 +350,7 @@ Click on the line for 8 tables. This accounting journal entry shows that when th
 received, the `Stock Valuation` account increased by `$80`. Conversely, the **Stock Input** account
 (set as `Stock Interim (Received)` account by default) is credited `$80`.
 
-.. image:: avg_price_valuation/accounting-entry-8-tables.png
+.. image:: avg_price_valuation/accounting-entry-8-tables.webp
    :align: center
    :alt: Debit stock valuation and credit stock input 80 dollars.
 
@@ -377,7 +377,7 @@ Switch to the :guilabel:`Journal Items` tab to view how `$80` is transferred fro
 account, `Stock Interim (Received)` to `Accounts Payable`. :guilabel:`Confirm` the bill to record
 the payment to the vendor.
 
-.. image:: avg_price_valuation/receive-8-table-bill.png
+.. image:: avg_price_valuation/receive-8-table-bill.webp
    :align: center
    :alt: Show bill linked to the purchase order for 8 tables.
 
@@ -392,7 +392,7 @@ To put it simply:
    `$120` worth of products exiting the company.
 #. Debit **Accounts Receivable** to record revenue from the sale.
 
-.. image:: avg_price_valuation/sell-10-tables.png
+.. image:: avg_price_valuation/sell-10-tables.webp
    :align: center
    :alt: Show journal items linked to sale order.
 
@@ -427,7 +427,7 @@ Summary:
 #. Debit **Stock Input** an additional `$2` to account for the **Price Difference**.
 #. Credit **Stock Valuation** `$12` because the item is leaving the stock.
 
-.. image:: avg_price_valuation/expensing-price-difference-account.png
+.. image:: avg_price_valuation/expensing-price-difference-account.webp
    :align: center
    :alt: 2 dollar difference expensed in Price Difference account.
 
@@ -437,6 +437,6 @@ Once the vendor's refund is received,
 #. Debit **Accounts Payable** `$10` to have the accountants collect and register the payment in
    their journal.
 
-.. image:: avg_price_valuation/return-credit-note.png
+.. image:: avg_price_valuation/return-credit-note.webp
    :align: center
    :alt: Return to get 10 dollars back.

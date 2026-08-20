@@ -14,7 +14,7 @@ Italy. There is no specific configuration required.
 Let’s take an example of a Belgian company that created a credit note of 100 for one of their
 customers. The due tax is 21%.
 
-.. image:: tax_carryover/belgian-example.png
+.. image:: tax_carryover/belgian-example.webp
    :align: center
    :alt: Illustration with a credit note
 
@@ -25,7 +25,7 @@ next period.
 If we go to :menuselection:`Accounting app --> Reporting --> Tax Report`, a pop-up on line 81
 explains that the amount will be carried over in the next period.
 
-.. image:: tax_carryover/pop-up.png
+.. image:: tax_carryover/pop-up.webp
    :align: center
    :alt: pop-up message stating the amount will be carried over to the next period
 
@@ -33,6 +33,6 @@ At the time of the tax closing period, the tax report shows that the amount was 
 the previous period. It also indicates the amount that will be carried over to this line in the next
 period based on the existing transactions and the carryover from the previous period.
 
-.. image:: tax_carryover/tax-return.png
+.. image:: tax_carryover/tax-return.webp
    :align: center
    :alt: Illustration of the tax return

@@ -37,7 +37,7 @@ To do that, type in the name of the recurrence period in the :guilabel:`Values` 
 
 These value names appear as selectable options on the product page of the eCommerce shop.
 
-.. image:: ecommerce/recurrence-period-attributes-variants.png
+.. image:: ecommerce/recurrence-period-attributes-variants.webp
    :align: center
    :alt: Recurrence periods configured as product variants in the "Attributes & Variants" tab of
          the product form.
@@ -46,13 +46,13 @@ With those configurations in place and saved, a :guilabel:`Product Variants` col
 :guilabel:`Recurring Prices` tab. Proceed to assign the different :guilabel:`Product Variants` to
 their corresponding recurrence :guilabel:`Period` and :guilabel:`Price`.
 
-.. image:: ecommerce/product-variants-time-based-pricing.png
+.. image:: ecommerce/product-variants-time-based-pricing.webp
    :align: center
    :alt: Product variants on the "Time-based pricing" tab of the product form.
 
 After following those aforementioned steps, the product variants are available for selection on the
 eCommerce product page.
 
-.. image:: ecommerce/recurrence-period-ecommerce.png
+.. image:: ecommerce/recurrence-period-ecommerce.webp
    :align: center
    :alt: Recurrence periods configured as product variants on the eCommerce product page.

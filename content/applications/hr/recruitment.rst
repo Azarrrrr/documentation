@@ -117,7 +117,7 @@ applicant's card.
    full-screen), then the resumé does not appear on the right-side. Instead, the resumé appears in
    the :guilabel:`Files` section of the chatter, below the applicant's card.
 
-.. image:: recruitment/cv-display.png
+.. image:: recruitment/cv-display.webp
    :align: center
    :alt: The resumé on an applicant's card, appearing on the right side.
 
@@ -178,7 +178,7 @@ dashboard, which is the default view when opening the application. All job posit
 main dashboard. Click the :guilabel:`(#) New Applications` smart button on a job position card to
 navigate to the Kanban view for all the applicants for that particular job position.
 
-.. image:: recruitment/new-applicants-button.png
+.. image:: recruitment/new-applicants-button.webp
    :align: center
    :alt: Main dashboard view of job position card, showing new applications button.
 
@@ -198,7 +198,7 @@ the applicants in it are hidden from view. To expand the folded stage and view t
 for that column, click anywhere on the thin gray column that says the stage name and the column
 expands, revealing the applicants.
 
-.. image:: recruitment/stages.png
+.. image:: recruitment/stages.webp
    :align: center
    :alt: Expand a folded column by clicking on it in the Kanban view.
 
@@ -214,7 +214,7 @@ The status for each card is set manually. To set the status, click on the small 
 lower-left of the applicant card. A status pop-up window appears. Click on the desired status for
 the applicant. The status dot on the applicant card as well as the status bar updates.
 
-.. image:: recruitment/status-dots.png
+.. image:: recruitment/status-dots.webp
    :align: center
    :alt: The applicant card statuses, and status bar.
 
@@ -238,7 +238,7 @@ the title for the new stage in the :guilabel:`Stage title` field, then click :gu
 new column appears, and another new stage is available to create. If no new stages are needed, click
 anywhere on the screen to exit the new stage creation.
 
-.. image:: recruitment/add-column.png
+.. image:: recruitment/add-column.webp
    :align: center
    :alt: The plus sign to click to add a new column to the Kanban stages.
 
@@ -253,7 +253,7 @@ To modify the settings of a stage, hover over the name of the stage, and a :icon
 option. An :guilabel:`Edit: (Stage)` form appears. Make any desired modifications to the form, then
 click :guilabel:`Save & Close` when done.
 
-.. image:: recruitment/gear.png
+.. image:: recruitment/gear.webp
    :align: center
    :alt: The gear icon that appears when a column name is moused over, and the drop-down menu it
          displays when clicked.
@@ -336,7 +336,7 @@ The pre-configured email templates and when to use them are as follows:
 To manually send an email, click :guilabel:`Send message` in the chatter. A text box appears, as
 well as the applicant's email address.
 
-.. image:: recruitment/full-composer.png
+.. image:: recruitment/full-composer.webp
    :align: center
    :alt: Send an email from the chatter.
 
@@ -368,7 +368,7 @@ saved to be used in the future, the email can be saved as a new template. Click 
 Template` button in the bottom. To send the email, click :guilabel:`Send` and the email is sent to
 the applicant. The email then appears in the chatter.
 
-.. image:: recruitment/send-survey.png
+.. image:: recruitment/send-survey.webp
    :align: center
    :alt: Send a custom survey, also referred to as an interview form, to an applicant using a
          pre-configured template.

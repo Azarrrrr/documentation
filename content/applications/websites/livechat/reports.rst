@@ -33,7 +33,7 @@ provides access to the complete transcripts of live chat sessions.
 
 To access this report, navigate to :menuselection:`Live Chat app --> Report --> Sessions History`.
 
-.. image:: reports/sessions-history.png
+.. image:: reports/sessions-history.webp
    :align: center
    :alt: Example of the Sessions History report from the Live Chat application.
 
@@ -58,7 +58,7 @@ At the top of the conversation, there is a list of the web pages the visitor bro
 beginning their chat session, along with corresponding time stamps. If the visitor left a rating, it
 is included at the end of the transcript.
 
-.. image:: reports/chat-transcript.png
+.. image:: reports/chat-transcript.webp
    :align: center
    :alt: View of the chat transcript in the Discuss application.
 
@@ -73,7 +73,7 @@ view for this report displays sessions grouped by the date of creation.
 To access this report, navigate to :menuselection:`Live Chat app --> Reports --> Session
 Statistics`.
 
-.. figure:: reports/sessions-statistics.png
+.. figure:: reports/sessions-statistics.webp
    :align: center
    :alt: Example of the Sessions Statistics report from the Live Chat application.
 
@@ -123,7 +123,7 @@ report. The measures available for this report include:
   request, in seconds.
 - :guilabel:`Count`: the total number of sessions.
 
-.. image:: reports/operator-analysis.png
+.. image:: reports/operator-analysis.webp
    :align: center
    :alt: Example of the Operator Analysis report from the Live Chat application.
 

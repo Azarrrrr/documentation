@@ -9,7 +9,7 @@ To enable traceability, go to :menuselection:`Point of Sale --> Products --> Pro
 select a product and check the :guilabel:`Tracking By Unique Serial Number` or the
 :guilabel:`Tracking By Lots` box in the :guilabel:`Inventory` tab.
 
-.. image:: serial_numbers/product-form-traceability.png
+.. image:: serial_numbers/product-form-traceability.webp
    :align: center
    :alt: Enable traceability settings
 
@@ -20,7 +20,7 @@ You can import serial numbers in Point of Sale. To do so, select a **sales order
 **quotation** containing tracked products. Then, agree to load the **Lots or Serial Numbers** linked
 to the :abbr:`SO (sales order)`.
 
-.. image:: serial_numbers/importing-sn.png
+.. image:: serial_numbers/importing-sn.webp
    :align: center
    :width: 480
    :alt: Pop-up window for serial number import
@@ -28,7 +28,7 @@ to the :abbr:`SO (sales order)`.
 The imported tracking numbers appear below the tracked products. You can modify them by clicking on
 the list-view button next to the products.
 
-.. image:: serial_numbers/pos-sn-imported.png
+.. image:: serial_numbers/pos-sn-imported.webp
    :align: center
    :width: 480
    :alt: Pop-up window for serial number import
@@ -43,7 +43,7 @@ If a tracked product is available in your POS, adding the product to the cart op
 where you can type or scan the product's serial or lot numbers. To add more than one of the same
 tracked products, click on **enter** to validate and start a new line.
 
-.. image:: serial_numbers/create-change-sn.png
+.. image:: serial_numbers/create-change-sn.webp
    :align: center
    :width: 480
    :alt: adding new serial and lots numbers

@@ -103,7 +103,7 @@ from the main Odoo dashboard, to open the :guilabel:`Campaigns` dashboard, which
 - | :guilabel:`⭐️ Prioritize Hot leads`
   | :guilabel:`Send an email to new leads and assign them a high priority if they open it.`
 
-.. image:: marketing_automation/campaigns-dashboard.png
+.. image:: marketing_automation/campaigns-dashboard.webp
    :align: center
    :alt: Six campaign template cards on the Campaigns dashboard of the Marketing Automation app.
 

@@ -16,14 +16,14 @@ In the :menuselection:`Inventory` module, go to :menuselection:`Configuration --
 Shipping Methods.` Click on a delivery method to choose it. For the following example, *FedEx
 International* will be used.
 
-.. image:: label_type/shipping-options.png
+.. image:: label_type/shipping-options.webp
    :align: center
    :alt: Different shipping methods.
 
 In the :guilabel:`Configuration` tab, under :guilabel:`Label Type`, choose one of the label types
 available. The availability varies depending on the carrier.
 
-.. image:: label_type/label-type-dropdown.png
+.. image:: label_type/label-type-dropdown.webp
    :align: center
    :alt: Select a label type.
 
@@ -38,21 +38,21 @@ In the :menuselection:`Sales` application, click :guilabel:`Create` and select a
 customer. Click :guilabel:`Add A Product` and select an item. Click :guilabel:`Add Shipping`, select
 a shipping method, then click :guilabel:`Get Rate`, and finally, click :guilabel:`Add`.
 
-.. image:: label_type/shipping-rate.png
+.. image:: label_type/shipping-rate.webp
    :align: center
    :alt: Add a shipping method and rate to a sales order.
 
 Once the quotation is confirmed by clicking :guilabel:`Confirm`, a :guilabel:`Delivery` smart button
 will appear.
 
-.. image:: label_type/shipping-italy-so.png
+.. image:: label_type/shipping-italy-so.webp
    :align: center
    :alt: Delivery order smart button.
 
 Once the delivery order is validated by clicking :guilabel:`Validate` in the delivery order, the
 shipping documents appear in the :guilabel:`Chatter`.
 
-.. image:: label_type/shipping-pdfs.png
+.. image:: label_type/shipping-pdfs.webp
    :align: center
    :alt: Shipping PDF documents.
 
@@ -62,12 +62,12 @@ Example labels
 The default :guilabel:`Label Type` is :guilabel:`Paper Letter`. An example of a FedEx letter sized
 label is:
 
-.. image:: label_type/full-page-fedex.png
+.. image:: label_type/full-page-fedex.webp
    :align: center
    :alt: Full page letter size FedEx shipping label.
 
 For comparison, an example of a FedEx bottom-half label is:
 
-.. image:: label_type/half-page-fedex.png
+.. image:: label_type/half-page-fedex.webp
    :align: center
    :alt: Half page letter size FedEx shipping label.

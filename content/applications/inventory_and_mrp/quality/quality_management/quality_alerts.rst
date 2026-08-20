@@ -85,7 +85,7 @@ or actions to be taken for the quality alert. They can be filled out as follows:
   :guilabel:`Company` field. Finally, specify when the alert was assigned to a quality team in the
   :guilabel:`Date Assigned` field.
 
-.. image:: quality_alerts/alert-form.png
+.. image:: quality_alerts/alert-form.webp
    :align: center
    :alt: A quality alert form that has been filled out.
 
@@ -105,6 +105,6 @@ the stage name. In the new alert card that appears below the stage title, enter 
 :guilabel:`Title` of the alert, and then click :guilabel:`Add`. To configure the rest of the alert,
 select the alert card to open its form.
 
-.. image:: quality_alerts/alert-kanban.png
+.. image:: quality_alerts/alert-kanban.webp
    :align: center
    :alt: The Quality Alerts page, displaying alerts in a Kanban view.

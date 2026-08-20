@@ -36,7 +36,7 @@ The :icon:`fa-info-circle` information icon next to the payment line displays mo
 information about the payment. To access additional information, such as the related journal, click
 :guilabel:`View`.
 
-.. image:: payments/information-icon.png
+.. image:: payments/information-icon.webp
    :alt: See detailed information of a payment.
 
 .. note::
@@ -73,7 +73,7 @@ A blue banner appears when validating a new invoice/bill and an **outstanding pa
 this specific customer or vendor. To match it with the invoice or bill, click :guilabel:`ADD`
 under :guilabel:`Outstanding Credits` or :guilabel:`Outstanding Debits`.
 
-.. image:: payments/add-option.png
+.. image:: payments/add-option.webp
    :alt: Shows the ADD option to reconcile an invoice or a bill with a payment.
 
 The invoice or bill is now marked as :guilabel:`In payment` until it is reconciled with its
@@ -126,7 +126,7 @@ button from the :guilabel:`Customer Invoices` or :guilabel:`Vendor Bills` journa
 :guilabel:`Payments Matching`, or go to :menuselection:`Accounting --> Accounting -->
 Reconciliation`.
 
-.. image:: payments/payments-journal.png
+.. image:: payments/payments-journal.webp
    :alt: Payments matching menu in the drop-down menu.
 
 .. note::
@@ -145,7 +145,7 @@ Aged Receivable / Aged Payable`. All transactions that have not yet been reconci
 contact are visible, and when a customer or vendor is selected, the :guilabel:`Reconcile` option is
 displayed.
 
-.. image:: payments/reconcile-option.png
+.. image:: payments/reconcile-option.webp
    :alt: The batch payment reconcile option.
 
 .. _accounting/payments/partial-payment:
@@ -164,7 +164,7 @@ outstanding balance. There are two options:
   change the :guilabel:`Label` if needed. A journal entry will be created to balance the accounts
   payable or receivable with the selected account.
 
-.. image:: payments/partial-payment.png
+.. image:: payments/partial-payment.webp
    :alt: register a partial payment
 
 .. _accounting/payments/reconciling-payments:

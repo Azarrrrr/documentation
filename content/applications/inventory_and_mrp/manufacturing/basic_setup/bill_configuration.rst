@@ -28,7 +28,7 @@ necessary, define any :ref:`manufacturing operations <manufacturing/basic_setup/
    *Manufacturing* apps, as well as through any internal links where a product is referenced (such
    as in a field or a line item).
 
-.. figure:: bill_configuration/bom-example.png
+.. figure:: bill_configuration/bom-example.webp
    :align: center
    :alt: Show BoM for a product, with components listed.
 
@@ -49,7 +49,7 @@ existing products or create a new product by typing the name and selecting eithe
 :guilabel:`Create " "` option to quickly add the line item, or the :guilabel:`Create and edit...`
 option to add the component and continue to its configuration form.
 
-.. image:: bill_configuration/component.png
+.. image:: bill_configuration/component.webp
    :align: center
    :alt: Add a component by selecting it from the drop-down menu.
 
@@ -68,14 +68,14 @@ following features to enable these columns:
 - :guilabel:`Manual Consumption`: tick the checkbox to force operators to check the
   :guilabel:`Consumed` checkbox on a manufacturing order (MO).
 
-  .. image:: bill_configuration/consumed-field.png
+  .. image:: bill_configuration/consumed-field.webp
      :align: center
      :alt: Show a manufacturing order, highlighting the *Consumed* field.
 
   Not doing so triggers the :guilabel:`Consumption Warning` error message, where the consumed
   component quantity must be manually inputted. Otherwise, the operation cannot be completed.
 
-  .. image:: bill_configuration/consumption-warning.png
+  .. image:: bill_configuration/consumption-warning.webp
      :align: center
      :alt: Show the consumption warning error message.
 
@@ -92,7 +92,7 @@ section, tick the :guilabel:`Work Orders` checkbox to enable the feature.
 .. seealso::
    :doc:`../advanced_configuration/work_order_dependencies`
 
-.. image:: bill_configuration/enable-work-orders.png
+.. image:: bill_configuration/enable-work-orders.webp
    :align: center
    :alt: "Work Orders" feature in the Settings page.
 
@@ -132,11 +132,11 @@ instructions in the :guilabel:`Description` text field.
 .. tip::
    Type `/` for a list of formatting options and features, including ChatGPT.
 
-   .. image:: bill_configuration/description.png
+   .. image:: bill_configuration/description.webp
       :align: center
       :alt: Show ChatGPT feature to generate instructions for a work order.
 
-.. image:: bill_configuration/create-operations.png
+.. image:: bill_configuration/create-operations.webp
    :align: center
    :alt: Fill out the Create Operations pop-up window.
 
@@ -150,7 +150,7 @@ Finally, click :guilabel:`Save \& Close` to close the pop-up window. To add more
    After creating an operation, click the :guilabel:`Copy Existing Operations` button to choose an
    operation to duplicate.
 
-   .. image:: bill_configuration/copy-existing-operations.png
+   .. image:: bill_configuration/copy-existing-operations.webp
       :align: center
       :alt: Show Operation tab, highlighting the "Copy Existing Operations" field.
 
@@ -165,7 +165,7 @@ Add specific instructions to an existing operation by clicking the operation's :
 :guilabel:`Instructions` column shows the number of existing detailed instructions there are for the
 operation.
 
-.. image:: bill_configuration/add-instructions.png
+.. image:: bill_configuration/add-instructions.webp
    :align: center
    :alt: Show the Instructions column, and list icon.
 
@@ -180,7 +180,7 @@ where the new manufacturing step can be created. Here, give the specific instruc
    more details about quality control points refer the :doc:`Instruction check
    <../../quality/quality_check_types/instructions_check>` documentation.
 
-.. image:: bill_configuration/steps.png
+.. image:: bill_configuration/steps.webp
    :align: center
    :alt: Show the page to add a quality check.
 
@@ -203,7 +203,7 @@ calculate costs, and define how components are consumed.
      Specify which operation consumes each component on the |BoM| in the :ref:`Manual Consumption
      field <manufacturing/basic_setup/consumed-in-operation>`.
 
-  .. image:: bill_configuration/component-status.png
+  .. image:: bill_configuration/component-status.webp
      :align: center
      :alt: Show the *Component Status* field on the manufacturing order dashboard.
 
@@ -228,7 +228,7 @@ calculate costs, and define how components are consumed.
    - :doc:`Lead times
      <../../inventory/warehouses_storage/replenishment/lead_times>`
 
-.. image:: bill_configuration/misc-tab.png
+.. image:: bill_configuration/misc-tab.webp
    :align: center
    :alt: Show the *Miscellaneous* tab of the BoM.
 
@@ -242,7 +242,7 @@ To add by-products to a |BOM|, first enable the *By-Products* feature in
 :menuselection:`Manufacturing app --> Configuration --> Settings`. In the :guilabel:`Operations`
 section, tick the checkbox for :guilabel:`By-Products` to enable the feature.
 
-.. image:: bill_configuration/by-products.png
+.. image:: bill_configuration/by-products.webp
    :align: center
    :alt: "By Products" feature in the settings page.
 
@@ -254,6 +254,6 @@ by-product.
 .. example::
    The by-product, `Mush`, is created in the `Grind grapes` operation when producing `Red Wine`.
 
-   .. image:: bill_configuration/add-by-product.png
+   .. image:: bill_configuration/add-by-product.webp
       :align: center
       :alt: Show sample by-product in the BoM.

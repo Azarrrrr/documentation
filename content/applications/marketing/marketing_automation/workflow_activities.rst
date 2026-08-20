@@ -6,7 +6,7 @@ A *workflow* is the overall *activity* structure of a marketing automation campa
 be a single workflow in each campaign. However, a workflow can be made up of any number of
 :ref:`activities <marketing_automation/activities>` to meet the needs of the campaign.
 
-.. figure:: workflow_activities/workflow-activities.png
+.. figure:: workflow_activities/workflow-activities.webp
    :align: center
    :alt: A workflow in an Odoo Marketing Automation campaign.
 
@@ -39,7 +39,7 @@ workflow, or click :guilabel:`Save & New` to add the activity to the workflow an
 :guilabel:`Create Activities` pop-up window to add another activity. Clicking :guilabel:`Discard`
 closes the pop-up window without saving the activity.
 
-.. image:: workflow_activities/create-activities.png
+.. image:: workflow_activities/create-activities.webp
    :align: center
    :alt: The create activities pop-up window.
 
@@ -69,7 +69,7 @@ To create a new template directly from the :guilabel:`Mail Template` field, star
 of the new template, then select :guilabel:`Create and edit...` to reveal a :guilabel:`Create
 Marketing Template` pop-up window. Proceed to create and configure the new email template.
 
-.. image:: workflow_activities/email-activity-type.png
+.. image:: workflow_activities/email-activity-type.webp
    :align: center
    :alt: The create and edit email drop-down option on create activities pop-up window.
 
@@ -95,7 +95,7 @@ a drop-down menu containing all the pre-configured server actions for the campai
 :guilabel:`Target` model. Optionally, :ref:`create a new server action
 <marketing_automation/create-sa>`.
 
-.. image:: workflow_activities/sa-activity-type.png
+.. image:: workflow_activities/sa-activity-type.webp
    :align: center
    :alt: The Server Action drop-down menu on create activities pop-up window.
 
@@ -117,7 +117,7 @@ Action` field a title for the new action, then click :guilabel:`Create and edit.
 reveals a blank :guilabel:`Create Server Action` pop-up window, wherein a custom server action can
 be created and configured.
 
-.. image:: workflow_activities/create-sa.png
+.. image:: workflow_activities/create-sa.webp
    :align: center
    :alt: The Create Server Action pop-up window.
 
@@ -157,7 +157,7 @@ To create a new template directly from the :guilabel:`SMS Template` field, start
 the new template, and select :guilabel:`Create and edit...` to reveal a :guilabel:`Create Marketing
 Template` pop-up window. Proceed to create and configure the new SMS template.
 
-.. image:: workflow_activities/sms-activity-type.png
+.. image:: workflow_activities/sms-activity-type.webp
    :align: center
    :alt: The create and edit email drop-down option on create activities pop-up window.
 
@@ -177,7 +177,7 @@ Once an :ref:`activity type <marketing_automation/activity-types>` is configured
 the :guilabel:`Create Activities` pop-up window is to define when the activity should be executed.
 This is done in the :guilabel:`Trigger` field group.
 
-.. image:: workflow_activities/trigger.png
+.. image:: workflow_activities/trigger.webp
    :align: center
    :alt: The trigger field group on Create Activities pop-up window.
 
@@ -287,7 +287,7 @@ Action*), and are as follows:
 
    .. tab:: Email
 
-      .. image:: workflow_activities/email-trigger-types.png
+      .. image:: workflow_activities/email-trigger-types.webp
          :align: center
          :alt: The trigger types for child activities of an email activity.
 
@@ -304,7 +304,7 @@ Action*), and are as follows:
 
    .. tab:: Server Action
 
-      .. image:: workflow_activities/sa-trigger-types.png
+      .. image:: workflow_activities/sa-trigger-types.webp
          :align: center
          :alt: The trigger types for child activities of a server action activity.
 
@@ -314,7 +314,7 @@ Action*), and are as follows:
 
    .. tab:: SMS
 
-      .. image:: workflow_activities/sms-trigger-types.png
+      .. image:: workflow_activities/sms-trigger-types.webp
          :align: center
          :alt: The trigger types for child activities of an SMS activity.
 

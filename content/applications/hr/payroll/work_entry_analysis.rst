@@ -30,7 +30,7 @@ drop-down menu. Under the :icon:`fa-adjust` :guilabel:`Comparison` section, clic
 The report updates and displays the data for the current time period, data for the selected previous
 time period, as well as the :guilabel:`Variation` between the two, in a percentage.
 
-.. image:: work_entry_analysis/work-entry-comparison.png
+.. image:: work_entry_analysis/work-entry-comparison.webp
    :alt: A pivot table comparing the work entries of the current month and the previous month.
 
 .. note::
@@ -76,5 +76,5 @@ In this example, it can be determined that :guilabel:`Marc Demo` worked the most
 :guilabel:`September 2024`. Additionally, :guilabel:`Mitchell Admin` had the largest variation
 change, with a :guilabel:`-100%` change from :guilabel:`August 2024` to :guilabel:`September 2024`.
 
-.. image:: work_entry_analysis/variation.png
+.. image:: work_entry_analysis/variation.webp
    :alt: A pivot table comparing the overtime from September 2024 with August 2024.

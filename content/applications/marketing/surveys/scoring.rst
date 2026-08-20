@@ -39,7 +39,7 @@ If the :guilabel:`Login Required` setting is enabled, two new options appear: th
 the survey, and the option to :guilabel:`Give Badge`, located beneath the :guilabel:`Certification`
 options in the :guilabel:`Scoring` section.
 
-.. image:: scoring/required-score-login.png
+.. image:: scoring/required-score-login.webp
    :align: center
    :alt: Setting the Required Score (percentage), login required, and certification template.
 
@@ -48,7 +48,7 @@ milestones and reward participants for passing surveys or gaining points. Beside
 website visitors who access the :guilabel:`Courses` page will also be able to see the granted
 badges.
 
-.. image:: scoring/frontend-badges.png
+.. image:: scoring/frontend-badges.webp
    :align: center
    :alt: Example of how a badge looks on the eLearning portion of the website.
 

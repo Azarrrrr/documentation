@@ -20,7 +20,7 @@ In that section, check the box beside the :guilabel:`Quotation Templates` option
 new :guilabel:`Default Template` field, in which a default quotation template can be chosen from a
 drop-down menu.
 
-.. image:: quote_template/quotations-templates-setting.png
+.. image:: quote_template/quotations-templates-setting.webp
    :align: center
    :alt: How to enable quotation templates on Odoo Sales.
 
@@ -40,14 +40,14 @@ Click the :guilabel:`Quotation Templates` link on the :guilabel:`Settings` page,
 :menuselection:`Sales app --> Configuration --> Quotation Templates`. Both options reveal the
 :guilabel:`Quotation Templates` page, where quotation templates can be created, viewed, and edited.
 
-.. image:: quote_template/quotation-templates-page.png
+.. image:: quote_template/quotation-templates-page.webp
    :align: center
    :alt: Quotation templates page in the Odoo Sales application.
 
 To create a new quotation template, click the :guilabel:`New` button, located in the upper-left
 corner. Doing so reveals a blank quotation template form that can be customized in a number of ways.
 
-.. image:: quote_template/blank-quotation-form.png
+.. image:: quote_template/blank-quotation-form.webp
    :align: center
    :alt: Create a new quotation template on Odoo Sales.
 
@@ -72,7 +72,7 @@ confirmation of an order.
    Confirmation Mail` pop-up window appears, in which the email template can be customized and
    configured right away.
 
-   .. image:: quote_template/create-confirmation-mail-popup.png
+   .. image:: quote_template/create-confirmation-mail-popup.webp
       :align: center
       :alt: Create confirmation mail pop-up window from the quotation template form in Odoo Sales.
 
@@ -170,7 +170,7 @@ products enhances the customer experience.
 Optional products appear as a section on the bottom of sales orders and eCommerce pages. Customers
 can immediately add them to their online sales orders themselves, if desired.
 
-.. image:: quote_template/optional-products-on-sales-order.png
+.. image:: quote_template/optional-products-on-sales-order.webp
    :align: center
    :alt: Optional products appearing on a typical sales order with Odoo Sales.
 
@@ -221,7 +221,7 @@ Use quotation templates
 When creating a quotation (:menuselection:`Sales app --> New`), choose a pre-configured template in
 the :guilabel:`Quotation Template` field.
 
-.. image:: quote_template/quotation-templates-field.png
+.. image:: quote_template/quotation-templates-field.webp
    :align: center
    :alt: Quotation templates field on a standard quotation form in Odoo Sales.
 
@@ -229,7 +229,7 @@ To view what the customer will see, click the :guilabel:`Preview` button at the 
 see how the quotation template appears on the front-end of the website through Odoo's customer
 portal.
 
-.. image:: quote_template/quotations-templates-preview.png
+.. image:: quote_template/quotations-templates-preview.webp
    :align: center
    :alt: Customer preview of a quotation template in Odoo Sales.
 
@@ -262,7 +262,7 @@ drop-down menu.
 
 From this drop-down menu, select :guilabel:`Cancel quotations`.
 
-.. image:: quote_template/cancel-quotations.png
+.. image:: quote_template/cancel-quotations.webp
    :align: center
    :alt: The Cancel quotations option on the Actions drop-down menu in the Odoo Sales application.
 

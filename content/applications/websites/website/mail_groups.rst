@@ -52,7 +52,7 @@ Subscribing/unsubscribing
 Based on the :ref:`configuration of the mail group <website/mailing_lists/configure_groups>`,
 users can subscribe to and unsubscribe from mail groups from the website page (`/groups` by default).
 
-.. image:: mail_groups/mail-group-page.png
+.. image:: mail_groups/mail-group-page.webp
    :alt: Mail group web page.
 
 Internal users can also do this from :menuselection:`Website --> Configuration --> Mailing Lists`,
@@ -73,7 +73,7 @@ fields and click :guilabel:`Send`.
    - Group members can also unsubscribe from the group, access the mail group page, and send emails
      to the group using the URLs in the footer of any group email they have received.
 
-     .. image:: mail_groups/mail-group-URLs.png
+     .. image:: mail_groups/mail-group-URLs.webp
         :alt: URLs in the footer of a group email.
 
 .. _website/mailing_lists/moderate:
@@ -90,7 +90,7 @@ mail group, and click the :guilabel:`To review` smart button. You can moderate m
 buttons at the end of the message line or select a message to view its content and moderate it
 accordingly.
 
-   .. image:: mail_groups/mail-group-moderation.png
+   .. image:: mail_groups/mail-group-moderation.webp
       :alt: Moderation buttons in the message line.
 
 The following actions are available:

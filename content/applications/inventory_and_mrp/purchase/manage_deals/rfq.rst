@@ -29,7 +29,7 @@ purchasing data can be configured.
 To configure purchasable products, tick the :guilabel:`Can be purchased` checkbox, under the product
 name. Then, go to the :guilabel:`Inventory` tab, and enable the :guilabel:`Buy` route.
 
-.. image:: rfq/product-vendor-pricelist-config.png
+.. image:: rfq/product-vendor-pricelist-config.webp
    :align: center
    :alt: Required configuration for purchasable products.
 
@@ -81,7 +81,7 @@ Additionally, the dashboard includes buttons for:
 - :guilabel:`Waiting`: |RFQs| that have been sent by email, and are waiting on vendor confirmation.
 - :guilabel:`Late`: |RFQs| or |POs| where the :guilabel:`Order Deadline` has passed.
 
-.. image:: rfq/rfq-dashboard.png
+.. image:: rfq/rfq-dashboard.webp
    :align: center
    :alt: RFQ dashboard with orders and order statuses.
 

@@ -22,7 +22,7 @@ Each salary attachment type displays the :guilabel:`Name` of the attachment type
 :guilabel:`Code` used when calculating payslips, a checkbox to indicate if there is :guilabel:`No
 End Date`, and whether it is :guilabel:`Country` specific (or universal).
 
-.. image:: salary_attachments/attachment-types.png
+.. image:: salary_attachments/attachment-types.webp
    :alt: The default salary attachment types.
 
 Create new salary attachment types
@@ -86,7 +86,7 @@ blank :guilabel:`Salary Attachment` form loads. Enter the following information 
   <payroll/salary-attachment/types>` has no end date (the :guilabel:`No End Date` option is
   **not** ticked.)
 
-.. image:: salary_attachments/salary-attachment-form.png
+.. image:: salary_attachments/salary-attachment-form.webp
    :alt: The salary attachment form with all fields filled out.
 
 Since the salary attachment form auto saves as the fields are populated, after making a salary

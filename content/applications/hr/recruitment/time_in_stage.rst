@@ -33,7 +33,7 @@ In this view, it is easier to visualize the differences between the job position
 long applicants stay in each stage. From this view, recruiters can more easily determine which job
 positions have delays or bottlenecks at certain stages.
 
-.. image:: time_in_stage/bar-chart.png
+.. image:: time_in_stage/bar-chart.webp
    :align: center
    :alt: The bar chart view of the Time In Stage Analysis report.
 
@@ -52,7 +52,7 @@ the various boxes.
    If a field is empty, it indicates no applicant has been in that stage. Instead, all applicants
    moved from a previous stage without being placed in the stage with an empty field.
 
-.. image:: time_in_stage/time-pivot.png
+.. image:: time_in_stage/time-pivot.webp
    :align: center
    :alt: The pivot table view of the Time In Stage Analysis report.
 
@@ -64,7 +64,7 @@ further grouping options. Click :guilabel:`Start Date` from the expanded list.
 After doing so, the data presented is grouped with the various months from the previous 365 days for
 the rows, leaving the :guilabel:`Days In Stage` as the columns.
 
-.. image:: time_in_stage/time-dates.png
+.. image:: time_in_stage/time-dates.webp
    :align: center
    :alt: The pivot table showing the months averages for times in stage.
 

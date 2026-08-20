@@ -20,7 +20,7 @@ do this, go to :menuselection:`Inventory --> Configuration --> Settings`, and un
 :guilabel:`Traceability` section, check the box next to :guilabel:`Consignment`, and then click
 :guilabel:`Save` to finish.
 
-.. image:: owned_stock/owned-stock-enable-consignment.png
+.. image:: owned_stock/owned-stock-enable-consignment.webp
    :align: center
    :alt: Enabled Consignment setting in Inventory configuration.
 
@@ -48,7 +48,7 @@ the quantities to be received into the warehouse under the :guilabel:`Done` colu
 :guilabel:`Units of Measure` feature is enabled, the :abbr:`UoM (Units of Measure)` can be changed,
 as well. Once all the consignment stock has been received, :guilabel:`Validate` the receipt.
 
-.. image:: owned_stock/owned-stock-receipt-fields.png
+.. image:: owned_stock/owned-stock-receipt-fields.webp
    :align: center
    :alt: Matching vendor fields in consignment Receipt creation.
 
@@ -70,7 +70,7 @@ Add the consignment product under the :guilabel:`Product` column in the order li
 :guilabel:`Quantity`, and fill out any other pertinent product details on the form. Once the
 quotation is complete, click :guilabel:`Confirm`.
 
-.. image:: owned_stock/owned-stock-sales-order.png
+.. image:: owned_stock/owned-stock-sales-order.webp
    :align: center
    :alt: Sales order of consignment stock.
 
@@ -107,7 +107,7 @@ will originate from :guilabel:`Partner Location/Vendors`.
    choose the :guilabel:`Add Custom Group` parameter, and then select :guilabel:`From Owner`, and
    :guilabel:`Apply` to finish.
 
-.. image:: owned_stock/owned-stock-moves-history.png
+.. image:: owned_stock/owned-stock-moves-history.webp
    :align: center
    :alt: Consignment stock moves history.
 

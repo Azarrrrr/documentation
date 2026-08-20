@@ -19,7 +19,7 @@ To see all job positions that are actively recruiting candidates, click the :gui
 button on the main *Referrals* dashboard. This presents all job positions, with each individual job
 presented with its own card.
 
-.. image:: share_jobs/jobs.png
+.. image:: share_jobs/jobs.webp
    :align: center
    :alt: The 'View Jobs' screen, displaying all current open job positions. All information is
          displayed on the card.
@@ -64,7 +64,7 @@ If desired, add any text or closing salutation to the email body. When all edits
 click :guilabel:`Send Mail` to send the email, or click :guilabel:`Cancel` to close the pop-up
 window.
 
-.. image:: share_jobs/email.png
+.. image:: share_jobs/email.webp
    :align: center
    :alt: Referral email pop-up window with the email message inside it.
 
@@ -76,7 +76,7 @@ tracking links to the job position. At the bottom of each job position card are 
 corresponding tracking links, that can be used to share the job position, keeping track of
 applicants in the *Referrals* application.
 
-.. image:: share_jobs/share.png
+.. image:: share_jobs/share.webp
    :align: center
    :alt: The various sharing icons that appear for each job.
 

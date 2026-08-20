@@ -16,7 +16,7 @@ To allow tipping in your POS, activate the :guilabel:`Tips` feature in :menusele
 enabled, add a :guilabel:`Tip Product` in the corresponding field, and save. The designated product
 will be used as a reference on customers' receipts.
 
-.. image:: tips/tips-setup.png
+.. image:: tips/tips-setup.webp
    :alt: enable tips in a POS
 
 .. _tip-product:
@@ -61,7 +61,7 @@ Add tips
 To add tips to an order, :ref:`access the payment screen <pos/sell>` and click :guilabel:`♥ Tip`.
 Then, enter the tipping amount, click :guilabel:`Confirm` to validate, and process the payment.
 
-.. image:: tips/add-tip.png
+.. image:: tips/add-tip.webp
    :alt: tip popup window
 
 Alternatively, you can select the :ref:`tip product <tip-product>` on the POS interface to add it to
@@ -81,12 +81,12 @@ Tip after payment
 At checkout, select a card payment method and click :guilabel:`Close Tab`. Doing so generates a bill
 to complete by the customer.
 
-.. image:: tips/tipping-bill.png
+.. image:: tips/tipping-bill.webp
    :alt: tipping bill after payment to complete by customers
 
 On the following screen, click the percentage (:guilabel:`15%`, :guilabel:`20%`, :guilabel:`25%`),
 :guilabel:`No Tip`, or enter the tipping amount the customer chose to give. Then, click
 :guilabel:`Settle` to move to the following order.
 
-.. image:: tips/tip-after-payment.png
+.. image:: tips/tip-after-payment.webp
    :alt: screen to select a tip amount to collect after payment

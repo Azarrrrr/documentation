@@ -40,7 +40,7 @@ Email marketing dashboard
 After installing the application, click the :menuselection:`Email Marketing` app icon from the main
 Odoo dashboard. Doing so reveals the main :guilabel:`Mailings` dashboard in the default list view.
 
-.. image:: email_marketing/mailings-dashboard.png
+.. image:: email_marketing/mailings-dashboard.webp
    :align: center
    :alt: View of the main dashboard of the Odoo Email Marketing application.
 
@@ -93,7 +93,7 @@ Kanban view
 The Kanban view, represented by the :guilabel:`(inverted bar graph)` icon, can be accessed in the
 upper-right corner of the :guilabel:`Mailings` dashboard in the :guilabel:`Email Marketing` app.
 
-.. image:: email_marketing/kanban-view.png
+.. image:: email_marketing/kanban-view.webp
    :align: center
    :alt: Kanban view of the main dashboard of the Odoo Email Marketing application.
 
@@ -117,7 +117,7 @@ vertical dots)` icon appears. When clicked, a mini drop-down menu reveals the op
 the email, :guilabel:`Delete` the email, or :guilabel:`Archive` the message for potential future
 use.
 
-.. image:: email_marketing/three-dot-dropdown.png
+.. image:: email_marketing/three-dot-dropdown.webp
    :align: center
    :alt: View of the three-dot drop-down menu on the Odoo Email Marketing dashboard.
 
@@ -132,7 +132,7 @@ upper-right corner of the :guilabel:`Mailings` dashboard in the :guilabel:`Email
 While in calendar view, a monthly calendar (by default), shows when the mailings have been sent or
 are scheduled to be sent.
 
-.. image:: email_marketing/calendar-view.png
+.. image:: email_marketing/calendar-view.webp
    :align: center
    :alt: Calendar view of the mailings dashboard in the Email Marketing application.
 
@@ -168,7 +168,7 @@ corner of the :guilabel:`Mailings` dashboard in the :guilabel:`Email Marketing` 
 While in graph view, the status of the emails on the :guilabel:`Mailings` page is represented in a
 bar graph, but other graph view options can be implemented, if needed.
 
-.. image:: email_marketing/graph-view.png
+.. image:: email_marketing/graph-view.webp
    :align: center
    :alt: How the Graph view appears in the Odoo Email Marketing application.
 
@@ -200,7 +200,7 @@ always available to further customize the information being displayed.
 To access those options, click the :guilabel:`(downward arrow)` icon, located to the right of the
 search bar. Doing so reveals a drop-down mega menu featuring those filtering and grouping options.
 
-.. image:: email_marketing/search-mega-menu.png
+.. image:: email_marketing/search-mega-menu.webp
    :align: center
    :alt: The drop-down mega menu of search options the Odoo Email Marketing application.
 
@@ -214,7 +214,7 @@ These options provide various ways to specify and organize the information seen 
       This section of the drop-down mega menu provides different ways to filter email results being
       shown on the :guilabel:`Mailings` dashboard in the :guilabel:`Email Marketing` app.
 
-      .. image:: email_marketing/filters-dropdown.png
+      .. image:: email_marketing/filters-dropdown.webp
          :align: center
          :alt: View of filters drop-down menu options on the Odoo Email Marketing dashboard.
 
@@ -225,7 +225,7 @@ These options provide various ways to specify and organize the information seen 
       customizable fields to fill in, in order to create custom filter rules for Odoo to use to
       retrieve results that fit more specific criteria.
 
-      .. image:: email_marketing/add-custom-filter-popup.png
+      .. image:: email_marketing/add-custom-filter-popup.webp
          :align: center
          :alt: Add custom filter pop-up window that appears in Odoo Email Marketing app.
 
@@ -234,7 +234,7 @@ These options provide various ways to specify and organize the information seen 
       This section of the drop-down mega menu provides different ways to group email results being
       shown on the :guilabel:`Mailings` dashboard in the :guilabel:`Email Marketing` app.
 
-      .. image:: email_marketing/group-by-dropdown.png
+      .. image:: email_marketing/group-by-dropdown.webp
          :align: center
          :alt: View of the Group By drop-down menu on the Odoo Email Marketing application.
 
@@ -256,7 +256,7 @@ These options provide various ways to specify and organize the information seen 
       To utilize this section, click the :guilabel:`Save current search` field, which reveals
       additional fields.
 
-      .. image:: email_marketing/favorites-dropdown.png
+      .. image:: email_marketing/favorites-dropdown.webp
          :align: center
          :alt: View of the Favorites drop-down menu on the Odoo Email Marketing application.
 
@@ -276,13 +276,13 @@ Settings
 To view and modify the *Email Marketing* settings, navigate to :menuselection:`Email Marketing app
 --> Configuration --> Settings`.
 
-.. image:: email_marketing/configuration-settings.png
+.. image:: email_marketing/configuration-settings.webp
    :align: center
    :alt: View of the Configuration menu with Settings page in the Odoo Email Marketing application.
 
 On the :guilabel:`Settings` page, there are four features available.
 
-.. image:: email_marketing/settings.png
+.. image:: email_marketing/settings.webp
    :align: center
    :alt: View of the Settings page in the Odoo Email Marketing application.
 
@@ -307,7 +307,7 @@ To create an email, open the :menuselection:`Email Marketing` application, and c
 
 Clicking :guilabel:`New` reveals a blank email form.
 
-.. image:: email_marketing/blank-email-detail-form.png
+.. image:: email_marketing/blank-email-detail-form.webp
    :align: center
    :alt: View of a blank email detail form in Odoo Email Marketing application.
 
@@ -361,7 +361,7 @@ Odoo then sends the email to contacts on that specific mailing list(s).
 When the :guilabel:`Recipients` field is clicked, a drop-down menu of other options is revealed.
 Each option provides different ways Odoo can create a target audience for the email.
 
-.. image:: email_marketing/recipients-dropdown.png
+.. image:: email_marketing/recipients-dropdown.webp
    :align: center
    :alt: View of recipients drop-down menu in the Odoo Email Marketing application.
 
@@ -409,7 +409,7 @@ targeting criteria, which can be added on top of those seed sources.
    :guilabel:`Stages`, :guilabel:`Tags`, :guilabel:`Lost Reasons`, :guilabel:`Sales Teams`,
    :guilabel:`Active` statuses, :guilabel:`Country`, and so much more.
 
-   .. image:: email_marketing/detailed-filter-records.png
+   .. image:: email_marketing/detailed-filter-records.webp
       :align: center
       :alt: View of how recipient filters can be customized in Odoo Email Marketing.
 
@@ -419,7 +419,7 @@ selections, until the preferred configuration has been achieved.
 The number of :guilabel:`records` in the database that match the configured rule(s) are indicated
 beneath the configured filter rule(s), in green.
 
-.. image:: email_marketing/filter-records.png
+.. image:: email_marketing/filter-records.webp
    :align: center
    :alt: View of how recipient filters can be customized in Odoo Email Marketing.
 
@@ -444,14 +444,14 @@ Mail Body tab
 In the :guilabel:`Mail Body` tab, there are a number of pre-configured message templates to choose
 from.
 
-.. image:: email_marketing/mail-body-templates.png
+.. image:: email_marketing/mail-body-templates.webp
    :align: center
    :alt: View of the templates in the Mail Body tab in Odoo Email Marketing application.
 
 Select the desired template, and proceed to modify every element of its design details with Odoo's
 drag-and-drop building blocks, which appear on the right sidebar when a template is chosen.
 
-.. image:: email_marketing/template-building-blocks.png
+.. image:: email_marketing/template-building-blocks.webp
    :align: center
    :alt: View of the building blocks in the Mail Body tab in Odoo Email Marketing application.
 
@@ -472,7 +472,7 @@ various aspects of the building block can be customized.
    template, a drop-down menu of various design elements appears, which can be used to create the
    desired email design.
 
-   .. image:: email_marketing/template-blank-slash.png
+   .. image:: email_marketing/template-blank-slash.webp
       :align: center
       :alt: View of the rich text editor drop-down in the Odoo Email Marketing application.
 
@@ -525,7 +525,7 @@ The :guilabel:`Send Final On` field allows users to choose a date that is used t
 should determine the "winning" email, and subsequently, send that version of the email to the
 remaining recipients.
 
-.. image:: email_marketing/ab-test-tab.png
+.. image:: email_marketing/ab-test-tab.webp
    :align: center
    :alt: View of the A/B Tests tab in Odoo Email Marketing application.
 
@@ -550,7 +550,7 @@ Without the *Mailing Campaigns* feature activated, the :guilabel:`Settings` tab 
 only contains the :guilabel:`Preview Text`, :guilabel:`Send From`, :guilabel:`Reply To`,
 :guilabel:`Attachments`, and :guilabel:`Responsible` fields.
 
-.. image:: email_marketing/settings-without-features.png
+.. image:: email_marketing/settings-without-features.webp
    :align: center
    :alt: View of settings tab in Odoo Email Marketing app, without campaign setting activated.
 
@@ -578,7 +578,7 @@ Tracking
    If the *Mailing Campaign* feature *is* activated, an additional :guilabel:`Campaign` field
    appears in the :guilabel:`Tracking` section of the :guilabel:`Settings` tab.
 
-   .. image:: email_marketing/settings-tab-with-campaign.png
+   .. image:: email_marketing/settings-tab-with-campaign.webp
       :align: center
       :alt: View of settings tab in Odoo Email Marketing when campaign setting is activated.
 
@@ -605,7 +605,7 @@ Send
 
 The :guilabel:`Send` button reveals a :guilabel:`Ready to unleash emails?` pop-up window.
 
-.. image:: email_marketing/send-popup.png
+.. image:: email_marketing/send-popup.webp
    :align: center
    :alt: View of pop-up window that appears when the send button on an email form is clicked.
 
@@ -620,13 +620,13 @@ Schedule
 The :guilabel:`Schedule` button reveals a :guilabel:`When do you want to send your mailing?` pop-up
 window.
 
-.. image:: email_marketing/schedule-popup.png
+.. image:: email_marketing/schedule-popup.webp
    :align: center
    :alt: View of pop-up window that appears when the schedule button on an email form is clicked.
 
 In this pop-up window, click the :guilabel:`Send on` field to reveal a calendar pop-up window.
 
-.. image:: email_marketing/schedule-popup-calendar.png
+.. image:: email_marketing/schedule-popup-calendar.webp
    :align: center
    :alt: View of pop-up window that appears when the schedule button on an email form is clicked.
 
@@ -641,7 +641,7 @@ Test
 
 The :guilabel:`Test` button reveals a :guilabel:`Test Mailing` pop-up window.
 
-.. image:: email_marketing/test-popup.png
+.. image:: email_marketing/test-popup.webp
    :align: center
    :alt: View of pop-up window that appears when the test button on an email form is clicked.
 
@@ -670,7 +670,7 @@ activated in the *Settings* page of the *Email Marketing* application. To do tha
 :menuselection:`Email Marketing app --> Configuration --> Settings`, tick the box beside
 :guilabel:`Mailing Campaigns`, and click the :guilabel:`Save` button.
 
-.. image:: email_marketing/campaigns-feature.png
+.. image:: email_marketing/campaigns-feature.webp
    :align: center
    :alt: View of the campaign feature setting in Odoo Email Marketing.
 
@@ -680,7 +680,7 @@ appears in the header.
 When that is clicked, Odoo reveals a separate :guilabel:`Campaigns` page, displaying all the mailing
 campaigns in the database, and the current stage they are in, showcased in a default Kanban view.
 
-.. image:: email_marketing/campaigns-page.png
+.. image:: email_marketing/campaigns-page.webp
    :align: center
    :alt: View of the campaign page in Odoo Email Marketing.
 
@@ -711,7 +711,7 @@ Kanban view
 When the :guilabel:`New` button is clicked in the default Kanban view on the :guilabel:`Campaigns`
 page, a Kanban card appears in the :guilabel:`New` stage.
 
-.. image:: email_marketing/campaigns-kanban-popup.png
+.. image:: email_marketing/campaigns-kanban-popup.webp
    :align: center
    :alt: View of the campaign pop-up kanban in Odoo Email Marketing.
 
@@ -738,14 +738,14 @@ List view
 To enter the list view on the :guilabel:`Campaigns` page, click the :guilabel:`☰ (horizontal lines)`
 icon in the upper-right corner. Doing so reveals all campaign information in a list format.
 
-.. image:: email_marketing/campaign-page-list-view.png
+.. image:: email_marketing/campaign-page-list-view.webp
    :align: center
    :alt: View of the campaign page in list view in Odoo Email Marketing.
 
 To create a campaign from the :guilabel:`Campaigns` page while in list view, click the
 :guilabel:`New` button. Doing so reveals a blank campaign form.
 
-.. image:: email_marketing/blank-campaign-form.png
+.. image:: email_marketing/blank-campaign-form.webp
    :align: center
    :alt: View of the blank campaign form in Odoo Email Marketing.
 
@@ -768,7 +768,7 @@ Campaign form
 On the campaign form (after clicking :guilabel:`Edit` from the Kanban card, or selecting an existing
 campaign from the :guilabel:`Campaigns` page) there are additional options and metrics available.
 
-.. image:: email_marketing/campaign-form.png
+.. image:: email_marketing/campaign-form.webp
    :align: center
    :alt: View of the campaign form in Odoo Email Marketing.
 
@@ -796,7 +796,7 @@ To create a new campaign from the :guilabel:`Settings` tab of a mailing form, cl
 :guilabel:`Create "[Campaign Name]"` or :guilabel:`Create and edit...` from the drop-down menu that
 appears.
 
-.. image:: email_marketing/mailing-campaign-settings.png
+.. image:: email_marketing/mailing-campaign-settings.webp
    :align: center
    :alt: View of the mailing campaign creation in the Settings tab of an email form.
 
@@ -806,7 +806,7 @@ in the future.
 Select :guilabel:`Create and Edit...` to add this new mailing campaign to the database, and reveal a
 :guilabel:`Create Campaign` pop-up window.
 
-.. image:: email_marketing/mailing-campaign-popup.png
+.. image:: email_marketing/mailing-campaign-popup.webp
    :align: center
    :alt: View of the email mailing campaign pop-up window in Odoo Email Marketing application.
 

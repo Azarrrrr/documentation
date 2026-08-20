@@ -21,7 +21,7 @@ settings page, and choose which of the following options to enable:
 - :guilabel:`Repairs`: creates repair orders for broken or faulty products.
 - :guilabel:`Field Service`: plans onsite intervention through the *Field Service* application.
 
-.. figure:: after_sales/after-sales-enable.png
+.. figure:: after_sales/after-sales-enable.webp
    :align: center
 
    The services that are enabled can vary based on the type of support a team provides.
@@ -49,7 +49,7 @@ To create a credit note, navigate to a ticket on the :menuselection:`Helpdesk ap
 :guilabel:`Refund` button in the top-left corner of the ticket form. This opens a
 :guilabel:`Refund` pop-up window.
 
-.. image:: after_sales/after-sales-refund-details.png
+.. image:: after_sales/after-sales-refund-details.webp
    :align: center
    :alt: View of a refund creation page.
 
@@ -85,7 +85,7 @@ though this information can be altered.
 Once the credit note has been posted, a :guilabel:`Credit Notes` smart button is added to the
 *Helpdesk* ticket.
 
-.. image:: after_sales/after-sales-credit-note-smart-button.png
+.. image:: after_sales/after-sales-credit-note-smart-button.webp
    :align: center
    :alt: View of smart buttons on a ticket focusing on the credit note button.
 
@@ -108,7 +108,7 @@ To generate a coupon, open a *Helpdesk* ticket and click on the :guilabel:`Coupo
 top-left corner. Select an option from the :guilabel:`Coupon Program` drop-down menu in the
 :guilabel:`Generate a Coupon` pop-up window that appears.
 
-.. image:: after_sales/after-sales-generate-coupon.png
+.. image:: after_sales/after-sales-generate-coupon.webp
    :align: center
    :alt: View of a coupon generation window.
 
@@ -133,7 +133,7 @@ Click :guilabel:`Send by Email` to compose an email to send to the customer with
    field of the :guilabel:`Compose Email` pop-up window. If an expiration date was selected for the
    code, it is included in the message template.
 
-   .. image:: after_sales/after-sales-coupon-email.png
+   .. image:: after_sales/after-sales-coupon-email.webp
       :align: center
       :alt: View of an email draft window with coupon code.
 
@@ -146,7 +146,7 @@ After a :guilabel:`Coupon Code` has been generated, a :guilabel:`Coupons` smart 
 the top of the ticket; click the smart button to view the coupon code, expiration date, and
 additional information.
 
-.. image:: after_sales/after-sales-coupon-smart-button.png
+.. image:: after_sales/after-sales-coupon-smart-button.webp
    :align: center
    :alt: View of the smart buttons on a ticket focusing on the coupon button.
 
@@ -163,7 +163,7 @@ Returns are completed through *reverse transfers*, which generate new warehouse 
 returning products. Click the :guilabel:`Return` button in the top-left corner of a ticket to open
 the :guilabel:`Reverse Transfer` pop-up window.
 
-.. image:: after_sales/after-sales-return-button.png
+.. image:: after_sales/after-sales-return-button.webp
    :align: center
    :alt: View of a Helpdesk ticket with the return button highlighted.
 
@@ -181,7 +181,7 @@ icon.
 Select a :guilabel:`Return Location` where the items should be directed after the return is
 completed.
 
-.. image:: after_sales/after-sales-reverse-transfer.png
+.. image:: after_sales/after-sales-reverse-transfer.webp
    :align: center
    :alt: View of a reverse transfer creation page.
 
@@ -191,7 +191,7 @@ incoming returned products.
 Use the breadcrumbs to return to the helpdesk ticket. A new :guilabel:`Return` smart button can now
 be accessed at the top of the ticket.
 
-.. image:: after_sales/after-sales-return-smart-button.png
+.. image:: after_sales/after-sales-return-smart-button.webp
    :align: center
    :alt: View of the return smart button on a helpdesk ticket.
 
@@ -209,7 +209,7 @@ created from the *Helpdesk* ticket, and managed through the *Repairs* applicatio
 To create a new repair order, open a :menuselection:`Helpdesk` ticket and click on the
 :guilabel:`Repair` button in the top-left corner. This opens a :guilabel:`Repair Reference` form.
 
-.. image:: after_sales/after-sales-repair-reference.png
+.. image:: after_sales/after-sales-repair-reference.webp
    :align: center
    :alt: View of a repair reference page.
 
@@ -239,7 +239,7 @@ this repair, click :guilabel:`Create Quotation`.
 
 A :guilabel:`Repairs` smart button is then added to the ticket, linking to the repair order.
 
-.. image:: after_sales/after-sales-repair-smart-button.png
+.. image:: after_sales/after-sales-repair-smart-button.webp
    :align: center
    :alt: View of smart buttons focusing on repair button.
 
@@ -265,7 +265,7 @@ the progress of a *Field Service* task just as they would a *Helpdesk* ticket.
 To create a new *Field Service* task, navigate to a :menuselection:`Helpdesk` ticket. Click
 :guilabel:`Plan Intervention` to open the :guilabel:`Create a Field Service task` pop-up window.
 
-.. image:: after_sales/after-sales-field-service-create.png
+.. image:: after_sales/after-sales-field-service-create.webp
    :align: center
    :alt: View of a Field Service task creation page.
 
@@ -295,7 +295,7 @@ Click :guilabel:`Create Task` or :guilabel:`Create & View Task`.
 After the task is created, a :guilabel:`Tasks` smart button is added to the ticket, linking the
 :guilabel:`Field Service` task to the ticket.
 
-.. image:: after_sales/after-sales-field-service-smart-button.png
+.. image:: after_sales/after-sales-field-service-smart-button.webp
    :align: center
    :alt: View of ticket smart buttons focused on task.
 

@@ -9,10 +9,10 @@ transactions in the general ledger of an organization. The chart of accounts can
 When browsing your chart of accounts, you can sort the accounts by :guilabel:`Code`,
 :guilabel:`Account Name`, or :guilabel:`Type`, but other options are available in the drop-down menu
 
-.. image:: chart_of_accounts/drop-down.png
+.. image:: chart_of_accounts/drop-down.webp
    :alt: Drop-down toggle button
 
-.. image:: chart_of_accounts/chart-of-accounts-sort.png
+.. image:: chart_of_accounts/chart-of-accounts-sort.webp
    :alt: Group the accounts by type in Odoo Accounting
 
 .. _chart-of-account/create:
@@ -143,14 +143,14 @@ To create a new account group, activate :ref:`developer mode <developer-mode>` a
 the :guilabel:`name, code prefix, and company` to which that group account should be available. Note
 that you must enter the same code prefix in both :guilabel:`From` and :guilabel:`to` fields.
 
-.. image:: chart_of_accounts/account-groups.png
+.. image:: chart_of_accounts/account-groups.webp
    :alt: Account groups creation.
 
 To display your **Trial Balance** report with your account groups, go to
 :menuselection:`Accounting --> Reporting --> Trial Balance`, then open the :guilabel:`Options` menu
 and select :guilabel:`Hierarchy and Subtotals`.
 
-.. image:: chart_of_accounts/chart-of-accounts-groups.png
+.. image:: chart_of_accounts/chart-of-accounts-groups.webp
    :alt: Account Groups in the Trial Balance in Odoo Accounting
 
 Allow reconciliation
@@ -166,7 +166,7 @@ its payment. Therefore, the account used to record credit card payments needs to
 To do so, check the :guilabel:`Allow Reconciliation` box in the account's settings, and
 :guilabel:`Save`; or enable the button from the chart of accounts view.
 
-.. image:: chart_of_accounts/chart-of-accounts-reconciliation.png
+.. image:: chart_of_accounts/chart-of-accounts-reconciliation.webp
    :alt: Allow reconciliation for accounts in Odoo Accounting
 
 Deprecated

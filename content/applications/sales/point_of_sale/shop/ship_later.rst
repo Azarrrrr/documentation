@@ -12,7 +12,7 @@ Configuration
 :ref:`Go to the POS settings <configuration/settings>`, scroll down to the :guilabel:`Inventory`
 section, and enable :guilabel:`Allow Ship Later`.
 
-.. image:: ship_later/settings.png
+.. image:: ship_later/settings.webp
    :scale: 85%
    :alt: settings to enable and configure the ship later feature
 
@@ -35,7 +35,7 @@ Practical application
 #. On the payment screen, set a customer and select :guilabel:`Ship Later`.
 #. On the popup window, set a shipping date and click :guilabel:`Confirm` to proceed to payment.
 
-.. image:: ship_later/payment.png
+.. image:: ship_later/payment.webp
    :scale: 75%
    :alt: selecting ship later at checkout.
 

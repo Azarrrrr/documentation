@@ -24,7 +24,7 @@ identify patterns and trends. The view is often found under the :guilabel:`Repor
 but can be found elsewhere. Click the **graph view button** located at the top right to access
 it.
 
-.. image:: reporting/graph-button.png
+.. image:: reporting/graph-button.webp
    :alt: Selecting the graph view
 
 .. _reporting/views/pivot:
@@ -36,7 +36,7 @@ The :ref:`pivot view <reporting/using-pivot>` is used to aggregate your records'
 down for analysis. The view is often found under the :guilabel:`Reporting` menu of apps but can be
 found elsewhere. Click the **pivot view button** located at the top right to access it.
 
-.. image:: reporting/pivot-button.png
+.. image:: reporting/pivot-button.webp
    :alt: Selecting the pivot view
 
 .. _reporting/choosing-measures:
@@ -62,7 +62,7 @@ grouped by *Date > Month*, which is used to analyze the evolution of a measure o
 .. tip::
    When you filter a single time period, the option to compare it against another one appears.
 
-   .. image:: reporting/comparison.png
+   .. image:: reporting/comparison.webp
       :alt: Using the comparison option
 
 .. example::
@@ -75,7 +75,7 @@ grouped by *Date > Month*, which is used to analyze the evolution of a measure o
          to the Sales Analysis report. By default, the :guilabel:`Untaxed Amount` measure is
          selected.
 
-         .. image:: reporting/measures.png
+         .. image:: reporting/measures.webp
             :alt: Selecting different measures on the Sales Analysis report
 
       .. tab:: Group measures
@@ -83,7 +83,7 @@ grouped by *Date > Month*, which is used to analyze the evolution of a measure o
          You could group the measures by :guilabel:`Product Category` at the level of rows on the
          previous Sales Analysis report example.
 
-         .. image:: reporting/single-group.png
+         .. image:: reporting/single-group.webp
             :alt: Adding a group on the Sales Analysis report
 
 .. _reporting/using-pivot:
@@ -105,7 +105,7 @@ subgroups.
    :guilabel:`Salesperson` group at the level of columns and by the :guilabel:`Order Date > Month`
    group on the :guilabel:`All / Saleable / Office Furniture` product category.
 
-   .. image:: reporting/multiple-groups.png
+   .. image:: reporting/multiple-groups.webp
       :alt: Adding multiple groups on the Sales Analysis report
 
 .. tip::
@@ -132,17 +132,17 @@ when they form a meaningful whole.
 
    .. tab:: Bar chart
 
-      .. image:: reporting/bar.png
+      .. image:: reporting/bar.webp
          :alt: Viewing the Sales Analysis report as a bar chart
 
    .. tab:: Line chart
 
-      .. image:: reporting/line.png
+      .. image:: reporting/line.webp
          :alt: Viewing the Sales Analysis report as a line chart
 
    .. tab:: Pie chart
 
-      .. image:: reporting/pie.png
+      .. image:: reporting/pie.webp
          :alt: Viewing the Sales Analysis report as a pie chart
 
 .. tip::
@@ -153,22 +153,22 @@ when they form a meaningful whole.
 
       .. tab:: Stacked bar chart
 
-         .. image:: reporting/stacked-bar.png
+         .. image:: reporting/stacked-bar.webp
             :alt: Stacked bar chart example
 
       .. tab:: Regular bar chart
 
-         .. image:: reporting/non-stacked-bar.png
+         .. image:: reporting/non-stacked-bar.webp
             :alt: Non-stacked bar chart example
 
       .. tab:: Stacked line chart
 
-         .. image:: reporting/stacked-line.png
+         .. image:: reporting/stacked-line.webp
             :alt: Stacked line chart example
 
       .. tab:: Regular line chart
 
-         .. image:: reporting/non-stacked-line.png
+         .. image:: reporting/non-stacked-line.webp
             :alt: Non-stacked line chart example
 
    For **line** charts, you can use the cumulative option to sum values, which is especially useful
@@ -178,10 +178,10 @@ when they form a meaningful whole.
 
       .. tab:: Cumulative line chart
 
-         .. image:: reporting/cumulative.png
+         .. image:: reporting/cumulative.webp
             :alt: Cumulative line chart example
 
       .. tab:: Regular line chart
 
-         .. image:: reporting/non-cumulative.png
+         .. image:: reporting/non-cumulative.webp
             :alt: Regular line chart example

@@ -19,7 +19,7 @@ while documents related to Payroll are automatically available in the Payroll su
 can change the default workspace using the dropdown menu and edit its properties by clicking the
 :icon:`fa-arrow-right` (:guilabel:`Internal link`) icon.
 
-.. image:: documents/files-centralization.png
+.. image:: documents/files-centralization.webp
    :alt: Enable the centralization of files attached to a specific area of your activity.
 
 .. note::
@@ -27,7 +27,7 @@ can change the default workspace using the dropdown menu and edit its properties
      click on :guilabel:`Journals` and define each journal independently to allow automatic
      synchronization.
 
-     .. image:: documents/accounting-files-centralization.png
+     .. image:: documents/accounting-files-centralization.webp
         :alt: Enable the centralization of files attached to your accounting.
 
    - If you select a new workspace, existing documents are not moved. Only newly created documents
@@ -146,7 +146,7 @@ new view displays all the pages of the document.
 By default, all pages are split when you click :guilabel:`Split`. To remove a split between two
 pages, click the :icon:`fa-scissors` (:guilabel:`scissors`) icon.
 
-.. image:: documents/split-pdf.png
+.. image:: documents/split-pdf.webp
    :alt: split your documents
 
 .. tip::
@@ -191,7 +191,7 @@ Document` column.
    :icon:`fa-pencil` (:guilabel:`pen`) icon, :guilabel:`Preview` the content of the reminder email,
    or :guilabel:`Send Now` to send a reminder email.
 
-      .. image:: documents/reminder-email.png
+      .. image:: documents/reminder-email.webp
          :alt: send a reminder email from the Activity view
 
 .. _documents/add-a-link:
@@ -315,7 +315,7 @@ There are three basic types of conditions you can set:
 
 #. :guilabel:`Owner`: the files must be associated with the owner set here.
 
-.. image:: documents/basic-condition-example.png
+.. image:: documents/basic-condition-example.webp
    :alt: Example of a workflow action's basic condition in Odoo Documents
 
 .. tip::
@@ -337,7 +337,7 @@ To create a rule, you typically select a :guilabel:`field`, an :guilabel:`operat
 workspace, set the :guilabel:`field` to *Mime Type*, the :guilabel:`operator` to *contains*, and the
 pdf :guilabel:`value`.
 
-.. image:: documents/domain-condition-example.png
+.. image:: documents/domain-condition-example.webp
    :alt: Example of a workflow action's domain condition in Odoo Documents
 
 Click the :icon:`fa-plus` (:guilabel:`Add New Rule`) icon and the :icon:`fa-sitemap`

@@ -18,7 +18,7 @@ To create an automation rule with Studio, proceed as follows:
 
 .. example::
 
-   .. image:: automated_actions/automation-rule-ex.png
+   .. image:: automated_actions/automation-rule-ex.webp
       :alt: Example of an automated action on the Subscription model
 
 .. tip::
@@ -31,7 +31,7 @@ To create an automation rule with Studio, proceed as follows:
      case, the :guilabel:`Trigger` is set to :guilabel:`Stage is set to` by default, but you can
      change it if necessary.
 
-     .. image:: automated_actions/automations-kanban.png
+     .. image:: automated_actions/automations-kanban.webp
         :alt: Create automations from a kanban stage
 
 .. _studio/automated-actions/trigger:
@@ -65,7 +65,7 @@ overall:
    define the :guilabel:`Before Update Domain` to :guilabel:`Email is not set`, and the
    :guilabel:`Apply on` domain to :guilabel:`Email is set`.
 
-   .. image:: automated_actions/before-update-domain.png
+   .. image:: automated_actions/before-update-domain.webp
       :alt: Example of a trigger with a Before Update Domain
 
 .. _studio/automated-actions/trigger/values-updated:
@@ -77,7 +77,7 @@ The triggers available in this category depend on the model and are based on com
 such as adding a specific tag (e.g., to a task) or setting the :guilabel:`User` field. Select the
 trigger, then select a value if required.
 
-.. image:: automated_actions/values-updated-trigger.png
+.. image:: automated_actions/values-updated-trigger.webp
    :alt: Example of a Values Updated trigger
 
 .. _studio/automated-actions/trigger/email-events:
@@ -114,7 +114,7 @@ The action is triggered when the delay is reached and the conditions are met.
    :guilabel:`Start (Calendar Event)` under :guilabel:`Trigger Date` and set the :guilabel:`Delay`
    to **-30** :guilabel:`Minutes`.
 
-   .. image:: automated_actions/timing-conditions-trigger.png
+   .. image:: automated_actions/timing-conditions-trigger.webp
       :alt: Example of a Based on date field trigger
 
 .. note::
@@ -218,7 +218,7 @@ the selected value or by :guilabel:`Clearing it`.
    :guilabel:`Update` field to :guilabel:`Customer > Tags`, select :guilabel:`By Removing`, then
    select the tag.
 
-   .. image:: automated_actions/update-record-action.png
+   .. image:: automated_actions/update-record-action.webp
       :alt: Example of an Update Record action
 
 .. tip::
@@ -229,7 +229,7 @@ the selected value or by :guilabel:`Clearing it`.
    `High` (by starring the task), you can define the trigger :guilabel:`Priority is set to` to
    `High` and define the :guilabel:`Update Record` action as follows:
 
-   .. image:: automated_actions/update-record-compute.png
+   .. image:: automated_actions/update-record-compute.webp
       :alt: Compute a custom datetime field using a Python expression
 
 Create Activity
@@ -249,7 +249,7 @@ scheduled in the :guilabel:`Due Date In` field, and select a :guilabel:`User typ
    the user responsible for the lead. To do so, set the :guilabel:`Activity Type` to
    :guilabel:`Call` and the :guilabel:`User Type` to :guilabel:`Dynamic User (based on record)`.
 
-   .. image:: automated_actions/create-activity-action.png
+   .. image:: automated_actions/create-activity-action.webp
       :alt: Example of a Create Activity action
 
 Send Email and Send SMS

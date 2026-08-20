@@ -53,7 +53,7 @@ located and then :guilabel:`Save`.
    level of each warehouse instead. To do so, go to :menuselection:`Inventory --> Configuration -->
    Warehouses`, select a warehouse, set its :guilabel:`Intrastat region`, and then :guilabel:`Save`.
 
-   .. image:: intrastat/warehouse-region.png
+   .. image:: intrastat/warehouse-region.webp
       :align: center
       :alt: Adding the Intrastat region to a warehouse
 
@@ -120,7 +120,7 @@ To set a transaction code on an invoice line, create an invoice or a bill, click
 selection button, tick :guilabel:`Intrastat`, and use the newly-added :guilabel:`Intrastat` column
 to select a transaction code.
 
-.. image:: intrastat/intrastat-column.png
+.. image:: intrastat/intrastat-column.webp
    :align: center
    :alt: Adding the Intrastat column to an invoice or bill
 

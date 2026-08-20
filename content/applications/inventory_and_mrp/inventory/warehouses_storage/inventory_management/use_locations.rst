@@ -16,7 +16,7 @@ section, tick the :guilabel:`Storage Locations` checkbox. Then, click :guilabel:
    <../../shipping_receiving/daily_operations/use_routes>`, which controls how products move between
    locations.
 
-.. image:: use_locations/enable-location.png
+.. image:: use_locations/enable-location.webp
    :align: center
    :alt: Show Storage Locations feature.
 
@@ -26,7 +26,7 @@ Create new location
 After enabling *Storage Locations*, go to :menuselection:`Inventory app --> Configuration -->
 Locations`.
 
-.. image:: use_locations/locations.png
+.. image:: use_locations/locations.webp
    :align: center
    :alt: List of internal locations.
 
@@ -68,7 +68,7 @@ location serves its intended purpose in the database:
   a destination for receiving products from *Buy*, *Manufacture*, or other procurement routes,
   ensuring products are correctly supplied to the warehouse.
 
-.. image:: use_locations/new-location.png
+.. image:: use_locations/new-location.webp
    :align: center
    :alt: Additional Information section of new location creation form.
 
@@ -87,7 +87,7 @@ Configure the remaining fields in the :guilabel:`Additional Information` section
 In the :guilabel:`Cyclic Counting` section, change the value in the :guilabel:`Inventory Frequency
 (Days)` field from the default `0`, if necessary.
 
-.. image:: use_locations/use-locations-cyclic-counting.png
+.. image:: use_locations/use-locations-cyclic-counting.webp
    :align: center
    :alt: Cyclic Counting section of new location creation form.
 
@@ -117,7 +117,7 @@ Inventory` field displays the date of the next inventory count.
    With inventory counts scheduled to occur every `30` days, and the :guilabel:`Last Effective
    Inventory` count occurring on July 16, the :guilabel:`Next Expected Inventory` is August 15.
 
-   .. image:: use_locations/scheduled-count.png
+   .. image:: use_locations/scheduled-count.webp
       :align: center
       :alt: Show Cyclic Count section of the locations form.
 
@@ -144,6 +144,6 @@ location.
 .. example::
    A list of current stock at `Shelf 1` consists of `266` cabinets and `39` desks.
 
-   .. image:: use_locations/current-stock.png
+   .. image:: use_locations/current-stock.webp
       :align: center
       :alt: Show stock at Shelf 1.

@@ -192,7 +192,7 @@ element might be swipable, its animation and the minimum portion to swipe to per
 
 You can use the component to interact easily with records, messages, items in lists and much more.
 
-.. image:: owl_components/actionswiper.png
+.. image:: owl_components/actionswiper.webp
   :width: 400 px
   :alt: Example of ActionSwiper usage
   :align: center
@@ -806,7 +806,7 @@ Props
 
   Both examples are shown here:
 
-  .. image:: owl_components/notebook.png
+  .. image:: owl_components/notebook.webp
      :width: 400 px
      :alt: Examples with vertical and horizontal layout
      :align: center
@@ -1004,14 +1004,14 @@ The shape of a `group` is the following:
         </SelectMenu>
       `;
 
-   .. image:: owl_components/select_menu.png
+   .. image:: owl_components/select_menu.webp
       :width: 400 px
       :alt: Example of SelectMenu usage and customization
       :align: center
 
    When SelectMenu is used with multiple selection, the `value` props must be an `Array` containing the values of the selected choices.
 
-   .. image:: owl_components/select_menu_multiSelect.png
+   .. image:: owl_components/select_menu_multiSelect.webp
       :width: 350 px
       :alt: Example of SelectMenu used with multiple selection
       :align: center
@@ -1036,7 +1036,7 @@ The shape of a `group` is the following:
         </SelectMenu>
       `;
 
-   .. image:: owl_components/select_menu_bottomArea.png
+   .. image:: owl_components/select_menu_bottomArea.webp
       :width: 400 px
       :alt: Example of SelectMenu's bottom area customization
       :align: center
@@ -1124,7 +1124,7 @@ The shape of a `tag` is the following:
 
    Depending the attributes given to each tag, their appearance and behavior will differ.
 
-   .. image:: owl_components/tags_list.png
+   .. image:: owl_components/tags_list.webp
       :width: 350 px
       :alt: Examples of TagsList using different props and attributes
       :align: center

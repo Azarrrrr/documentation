@@ -21,7 +21,7 @@ With the *Schedule & Tracks* setting enabled in the Odoo *Events* app, the follo
 automatically added to the subheader menu, located on the event website: :guilabel:`Talks`,
 :guilabel:`Talk Proposals`, and :guilabel:`Agenda`.
 
-.. image:: track_manage_talks/track-submenu-options.png
+.. image:: track_manage_talks/track-submenu-options.webp
    :align: center
    :alt: The track-related event submenu options on an event website built with Odoo Events.
 
@@ -35,7 +35,7 @@ Talks page
 The :guilabel:`Talks` link takes the attendee to a page filled with all the planned tracks for the
 event.
 
-.. image:: track_manage_talks/talks-page.png
+.. image:: track_manage_talks/talks-page.webp
    :align: center
    :alt: The Talks page on an event website built through the Odoo Events application.
 
@@ -65,7 +65,7 @@ tag categories) created for event tracks in the backend.
 
    Doing so reveals a :guilabel:`Create Tags` pop-up form.
 
-   .. image:: track_manage_talks/create-tags-popup.png
+   .. image:: track_manage_talks/create-tags-popup.webp
       :align: center
       :alt: The Create Tags pop-up form that coincides with drop-down filter menus on Talks page.
 
@@ -94,7 +94,7 @@ Talk Proposals page
 The :guilabel:`Talk Proposals` link takes attendees to a page on the event website, wherein they can
 formerly submit a proposal for a talk (:dfn:`track`) for the event, via a custom online form.
 
-.. image:: track_manage_talks/talk-proposals-page.png
+.. image:: track_manage_talks/talk-proposals-page.webp
    :align: center
    :alt: The Talk Proposals page on the event website built with the Odoo Events application.
 
@@ -131,7 +131,7 @@ Agenda page
 The :guilabel:`Agenda` link takes attendees to a page on the event website, showcasing an event
 calendar, depicting when (and where) events are taking place for that specific event.
 
-.. image:: track_manage_talks/event-agenda-page.png
+.. image:: track_manage_talks/event-agenda-page.webp
    :align: center
    :alt: The event Agenda page on the event website built with the Odoo Events application.
 

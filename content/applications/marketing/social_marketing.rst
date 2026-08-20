@@ -51,7 +51,7 @@ accounts **must** be added as a *stream* on the application's main dashboard.
    However, if on that same database, the user adds Company 2 from the company drop-down menu in the
    header, and attempts to add those same streams, it results in a permission error.
 
-   .. image:: social_marketing/permission-error.png
+   .. image:: social_marketing/permission-error.webp
       :align: center
       :alt: View of the permission error that appears when incorrectly attempting to add stream.
 
@@ -62,7 +62,7 @@ To add a social media business account as a stream, navigate to :menuselection:`
 app` and select the :guilabel:`Add A Stream` button located in the upper-left corner. Doing so
 reveals an :guilabel:`Add a Stream` pop-up window.
 
-.. image:: social_marketing/add-stream-social-popup.png
+.. image:: social_marketing/add-stream-social-popup.webp
    :align: center
    :alt: View of the pop-up window that appears when Add a Stream is selected in Odoo.
 
@@ -75,7 +75,7 @@ navigates directly to that specific social media outlet's authorization page, wh
 be granted, in order for Odoo to add that particular social media account as a stream to the *Social
 Marketing* application.
 
-.. image:: social_marketing/social-marketing-dashboard.png
+.. image:: social_marketing/social-marketing-dashboard.webp
    :align: center
    :alt: Sample of a populated social marketing dashboard with social media streams and content.
 
@@ -104,7 +104,7 @@ On the :guilabel:`Social Media` page there is a collection of all social media o
 complete with a :guilabel:`Link account` button: :guilabel:`Facebook`, :guilabel:`Instagram`,
 :guilabel:`LinkedIn`, :guilabel:`Twitter`, :guilabel:`YouTube`, and :guilabel:`Push Notifications`.
 
-.. image:: social_marketing/social-media-page.png
+.. image:: social_marketing/social-media-page.webp
    :align: center
    :alt: View of the social media page in the Odoo Social Marketing application.
 
@@ -117,7 +117,7 @@ Accounts` display the :guilabel:`Name`, the :guilabel:`Handle/Short Name`, the :
 Media` platform, who it was :guilabel:`Created by`, and the :guilabel:`Company` to which it is
 associated.
 
-.. image:: social_marketing/social-accounts-page.png
+.. image:: social_marketing/social-accounts-page.webp
    :align: center
    :alt: View of the social accounts page in the Odoo Social Marketing application.
 
@@ -131,7 +131,7 @@ To view a separate page with all the social media streams that have been added t
 Marketing* dashboard, navigate to :menuselection:`Social Marketing app --> Configuration --> Social
 Streams`.
 
-.. image:: social_marketing/social-streams-page.png
+.. image:: social_marketing/social-streams-page.webp
    :align: center
    :alt: View of the social accounts page in the Odoo Social Marketing application.
 
@@ -149,7 +149,7 @@ Visitors
 To see a complete overview of all the people who have visited the website(s) connected to the
 database, navigate to :menuselection:`Social Marketing app --> Visitors`.
 
-.. image:: social_marketing/visitors.png
+.. image:: social_marketing/visitors.webp
    :align: center
    :alt: View of the Visitors page in the Odoo Social Marketing application.
 

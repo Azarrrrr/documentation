@@ -63,7 +63,7 @@ subcontractor in the :guilabel:`Vendor` column.
 Once the subcontractor has been added, enter the number of days it takes them to manufacture and
 deliver the product, in the :guilabel:`Delivery Lead Time` column.
 
-.. image:: dropship_subcontracting_lead_times/delivery-lead-time.png
+.. image:: dropship_subcontracting_lead_times/delivery-lead-time.webp
    :align: center
    :alt: The Delivery Lead Time field for a subcontractor, on the Purchase tab of a product page.
 
@@ -77,7 +77,7 @@ On the |BoM|, select the :guilabel:`Miscellaneous` tab. In the :guilabel:`Manuf.
 enter the same number of days that was entered in the :guilabel:`Delivery Lead Time` field of the
 |BoM|'s product.
 
-.. image:: dropship_subcontracting_lead_times/manufacturing-lead-time.png
+.. image:: dropship_subcontracting_lead_times/manufacturing-lead-time.webp
    :align: center
    :alt: The Manuf. Lead Time field on a product's BoM.
 
@@ -183,7 +183,7 @@ delivering it to the contracting company.
    Arrival date, giving them enough time to deliver the finished bicycle to Mike's Bikes by May
    17th.
 
-   .. image:: dropship_subcontracting_lead_times/deadline-arrival.png
+   .. image:: dropship_subcontracting_lead_times/deadline-arrival.webp
       :align: center
       :alt: The Order Deadline and Expected Arrival dates on a dropship order.
 

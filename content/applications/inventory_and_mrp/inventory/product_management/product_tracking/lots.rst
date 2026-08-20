@@ -32,7 +32,7 @@ Then, click :guilabel:`Save`.
    - :doc:`Tracking expiration dates <expiration_dates>`
    - :ref:`Print GS1 barcodes for lots and serial numbers <barcode/operations/gs1-lots>`
 
-.. image:: lots/enabled-lots-setting.png
+.. image:: lots/enabled-lots-setting.webp
    :align: center
    :alt: Enabled lots and serial numbers feature in inventory settings.
 
@@ -57,7 +57,7 @@ numbers can be assigned to newly-received or manufactured batches of this produc
    message appears. Use an :doc:`inventory adjustment <reassign>` to assign lot numbers to existing
    products in stock.
 
-.. image:: lots/tracking-product-form.png
+.. image:: lots/tracking-product-form.webp
    :align: center
    :alt: Enabled tracking by lots feature on product form.
 
@@ -89,14 +89,14 @@ warehouse receipt form.
    Clicking :guilabel:`Validate` before assigning a lot number triggers an error, indicating that a
    lot number **must** be assigned before validating the receipt.
 
-   .. image:: lots/user-error.png
+   .. image:: lots/user-error.webp
       :align: center
       :alt: Add lot/serial number user error popup.
 
 On the receipt form, on the product line in the :guilabel:`Operations` tab, select the |list| icon
 to the right of the product that is tracked by lot numbers.
 
-.. image:: lots/list-icon.png
+.. image:: lots/list-icon.webp
    :align: center
    :alt: Show the bulleted list icon on the product line.
 
@@ -117,7 +117,7 @@ Package`, if any.
    type a new :guilabel:`Lot/Serial Number` for additional quantities. Repeat until the total in the
    :guilabel:`Quantity` column matches the :guilabel:`Demand` at the top.
 
-.. image:: lots/assign-lots-popup.png
+.. image:: lots/assign-lots-popup.webp
    :align: center
    :alt: Assign lot number detailed operations popup.
 
@@ -127,13 +127,13 @@ Import lots
 In the :guilabel:`Open: Stock move` pop-up window, click :guilabel:`Import Serials/Lots`, then paste
 the bulk lot numbers, in the :guilabel:`Lots/Serial numbers` field.
 
-.. figure:: lots/lots-excel-spreadsheet.png
+.. figure:: lots/lots-excel-spreadsheet.webp
    :align: center
    :alt: List of lot numbers copied on excel spreadsheet.
 
    List of lot numbers copied on *Google* spreadsheets.
 
-.. figure:: lots/bulk-sn.png
+.. figure:: lots/bulk-sn.webp
    :align: center
    :alt: Lot numbers copied to the lot number line.
 
@@ -192,7 +192,7 @@ Repeat the above steps to select enough lots to fulfill the :guilabel:`Demand`, 
 :guilabel:`Save` to close the pop-up window. Lastly, click the :guilabel:`Validate` button on the
 |DO| to deliver the products.
 
-.. image:: lots/pick-from-lots.png
+.. image:: lots/pick-from-lots.webp
    :align: center
    :alt: Popup for source lot number on sales order.
 
@@ -211,7 +211,7 @@ displays the existing lot numbers. Select a lot number to :ref:`modify or add de
 <inventory/product_management/create-new-lot>` from this page, by clicking the :guilabel:`New`
 button.
 
-.. figure:: lots/lot-dashboard.png
+.. figure:: lots/lot-dashboard.webp
    :align: center
    :alt: Show the "Lot/Serial Number" dashboard.
 
@@ -242,7 +242,7 @@ On the lot number form, the following fields can be modified:
    On existing lots, the :guilabel:`Product` and :guilabel:`On Hand Quantity` fields **cannot** be
    modified, as the lot numbers are linked with existing stock moves.
 
-.. image:: lots/lot-number.png
+.. image:: lots/lot-number.webp
    :align: center
    :alt: Show the lot number form.
 
@@ -265,7 +265,7 @@ finished, enter the property value in the new field.
 .. example::
    The new property, `Wood type`, is added. The value is recorded as `Cherry wood`.
 
-   .. image:: lots/add-properties.png
+   .. image:: lots/add-properties.webp
       :align: center
       :alt: Show the "Add Properties" button on a lot number form.
 
@@ -297,7 +297,7 @@ number will be assigned.
 .. example::
    The lot number, `000001`, is created for the product, `Drawer Black`.
 
-   .. image:: lots/new-lot-number.png
+   .. image:: lots/new-lot-number.webp
       :align: center
       :alt: New lot number creation form with assigned product.
 
@@ -310,7 +310,7 @@ inventory adjustment.
    After creating the lot number, `000001` appears as an option for `Drawer Black` when assigning
    lot numbers on the :guilabel:`Inventory Adjustment` page.
 
-   .. image:: lots/inventory-adjustment.png
+   .. image:: lots/inventory-adjustment.webp
       :align: center
       :alt: Show how to assign lot numbers on the Inventory Adjustment page.
 
@@ -329,7 +329,7 @@ On the operation type form, under the :guilabel:`Lots/Serial Numbers` section, t
 :guilabel:`Create New` checkbox to enable new lot numbers to be created during this operation type.
 Choose :guilabel:`Use Existing ones` if only existing lot numbers can be selected.
 
-.. image:: lots/operation-type-form.png
+.. image:: lots/operation-type-form.webp
    :align: center
    :alt: Enabled traceability setting on operations type form.
 
@@ -361,7 +361,7 @@ drop-down menu.
 Doing so reorganizes all the records on the page to display all existing lots and serial numbers,
 and can be expanded to show all quantities of products with that assigned number.
 
-.. image:: lots/group-by-number.png
+.. image:: lots/group-by-number.webp
    :align: center
    :alt: Lots and serial numbers traceability report.
 
@@ -372,7 +372,7 @@ To view a full stock moves report for a lot number, select the lot number line f
 :guilabel:`Lots/Serial Number` dashboard. On the lot number form, click the :guilabel:`Traceability`
 smart button.
 
-.. image:: lots/traceability-report.png
+.. image:: lots/traceability-report.webp
    :align: center
    :alt: Show the Traceability Report for a lot, that displays the stock moves.
 

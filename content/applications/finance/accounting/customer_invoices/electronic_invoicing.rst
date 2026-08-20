@@ -69,7 +69,7 @@ You can define a specific e-invoicing format for each customer. To do so, go to
 :menuselection:`Accounting --> Customers --> Customers`, open the customer form, go to the
 :guilabel:`Accounting` tab and select the appropriate format.
 
-.. image:: electronic_invoicing/customer-form.png
+.. image:: electronic_invoicing/customer-form.webp
    :alt: Select an EDI format for a specific customer
 
 National electronic invoicing
@@ -92,7 +92,7 @@ E-invoices generation
 From a confirmed invoice, click :guilabel:`Send & Print` to open the send window. Check the
 e-invoicing option to generate and attach the e-invoice file.
 
-.. image:: electronic_invoicing/send-window.png
+.. image:: electronic_invoicing/send-window.webp
    :alt: The Peppol option is checked and an e-invoicing XML file is attached to the email.
 
 Peppol
@@ -132,7 +132,7 @@ save**. Click :guilabel:`Start sending via Peppol` to open the registration form
    This registration form also pops up if you choose to :guilabel:`Send & Print` an
    invoice via Peppol without completing the registration process.
 
-.. image:: electronic_invoicing/peppol-registration-settings.png
+.. image:: electronic_invoicing/peppol-registration-settings.webp
    :alt: Peppol registration button
 
 You can register either as a sender or a receiver. A sender can only send invoices and credit notes
@@ -144,7 +144,7 @@ Odoo database and receive other documents in another software, register as a **s
    - You can always register as a sender first and register to receive documents later.
    - When registering, you can specify if you would also like to receive documents.
 
-.. image:: electronic_invoicing/peppol-registration-wizard.png
+.. image:: electronic_invoicing/peppol-registration-wizard.webp
    :alt: Peppol registration form
 
 Fill in the following information:
@@ -173,7 +173,7 @@ Otherwise, select :guilabel:`Live`.
      Click the parameter and change the :guilabel:`Value` to `test`. Go back to the Peppol setup
      menu in the **Settings** app. The option :guilabel:`Test` is now available.
 
-   .. image:: electronic_invoicing/peppol-system-parameter.png
+   .. image:: electronic_invoicing/peppol-system-parameter.webp
       :alt: Peppol test mode parameter
 
 .. seealso::
@@ -185,7 +185,7 @@ When set up, request a verification code to be sent to you by clicking :guilabel
 registration code by SMS`. A text message containing a code is sent to the phone number provided to
 finalize the verification process.
 
-.. image:: electronic_invoicing/peppol-phone-verification.png
+.. image:: electronic_invoicing/peppol-phone-verification.webp
    :alt: phone validation
 
 Once you enter the code and click :guilabel:`Register`, your Peppol participant status is updated.
@@ -205,7 +205,7 @@ Journal`.
 Your receiver application status should be updated soon after you are registered on the Peppol
 network.
 
-.. image:: electronic_invoicing/peppol-receiver.png
+.. image:: electronic_invoicing/peppol-receiver.webp
    :alt: receiver application
 
 All invoices and vendor bills can now be sent directly using the Peppol network.
@@ -234,7 +234,7 @@ format, and make sure their :guilabel:`Peppol EAS code` and the :guilabel:`Endpo
 Then, click :guilabel:`Verify`. If the contact exists on the network, their Peppol endpoint validity
 is set to Valid.
 
-.. image:: electronic_invoicing/peppol-contact-verify.png
+.. image:: electronic_invoicing/peppol-contact-verify.webp
    :alt: verify contact registration
 
 .. important::
@@ -249,7 +249,7 @@ If the participant is registered on the Peppol network but cannot receive the fo
 for them, the :guilabel:`Peppol endpoint validity` label changes to :guilabel:`Cannot
 receive this format`.
 
-.. image:: electronic_invoicing/peppol-participant-format.png
+.. image:: electronic_invoicing/peppol-participant-format.webp
    :alt: verify contact ubl format
 
 Send invoices
@@ -260,21 +260,21 @@ invoice form. To queue multiple invoices, select them in the list view and click
 :menuselection:`Actions --> Send & Print`; they will be sent in a batch later on. Both
 :guilabel:`BIS Billing 3.0` and :guilabel:`Send via PEPPOL` checkboxes need to be ticked.
 
-.. image:: electronic_invoicing/peppol-send-print.png
+.. image:: electronic_invoicing/peppol-send-print.webp
    :alt: Send peppol invoice
 
 Posted invoices that can be sent via Peppol are marked as :guilabel:`Peppol Ready`.
 To display them, use the :guilabel:`Peppol Ready` filter or access the Accounting dashboard and
 click :guilabel:`Peppol ready invoices` on the corresponding sales journal.
 
-.. image:: electronic_invoicing/peppol-ready-invoices.png
+.. image:: electronic_invoicing/peppol-ready-invoices.webp
    :alt: Filter Peppol ready invoices
 
 Once the invoices are sent via Peppol, the status is changed to :guilabel:`Processing`. The
 status is changed to `Done` after they have been successfully delivered to the contact's Access
 Point.
 
-.. image:: electronic_invoicing/peppol-message-processing.png
+.. image:: electronic_invoicing/peppol-message-processing.webp
    :alt: Peppol message status
 
 .. tip::
@@ -286,7 +286,7 @@ A cron runs regularly to check the status of these invoices. It is possible to c
 before the cron runs by clicking :guilabel:`Fetch Peppol invoice status` in the corresponding
 sales journal on the Accounting dashboard.
 
-.. image:: electronic_invoicing/peppol-fetch-message-status.png
+.. image:: electronic_invoicing/peppol-fetch-message-status.webp
    :alt: Fetch invoice Peppol status
 
 Receive vendor bills
@@ -296,12 +296,12 @@ Once a day, a cron checks whether any new documents have been sent to you via th
 These documents are imported, and the corresponding vendor bills are created automatically as
 drafts.
 
-.. image:: electronic_invoicing/peppol-receive-bills.png
+.. image:: electronic_invoicing/peppol-receive-bills.webp
    :alt: peppol receive bills
 
 If you want to retrieve incoming Peppol documents before the cron runs, you can do so from the
 Accounting dashboard on the main Peppol purchase journal that you set up in the settings. Just click
 :guilabel:`Fetch from Peppol`.
 
-.. image:: electronic_invoicing/peppol-fetch-bills.png
+.. image:: electronic_invoicing/peppol-fetch-bills.webp
    :alt: Fetch bills from Peppol

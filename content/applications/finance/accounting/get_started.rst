@@ -22,7 +22,7 @@ Accounting onboarding banner
 
 The step-by-step Accounting onboarding banner is composed of four steps:
 
-.. image:: get_started/accounting-onboarding-banner.png
+.. image:: get_started/accounting-onboarding-banner.webp
    :alt: Step-by-step onboarding banner in Odoo Accounting
 
 #. :ref:`accounting-setup-periods`
@@ -100,7 +100,7 @@ opening balances.
 Basic settings are displayed on this page to help you review your Chart of Accounts. To access all
 the settings of an account, click on the :guilabel:`Setup` button at the end of the line.
 
-.. image:: get_started/setup_chart_of_accounts.png
+.. image:: get_started/setup_chart_of_accounts.webp
    :alt: Setup of the Chart of Accounts and their opening balances in Odoo Accounting
 
 .. note::
@@ -119,7 +119,7 @@ If you have Odoo Accounting installed on your database, you can reach it by goin
 
 The Invoicing onboarding banner consists of four main steps:
 
-.. image:: get_started/invoicing-onboarding-banner.png
+.. image:: get_started/invoicing-onboarding-banner.webp
    :alt: Step-by-step onboarding banner in Odoo Invoicing
 
 #. :ref:`invoicing-setup-company`

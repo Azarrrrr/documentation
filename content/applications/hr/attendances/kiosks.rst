@@ -85,7 +85,7 @@ Entering *Kiosk Mode* is **only** available for users with specific :ref:`access
    Settings` section, use the link in the :guilabel:`Attendance Kiosk Url` field to open *Kiosk
    Mode* on any device.
 
-.. image:: kiosks/kiosk-url.png
+.. image:: kiosks/kiosk-url.webp
    :align: center
    :alt: The Attendances Kiosk URL field in the settings section of the Attendances application.
 
@@ -110,7 +110,7 @@ Badge
 To check in or out using a badge, tap the :icon:`fa-camera` :guilabel:`Tap to scan` image in the
 center of the kiosk.
 
-.. image:: kiosks/scan-badge.png
+.. image:: kiosks/scan-badge.webp
    :align: center
    :alt: The Attendances Kiosk view displaying the scan badge image.
 
@@ -163,7 +163,7 @@ above the numbers.
 Tap in the PIN using the number pad, then tap :guilabel:`OK` when done. The employee is then checked
 in or out, and a :ref:`confirmation message <attendances/confirmation>` appears.
 
-.. image:: kiosks/enter-pin.png
+.. image:: kiosks/enter-pin.webp
    :align: center
    :alt: The pop-up that appears when prompted to enter a pin.
 
@@ -186,6 +186,6 @@ When checking out, the screen displays a goodbye message, with the date and time
 the total hours logged for the day. Beneath the message is a :guilabel:`Goodbye` button. To exit the
 screen before the preset time, tap the :guilabel:`Goodbye` button.
 
-.. image:: kiosks/goodbye-message.png
+.. image:: kiosks/goodbye-message.webp
    :align: center
    :alt: The goodbye message with all the employee's check out information.

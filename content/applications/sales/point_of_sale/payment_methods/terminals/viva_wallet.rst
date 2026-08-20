@@ -32,7 +32,7 @@ Locate your `Merchant ID and API key following the Viva documentation
 Then, save the keys and paste them into the Odoo :guilabel:`Merchant ID` and :guilabel:`API Key`
 fields :ref:`when creating the payment method <viva_wallet/method-creation>`.
 
-.. image:: viva_wallet/access-cred.png
+.. image:: viva_wallet/access-cred.webp
    :alt: merchant ID and API key fields
 
 .. note::
@@ -51,7 +51,7 @@ fields :ref:`when creating the payment method <viva_wallet/method-creation>`.
 .. warning::
    These credentials are only displayed once. Ensure you keep a copy to secure them.
 
-.. image:: viva_wallet/api-cred.png
+.. image:: viva_wallet/api-cred.webp
    :alt: Client secret and client ID fields
 
 .. note::
@@ -72,7 +72,7 @@ The terminal ID number is located under the :guilabel:`Terminal ID (TID)` column
 it into the :guilabel:`Terminal ID` field :ref:`when creating the payment method
 <viva_wallet/method-creation>`.
 
-.. image:: viva_wallet/terminal-id.png
+.. image:: viva_wallet/terminal-id.webp
    :alt: Viva terminal ID
 
 .. _viva_wallet/method-creation:
@@ -96,7 +96,7 @@ Configure the payment method
 #. Save the form and copy the generated webhook URL from the :guilabel:`Viva Wallet Webhook
    Endpoint` field. This URL is necessary :ref:`when configuring the webhook <viva_wallet/webhook>`.
 
-.. image:: viva_wallet/create-method-viva-wallet.png
+.. image:: viva_wallet/create-method-viva-wallet.webp
    :alt: payment method creation form
    :scale: 75%
 

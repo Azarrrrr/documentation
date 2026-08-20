@@ -32,7 +32,7 @@ Configuration --> Settings`. Under the :guilabel:`Orders` section, click the che
 
 Then, click :guilabel:`Save` to apply the change.
 
-.. image:: calls_for_tenders/calls-for-tenders-enabled-setting.png
+.. image:: calls_for_tenders/calls-for-tenders-enabled-setting.webp
    :align: center
    :alt: Purchase Agreements enabled in the Purchase app settings.
 
@@ -59,7 +59,7 @@ To create alternative |RfQs| from the original, click the :guilabel:`Alternative
 :guilabel:`Create Alternative`. When clicked, a :guilabel:`Create alternative` pop-up window
 appears.
 
-.. image:: calls_for_tenders/calls-for-tenders-create-alternative.png
+.. image:: calls_for_tenders/calls-for-tenders-create-alternative.webp
    :align: center
    :alt: Calls for tenders pop-up to create alternative quotation.
 
@@ -103,7 +103,7 @@ clicking :guilabel:`Add a product`, and selecting the desired products from the 
 
 Once the desired number of specific products are added, click :guilabel:`Send by Email`.
 
-.. image:: calls_for_tenders/calls-for-tenders-blank-quotation.png
+.. image:: calls_for_tenders/calls-for-tenders-blank-quotation.webp
    :align: center
    :alt: Blank alternative quotation with alternatives in breadcrumbs.
 
@@ -135,7 +135,7 @@ separately, there are no other orders linked yet.
 However, to link this |RfQ| with existing alternatives, click :guilabel:`Link to Existing RfQ` on
 the first line in the :guilabel:`Vendor` column.
 
-.. image:: calls_for_tenders/calls-for-tenders-link-rfq-popup.png
+.. image:: calls_for_tenders/calls-for-tenders-link-rfq-popup.webp
    :align: center
    :alt: Pop-up to link new quotation to existing RFQs.
 
@@ -167,7 +167,7 @@ Then, click the :guilabel:`Alternatives` tab to see all linked |RfQs|. Next, und
 :guilabel:`Create Alternative` option, click :guilabel:`Compare Product Lines`. This navigates to
 the :guilabel:`Compare Order Lines` page.
 
-.. image:: calls_for_tenders/calls-for-tenders-compare-products.png
+.. image:: calls_for_tenders/calls-for-tenders-compare-products.webp
    :align: center
    :alt: Compare Product Lines page for alternative RFQs.
 
@@ -205,7 +205,7 @@ The cost in the :guilabel:`Total` column for each product that wasn't chosen is 
 Although they haven't been cancelled yet, this indicates that each of those orders can be cancelled
 without having an effect on the other live orders, once those orders have been confirmed.
 
-.. image:: calls_for_tenders/calls-for-tenders-zero-total.png
+.. image:: calls_for_tenders/calls-for-tenders-zero-total.webp
    :align: center
    :alt: Cancelled quotations in the Purchase app overview.
 
@@ -233,7 +233,7 @@ any additional product quantities need to be ordered later.
 Once all products are ordered, select :guilabel:`Cancel Alternatives` from whichever |PO|
 is open at that time.
 
-.. image:: calls_for_tenders/calls-for-tenders-keep-or-cancel.png
+.. image:: calls_for_tenders/calls-for-tenders-keep-or-cancel.webp
    :align: center
    :alt: Keep or cancel pop-up for alternative RFQs.
 

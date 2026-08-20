@@ -43,7 +43,7 @@ off summary. The complete details are presented in a popover window, including t
 :guilabel:`Allocated` time, :guilabel:`Accrual (Future)` time, :guilabel:`Approved` time off
 scheduled, :guilabel:`Planned` time off, and the currently :guilabel:`Available` time off.
 
-.. image:: my_time/balance-details.png
+.. image:: my_time/balance-details.webp
    :align: center
    :alt: A view of the complete time off balance details in the popover window.
 
@@ -78,7 +78,7 @@ New allocation requests can also be made from the :guilabel:`Dashboard`. Click t
 Allocation Request` button to request more time off, and a :ref:`New Allocation
 <time_off/request-allocation>` pop-up window appears.
 
-.. image:: my_time/dashboard.png
+.. image:: my_time/dashboard.webp
    :align: center
    :alt: Time off dashboard view with the legend, time off summaries, and view buttons highlighted.
 

@@ -20,7 +20,7 @@ Then, define the :guilabel:`Tax Cash Basis Journal`. Click on the external link 
 journal to update its default properties such as the :guilabel:`Journal Name`, :guilabel:`Type` or
 :guilabel:`Short Code`.
 
-.. image:: cash_basis/tax_cash_basis_journal.png
+.. image:: cash_basis/tax_cash_basis_journal.webp
     :align: center
     :alt: Select your Tax Cash Basis Journal and click on the external link
 
@@ -35,7 +35,7 @@ clicking on it.
 The :guilabel:`Account` column reflects the proper transitional accounts to post taxes until the
 payment is registered.
 
-.. image:: cash_basis/account_column.png
+.. image:: cash_basis/account_column.webp
     :align: center
     :alt: Fill in the account column with a transitional accounts where taxes go until the payment
        is registered
@@ -45,7 +45,7 @@ In the :guilabel:`Advanced Options` tab, decide of the :guilabel:`Tax Exigilibit
 then also define the :guilabel:`Cash Basis Transition Account` where the tax amount is recorded as
 long as the original invoice has not been reconciled.
 
-.. image:: cash_basis/advanced_options.png
+.. image:: cash_basis/advanced_options.webp
     :align: center
     :alt: Fill in the Cash Basis Transition Account where taxes amounts go until payment
         reconciliation.
@@ -56,7 +56,7 @@ Impact of cash basis taxes on accounting
 To illustrate the impact of cash basis taxes on accounting transactions, let's take an example with
 the sales of a product that costs 1,000$, with a cash basis tax of 15%.
 
-.. image:: cash_basis/customer_invoice_with_cbt.png
+.. image:: cash_basis/customer_invoice_with_cbt.webp
     :align: center
     :alt:
 

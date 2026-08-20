@@ -37,7 +37,7 @@ follows:
 - In the :guilabel:`Instructions` text field of the :guilabel:`Notes` tab, enter instructions for
   how to complete the quality check and the criteria that must be met for the check to pass.
 
-.. image:: pass_fail_check/quality-check-form.png
+.. image:: pass_fail_check/quality-check-form.webp
    :align: center
    :alt: A quality check form configured for a Pass - Fail quality check.
 
@@ -54,7 +54,7 @@ the new |QCP| form as follows:
 - In the :guilabel:`Instructions` text field, enter instructions for how to complete the quality
   check and the criteria that must be met for the check to pass.
 
-.. image:: pass_fail_check/qcp-form.png
+.. image:: pass_fail_check/qcp-form.webp
    :align: center
    :alt: A Quality Control Point (QCP) form configured to create a Pass - Fail quality check.
 
@@ -93,7 +93,7 @@ To process a *Pass - Fail* quality check, follow the instructions shown on the :
 Check` pop-up window. If the criteria for the check is met, click the :guilabel:`Pass` button at the
 bottom of the window. If the criteria is not met, click the :guilabel:`Fail` button.
 
-.. image:: pass_fail_check/pass-fail-check-pop-up.png
+.. image:: pass_fail_check/pass-fail-check-pop-up.webp
    :align: center
    :alt: A Pass - Fail quality check pop-up window on a manufacturing or inventory order.
 
@@ -136,7 +136,7 @@ If the :guilabel:`Pass` button is clicked, the pop-up window moves to the next s
 order. If the :guilabel:`Fail` button is clicked, a :guilabel:`Quality Check Failed` pop-up window
 appears, detailing what should be done next.
 
-.. image:: pass_fail_check/pass-fail-check-shop-floor.png
+.. image:: pass_fail_check/pass-fail-check-shop-floor.webp
    :align: center
    :alt: A Pass - Fail check as it appears in the Shop Floor module.
 

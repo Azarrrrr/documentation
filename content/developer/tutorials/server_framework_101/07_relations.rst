@@ -28,13 +28,13 @@ Many2one
 
     - a new ``estate.property.type`` model should be created with the corresponding menu, action and views.
 
-    .. image:: 07_relations/property_type.png
+    .. image:: 07_relations/property_type.webp
         :align: center
         :alt: Property type
 
     - three Many2one fields should be added to the ``estate.property`` model: property type, buyer and seller.
 
-    .. image:: 07_relations/property_many2one.png
+    .. image:: 07_relations/property_many2one.webp
         :align: center
         :alt: Property
 
@@ -135,13 +135,13 @@ Many2many
 
     - a new ``estate.property.tag`` model should be created with the corresponding menu and action.
 
-    .. image:: 07_relations/property_tag.png
+    .. image:: 07_relations/property_tag.webp
         :align: center
         :alt: Property tag
 
     - tags should be added to the ``estate.property`` model:
 
-    .. image:: 07_relations/property_many2many.png
+    .. image:: 07_relations/property_many2many.webp
         :align: center
         :alt: Property
 
@@ -199,7 +199,7 @@ One2many
     - a new ``estate.property.offer`` model should be created with the corresponding form and list view.
     - offers should be added to the ``estate.property`` model:
 
-    .. image:: 07_relations/property_offer.png
+    .. image:: 07_relations/property_offer.webp
         :align: center
         :alt: Property offers
 

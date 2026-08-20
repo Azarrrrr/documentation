@@ -44,7 +44,7 @@ You can choose to display the type of pricing next to the product price by going
 :menuselection:`Website --> Site --> Homepage --> Shop`, selecting a product, and then
 :menuselection:`Edit --> Customize tab` and enabling :guilabel:`Tax Indication`.
 
-.. image:: price_management/price-tax-display-type.png
+.. image:: price_management/price-tax-display-type.webp
    :align: center
    :alt: Tax type displayed on the product page
 
@@ -61,14 +61,14 @@ Reference Price` under the :guilabel:`Shop - Products` section. When enabled, en
 set in the :guilabel:`Base Unit Count` field of the **product template**, and in the
 :guilabel:`Sales Price`.
 
-.. image:: price_management/price-cost-per-unit.png
+.. image:: price_management/price-cost-per-unit.webp
    :align: center
    :alt: Cost per unit pricing on the product template
 
 The price per unit of measure can be found above the :guilabel:`Add to Cart` button on the product
 page.
 
-.. image:: price_management/price-cost-per-unit-page.png
+.. image:: price_management/price-cost-per-unit-page.webp
    :align: center
    :alt: Cost per unit pricing on the product page
 
@@ -113,7 +113,7 @@ If you are selling in **multiple currencies** and have pricelists in foreign cur
 can select their corresponding pricelist anywhere on the :guilabel:`Shop` page from the drop-down
 menu next to the **search bar**.
 
-.. image:: price_management/price-pricelists.png
+.. image:: price_management/price-pricelists.webp
    :align: center
    :alt: Pricelists selection
 
@@ -128,7 +128,7 @@ If you have permanently reduced the price of a product, a popular means to attra
 **strikethrough** strategy. The strategy consists in displaying the previous price crossed out and
 the **new discounted price** next to it.
 
-.. image:: price_management/price-strikethrough.png
+.. image:: price_management/price-strikethrough.webp
    :align: center
    :alt: Price strikethrough
 

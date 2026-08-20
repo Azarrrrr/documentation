@@ -30,7 +30,7 @@ Emirates** localization:
      - ``l10n_ae_pos``
      - Includes the UAE-compliant POS receipt.
 
-.. image:: united_arab_emirates/l10n-ae-modules.png
+.. image:: united_arab_emirates/l10n-ae-modules.webp
    :align: center
    :alt: Select the modules to install.
 
@@ -126,7 +126,7 @@ tax group, as other groups do not need closing. To do so, enable the :doc:`devel
 .. note::
    The :abbr:`RCM (Reverse Charge Mechanism)` is supported by Odoo.
 
-.. image:: united_arab_emirates/uae-localization-taxes.png
+.. image:: united_arab_emirates/uae-localization-taxes.webp
    :align: center
    :alt: Preview of the UAE localization package's taxes.
 
@@ -153,7 +153,7 @@ The :guilabel:`UAE - Payroll` module creates the necessary **salary rules** in t
 compliance with the UAE rules and regulations. The salary rules are linked to the corresponding
 accounts in the **chart of accounts**.
 
-.. image:: united_arab_emirates/uae-localization-salary-rules.png
+.. image:: united_arab_emirates/uae-localization-salary-rules.webp
    :align: center
    :alt: The UAE Employee Payroll Structure.
 
@@ -164,7 +164,7 @@ To apply these rules to an employee's contract, go to :menuselection:`Payroll --
 Contracts` and select the employee's contract. In the :guilabel:`Salary Structure Type` field,
 select :guilabel:`UAE Employee`.
 
-.. image:: united_arab_emirates/uae-localization-salary-structure.png
+.. image:: united_arab_emirates/uae-localization-salary-structure.webp
    :align: center
    :alt: Select the Salary Structure Type to apply to the contract.
 

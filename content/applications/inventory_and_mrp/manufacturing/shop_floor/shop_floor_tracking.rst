@@ -22,7 +22,7 @@ All active operators are listed in the operator panel on the left side of the mo
 be opened or collapsed by clicking the :guilabel:`show/hide panel (white square with black column on
 left side)` button, located in the top-left corner of the module.
 
-.. image:: shop_floor_tracking/operator-panel.png
+.. image:: shop_floor_tracking/operator-panel.webp
    :align: center
    :alt: The operator panel in the Shop Floor module, with the show/hide panel button above it.
 
@@ -37,7 +37,7 @@ If a PIN code is required, a :guilabel:`Password?` pop-up window appears, showin
 which the code can be entered. Enter the code using the number pad, and click :guilabel:`Confirm` to
 sign in to the *Shop Floor* module.
 
-.. image:: shop_floor_tracking/pin-code.png
+.. image:: shop_floor_tracking/pin-code.webp
    :align: center
    :alt: The "Password?" pop-up window, which is used to enter an operator PIN code.
 
@@ -76,7 +76,7 @@ header of the work order card to start timing the duration it takes to complete.
 displayed by a timer on the header of the work order card, which tracks the collective time spent
 working on the work order, by all employees.
 
-.. image:: shop_floor_tracking/work-order-timer.png
+.. image:: shop_floor_tracking/work-order-timer.webp
    :align: center
    :alt: A work order card with an active timer.
 
@@ -89,7 +89,7 @@ Employees are able to work on multiple work orders simultaneously, and track the
 The reference number for each work order being worked on appears below the employee's name, along
 with a timer.
 
-.. image:: shop_floor_tracking/employee-timer.png
+.. image:: shop_floor_tracking/employee-timer.webp
    :align: center
    :alt: An employee card in the operator panel, showing two work order timers.
 

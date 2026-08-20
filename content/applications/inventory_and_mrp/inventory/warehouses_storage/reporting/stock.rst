@@ -11,7 +11,7 @@ reserved, purchased and in transit, as well as those delivered to customers.
 
 To access the stock report, go to :menuselection:`Inventory app --> Reporting --> Stock`.
 
-.. image:: stock/stock-report.png
+.. image:: stock/stock-report.webp
    :align: center
    :alt: Show the stock report, accessible by going to Inventory > Reporting > Stock.
 
@@ -80,7 +80,7 @@ Search options
         was ticked in the :guilabel:`Point of Sale` section of a product form's :guilabel:`Sales`
         tab. The option is only available when the :guilabel:`Available in POS` checkbox is ticked.
 
-        .. image:: stock/available-in-self-order.png
+        .. image:: stock/available-in-self-order.webp
            :align: center
            :alt: In the Sales tab of a product form, showing *Available in Self Order* setting.
 

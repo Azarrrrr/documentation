@@ -26,7 +26,7 @@ labels. Finally, provide the company's :ref:`source address
 .. seealso::
    :doc:`../setup_configuration/third_party_shipper`
 
-.. image:: labels/integration-level.png
+.. image:: labels/integration-level.webp
    :align: center
    :alt: Set the "Get Rate and Create Shipment" option.
 
@@ -50,7 +50,7 @@ operation.
    picking instead of delivery. Odoo allows users to enable the :guilabel:`Print Label` feature on
    the `Pick` operation itself to achieve this flexibility.
 
-   .. image:: labels/pick-print-label.png
+   .. image:: labels/pick-print-label.webp
       :align: center
       :alt: Enable the "Print Label" feature.
 
@@ -85,7 +85,7 @@ To generate a tracking label for an order, begin by creating a quotation in :men
 app --> Orders --> Quotations`, clicking :guilabel:`New`, and filling out the quotation form. Then,
 click the :guilabel:`Add Shipping` button in the bottom-right corner of the quotation.
 
-.. image:: labels/add-shipping-button.png
+.. image:: labels/add-shipping-button.webp
    :align: center
    :alt: Show the "Add Shipping" button on the quotation.
 
@@ -107,7 +107,7 @@ delivery product <inventory/shipping_receiving/delivery-product>`. Finally, clic
 :guilabel:`Confirm` on the quotation, and click the :guilabel:`Delivery` smart button to access the
 |DO|.
 
-.. image:: labels/get-rate.png
+.. image:: labels/get-rate.webp
    :align: center
    :alt: Show "Get rate" pop-up window.
 
@@ -116,7 +116,7 @@ delivery product <inventory/shipping_receiving/delivery-product>`. Finally, clic
    the :menuselection:`Inventory` app, navigating to the |DO|, and going to the
    :guilabel:`Additional Info` tab.
 
-   .. image:: labels/additional-info-tab.png
+   .. image:: labels/additional-info-tab.webp
       :align: center
       :alt: Show the "Additional Info" tab of a delivery order.
 
@@ -145,7 +145,7 @@ shipping carrier's website.
 
 The tracking label is found in PDF format in the chatter.
 
-.. image:: labels/shipping-label.png
+.. image:: labels/shipping-label.webp
    :align: center
    :alt: Show generated shipping label in the chatter.
 
@@ -153,7 +153,7 @@ The tracking label is found in PDF format in the chatter.
    For multi-package shipping, one label is generated per package. Each label appears in the
    chatter.
 
-.. figure:: labels/sample-label.png
+.. figure:: labels/sample-label.webp
    :align: center
    :alt: Sample label generated from Odoo's shipping connector with FedEx.
 

@@ -64,7 +64,7 @@ The fields on the form are:
 
 - :guilabel:`Notes`: enter any notes for the repair at the bottom of the service form.
 
-.. image:: service/new-service.png
+.. image:: service/new-service.webp
    :align: center
    :alt: Enter the information for a new service. The required fields are Service Type and Vehicle.
 
@@ -165,7 +165,7 @@ Fill out the following information in the top-half of the form:
   :guilabel:`✏️ (pencil)` icon, and click it. A file explorer window appears. Navigate to the
   desired file, then click :guilabel:`Open` to select it.
 
-.. image:: service/create-vendor.png
+.. image:: service/create-vendor.webp
    :align: center
    :alt: The top portion of the create vendor form.
 
@@ -194,7 +194,7 @@ pop-up window. Those options are as follows:
   about overdue invoices.
 - :guilabel:`Other Address`: select this option to add any other necessary addresses for the vendor.
 
-.. image:: service/vendor-contact.png
+.. image:: service/vendor-contact.webp
    :align: center
    :alt: The create contact form with all parts filled in.
 
@@ -216,7 +216,7 @@ what type of contact is listed.
    A :guilabel:`Delivery Address` displays a :guilabel:`⛟ (truck)` icon inside that specific address
    box, whereas an :guilabel:`Invoice Address` displays a :guilabel:`💵 (dollar bill)` icon inside.
 
-   .. image:: service/contact-tab.png
+   .. image:: service/contact-tab.webp
       :align: center
       :alt: The create contact form with all parts filled in.
 
@@ -282,7 +282,7 @@ Each service listed displays the following information:
 
 At the bottom of the :guilabel:`Cost` column, the total cost of all services and repairs are listed.
 
-.. image:: service/services.png
+.. image:: service/services.webp
    :align: center
    :alt: The full list of services in the Odoo database.
 
@@ -293,7 +293,7 @@ It is recommended to view the list of services in one of several pre-configured 
 the information presented. In the top-right corner of the list, there are several icons that when
 clicked, sort the data in different ways.
 
-.. image:: service/views.png
+.. image:: service/views.webp
    :align: center
    :alt: The icons in the top right corner than can be clicked to present the information in
          different ways.
@@ -350,7 +350,7 @@ The length of the color bar is proportionate to the number of corresponding acti
 specific status in that particular stage. Hover over a color section to reveal the number of service
 records in that specific grouping.
 
-.. image:: service/kanban.png
+.. image:: service/kanban.webp
    :align: center
    :alt: The service records presented in a Kanban view.
 
@@ -359,7 +359,7 @@ background color for the column changes to a pale hue of the same color (either 
 or gray), and the color bar appears striped instead of solid. **Only** repairs and services with the
 selected status appear in the column.
 
-.. image:: service/kanban-status.png
+.. image:: service/kanban-status.webp
    :align: center
    :alt: The oil change service records showing only repairs with past-due activities.
 
@@ -428,7 +428,7 @@ corresponding button above the graph. Additionally, the graph can display the da
 :guilabel:`Stacked`, :guilabel:`Descending`, or :guilabel:`Ascending` order, by clicking the
 corresponding buttons.
 
-.. image:: service/bar-chart.png
+.. image:: service/bar-chart.webp
    :align: center
    :alt: A bar chart view of the services and repairs, with the various option buttons highlighted.
 
@@ -443,7 +443,7 @@ rows represent the various types of service, with a different service type in it
 vertical columns represent the total costs for each specific type of service, further divided by the
 type of service.
 
-.. image:: service/pivot.png
+.. image:: service/pivot.webp
    :align: center
    :alt: The default pivot table view of the services.
 
@@ -501,7 +501,7 @@ that column.
 The number of activities for each activity type is written on the right side of the color-coded bar
 beneath the column name.
 
-.. image:: service/activity-view.png
+.. image:: service/activity-view.webp
    :align: center
    :alt: The activity view, with the columns called out, and an activity box highlighted.
 

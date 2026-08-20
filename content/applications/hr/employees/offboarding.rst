@@ -56,7 +56,7 @@ selected), and a red :guilabel:`Archived` banner appears in the top-right corner
 form. The chatter logs the :guilabel:`Departure Date` and :guilabel:`Departure Reason`, and if an
 access link was emailed.
 
-.. image:: offboarding/termination.png
+.. image:: offboarding/termination.webp
    :align: center
    :alt: The employee termination form with all fields filled out.
 

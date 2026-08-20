@@ -19,7 +19,7 @@ To understand *location sequence* in the closest removal strategy, consider the 
    A product is stored in the following locations: `Shelf A/Pallet`, `Shelf A/Rack 1`, and `Shelf
    A/Rack 2`.
 
-   .. image:: closest_location/locations.png
+   .. image:: closest_location/locations.webp
       :align: center
       :alt: Show a mockup of real storage location in a warehouse.
 
@@ -74,7 +74,7 @@ Fifteen, five, and thirty units are in stock at each respective location.
    To check the on-hand stock at each storage location, navigate to the product form, and click the
    :guilabel:`On Hand` smart button.
 
-   .. image:: closest_location/on-hand-stock.png
+   .. image:: closest_location/on-hand-stock.webp
       :align: center
       :alt: Show on-hand stock at all locations.
 
@@ -93,6 +93,6 @@ the quantities to fulfill the :guilabel:`Demand` are picked. All fifteen of the 
 closest location, `WH/Stock/Shelf 1`, are picked first. The remaining three units are then selected
 from the second closest location, `WH/Stock/Shelf 2`.
 
-.. image:: closest_location/stock-move-window.png
+.. image:: closest_location/stock-move-window.webp
    :align: center
    :alt: Display *Pick From* quantities for the order for iPhone chargers.

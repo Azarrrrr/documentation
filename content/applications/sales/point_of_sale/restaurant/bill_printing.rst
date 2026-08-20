@@ -13,7 +13,7 @@ To activate the features, go to :menuselection:`Point of Sale --> Configuration 
 select the POS, and activate :guilabel:`Early Receipt Printing` and :guilabel:`Allow Bill Splitting`
 in the :guilabel:`Restaurant & Bar` section.
 
-.. image:: bill_printing/settings.png
+.. image:: bill_printing/settings.webp
    :align: center
    :alt: activate the bill printing and bill splitting features in the POS settings
 

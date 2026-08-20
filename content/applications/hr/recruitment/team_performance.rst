@@ -23,7 +23,7 @@ filter, as displayed in the search bar.
 Hover the cursor over any column to view a popover window, displaying the specific details for that
 column.
 
-.. image:: team_performance/team-performance.png
+.. image:: team_performance/team-performance.webp
    :align: center
    :alt: The default bar chart of the team performance report.
 
@@ -50,7 +50,7 @@ addition, the :guilabel:`Experienced Developer` has the least amount of refused 
 This pivot table also shows that the :guilabel:`Chief Executive Officer` position is the hardest to
 fill, as it has the fewest total applicants.
 
-.. image:: team_performance/team-perf-pivot.png
+.. image:: team_performance/team-perf-pivot.webp
    :align: center
    :alt: The detailed pivot table view.
 
@@ -66,7 +66,7 @@ drop-down menu. Click :guilabel:`Add Custom Group` :icon:`oi-caret-down` at the 
 :icon:`oi-group` :guilabel:`Group By` column, then click :guilabel:`Recruiter`. Click away from the
 drop-down menu to close it. Now, each row on the table represents a recruiter.
 
-.. image:: team_performance/by-recruiter.png
+.. image:: team_performance/by-recruiter.webp
    :align: center
    :alt: The pivot table now displaying the recruiters in the rows.
 
@@ -82,7 +82,7 @@ After making this selection, a :icon:`fa-adjust` :guilabel:`Comparison` column a
 :guilabel:`Start Date: Previous Period` to compare the third quarter with the second quarter, for
 the various recruiters.
 
-.. image:: team_performance/compare.png
+.. image:: team_performance/compare.webp
    :align: center
    :alt: A comparison table of recruiter totals of Q2 and Q3.
 

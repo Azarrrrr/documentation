@@ -39,7 +39,7 @@ Warehouse configuration
 Once logged into the Sendcloud account, navigate to :menuselection:`Settings --> Shipping -->
 Addresses`, and fill in the field for :guilabel:`Warehouse address`.
 
-.. image:: sendcloud_shipping/settings-shipping.png
+.. image:: sendcloud_shipping/settings-shipping.webp
    :align: center
    :alt: Adding addresses in the Sendcloud settings.
 
@@ -77,7 +77,7 @@ company name replacing `CompanyName` (e.g. `Odoo StealthyWood`).
 Then, check the box next to :guilabel:`Service Points` and select the shipping services for this
 integration. After saving, the :guilabel:`Public and Secret Keys` are generated.
 
-.. image:: sendcloud_shipping/public-secret-keys.png
+.. image:: sendcloud_shipping/public-secret-keys.webp
    :align: center
    :alt: Configuring the Sendcloud integration and receiving the credentials.
 
@@ -100,7 +100,7 @@ After the Sendcloud account is set up and configured, it's time to configure the
 get started, go to Odoo's :guilabel:`Apps` module, search for the `Sendcloud Shipping` integration,
 and install it.
 
-.. image:: sendcloud_shipping/sendcloud-mod.png
+.. image:: sendcloud_shipping/sendcloud-mod.webp
    :align: center
    :alt: Sendcloud Shipping module in the Odoo Apps module.
 
@@ -161,7 +161,7 @@ After configuring and saving the form, follow these steps to load the shipping p
    | :guilabel:`Return Maximum Weight`: `20.00`
    | :guilabel:`Return Countries`: `Belgium` `Netherlands`
 
-.. image:: sendcloud_shipping/sendcloud-example.png
+.. image:: sendcloud_shipping/sendcloud-example.webp
    :align: center
    :alt: Example of shipping products configured in Odoo.
 
@@ -239,7 +239,7 @@ field.
 From here, choose either: :guilabel:`Shipping` to customers, :guilabel:`Returns` from customers, or
 :guilabel:`Both`.
 
-.. image:: sendcloud_shipping/enable-shipping-rules.png
+.. image:: sendcloud_shipping/enable-shipping-rules.webp
    :align: center
    :alt: Use Shipping Rules field.
 
@@ -274,7 +274,7 @@ Use custom prices from a direct carrier contract, via CSV upload, by first loggi
 navigating to :menuselection:`Settings --> Carriers --> My contracts`, and then selecting the
 intended contract.
 
-.. image:: sendcloud_shipping/contracts.png
+.. image:: sendcloud_shipping/contracts.webp
    :align: center
    :alt: Navigate to the contracts section in Sendcloud.
 
@@ -284,7 +284,7 @@ contract prices in the :guilabel:`price` column of the CSV file template.
 .. warning::
    Ensure the CSV file includes the correct prices to avoid any inaccuracies.
 
-.. image:: sendcloud_shipping/price-csv.png
+.. image:: sendcloud_shipping/price-csv.webp
    :align: center
    :alt: Show sample contract CSV from Sendcloud, highlighting the price column.
 

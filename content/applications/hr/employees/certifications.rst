@@ -31,7 +31,7 @@ The entries are also color-coded. Current certifications that are still valid ap
 expired certifications appear in red, and certifications that are going to expire within the next
 90 days appear in orange.
 
-.. image:: certifications/certifications.png
+.. image:: certifications/certifications.webp
    :align: center
    :alt: The list of employee certifications.
 
@@ -60,7 +60,7 @@ and lastly, certifications that are still :guilabel:`Valid`.
 This view provides an easy way to see which employees have certifications that are going to expire
 soon, to determine which employees need to take action to keep their certifications current.
 
-.. image:: certifications/status.png
+.. image:: certifications/status.webp
    :align: center
    :alt: The list of employee certifications, grouped by status.
 
@@ -112,6 +112,6 @@ information on the form:
   the start and end dates for the certification validity period. When the correct dates are
   selected, click :icon:`fa-check` :guilabel:`Apply`, and both fields are populated.
 
-.. image:: certifications/osha.png
+.. image:: certifications/osha.webp
    :align: center
    :alt: A certification form filled out for an OSHA certificate for construction.

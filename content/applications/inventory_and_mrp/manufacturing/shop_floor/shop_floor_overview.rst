@@ -53,7 +53,7 @@ signed in to *Shop Floor*, and allows new employees to sign in. The operator pan
 available in the module, regardless of which view is selected. It can be toggled on or off by
 clicking the :guilabel:`sidebar` button at the extreme left of the navigation bar.
 
-.. image:: shop_floor_overview/sidebar-button.png
+.. image:: shop_floor_overview/sidebar-button.webp
    :align: center
    :alt: The "sidebar" button, which is used to toggle the operator panel on or off.
 
@@ -113,7 +113,7 @@ with additional options for the |MO|:
 - :guilabel:`Add Component` is used to add an additional component to the |MO|.
 - :guilabel:`Open Backend MO` opens the |MO| in the Manufacturing app.
 
-.. image:: shop_floor_overview/mo-card.png
+.. image:: shop_floor_overview/mo-card.webp
    :align: center
    :alt: An information card for an MO on the "All" page of the Shop Floor module.
 
@@ -177,7 +177,7 @@ with additional options for the work order:
 - :guilabel:`Create a Quality Alert` opens a quality alert form that can be filled out to alert a
   quality team about a potential issue.
 
-.. image:: shop_floor_overview/wo-card.png
+.. image:: shop_floor_overview/wo-card.webp
    :align: center
    :alt: An information card for a work order in the Shop Floor module.
 
@@ -202,7 +202,7 @@ bottom of the panel. Then, select an employee from the :guilabel:`Select Employe
 To remove an employee from the operator panel, simply click the :guilabel:`x` button next to their
 name in the panel.
 
-.. image:: shop_floor_overview/operator-panel.png
+.. image:: shop_floor_overview/operator-panel.webp
    :align: center
    :alt: The operator panel of the Shop Floor module, showing three employees signed in.
 
@@ -249,7 +249,7 @@ each work center organizes work orders, based on the scheduled dates of their co
    On the :guilabel:`All MO #` page of the **Shop Floor** module, the cards for each |MO| appear in
    this order: WH/MO/00411, WH/MO/00413, WH/MO/00412.
 
-   .. image:: shop_floor_overview/mo-order.png
+   .. image:: shop_floor_overview/mo-order.webp
       :align: center
       :alt: MOs in the Shop Floor module, ordered by their scheduled date.
 

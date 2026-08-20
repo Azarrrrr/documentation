@@ -46,7 +46,7 @@ The following information appears in the list:
 - :guilabel:`Company`: the company under which the order was placed. This only appears in a
   multi-company database.
 
-.. image:: management/today.png
+.. image:: management/today.webp
    :align: center
    :alt: The list that appears in the Today's Orders dashboard, with the filters and top column
          names highlighted.
@@ -67,7 +67,7 @@ cancel the order for that individual product.
 .. note::
    Only products with a red :guilabel:`Status` tag of :guilabel:`Ordered` can be cancelled.
 
-.. image:: management/cancel.png
+.. image:: management/cancel.webp
    :align: center
    :alt: Order lines with the cancel button highlighted.
 
@@ -89,7 +89,7 @@ the :guilabel:`Status` column is updated from red :guilabel:`Ordered` tags to bl
 tags, indicating the order has been sent to the vendor. Users who have placed orders in the *Lunch*
 app rely on the :guilabel:`Status` tags to track their orders.
 
-.. image:: management/send.png
+.. image:: management/send.webp
    :align: center
    :alt: A vendor's order with the X Cancel and Send Orders buttons highlighted.
 
@@ -116,7 +116,7 @@ can be confirmed one at a time. To confirm an individual product, click the :gui
 button at the end of the individual product line. When confirming individual products with this
 method, the :guilabel:`Confirm Orders` button remains on the vendor line.
 
-.. image:: management/confirm.png
+.. image:: management/confirm.webp
    :align: center
    :alt: The Today's Orders dashboard, with the two different ways to confirm an order highlighted.
 
@@ -176,7 +176,7 @@ Orders can be :ref:`cancelled <lunch/cancel>`, :ref:`sent to the vendor <lunch/s
 <lunch/notify>` using the same method as on the :ref:`Today's Orders <lunch/todays-orders>`
 dashboard.
 
-.. image:: management/control.png
+.. image:: management/control.webp
    :align: center
    :alt: A list view of all the orders as seen in the Control Vendors dashboard.
 

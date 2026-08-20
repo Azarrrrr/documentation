@@ -45,7 +45,7 @@ To add rewards, navigate to :menuselection:`Referrals app --> Configuration --> 
 - :guilabel:`Description` tab: type in the description for the reward. This is visible on the reward
   card, beneath the title. This field is required.
 
-.. image:: rewards/rewards.png
+.. image:: rewards/rewards.webp
    :align: center
    :alt: A filled out reward form with all details entered.
 
@@ -81,7 +81,7 @@ After :guilabel:`OK` is clicked, the pop-up window closes, and the points used t
 reward are subtracted from the user's available points. The rewards presented are now updated to
 reflect the user's current available points.
 
-.. image:: rewards/redeem-rewards.png
+.. image:: rewards/redeem-rewards.webp
    :align: center
    :alt: Buy button appears below a mug and backpack reward, while the bicycle reward states how
          many more reward points are needed to redeem.

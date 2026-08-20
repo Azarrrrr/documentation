@@ -32,7 +32,7 @@ displayed.
    |BOMs| can also be accessed from :menuselection:`Manufacturing app --> Products --> Bill of
    Materials`.
 
-.. image:: version_control/current-version.png
+.. image:: version_control/current-version.webp
    :align: center
    :alt: Show the current version BOM in the Misc tab.
 
@@ -48,7 +48,7 @@ the :guilabel:`≣ (four horizontal lines)` icon on the top right corner.
 .. note::
    The :guilabel:`ECO` smart button is visible on the |BOM| **only** if the *PLM* app is installed.
 
-.. image:: version_control/eco-smart-button.png
+.. image:: version_control/eco-smart-button.webp
    :align: center
    :alt: Show ECO smart button on a BoM.
 
@@ -62,7 +62,7 @@ Next, filter by :guilabel:`Done` |ECOs| to view: the revision history of the |BO
 Click each |ECO| to view the past components, operations, and design files associated with the
 |BOM|.
 
-.. image:: version_control/eco-list.png
+.. image:: version_control/eco-list.webp
    :align: center
    :alt: Display ECO revision history for a BoM for a product.
 
@@ -71,7 +71,7 @@ Click each |ECO| to view the past components, operations, and design files assoc
    automatically set to :guilabel:`As soon as possible` and no dates are recorded in the revision
    history of the |BOM|.
 
-   .. image:: version_control/no-effective-date.png
+   .. image:: version_control/no-effective-date.webp
       :align: center
       :alt: List of BOM effective dates.
 
@@ -92,7 +92,7 @@ icon.
 The files associated with the |BOM| are displayed in the :guilabel:`Files` section. To add more
 design files, select the :guilabel:`Attach files` button.
 
-.. image:: version_control/attach-files.png
+.. image:: version_control/attach-files.webp
     :align: center
     :alt: Show paperclip icon in the chatter to attach files to a BoM.
 
@@ -116,7 +116,7 @@ changes made to these files are contained within the |ECO|, and will only apply 
    In the `Create 60% keyboard` |ECO|, the design files are from the original `100% keyboard` |BOM|.
    To replace the keyboard PDF, begin by selecting the :guilabel:`Documents` smart button.
 
-   .. image:: version_control/documents-smart-button.png
+   .. image:: version_control/documents-smart-button.webp
       :align: center
       :alt: Show *Documents* smart button from an active ECO.
 
@@ -127,7 +127,7 @@ changes made to these files are contained within the |ECO|, and will only apply 
    Next, on the same :guilabel:`Attachments` page, click the :guilabel:`Upload` button to upload the
    new design file, named `60% keyboard manual`.
 
-   .. image:: version_control/attachments.png
+   .. image:: version_control/attachments.webp
       :align: center
       :alt: View of *Attachments* page from the *Documents* smart button. Displays one archived and
             one newly added attachment.
@@ -152,7 +152,7 @@ To resolve conflicts and retain |ECO| changes, click the :guilabel:`Apply Rebase
    `ECO0011`, a new component, `Space stabilizer`, is added, and the changes are applied. This means
    the current |BOM| version has become `6`.
 
-   .. image:: version_control/branch-change.png
+   .. image:: version_control/branch-change.webp
       :align: center
       :alt: Apply changes to an ECO to update the production BOM.
 
@@ -163,7 +163,7 @@ To resolve conflicts and retain |ECO| changes, click the :guilabel:`Apply Rebase
    the :guilabel:`Apply Rebase` button to apply the previous |ECO| changes, without affecting the
    changes already made to `ECO0012`.
 
-   .. image:: version_control/merge-change.png
+   .. image:: version_control/merge-change.webp
       :align: center
       :alt: Click the *Apply Rebase* button to update the BOM to match the production BOM.
 

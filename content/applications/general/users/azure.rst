@@ -88,7 +88,7 @@ issued by the authorization endpoint by scrolling down the screen and check the 
 :guilabel:`Access tokens (used for implicit flows)` and :guilabel:`ID tokens (used for implicit and
 hybrid flows)`.
 
-.. image:: azure/authentication-tokens.png
+.. image:: azure/authentication-tokens.webp
    :align: center
    :alt: Authentication settings and endpoint tokens.
 
@@ -106,7 +106,7 @@ After finishing this step, click on :guilabel:`Endpoints` on the top menu and cl
 next to :guilabel:`OAuth 2.0 authorization endpoint (v2)` field. Paste this value in the clipboard /
 notepad.
 
-.. image:: azure/overview-azure-app.png
+.. image:: azure/overview-azure-app.webp
    :align: center
    :alt: Application ID and OAuth 2.0 authorization endpoint (v2) credentials.
 
@@ -137,7 +137,7 @@ Check the box next to the :guilabel:`Allowed` field to enable the OAuth provider
 `Microsoft Azure` to the :guilabel:`Login button label` field. This text will appear next to the
 Windows logo on the login page.
 
-.. image:: azure/odoo-provider-settings.png
+.. image:: azure/odoo-provider-settings.webp
    :align: center
    :alt: Odoo provider setup in the Settings application.
 
@@ -161,7 +161,7 @@ To sign in to Odoo for the first time using the Microsoft Azure OAuth provider, 
 page should appear. Then, click on the option labeled :guilabel:`Microsoft Azure`. The page will
 redirect to the Microsoft login page.
 
-.. image:: azure/odoo-login.png
+.. image:: azure/odoo-login.webp
    :align: center
    :alt: Microsoft Outlook login page.
 
@@ -169,7 +169,7 @@ Enter the :guilabel:`Microsoft Email Address` and click :guilabel:`Next`. Follow
 in to the account. Should :abbr:`2FA (Two Factor Authentication)` be turned on, then an extra step
 may be required.
 
-.. image:: azure/login-next.png
+.. image:: azure/login-next.webp
    :align: center
    :alt: Enter Microsoft login credentials.
 
@@ -177,6 +177,6 @@ Finally, after logging in to the account, the page will redirect to a permission
 user will be prompted to :guilabel:`Accept` the conditions that the Odoo application will access
 their Microsoft information.
 
-.. image:: azure/accept-access.png
+.. image:: azure/accept-access.webp
    :align: center
    :alt: Accept Microsoft conditions for permission access to your account information.

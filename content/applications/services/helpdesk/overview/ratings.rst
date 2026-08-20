@@ -16,7 +16,7 @@ Configuration --> Helpdesk Teams`. Select a team from the list and click on it t
 page. Scroll to the :guilabel:`Performance` section, and tick the :guilabel:`Customer Ratings`
 checkbox.
 
-.. image:: ratings/ratings-enable.png
+.. image:: ratings/ratings-enable.webp
    :align: center
    :alt: Overview of the settings page of a helpdesk team emphasizing the rating on ticket feature
          in Odoo Helpdesk.
@@ -82,7 +82,7 @@ To view the ratings for a team, a customer will log into the portal and navigate
 tickets. After clicking on the team name in the :guilabel:`Managed By` field, they will be directed
 to a page with the team's ratings over the past thirty days.
 
-.. image:: ratings/ratings-portal-overview.png
+.. image:: ratings/ratings-portal-overview.webp
    :align: center
    :alt: View of the ratings performance overview from the customer portal.
 
@@ -107,7 +107,7 @@ in one of the following ways:
 
 Once on the rating details page, check the :guilabel:`Visible Internally Only` box.
 
-.. image:: ratings/ratings-keep-internal.png
+.. image:: ratings/ratings-keep-internal.webp
    :align: center
    :alt: View of the ratings performance overview from the customer portal.
 

@@ -16,7 +16,7 @@ filters* in the Odoo **Spreadsheets** app.
    via a pivot table, list, or chart to be filtered. Global filters differ from the *sort and
    filter* feature for cell ranges represented by the :icon:`fa-filter` :guilabel:`(filter)` icon.
 
-.. image:: global_filters/global-filters-menu.png
+.. image:: global_filters/global-filters-menu.webp
    :align: center
    :alt: The global filters menu sidebar on a spreadsheet.
 
@@ -94,7 +94,7 @@ stating :guilabel:`Some required fields are not valid`.
    With this configuration, selecting `January` `2024` as the date, filters data as `February`
    `2024`; where the selected month is offset to the next month.
 
-   .. image:: global_filters/date-period-offset.png
+   .. image:: global_filters/date-period-offset.webp
       :align: center
       :alt: A date filter with a period offset of "Next" configured.
 
@@ -137,7 +137,7 @@ stating :guilabel:`Some required fields are not valid`.
    With this configuration, selecting a customer record filters the pivot table to only leads that
    are related to the selected customer record.
 
-   .. image:: global_filters/relation-contact.png
+   .. image:: global_filters/relation-contact.webp
       :align: center
       :alt: A relation filter with the Contact model configured.
 
@@ -178,7 +178,7 @@ stating :guilabel:`Some required fields are not valid`.
    Furthermore, if the values in the range `A2:A6` are added dynamically– the text filter becomes
    dynamic as well.
 
-   .. image:: global_filters/text-values.png
+   .. image:: global_filters/text-values.webp
       :align: center
       :alt: A dynamic text filter with a restricted range.
 

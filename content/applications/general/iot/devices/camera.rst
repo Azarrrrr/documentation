@@ -17,7 +17,7 @@ This is usually done with a :abbr:`USB (Universal Serial Bus)` cable of some sor
 If the camera is `supported <https://www.odoo.com/page/iot-hardware>`_, there is no need to set up
 anything, as it'll be detected as soon as it's connected.
 
-.. image:: camera/camera-dropdown.png
+.. image:: camera/camera-dropdown.webp
    :align: center
    :alt: Camera recognized on the IoT box.
 
@@ -33,14 +33,14 @@ clicking on :guilabel:`Take a Picture` from the drop-down menu. Doing so reveals
 :guilabel:`Device`, wherein the attached *device* can be selected. :guilabel:`Save` the changes, if
 required.
 
-.. image:: camera/control-point-device.png
+.. image:: camera/control-point-device.webp
    :align: center
    :alt: Setting up the device on the quality control point.
 
 The camera is now useable with the selected quality control point. When the quality control point
 is reached during the manufacturing process, the database prompts the operator to take a picture.
 
-.. image:: camera/serial-number-picture.png
+.. image:: camera/serial-number-picture.webp
    :align: center
    :alt: Graphic user interface of the device on the quality control point.
 

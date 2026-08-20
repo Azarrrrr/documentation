@@ -53,7 +53,7 @@ the `iotbox-latest.zip` image and extract it. Next, select the drive the image s
 
 Lastly, click :guilabel:`Flash`, and wait for the process to finish.
 
-.. image:: updating_iot/etcher-app.png
+.. image:: updating_iot/etcher-app.webp
    :align: center
    :alt: Balena's Etcher software dashboard.
 
@@ -65,7 +65,7 @@ Lastly, click :guilabel:`Flash`, and wait for the process to finish.
 
    Then, enter the following: `http://nightly.odoo.com/master/iotbox/iotbox-latest.zip`.
 
-   .. image:: updating_iot/url-flash.png
+   .. image:: updating_iot/url-flash.webp
       :align: center
       :alt:  A view of Balena's Etcher software, with the flash from URL option highlighted.
 
@@ -191,7 +191,7 @@ newer version. All of the previous configurations are then saved.
    :abbr:`IoT (Internet of Things)` box needs to be :ref:`re-flashed <iot/config/flash>` with a new
    image.
 
-.. image:: updating_iot/flash-upgrade.png
+.. image:: updating_iot/flash-upgrade.webp
    :align: center
    :alt: IoT box software upgrade in the IoT Box Home Page.
 
@@ -214,7 +214,7 @@ Things)` box home page. Go to the :abbr:`IoT (Internet of Things)` box home page
 Next, click :guilabel:`Handlers list`, and then select :guilabel:`Load Handlers` at the bottom of
 the page.
 
-.. image:: updating_iot/load-handlers.png
+.. image:: updating_iot/load-handlers.webp
    :align: center
    :alt: Handlers list on an IoT box with the load handlers button highlighted.
 

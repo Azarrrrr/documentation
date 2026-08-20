@@ -22,7 +22,7 @@ an existing product or select :guilabel:`Create` to configure a new one. On the 
 page, make sure that the :guilabel:`Can be Sold` and :guilabel:`Can be Purchased` checkboxes are
 enabled.
 
-.. image:: dropshipping/sold-purchased-checkboxes.png
+.. image:: dropshipping/sold-purchased-checkboxes.webp
    :align: center
    :alt: Enable the "Can be Sold" and "Can be Purchased" checkboxes on the product form.
 
@@ -30,14 +30,14 @@ Click on the :guilabel:`Purchase` tab and specify a vendor and the price that th
 for. Multiple vendors can be added, but the vendor at the top of the list will be the one
 automatically selected for purchase orders.
 
-.. image:: dropshipping/product-vendor-config.png
+.. image:: dropshipping/product-vendor-config.webp
    :align: center
    :alt: The product form with a vendor specified.
 
 Finally, select the :guilabel:`Inventory` tab and enable the :guilabel:`Dropship` checkbox in the
 :guilabel:`Routes` section.
 
-.. image:: dropshipping/enable-dropship-route.png
+.. image:: dropshipping/enable-dropship-route.webp
    :align: center
    :alt: Enable the Dropship option in the product inventory tab.
 
@@ -55,7 +55,7 @@ the :menuselection:`Sales` app by selecting :menuselection:`Orders --> Orders`. 
 :guilabel:`Purchase` smart button at the top right of a sales order to view the associated
 :abbr:`RFQ (Request for Quotation)`.
 
-.. image:: dropshipping/dropship-sales-order.png
+.. image:: dropshipping/dropship-sales-order.webp
    :align: center
    :alt: A dropship sales order with the Purchase smart button in the top right corner.
 
@@ -63,7 +63,7 @@ Once the :abbr:`RFQ (Request for Quotation)` is confirmed, it becomes a purchase
 dropship receipt is created and linked to it. The receipt can be viewed by clicking the
 :guilabel:`Dropship` smart button in the top-right corner of the purchase order form.
 
-.. image:: dropshipping/dropship-purchase-order.png
+.. image:: dropshipping/dropship-purchase-order.webp
    :align: center
    :alt: A dropship purchase order with the Receipt smart button in the top right corner.
 
@@ -72,13 +72,13 @@ and :guilabel:`Partners/Customers` in the :guilabel:`Destination Location` field
 the product to the customer, click on the :guilabel:`Validate` button at the top-left of the
 dropship receipt to confirm the delivered quantity.
 
-.. image:: dropshipping/validate-dropship-receipt.png
+.. image:: dropshipping/validate-dropship-receipt.webp
    :align: center
    :alt: Validate the dropship receipt after delivery.
 
 To view all dropship orders, simply navigate to the :menuselection:`Inventory` :guilabel:`Overview`
 dashboard and click the teal :guilabel:`# TO PROCESS` button on the :guilabel:`Dropship` card.
 
-.. image:: dropshipping/view-all-dropship-orders.png
+.. image:: dropshipping/view-all-dropship-orders.webp
    :align: center
    :alt: Click the green button on the Dropship card to view all dropship orders.

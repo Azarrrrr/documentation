@@ -47,7 +47,7 @@ corner, and select :guilabel:`My Profile` from the resulting drop-down menu.
 Click the :guilabel:`Account Security` tab, then slide the :guilabel:`Two-Factor Authentication`
 toggle to *active*.
 
-.. figure:: 2fa/account-security.png
+.. figure:: 2fa/account-security.webp
    :align: center
 
 This generates a :guilabel:`Security Control` pop-up window that requires password confirmation to
@@ -55,7 +55,7 @@ continue. Enter the appropriate password, then click :guilabel:`Confirm Password
 :guilabel:`Two-Factor Authentication Activation` pop-up window appears, with a |QR|.
 
 
-.. figure:: 2fa/qr-code.png
+.. figure:: 2fa/qr-code.webp
    :align: center
 
 Using the desired authenticator application, scan the |QR| when prompted.
@@ -65,20 +65,20 @@ Using the desired authenticator application, scan the |QR| when prompted.
    the authenticator application), clicking the provided :guilabel:`Cannot scan it?` link, or
    copying the secret to manually set up the authenticator, is an alternative.
 
-   .. figure:: 2fa/secret-visible.png
+   .. figure:: 2fa/secret-visible.webp
       :align: center
 
-   .. figure:: 2fa/input-secret.png
+   .. figure:: 2fa/input-secret.webp
       :align: center
 
 Afterwards, the authenticator should display a *verification code*.
 
-.. figure:: 2fa/authenticator.png
+.. figure:: 2fa/authenticator.webp
    :align: center
 
 Enter the code into the :guilabel:`Verification Code` field, then click :guilabel:`Activate`.
 
-.. figure:: 2fa/2fa-enabled.png
+.. figure:: 2fa/2fa-enabled.webp
    :align: center
 
 Logging in
@@ -90,7 +90,7 @@ On the login page, input the username and password, then click :guilabel:`Log in
 :guilabel:`Two-factor Authentication` page, input the code provided by the chosen authenticator in
 the :guilabel:`Authentication Code` field, then click :guilabel:`Log in`.
 
-.. image:: 2fa/2fa-login.png
+.. image:: 2fa/2fa-login.webp
    :align: center
    :alt: The login page with 2fa enabled.
 
@@ -107,7 +107,7 @@ by mail`.
 
 Click :guilabel:`Install` on the Kanban card for the :guilabel:`2FA by mail` module.
 
-.. image:: 2fa/2FA-by-mail.png
+.. image:: 2fa/2FA-by-mail.webp
    :align: center
    :alt: The 2FA by mail module in the Apps directory.
 
@@ -118,7 +118,7 @@ whether to apply this setting to :guilabel:`Employees only`, or :guilabel:`All u
 .. note::
    Selecting :guilabel:`All users` applies the setting to portal users, in addition to employees.
 
-.. image:: 2fa/enforce-settings.png
+.. image:: 2fa/enforce-settings.webp
    :align: center
    :alt: The enforce two factor setting in the Settings application.
 

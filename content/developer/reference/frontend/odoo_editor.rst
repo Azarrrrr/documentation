@@ -15,7 +15,7 @@ into :ref:`categories <reference/frontend/odoo_editor/powerbox/category>`. It
 appears when typing `/` in the editor. The commands can be filtered when the
 user inputs text, and navigated with the arrow keys.
 
-.. image:: odoo_editor/powerbox.png
+.. image:: odoo_editor/powerbox.webp
    :align: center
    :alt: The Powerbox opened after typing "/".
 
@@ -83,7 +83,7 @@ It is possible to open the Powerbox with a custom set of categories and
 commands, bypassing all pre-existing ones. To do that, call the `open` method of
 the Powerbox and pass it your custom commands and categories.
 
-.. image:: odoo_editor/powerbox-custom.png
+.. image:: odoo_editor/powerbox-custom.webp
    :align: center
    :alt: The Powerbox opened with custom categories and commands when pasting an
          image URL.
@@ -127,7 +127,7 @@ There are three ways to filter commands:
    Powerbox. It will fuzzy-match that text with the names of the categories and
    commands.
 
-.. image:: odoo_editor/powerbox-filtered.png
+.. image:: odoo_editor/powerbox-filtered.webp
    :align: center
    :alt: The Powerbox with its commands filtered using the word "head".
 

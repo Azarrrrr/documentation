@@ -18,7 +18,7 @@ To fold a stage, navigate to the :menuselection:`Helpdesk` dashboard and click o
 pipeline. Hover over a stage's heading, and then click the gear icon that appears in the top-right
 corner of that stage's kanban column.
 
-.. image:: close_tickets/closing-edit-stage-gear.png
+.. image:: close_tickets/closing-edit-stage-gear.webp
    :align: center
    :alt: View of stage on Helpdesk pipeline with emphasis on gear icon and edit stage option.
 
@@ -33,7 +33,7 @@ Check the box labeled :guilabel:`Folded in Kanban` towards the top of the window
 :guilabel:`Save & Close` to confirm the changes. Now, tickets that reach this stage will be
 considered as *closed*.
 
-   .. image:: close_tickets/closing-folded-setting.png
+   .. image:: close_tickets/closing-folded-setting.webp
       :align: center
       :alt: Stage settings page.
 
@@ -81,7 +81,7 @@ If only certain stages should be used to track days of inactivity, they can be a
    - :guilabel:`After``7`:guilabel:`days of inactivity`
    - :guilabel:`In Stages`: `Customer Feedback`
 
-   .. image:: close_tickets/closing-automatic-settings-example.png
+   .. image:: close_tickets/closing-automatic-settings-example.webp
       :align: center
       :alt: Example of Automatic Closing settings.
 
@@ -95,14 +95,14 @@ Start by navigating to :menuselection:`Helpdesk --> Configuration --> Teams` and
 the team's settings page, scroll to the :guilabel:`Self-Service` section and check the box for
 :guilabel:`Closure by Customers`.
 
-.. image:: close_tickets/closing-by-customer-setting.png
+.. image:: close_tickets/closing-by-customer-setting.webp
    :align: center
    :alt: Customer closing setting in Odoo Helpdesk.
 
 Once the ticket closing settings are enabled, a :guilabel:`Close Ticket` button will be available
 for customers when they view their ticket through the customer portal.
 
-.. image:: close_tickets/closing-customer-view.png
+.. image:: close_tickets/closing-customer-view.webp
    :align: center
    :alt: Customer view of ticket closing in Odoo Helpdesk.
 

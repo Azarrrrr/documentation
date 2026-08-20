@@ -8,7 +8,7 @@ click on their **username** in the top-right corner of the screen, and click :gu
 From there, customers can access their :guilabel:`quotations`, :guilabel:`orders`,
 :guilabel:`invoices`, etc.
 
-.. image:: customer_accounts/account-log.png
+.. image:: customer_accounts/account-log.webp
    :align: center
    :alt: Customer account log-in
 
@@ -31,7 +31,7 @@ builder. Log in your **own** account with your Odoo database credentials, and go
 :menuselection:`Edit --> Customize`. From the website builder menu, enable or disable the documents
 customers can have access to.
 
-.. image:: customer_accounts/account-documents.png
+.. image:: customer_accounts/account-documents.webp
    :align: center
    :alt: Documents to which customers have access to from their account
 

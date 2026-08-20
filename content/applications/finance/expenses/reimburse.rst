@@ -58,7 +58,7 @@ window:
 - :guilabel:`Memo`: The text entered in the :doc:`Expense Report Summary
   <../expenses/expense_reports>` field of the expense report populates this field, by default.
 
-.. image:: reimburse/payment.png
+.. image:: reimburse/payment.webp
    :align: center
    :alt: The Register Payment pop-up window filled out for an individual expense report
          reimbursement.
@@ -84,7 +84,7 @@ list. Once ticked, the number of selected expense reports appears at the top of 
 (:guilabel:`(#) Selected`). Additionally, a :guilabel:`Register Payment` button also appears in the
 upper-left corner.
 
-.. image:: reimburse/multiple-reports.png
+.. image:: reimburse/multiple-reports.webp
    :align: center
    :alt: Expense reports filtered by the status Posted, making the Register Payment button visible.
 
@@ -103,7 +103,7 @@ appears. Enter the following information in the pop-up window:
 - :guilabel:`Payment Date`: Enter the date the payments are issued. The current date populates this
   field, by default.
 
-.. image:: reimburse/register.png
+.. image:: reimburse/register.webp
    :align: center
    :alt: The Register Payment pop-up window filled out.
 
@@ -128,7 +128,7 @@ report being reimbursed on the following paycheck. Click the :guilabel:`Report i
 smart button, and the expenses are added to the next payslip issued for that employee. Additionally,
 a message is logged in the chatter stating the expense is added to the following payslip.
 
-.. image:: reimburse/pay-via-payslip.png
+.. image:: reimburse/pay-via-payslip.webp
    :align: center
    :alt: The Report in Next Payslip button, visible with an expense report status of Approved.
 

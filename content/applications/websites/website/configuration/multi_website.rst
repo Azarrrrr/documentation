@@ -26,7 +26,7 @@ To create a new website, proceed as follows:
 #. Go to :menuselection:`Website --> Configuration --> Settings`.
 #. Click :guilabel:`+ New Website`.
 
-   .. image:: multi_website/create-website.png
+   .. image:: multi_website/create-website.webp
       :alt: New website button
 
 #. Specify the :guilabel:`Website Name` and :guilabel:`Website domain`. Each website must be
@@ -48,7 +48,7 @@ Switching websites
 To switch from one website to another, click the menu next to the :guilabel:`+New` button in the
 top right corner and select the website you want to switch to.
 
-.. image:: multi_website/switch-websites.png
+.. image:: multi_website/switch-websites.webp
    :alt: Website selector
 
 .. note::
@@ -84,7 +84,7 @@ products, go to :menuselection:`eCommerce --> Products`, then select the product
 :guilabel:`Sales` tab. For forums, go to :menuselection:`Configuration --> Forums`, then select the
 forum.
 
-.. image:: multi_website/forum-multi-website.png
+.. image:: multi_website/forum-multi-website.webp
    :alt: Website field in Forum form
 
 .. _website_field:
@@ -104,7 +104,7 @@ To modify the website on which a page is to be published, proceed as follows:
 #. Go to :menuselection:`Website --> Site --> Pages`.
 #. Open the search panel and select the website on which the page is currently published.
 
-   .. image:: multi_website/pages-switch-websites.png
+   .. image:: multi_website/pages-switch-websites.webp
       :alt: Display pages per website
 
 #. Tick the check box next to the page(s) you want to change.
@@ -149,7 +149,7 @@ Analytics
 Each website has its own :ref:`analytics <analytics/plausible>`. To switch between websites, click
 the buttons in the upper right corner.
 
-.. image:: multi_website/analytics-switch-websites.png
+.. image:: multi_website/analytics-switch-websites.webp
    :alt: Switch websites in analytics
 
 Other reporting data

@@ -40,14 +40,14 @@ truck`). Then, enter the vehicle capacity in the :guilabel:`Max Weight` (in kilo
 :guilabel:`Max Volume` (in cubic meters) fields.
 
 
-.. image:: dispatch/categories.png
+.. image:: dispatch/categories.webp
    :alt: Vehicle categories with defined weight and volume.
 
 .. note::
    The units of measurement for vehicle capacity are assigned at the global level in the
    **Settings** app, in the :guilabel:`Units of Measure` section.
 
-   .. image:: dispatch/settings.png
+   .. image:: dispatch/settings.webp
       :alt: Show units of measure settings.
 
 .. seealso::
@@ -119,7 +119,7 @@ invoice.
 Optionally, in the :guilabel:`Availability` tab, set the :guilabel:`Countries`, :guilabel:`States`,
 or :guilabel:`Zip Prefixes` to limit the range of local delivery.
 
-.. figure:: dispatch/delivery-method.png
+.. figure:: dispatch/delivery-method.webp
    :alt: Delivery method form.
 
    Example delivery method, with the :guilabel:`Zip Prefixes` set to San Francisco's zip code.
@@ -135,7 +135,7 @@ Each loading dock must have a dedicated location. To create or configure dock lo
 Click the desired location, which opens the :guilabel:`Location` form. In the :guilabel:`Additional
 Information` section, tick the :guilabel:`Is a Dock Location` checkbox.
 
-.. figure:: dispatch/dock-location.png
+.. figure:: dispatch/dock-location.webp
    :alt: Location configuration.
 
    Location configuration page with :guilabel:`Is a Dock Location` checkbox ticked.
@@ -179,7 +179,7 @@ line's :guilabel:`Carrier` fields. In the resulting drop-down menu, choose the d
 :guilabel:`Confirmation` pop-up window appears, indicating the number of orders being added to the
 batch. Click :guilabel:`Confirm`, and the carrier is updated for all the selected records.
 
-.. figure:: dispatch/set-carrier.png
+.. figure:: dispatch/set-carrier.webp
    :alt: Set carrier.
 
    The delivery method `Truck 1-MER-001` is set as the :guilabel:`Carrier` for two delivery orders.
@@ -199,7 +199,7 @@ Then, click the :icon:`fa-cog` :guilabel:`Actions` button, and click either :gui
 or :guilabel:`Add to wave`. In the pop-up window, ensure :guilabel:`Add to` is set to :guilabel:`a
 new [batch/wave] transfer`, then click :guilabel:`Confirm`.
 
-.. figure:: dispatch/add-to-wave.png
+.. figure:: dispatch/add-to-wave.webp
    :alt: Example wave.
 
    Delivery orders are selected to be grouped into a wave transfer.
@@ -220,7 +220,7 @@ the resulting drop-down menu, click :guilabel:`Prepare batch`.
    - :guilabel:`Calendar`: open hourly calendar view of scheduled operations
    - :guilabel:`Statistics`: open pivot table of the batch transfers
 
-.. image:: dispatch/prepare-batch.png
+.. image:: dispatch/prepare-batch.webp
    :alt: Show prepare batch option from the Transport Management drop-down menu.
 
 .. _inventory/shipping_receiving/batch-form:
@@ -244,7 +244,7 @@ On the batch transfer form, fill the following fields out accordingly:
 .. example::
    The :guilabel:`Volume` bar is grayed out because the capacity has been reached.
 
-   .. image:: dispatch/batch-form.png
+   .. image:: dispatch/batch-form.webp
       :alt: Show batch form.
 
 Prepare delivery route
@@ -256,12 +256,12 @@ view delivery destinations on a map. Selecting an individual delivery order pinp
 .. note::
    The :guilabel:`Map` button is only visible for transfers with the :guilabel:`In progress` status.
 
-.. image:: dispatch/map.png
+.. image:: dispatch/map.webp
    :alt: Show map in Odoo, with information of the delivery orders.
 
 Additionally, use the :guilabel:`View in Google Maps` button to generate a route from the warehouse
 to the delivery points.
 
-.. image:: dispatch/google-map.png
+.. image:: dispatch/google-map.webp
    :alt: Show Google Map route.
 

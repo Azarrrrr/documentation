@@ -8,12 +8,12 @@ such as the bank details and communication. They are displayed:
 - at the end of the checkout process, once the customer has selected :guilabel:`Wire transfer` as a
   payment method and clicked the :guilabel:`Pay now` button:
 
-  .. image:: wire_transfer/payment_instructions_checkout.png
+  .. image:: wire_transfer/payment_instructions_checkout.webp
      :alt: Payment instructions at checkout
 
 - on the customer portal:
 
-  .. image:: wire_transfer/payment_instructions_portal.png
+  .. image:: wire_transfer/payment_instructions_portal.webp
      :alt: Payment instructions on the customer portal
 
 .. note::
@@ -43,7 +43,7 @@ Payment Providers`, and open the :guilabel:`Wire Transfer` card. Then, in the
 
 Define the payment instructions in the :guilabel:`Messages` tab:
 
-.. image:: wire_transfer/payment_instructions.png
+.. image:: wire_transfer/payment_instructions.webp
    :alt: Define payment instructions
 
 If you have already defined :doc:`a bank account <../accounting/bank>`, the account number will be

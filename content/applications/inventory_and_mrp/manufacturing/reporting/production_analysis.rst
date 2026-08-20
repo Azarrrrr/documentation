@@ -105,7 +105,7 @@ bar, then selecting the necessary measure, filter, and grouping, to see the desi
    twice the cost of the pogo stick. Using this insight, Tommy's Toys decides to cease production of
    moon shoes, thus lowering their average cost of manufacturing operations.
 
-   .. image:: production_analysis/use-case.png
+   .. image:: production_analysis/use-case.webp
       :align: center
       :alt: The bar chart comparing the operation costs of the pogo stick and moon shoes.
 
@@ -158,6 +158,6 @@ periods. This is accomplished using the options in the :guilabel:`Comparison` se
    the *bicycle* and *tricycle*. On the other hand, in quarter one, the *roller skates* had the
    highest total cost.
 
-   .. image:: production_analysis/comparison.png
+   .. image:: production_analysis/comparison.webp
       :align: center
       :alt: The pie chart view of the Production Analysis report, with a comparison filter enabled.

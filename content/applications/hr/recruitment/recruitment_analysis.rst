@@ -22,7 +22,7 @@ Three separate color-coded metrics are presented: :guilabel:`In Progress`, :guil
 Hover the cursor over a month of the chart, and a pop-up window appears, displaying the specific
 numbers for that month.
 
-.. image:: recruitment_analysis/line-chart.png
+.. image:: recruitment_analysis/line-chart.webp
    :align: center
    :alt: The default Recruitment Analysis report.
 
@@ -41,7 +41,7 @@ In this example, there are 17 total applicants. Out of that, three have been hir
 refused. The :guilabel:`Experienced Developer` position has eight total applicants, two of which
 were hired, and two were refused.
 
-.. image:: recruitment_analysis/pivot-view.png
+.. image:: recruitment_analysis/pivot-view.webp
    :align: center
    :alt: The detailed pivot table view.
 
@@ -62,7 +62,7 @@ default measures.
 Now, the column displays the number of applicants that came from a referral in the :guilabel:`Has
 Referrer` column, and the total number of applicants in the :guilabel:`Count` column.
 
-.. image:: recruitment_analysis/referral.png
+.. image:: recruitment_analysis/referral.webp
    :align: center
    :alt: The detailed pivot table view displaying the number of referrals and the total applicants.
 
@@ -88,7 +88,7 @@ in.
 To expand the other rows, and display the various states, click on the :icon:`fa-plus-square`
 :guilabel:`[job position]` button.
 
-.. image:: recruitment_analysis/state.png
+.. image:: recruitment_analysis/state.webp
    :align: center
    :alt: The detailed pivot table view displaying applicants hired through referrals.
 

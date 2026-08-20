@@ -24,7 +24,7 @@ Go to :menuselection:`Accounting app --> Configuration --> Settings`, activate
 :guilabel:`Creditor Identifier`. This number is provided by your bank institution, or the authority
 responsible for delivering them.
 
-.. image:: batch_sdd/creditor-identifier.png
+.. image:: batch_sdd/creditor-identifier.webp
    :align: center
    :alt: Add a SEPA Creditor Identifier to Odoo Accounting
 
@@ -111,7 +111,7 @@ To do so, go to :menuselection:`Accounting app --> Customers --> Payments`, sele
 payments, then click on :guilabel:`Action`, and finally :guilabel:`Create a batch Payment`. Once
 you click on :guilabel:`Validate`, the `.xml` file is directly available for download.
 
-.. image:: batch_sdd/xml.png
+.. image:: batch_sdd/xml.webp
    :align: center
    :alt: Generate an .XML file for your SDD payments in Odoo Accounting
 

@@ -40,7 +40,7 @@ After the new app is created, the :guilabel:`Dashboard` page appears, with a lis
 completed before the app can be published. From here, click :guilabel:`Customize adding a Facebook
 Login button`.
 
-.. image:: facebook/app-requirements.png
+.. image:: facebook/app-requirements.webp
    :align: center
    :alt: The App Dashboard in the Meta for developers platform.
 
@@ -81,7 +81,7 @@ drop-down menu.
 
 Click :guilabel:`Save changes`.
 
-.. image:: facebook/app-id.png
+.. image:: facebook/app-id.webp
    :align: center
    :alt: An exampled of the Basic Settings page in the Meta for developers platform.
 
@@ -115,7 +115,7 @@ First, activate :ref:`Developer mode <developer-mode/activation>`.
 Navigate to the :menuselection:`Settings app`, and scroll down to the :guilabel:`Integrations`
 section. There, tick the checkbox labeled, :guilabel:`OAuth Authentication`. Click :guilabel:`Save`.
 
-.. image:: facebook/enable-oauth.png
+.. image:: facebook/enable-oauth.webp
    :align: center
    :alt: The enable OAuth setting in the Settings app.
 
@@ -127,6 +127,6 @@ OAuth Providers`. Click :guilabel:`Facebook Graph`.
 In the :guilabel:`Client ID` field, enter the :ref:`App ID <users/app-id>` from the previous
 section, then tick the :guilabel:`Allowed` checkbox.
 
-.. image:: facebook/facebook-graph.png
+.. image:: facebook/facebook-graph.webp
    :align: center
    :alt: The Facebook Graph record in Odoo.

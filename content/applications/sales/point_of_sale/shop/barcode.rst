@@ -13,7 +13,7 @@ To use a barcode scanner, you must enable the feature in the Inventory app. Go t
 :menuselection:`Inventory --> Configuration --> Settings`, in the :guilabel:`Barcode` section, tick
 :guilabel:`Barcode Scanner` and save.
 
-.. image:: barcode/barcode-inventory.png
+.. image:: barcode/barcode-inventory.webp
    :align: center
    :alt: barcode setting in the Inventory application
 

@@ -25,7 +25,7 @@ To enable that setting, go to :menuselection:`Sales app --> Configuration --> Se
 to the :guilabel:`Product Catalog` section. Then, check the box next to the :guilabel:`Variant Grid
 Entry` option, and click :guilabel:`Save`.
 
-.. image:: orders_and_variants/order-grid-entry-setting.png
+.. image:: orders_and_variants/order-grid-entry-setting.webp
    :align: center
    :alt: The variant grid entry setting in the Odoo Sales application.
 
@@ -55,7 +55,7 @@ Entry`.
    It should be noted that these options **only** appear if at least two values of an attribute have
    been added to the record.
 
-.. image:: orders_and_variants/attributes-variants-tab-selection-options.png
+.. image:: orders_and_variants/attributes-variants-tab-selection-options.webp
    :align: center
    :alt: Sales variant selection options on the attributes and variants tab on product form.
 
@@ -77,7 +77,7 @@ The product configurator feature appears as a :guilabel:`Configure` pop-up windo
 product with (at least two) variants is added to a quotation or sales order, but **only** if the
 :guilabel:`Product Configurator` option is selected on its product form.
 
-.. image:: orders_and_variants/product-configurator-window.png
+.. image:: orders_and_variants/product-configurator-window.webp
    :align: center
    :alt: The product configurator pop-up window that appears on a quotation or sales order.
 
@@ -96,7 +96,7 @@ The order grid entry feature appears as a :guilabel:`Choose Product Variants` po
 as a product with (at least two) variants is added to a quotation or sales order, but **only** if
 the :guilabel:`Order Grid Entry` option is selected on its product form.
 
-.. image:: orders_and_variants/choose-product-variants-popup.png
+.. image:: orders_and_variants/choose-product-variants-popup.webp
    :align: center
    :alt: The choose product variants pop-up window that appears on a quotation in Odoo.
 
@@ -108,7 +108,7 @@ When all the desired quantities and variants have been selected, the salesperson
 :guilabel:`Confirm`, and those orders are instantly added to the quotation/sales order in the
 :guilabel:`Order Lines` tab.
 
-.. image:: orders_and_variants/order-grid-entry-order-lines-tab.png
+.. image:: orders_and_variants/order-grid-entry-order-lines-tab.webp
    :align: center
    :alt: Populated order lines tab after order grid entry has been chosen to select products.
 

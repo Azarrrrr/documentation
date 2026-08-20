@@ -54,7 +54,7 @@ going to :menuselection:`Accounting --> Configuration --> Payment Terms`, and ma
 the discount percentage, discount days, and :ref:`tax reduction <cash-discounts/tax-reductions>`
 fields.
 
-.. image:: cash_discounts/payment-terms.png
+.. image:: cash_discounts/payment-terms.webp
    :alt: Configuration of payment terms named "2/7 Net 30". The field "Description on Invoices"
          reads: "Payment terms: 30 Days, 2% Early Payment Discount under 7 days".
 
@@ -155,14 +155,14 @@ dates, and accounting records.
 Under the :guilabel:`Journal Items` tab, you can display the discount details by clicking on the
 "toggle" button and adding the :guilabel:`Discount Date` and :guilabel:`Discount Amount` columns.
 
-.. image:: cash_discounts/invoice-journal-entry.png
+.. image:: cash_discounts/invoice-journal-entry.webp
    :alt: An invoice of €100.00 with "2/7 Net 30" selected as payment terms. The "Journal Items" tab
          is open, and the "Discount Date" and "Discount Amount" columns are displayed.
 
 The discount amount and due date are also displayed on the generated invoice report sent to the
 customer if the :guilabel:`Show installment dates` option is checked on the payment terms.
 
-.. image:: cash_discounts/invoice-print.png
+.. image:: cash_discounts/invoice-print.webp
    :alt: An invoice of €100.00 with the following text added to the terms and conditions: "30
          Days, 2% Early Payment Discount under 7 days. 118.58 € due if paid before 01/08/2023."
 

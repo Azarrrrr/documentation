@@ -19,7 +19,7 @@ receipts. First, make sure the *Multi-Step Routes* option is enabled in :menusel
 --> Configuration --> Settings --> Warehouse`. Note that activating :guilabel:`Multi-Step Routes`
 will also activate *Storage Locations*.
 
-.. image:: receipts_three_steps/receipts-three-steps-multi-step-routes.png
+.. image:: receipts_three_steps/receipts-three-steps-multi-step-routes.webp
    :align: center
    :alt: Activate multi-step routes and storage locations in Inventory settings.
 
@@ -30,7 +30,7 @@ be edited. Doing so reveals the detail form for that specific warehouse.
 On that :guilabel:`Warehouse` detail form page, select :guilabel:`Receive goods in input, then
 quality and then stock (3 steps)` for :guilabel:`Incoming Shipments`.
 
-.. image:: receipts_three_steps/receipts-three-steps-incoming-shipments.png
+.. image:: receipts_three_steps/receipts-three-steps-incoming-shipments.webp
    :align: center
    :alt: Set incoming shipment option to receive in three steps.
 
@@ -53,7 +53,7 @@ A :guilabel:`Receipt` smart button will appear in the top right, and the receipt
 with the purchase order. Clicking on the :guilabel:`Receipt` smart button will show the receipt
 order.
 
-.. image:: receipts_three_steps/receipts-three-steps-smart-button.png
+.. image:: receipts_three_steps/receipts-three-steps-smart-button.webp
    :align: center
    :alt: After confirming a purchase order, a Receipt smart button will appear.
 
@@ -72,7 +72,7 @@ receipt associated with the previous purchase order.
 Click :guilabel:`Validate` to validate the receipt, and move the product to the destination
 location, :guilabel:`WH/Input`.
 
-.. image:: receipts_three_steps/receipts-three-steps-receipt-form.png
+.. image:: receipts_three_steps/receipts-three-steps-receipt-form.webp
    :align: center
    :alt: Receipt operation for product being moved to WH/Input location.
 
@@ -91,7 +91,7 @@ the internal transfer associated with the validated receipt.
 Once ready, click :guilabel:`Validate` to complete the transfer, and move the product from
 :guilabel:`WH/Input` to :guilabel:`WH/Quality Control`.
 
-.. image:: receipts_three_steps/receipts-three-steps-internal-transfer.png
+.. image:: receipts_three_steps/receipts-three-steps-internal-transfer.webp
    :align: center
    :alt: Internal transfer for product being moved to quality control zone.
 
@@ -108,6 +108,6 @@ internal transfers to process. Then, select the new internal transfer to move th
 Once ready, click :guilabel:`Validate` to complete the transfer, and move the product from
 :guilabel:`WH/Quality Control` to :guilabel:`WH/Stock`.
 
-.. image:: receipts_three_steps/receipts-three-steps-second-transfer.png
+.. image:: receipts_three_steps/receipts-three-steps-second-transfer.webp
    :align: center
    :alt: Internal transfer for product being moved to warehouse stock.

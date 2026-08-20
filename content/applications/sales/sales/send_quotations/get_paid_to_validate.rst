@@ -16,7 +16,7 @@ To activate the *Online Payment* feature, go to :menuselection:`Sales app --> Co
 Settings`, scroll to the :guilabel:`Quotations \& Orders` heading, check the box next to the
 :guilabel:`Online Payment` feature, and click :guilabel:`Save`.
 
-.. image:: get_paid_to_validate/online-payment-setting.png
+.. image:: get_paid_to_validate/online-payment-setting.webp
    :align: center
    :alt: The online payment setting in the Odoo Sales application.
 
@@ -28,14 +28,14 @@ To enable this feature on a standard quotation, click the checkbox for the :guil
 feature option, located in the :guilabel:`Online confirmation` field, on the :guilabel:`Other Info`
 tab.
 
-.. image:: get_paid_to_validate/online-payment-option-quotation.png
+.. image:: get_paid_to_validate/online-payment-option-quotation.webp
    :align: center
    :alt: The online payment setting on a standard quotation in Odoo Sales.
 
 To enable this feature on a quotation template, click the checkbox for the :guilabel:`Payment`
 feature option, located in the :guilabel:`Online confirmation` field of the quotation template form.
 
-.. image:: get_paid_to_validate/online-payment-option-quotation-template.png
+.. image:: get_paid_to_validate/online-payment-option-quotation-template.webp
    :align: center
    :alt: The online payment setting on quotation template forms in Odoo Sales.
 
@@ -48,7 +48,7 @@ Providers` appears beneath it.
 Clicking that link reveals a separate :guilabel:`Payment Providers` page, in which a large variety
 of payment providers can be enabled, customized, and published.
 
-.. image:: get_paid_to_validate/payment-providers-page.png
+.. image:: get_paid_to_validate/payment-providers-page.webp
    :align: center
    :alt: Payment providers page in Odoo Sales.
 
@@ -61,7 +61,7 @@ Register a payment
 After opening quotations in their customer portal, customers can click :guilabel:`Accept \& Pay` to
 confirm their order with an online payment.
 
-.. image:: get_paid_to_validate/accept-and-pay-button.png
+.. image:: get_paid_to_validate/accept-and-pay-button.webp
    :align: center
    :alt: The accept and pay button on an online quotation in Odoo Sales.
 
@@ -69,7 +69,7 @@ After clicking :guilabel:`Accept \& Pay`, customers are presented with :guilabel
 pop-up window containing different options for them to make online payments, in the :guilabel:`Pay
 with` section.
 
-.. image:: get_paid_to_validate/validate-order-pay-with.png
+.. image:: get_paid_to_validate/validate-order-pay-with.webp
    :align: center
    :alt: How to register a payment on a validate order pop-up window in Odoo Sales.
 
@@ -81,7 +81,7 @@ Once the customer selects their desired method of payment, they will click the :
 button on the pop-up window to confirm the order. Odoo instantly notifies the assigned salesperson
 upon order confirmation with an online payment.
 
-.. image:: get_paid_to_validate/payment-confirmation-notification-chatter.png
+.. image:: get_paid_to_validate/payment-confirmation-notification-chatter.webp
    :align: center
    :alt: Sample of notification that appears in the chatter when an online payment is made.
 

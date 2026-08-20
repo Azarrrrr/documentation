@@ -166,7 +166,7 @@ Contributing to the documentation
          copy`) of the repository on your account. This creates a copy of the codebase to which you
          can make changes without affecting the main codebase. Skip this step if you work at Odoo.
 
-         .. image:: documentation/fork-repository.png
+         .. image:: documentation/fork-repository.webp
             :scale: 60%
 
       #. Make the desired changes while taking care of following the :doc:`content
@@ -183,7 +183,7 @@ Contributing to the documentation
          or "Add documentation for invoicing of sales orders." In the second text box, explain *why*
          you are proposing these changes. Then, click on the :guilabel:`Propose changes` button.
 
-         .. image:: documentation/propose-changes.png
+         .. image:: documentation/propose-changes.webp
             :scale: 60%
 
       #. Review your changes and click on the :guilabel:`Create pull request` button.
@@ -236,8 +236,8 @@ Contributing to the documentation
 
          .. code-block:: console
 
-            $ pngquant path/to/image.png
-            $ mv path/to/image-fs8.png path/to/image.png
+            $ pngquant path/to/image.webp
+            $ mv path/to/image-fs8.webp path/to/image.webp
 
       #. Write a `redirect rule
          <https://github.com/odoo/documentation/tree/{BRANCH}/redirects/MANUAL.md>`_ for every RST

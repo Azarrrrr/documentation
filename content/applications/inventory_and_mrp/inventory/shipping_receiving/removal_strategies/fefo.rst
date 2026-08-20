@@ -44,7 +44,7 @@ The removal date takes this expiration date, and subtracts the number of days sp
    - :guilabel:`Expiration Date`: `30` days after receipt
    - :guilabel:`Removal Date`: `15` days before expiration date
 
-   .. image:: fefo/user-set-date.png
+   .. image:: fefo/user-set-date.webp
       :align: center
       :alt: Display expiration and removal dates set on the product form.
 
@@ -60,7 +60,7 @@ To view the expiration dates of items in stock, navigate to the product form, an
 Next, click the additional options icon, located on the far-right, and select the columns:
 :guilabel:`Expiration Date` and :guilabel:`Removal Date`.
 
-.. image:: fefo/removal-date.png
+.. image:: fefo/removal-date.webp
    :align: center
    :alt: Show expiration dates from the inventory adjustments model accessed from the *On Hand*
          smart button from the product form.
@@ -121,6 +121,6 @@ Since the order demanded six Cartons of eggs, using the :abbr:`FEFO (First Expir
 removal strategy, all five Cartons from `LOT1`, with the removal date of February 26th, are picked.
 The remaining Carton is selected from `LOT2`, which has a removal date of March 4th.
 
-.. image:: fefo/eggs-picking.png
+.. image:: fefo/eggs-picking.webp
    :align: center
    :alt: The stock moves window that shows the lots to be removed using FEFO.

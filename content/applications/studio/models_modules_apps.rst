@@ -29,7 +29,7 @@ features interact together in some cases to increase their usefulness.
    :ref:`studio/models-modules-apps/suggested-features/pipeline-stages` features enabled adds the
    image in the card layout of the :ref:`Kanban view <studio/views/multiple-records/kanban>`.
 
-   .. image:: models_modules_apps/picture-pipeline-kanban.png
+   .. image:: models_modules_apps/picture-pipeline-kanban.webp
       :align: center
       :alt: Combination of the Picture and Pipeline stages features on the Kanban view
 
@@ -47,7 +47,7 @@ is activated.
 
 .. example::
 
-   .. image:: models_modules_apps/contact.png
+   .. image:: models_modules_apps/contact.webp
       :align: center
       :alt: Contact details feature on the Form view
 
@@ -65,7 +65,7 @@ avatar. The :guilabel:`Responsible` field is also added to the :ref:`List view
 
 .. example::
 
-   .. image:: models_modules_apps/user-assignment.png
+   .. image:: models_modules_apps/user-assignment.webp
       :align: center
       :alt: User assignment feature on the Form view
 
@@ -176,7 +176,7 @@ Selecting :guilabel:`Custom Sorting` adds to the :ref:`List view
 
 .. example::
 
-   .. image:: views/list-drag-handle.png
+   .. image:: views/list-drag-handle.webp
       :align: center
       :alt: Custom Sorting feature on the List view
 
@@ -193,7 +193,7 @@ functionalities (sending messages, logging notes, and scheduling activities).
 
 .. example::
 
-   .. image:: models_modules_apps/chatter.png
+   .. image:: models_modules_apps/chatter.webp
       :align: center
       :alt: Chatter feature on the Form view
 

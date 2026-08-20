@@ -49,7 +49,7 @@ but the approval is optional`, or :guilabel:`Comments only`.
    because their :guilabel:`Approval Type` is set to :guilabel:`Approves, but the approval is
    optional` and :guilabel:`Comments only`, respectively.
 
-   .. image:: approvals/approvers.png
+   .. image:: approvals/approvers.webp
       :align: center
       :alt: Set an approver that "Is required to approve" ECOs in the "Validated" stage.
 
@@ -76,7 +76,7 @@ Here's what each button on an ECO project card does:
    needs to click on the |ECO| to enter the form view, and click the :guilabel:`Apply Changes`
    button.
 
-.. image:: approvals/validation-overview.png
+.. image:: approvals/validation-overview.webp
    :align: center
    :alt: Display count of validations to-do and buttons to open filtered list of ECOs.
 
@@ -114,7 +114,7 @@ each of these buttons shows a filtered Gantt view of the respective |ECOs|.
    pending approval :guilabel:`Today`. Currently, there are `0` :guilabel:`Late` or
    :guilabel:`Future` |ECOs|.
 
-    .. image:: approvals/todo-list.png
+    .. image:: approvals/todo-list.webp
        :align: center
        :alt: Show scheduled approvals notifications for the user.
 
@@ -122,7 +122,7 @@ By clicking a pending |ECO|, a *planned activity* for :guilabel:`ECO Approval` i
 chatter. Click on the :guilabel:`i (Info)` icon to view additional information, including the
 approval's :guilabel:`Created` date, the approver :guilabel:`Assigned to` it, and the due date.
 
-.. image:: approvals/planned-activity.png
+.. image:: approvals/planned-activity.webp
    :align: center
    :alt: Show additional details of the planned ECO approval.
 
@@ -136,7 +136,7 @@ to the chatter.
 Select the :guilabel:`Mark Done` button in the :guilabel:`Planned Activities` section of the chatter
 to close the activity, and open a pop-up window for creating tasks.
 
-.. image:: approvals/mark-as-done.png
+.. image:: approvals/mark-as-done.webp
    :align: center
    :alt: Show *Mark Done* window to show *Done & Schedule Next*, *Done*, and *Discard* buttons to
          close the planned activity.
@@ -155,6 +155,6 @@ when the team member completes the changes, and returns the |ECO| to the verific
    that details the changes required for the approver to :guilabel:`Accept` the |ECO|. Clicking the
    :guilabel:`Schedule` button creates a planned activity for Laurie due on `08/15/2023`.
 
-   .. image:: approvals/schedule-an-activity.png
+   .. image:: approvals/schedule-an-activity.webp
       :align: center
       :alt: Create a scheduled activity for follow-up changes to a rejected ECO.

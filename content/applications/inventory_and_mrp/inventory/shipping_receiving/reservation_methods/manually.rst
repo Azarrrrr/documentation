@@ -25,7 +25,7 @@ configured, or create a new one by clicking :guilabel:`New`.
 In the :guilabel:`General` tab, locate the :guilabel:`Reservation Method` field, and select
 :guilabel:`Manually`.
 
-.. image:: manually/manually-operations-type.png
+.. image:: manually/manually-operations-type.webp
    :align: center
    :alt: Reservation method field on delivery order operation type form.
 
@@ -63,7 +63,7 @@ but must be manually reserved.
    Additionally, unless there is a set replenishment or a live receipt, it also reads :guilabel:`No
    future availability`, in red text.
 
-.. image:: manually/manually-availability-tooltip.png
+.. image:: manually/manually-availability-tooltip.webp
    :align: center
    :alt: Confirmed sales order with product availability tooltip selected.
 
@@ -74,7 +74,7 @@ The :guilabel:`Delivery Orders` card displays the current status of live orders,
 with a :guilabel:`Waiting` status. Orders with this status indicate that the products in those
 orders have either not been reserved yet, or are not in stock at all.
 
-.. image:: manually/manually-delivery-orders-card.png
+.. image:: manually/manually-delivery-orders-card.webp
    :align: center
    :alt: Delivery orders task card with waiting status orders.
 
@@ -94,7 +94,7 @@ In the :guilabel:`Operations` tab, on the :guilabel:`Product` line, the numbers 
 In this case, the :guilabel:`Demand` column lists `10.00`, while the :guilabel:`Quantity` column
 lists `0`.
 
-.. image:: manually/manually-delivery-order-form.png
+.. image:: manually/manually-delivery-order-form.webp
    :align: center
    :alt: Delivery order form with product availability and reserved quantity.
 
@@ -130,7 +130,7 @@ Once ready, click :guilabel:`Validate`.
    If there is *not* enough stock on-hand, the order retains its current status, and remains on the
    list.
 
-   .. image:: manually/manually-check-availability.png
+   .. image:: manually/manually-check-availability.webp
       :align: center
       :alt: List of orders in waiting status and check availability button.
 

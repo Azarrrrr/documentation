@@ -142,7 +142,7 @@ In the :guilabel:`Day` view, the column for the current hour is highlighted in y
 :guilabel:`Week` or :guilabel:`Month` view is selected, the column for the current day is
 highlighted. If the :guilabel:`Year` view is selected, the current month is highlighted.
 
-.. image:: attendances/overview.png
+.. image:: attendances/overview.webp
    :align: center
    :alt: The overview dashboard presenting the information for the week, with the current day
          highlighted.
@@ -243,7 +243,7 @@ sections.
   :guilabel:`GPS Coordinates`. This opens a map in a new browser tab, with the specific location
   pointed out.
 
-.. image:: attendances/details.png
+.. image:: attendances/details.webp
    :align: center
    :alt: The detailed information for an attendance entry.
 
@@ -264,7 +264,7 @@ and a calendar selector appears. Click on the desired date, then use the time se
 calendar to select the specific time for the entry. When the information is correct, click
 :guilabel:`Apply.`
 
-.. image:: attendances/errors.png
+.. image:: attendances/errors.webp
    :align: center
    :alt: The pop-up that allows for modifications to an attendance entry with an error. The calendar
          selector is shown, and the time selector is highlighted.
@@ -298,7 +298,7 @@ measure from the drop-down menu.
 The report can also be inserted into a spreadsheet. Click the :guilabel:`Insert in Spreadsheet`
 button and a pop-up appears. Select the desired spreadsheet, and click :guilabel:`Confirm`.
 
-.. image:: attendances/reporting.png
+.. image:: attendances/reporting.webp
    :align: center
    :alt: The default report view, with all the optional view buttons highlighted.
 

@@ -82,7 +82,7 @@ The available view options, from left to right, are:
 - :guilabel:`List`
 - :guilabel:`Pivot`
 
-.. image:: reports/subscriptions-analysis-page-view-options.png
+.. image:: reports/subscriptions-analysis-page-view-options.webp
    :align: center
    :alt: The different view options available on the Subscriptions Analysis page.
 
@@ -95,7 +95,7 @@ With the graph view selected, the following options appear between the search ba
 representation of the data. These graph-specific options are located to the right of the
 :guilabel:`Measures` and :guilabel:`Insert in Spreadsheet` buttons.
 
-.. image:: reports/subscriptions-graph-specific-options.png
+.. image:: reports/subscriptions-graph-specific-options.webp
    :align: center
    :alt: The different graph view options in the Odoo Subscriptions app.
 
@@ -153,7 +153,7 @@ bar).
 Three pivot-specific options are available, located to the right of the :guilabel:`Measures`
 drop-down menu and :guilabel:`Insert in Spreadsheet` button.
 
-.. image:: reports/subscriptions-pivot-view-options.png
+.. image:: reports/subscriptions-pivot-view-options.webp
    :align: center
    :alt: The pivot-specific view options available in the Odoo Subscriptions app.
 
@@ -172,7 +172,7 @@ The graph and pivot reporting pages have their own metric-specific :guilabel:`Me
 menu of data-related options to choose from, located in the upper-left corner, above the visual
 representation of metrics.
 
-.. image:: reports/subscriptions-measures-drop-down.png
+.. image:: reports/subscriptions-measures-drop-down.webp
    :align: center
    :alt: The standard measures drop-down menu in the Odoo Subscriptions app.
 
@@ -194,7 +194,7 @@ button.
 When clicked, the ability to add the configured data currently being showcased on the reporting page
 into a new or pre-existing spreadsheet or dashboard becomes available, via a pop-up window.
 
-.. image:: reports/subscriptions-analysis-spreadsheet-popup.png
+.. image:: reports/subscriptions-analysis-spreadsheet-popup.webp
    :align: center
    :alt: The spreadsheet pop-up window of the Subscriptions Analysis page.
 
@@ -233,14 +233,14 @@ By default, the :guilabel:`Bar Chart` option, in the :guilabel:`Graph` view, is 
 The following filters are also present in the search bar: :guilabel:`In Progress or Paused` and
 :guilabel:`Recurring`.
 
-.. image:: reports/subscriptions-analysis-page-default.png
+.. image:: reports/subscriptions-analysis-page-default.webp
    :align: center
    :alt: The default view of the Subscriptions Analysis reporting page in Odoo Subscriptions.
 
 When the :guilabel:`Measures` button on the :guilabel:`Subscriptions Analysis` page is
 clicked, a series of metric-related options becomes available as a drop-down menu.
 
-.. image:: reports/subscriptions-analysis-measures.png
+.. image:: reports/subscriptions-analysis-measures.webp
    :align: center
    :alt: The measures drop-down menu of the Subscriptions Analysis page.
 
@@ -270,14 +270,14 @@ The :guilabel:`Retention Analysis` reporting page differs from the other **Subsc
 reporting pages, in that it does **not** provide any additional view options. The data on this page
 is only presented in a customizable data chart.
 
-.. image:: reports/subscriptions-retention-analysis-page-default.png
+.. image:: reports/subscriptions-retention-analysis-page-default.webp
    :align: center
    :alt: The default view of the Retention Analysis reporting page in Odoo Subscriptions.
 
 When the :guilabel:`Measures` drop-down menu on the :guilabel:`Retention Analysis` reporting page is
 clicked, a series of metric-related options become available.
 
-.. image:: reports/subscriptions-retention-analysis-measures.png
+.. image:: reports/subscriptions-retention-analysis-measures.webp
    :align: center
    :alt: The measures drop-down menu of the Retention Analysis page.
 
@@ -301,7 +301,7 @@ is an additional drop-down menu containing different time periods. The default t
 
 When clicked, a drop-down menu of various time period options become available.
 
-.. image:: reports/subscriptions-retention-analysis-time-periods.png
+.. image:: reports/subscriptions-retention-analysis-time-periods.webp
    :align: center
    :alt: The time period drop-down menu of the Retention Analysis page.
 
@@ -329,14 +329,14 @@ with the :guilabel:`Bar Chart` option and :guilabel:`Stacked` option selected.
 
 A default filter is also available in the search bar for :guilabel:`Event Date: Month > Event Type`.
 
-.. image:: reports/subscriptions-mrr-breakdown-default.png
+.. image:: reports/subscriptions-mrr-breakdown-default.webp
    :align: center
    :alt: The default appearance of the MRR Breakdown reporting page in Odoo Subscriptions.
 
 When the :guilabel:`Measures` drop-down menu on the :guilabel:`MRR Breakdown` reporting page is
 clicked, a series of metric-related options become available.
 
-.. image:: reports/subscriptions-mrr-breakdown-measures.png
+.. image:: reports/subscriptions-mrr-breakdown-measures.webp
    :align: center
    :alt: The default appearance of the MRR Breakdown reporting page in Odoo Subscriptions.
 
@@ -377,14 +377,14 @@ selected.
 
 A default filter is also found in the search bar for :guilabel:`Event Date: Month`.
 
-.. image:: reports/subscriptions-mrr-analysis-default.png
+.. image:: reports/subscriptions-mrr-analysis-default.webp
    :align: center
    :alt: The default appearance of the MRR Analysis reporting page in Odoo Subscriptions.
 
 When the :guilabel:`Measures` drop-down menu on the :guilabel:`MRR Analysis` reporting page is
 clicked, a series of metric-related options become available.
 
-.. image:: reports/subscriptions-mrr-analysis-measures.png
+.. image:: reports/subscriptions-mrr-analysis-measures.webp
    :align: center
    :alt: The default appearance of the MRR Analysis reporting page in Odoo Subscriptions.
 

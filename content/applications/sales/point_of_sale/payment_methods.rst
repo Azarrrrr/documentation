@@ -11,7 +11,7 @@ allow this payment method *exclusively* for registered customers.
 Then, select the :guilabel:`Journal`. Choose :guilabel:`Cash` to use this payment method for cash
 payments, or :guilabel:`Bank` to use it for card payments.
 
-.. image:: payment_methods/payment-method.png
+.. image:: payment_methods/payment-method.webp
    :alt: Creating a new payment method for a POS.
 
 .. note::

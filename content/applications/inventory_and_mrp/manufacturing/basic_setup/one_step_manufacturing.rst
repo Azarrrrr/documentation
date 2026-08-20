@@ -23,7 +23,7 @@ them to and from inventory is not tracked.
    components and then manufacture (2 steps)`, or :guilabel:`Pick components, manufacture and then
    store products (3 steps)`.
 
-   .. image:: one_step_manufacturing/manufacturing-type.png
+   .. image:: one_step_manufacturing/manufacturing-type.webp
       :align: center
       :alt: The Manufacture radio input field on a warehouse configuration page.
 
@@ -69,14 +69,14 @@ On the |MO| page, select the :guilabel:`Work Orders` tab. Once work begins on th
 that needs to be completed, click the :guilabel:`Start` button for that work order. Odoo
 *Manufacturing* then starts a timer that keeps track of how long the work order takes to complete.
 
-.. image:: one_step_manufacturing/start-button.png
+.. image:: one_step_manufacturing/start-button.webp
    :align: center
    :alt: The Start button for an operation on a manufacturing order.
 
 When the work order is completed, click the :guilabel:`Done` button for that work order. Repeat the
 same process for each work order listed on the :guilabel:`Work Orders` tab.
 
-.. image:: one_step_manufacturing/done-button.png
+.. image:: one_step_manufacturing/done-button.webp
    :align: center
    :alt: The Done button for an operation on a manufacturing order.
 
@@ -97,7 +97,7 @@ order.
 On the pop-up window, select the :guilabel:`Open Shop Floor` button at the top-left of the window to
 open the *Shop Floor* module.
 
-.. image:: one_step_manufacturing/shop-floor-button.png
+.. image:: one_step_manufacturing/shop-floor-button.webp
    :align: center
    :alt: The Open Shop Floor button for a work order on a manufacturing order.
 
@@ -106,7 +106,7 @@ for the work center where the work order is configured to be carried out. The pa
 the work order that displays the |MO| number, the product and number of units to be produced, and
 the steps required to complete the work order.
 
-.. image:: one_step_manufacturing/work-order-card.png
+.. image:: one_step_manufacturing/work-order-card.webp
    :align: center
    :alt: A work order card on a work center page in the Shop Floor module.
 

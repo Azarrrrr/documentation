@@ -29,7 +29,7 @@ Enter the following information on the form:
   :icon:`fa-pencil` :guilabel:`(pencil)` icon that appears. A file explorer pop-up window appears.
   Navigate to the image, then click :guilabel:`Open`.
 
-.. image:: products/product.png
+.. image:: products/product.webp
    :align: center
    :alt: A product form filled out for a nine inch pizza.
 
@@ -57,6 +57,6 @@ If desired, add a photo for the category. Hover over the image box in the top-ri
 :icon:`fa-pencil` :guilabel:`(pencil)` icon that appears. This opens a file explorer pop-up window.
 Navigate to the image, then click :guilabel:`Open`.
 
-.. image:: products/category.png
+.. image:: products/category.webp
    :align: center
    :alt: The category form, with the fields filled out for a Soup category.

@@ -25,7 +25,7 @@ so, navigate to :menuselection:`Manufacturing app --> Configuration --> Settings
 :guilabel:`By-Products` checkbox, located under the :guilabel:`Operations` heading. Then, click
 :guilabel:`Save` to apply the change.
 
-.. image:: byproducts/byproducts-setting.png
+.. image:: byproducts/byproducts-setting.webp
    :align: center
    :alt: The By-Products setting on the Manufacturing app settings page.
 
@@ -47,7 +47,7 @@ operation in the :guilabel:`Produced in Operation` field. For example, if a scra
 produced during an *Assemble* operation, select that operation in the :guilabel:`Produced in
 Operation` field.
 
-.. image:: byproducts/byproducts-tab.png
+.. image:: byproducts/byproducts-tab.webp
    :align: center
    :alt: The By-Products tab on a BoM, configured with a "Scrap Wood" by-product.
 
@@ -71,6 +71,6 @@ components and products. Each by-product is listed on the resulting :guilabel:`I
 page, with the :guilabel:`From` column displaying the virtual production location, and the
 :guilabel:`To` column displaying the location where the by-product is stored.
 
-.. image:: byproducts/product-moves.png
+.. image:: byproducts/product-moves.webp
    :align: center
    :alt: The Product Moves page for an MO with by-products.

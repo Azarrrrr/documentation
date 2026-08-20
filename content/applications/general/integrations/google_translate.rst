@@ -32,7 +32,7 @@ browse for the :guilabel:`Location`. Set the :guilabel:`Location` as the *Google
 organization*. If a personal Gmail account is being used, leave the :guilabel:`Location` as
 :guilabel:`No Organization`.
 
-.. image:: google_translate/new-project.png
+.. image:: google_translate/new-project.webp
    :align: center
    :alt: Project Name and Location for Google OAuth.
 
@@ -66,7 +66,7 @@ To begin this process, click :menuselection:`Credentials` in the left sidebar me
 Then, click :guilabel:`Create Credentials` in the top menu, and select :guilabel:`API key` from the
 drop-down menu.
 
-.. image:: google_translate/api-key.png
+.. image:: google_translate/api-key.webp
    :align: center
    :alt: Create an API key in the Google API console.
 
@@ -104,7 +104,7 @@ section`. Enter the API key into the field labeled :guilabel:`Message Translatio
 :guilabel:`Save` the settings, and *Google Translate* can be used in any chatter throughout the
 database.
 
-.. image:: google_translate/odoo-config.png
+.. image:: google_translate/odoo-config.webp
    :align: center
    :alt: Odoo configuration of the API key from the *Google API Console*.
 
@@ -115,7 +115,7 @@ To translate a user's text from another language, click the :guilabel:`... (thre
 the right of the chatter. Then, select :guilabel:`Translate`. The content translates to the
 *language* set on the user's preferences.
 
-.. image:: google_translate/google-translate.png
+.. image:: google_translate/google-translate.webp
    :align: center
    :alt: Google Translate present in an Odoo database's chatter.
 

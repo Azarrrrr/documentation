@@ -20,7 +20,7 @@ to make a call.
 Additionally, one can also use the :guilabel:`Search bar` in the :guilabel:`VOIP` pop-up window to
 find any desired contact.
 
-.. image:: transfer_forward/widget-operation.png
+.. image:: transfer_forward/widget-operation.webp
    :align: center
    :alt: Using the VoIP phone widget to make calls.
 
@@ -37,7 +37,7 @@ After entering the full number, with the required :guilabel:`+ (plus)` icon pref
 click the green :guilabel:`📞 (phone)` icon to start the call. When finished, click the red
 :guilabel:`📞 (phone)` icon to end the call.
 
-.. image:: transfer_forward/manual-call.png
+.. image:: transfer_forward/manual-call.webp
    :align: center
    :alt: Using the VoIP phone widget to make calls.
 
@@ -53,7 +53,7 @@ Once back to the tab, the calling screen of the *VoIP* phone widget appears.
 Click the green :guilabel:`📞 (phone)` icon to pick up the call, or the red :guilabel:`📞 (phone)`
 icon to reject the call.
 
-.. image:: transfer_forward/incoming-call.png
+.. image:: transfer_forward/incoming-call.webp
    :align: center
    :alt: Incoming call on the VoIP widget, with the call answer and call reject buttons highlighted.
 
@@ -63,7 +63,7 @@ Add to call queue
 All the contacts and customers that need to be called can be seen in one place with the Odoo *VoIP*
 phone widget, under the :guilabel:`Next activities` tab.
 
-.. image:: transfer_forward/next-activities.png
+.. image:: transfer_forward/next-activities.webp
    :align: center
    :alt: VoIP widget with next activities highlighted, showing tasks below.
 
@@ -77,7 +77,7 @@ When navigating back to the *VoIP* phone widget, **only** the calls that are sch
 for that day appear in the queue under the :guilabel:`Next Activities` tab of the *VoIP* pop-up
 widget.
 
-.. image:: transfer_forward/add-call-queue.png
+.. image:: transfer_forward/add-call-queue.webp
    :align: center
    :alt: Adding a call to the next activities tab in the VoIP phone widget.
 
@@ -129,7 +129,7 @@ the call to that phone number.
 
    For more information on access rights, visit: :doc:`/applications/general/users/access_rights`.
 
-.. image:: transfer_forward/transfer.png
+.. image:: transfer_forward/transfer.webp
    :align: center
    :alt: Transferring a call within the phone widget, with the transfer buttons highlighted.
 

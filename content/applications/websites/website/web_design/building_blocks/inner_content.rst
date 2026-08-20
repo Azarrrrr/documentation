@@ -22,7 +22,7 @@ By default, the buttons display the icons of seven major social networks. You ca
 :guilabel:`Add New Social Network` to create a new button and switch the buttons next to a URL to
 turn them on or off.
 
-.. image:: inner_content/social-media-block.png
+.. image:: inner_content/social-media-block.webp
    :alt: The social media building block and its settings
 
 .. Note::

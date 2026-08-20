@@ -19,7 +19,7 @@ Invoices`, enable :guilabel:`Default Terms & Conditions`. By default, the :guila
 option is selected, and the terms and conditions are displayed at the bottom of the document. Enter
 the terms and conditions in the text box below.
 
-.. image:: terms_conditions/terms-note.png
+.. image:: terms_conditions/terms-note.webp
    :alt: Example of terms and conditions as a note
 
 .. tip::
@@ -35,5 +35,5 @@ content, and click :guilabel:`Save`. The link to that page is then added as a no
    </applications/websites/website>` app. If the Website app is activated, the :guilabel:`Edit in
    Website Builder` option then replaces :guilabel:`Update Terms`.
 
-.. image:: terms_conditions/terms-webpage.png
+.. image:: terms_conditions/terms-webpage.webp
    :alt: Example of terms and conditions as a web page

@@ -22,7 +22,7 @@ Duration`.
    status <sales/membership-status>`. Membership products can be sold *before* their active start
    date.
 
-.. image:: members/membership-product.png
+.. image:: members/membership-product.webp
    :align: center
    :alt: A new membership product in the members app.
 
@@ -70,7 +70,7 @@ To publish a list of active members on the website, the *Online Members Director
 first be :ref:`installed <general/install>`. After installing the module, add the `/members` page to
 the website's menu by :doc:`editing the website menu <../websites/website/pages/menus>`.
 
-.. image:: members/membership-directory-app.png
+.. image:: members/membership-directory-app.webp
    :align: center
    :alt: The Online Members directory module in Odoo.
 

@@ -70,21 +70,21 @@ In order to retrieve the HMAC Key, you'll need to configure a `Standard Notifica
 this, log into your Adyen account then go to :menuselection:`Developers --> Webhooks --> Add webhook
 --> Add Standard notification`.
 
-.. image:: adyen/adyen-add-webhook.png
+.. image:: adyen/adyen-add-webhook.webp
    :align: center
    :alt: Configure a webhook.
 
 There, in :menuselection:`General --> Server configuration --> URL`, enter your server address
 followed by `/payment/adyen/notification`.
 
-.. image:: adyen/adyen-webhook-url.png
+.. image:: adyen/adyen-webhook-url.webp
    :align: center
    :alt: Enter the notification URL.
 
 Then enter :menuselection:`Security --> HMAC Key --> Generate`. Be careful to copy the key as you
 will not be allowed to do it later without generating a new one.
 
-.. image:: adyen/adyen-hmac-key.png
+.. image:: adyen/adyen-hmac-key.webp
    :align: center
    :alt: Generate a HMAC key and save it.
 
@@ -102,7 +102,7 @@ URLs, proceed as follows:
 #. Copy the :guilabel:`Prefix` for your live Customer area (i.e., **data center**) and save it for
    later.
 
-   .. image:: adyen/adyen-api-urls.png
+   .. image:: adyen/adyen-api-urls.webp
      :alt: Copy the prefix for the Adyen APIs
 
 #. In Odoo, :ref:`navigate to the payment provider Adyen <payment_providers/add_new>`.
@@ -131,7 +131,7 @@ To allow payment originated from your website, follow the steps in :ref:`adyen/a
 to navigate to your API user and go to :menuselection:`Add allowed origins`, then add the URLs from
 where payments will be made (the URLs of the servers hosting your Odoo instances).
 
-.. image:: adyen/adyen-allowed-origins.png
+.. image:: adyen/adyen-allowed-origins.webp
    :align: center
    :alt: Allows payments originated from a specific domain.
 
@@ -146,7 +146,7 @@ To set it up, enable the **Capture Amount Manually** option on Odoo, as explaine
 Then, open your Adyen Merchant Account, go to :menuselection:`Account --> Settings`, and set the
 **Capture Delay** to **manual**.
 
-.. image:: adyen/adyen_capture_delay.png
+.. image:: adyen/adyen_capture_delay.webp
    :align: center
    :alt: Capture Delay settings in Adyen
 

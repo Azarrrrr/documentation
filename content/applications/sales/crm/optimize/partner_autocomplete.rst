@@ -29,7 +29,7 @@ Configuration
 Go to :menuselection:`Settings app --> Contacts section`. Then, activate the :guilabel:`Partner
 Autocomplete` feature, by ticking the checkbox beside it, and clicking :guilabel:`Save`.
 
-.. image:: partner_autocomplete/settings-partner-autocomplete.png
+.. image:: partner_autocomplete/settings-partner-autocomplete.webp
    :align: center
    :alt: View of settings page and the activations of the feature in Odoo.
 
@@ -42,14 +42,14 @@ with corporate data related to that specific selection.
 
 For example, after typing `Odoo`, the following information populates:
 
-.. image:: partner_autocomplete/odoo-autocomplete.png
+.. image:: partner_autocomplete/odoo-autocomplete.webp
    :align: center
    :alt: Creating a new contact in Odoo
 
 In the chatter, the following information populates about the company, after clicking on the desired
 pre-populated contact:
 
-.. image:: partner_autocomplete/odoo-info-autocomplete.png
+.. image:: partner_autocomplete/odoo-info-autocomplete.webp
    :align: center
    :alt: View of the information being shown about odoo with the autocomplete option in Odoo
 

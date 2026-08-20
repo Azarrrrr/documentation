@@ -16,7 +16,7 @@ to answer the specific business case.
 
 Here is an overview of the main list view containing some advertisements:
 
-.. image:: 02_newapp/overview_list_view_01.png
+.. image:: 02_newapp/overview_list_view_01.webp
    :align: center
    :alt: List view 01
 
@@ -24,14 +24,14 @@ The top area of the form view summarizes important information for the property,
 the property type, the postcode and so on. The first tab contains information describing the
 property: bedrooms, living area, garage, garden...
 
-.. image:: 02_newapp/overview_form_view_01.png
+.. image:: 02_newapp/overview_form_view_01.webp
    :align: center
    :alt: Form view 01
 
 The second tab lists the offers for the property. We can see here that potential buyers can make
 offers above or below the expected selling price. It is up to the seller to accept an offer.
 
-.. image:: 02_newapp/overview_form_view_02.png
+.. image:: 02_newapp/overview_form_view_02.webp
    :align: center
    :alt: Form view 02
 
@@ -50,7 +50,7 @@ Prepare the addon directory
    **Goal**: the goal of this section is to have Odoo recognize our new module, which will
    be an empty shell for now. It will be listed in the Apps:
 
-   .. image:: 02_newapp/app_in_list.png
+   .. image:: 02_newapp/app_in_list.webp
       :align: center
       :alt: The new module appears in the list
 

@@ -41,7 +41,7 @@ To do that, go to :menuselection:`Sales app --> Configuration --> Settings`, and
 
 In that section, check the box to enable the :guilabel:`Variants` feature.
 
-.. image:: variants/activating-variants-setting.png
+.. image:: variants/activating-variants-setting.webp
    :align: center
    :alt: Activating product variants on the Settings page of the Odoo Sales application.
 
@@ -60,7 +60,7 @@ attributes, navigate to :menuselection:`Sales app --> Configuration --> Attribut
 To create a new attribute from the :guilabel:`Attributes` page, click :guilabel:`New`. Doing so
 reveals a blank attributes form that can be customized and configured in a number of ways.
 
-.. image:: variants/attribute-creation.png
+.. image:: variants/attribute-creation.webp
    :align: center
    :alt: A blank attribute creation form in the Odoo Sales application.
 
@@ -80,7 +80,7 @@ The :guilabel:`Display Type` options are:
 - :guilabel:`Multi-checkbox (option)`: options appear as selectable checkboxes on the product page
   of the online store.
 
-.. image:: variants/display-types.png
+.. image:: variants/display-types.webp
    :align: center
    :alt: Display Types on Product Configurator on the online store in Odoo.
 
@@ -116,7 +116,7 @@ menu to group similar attributes under the same section for added specificity an
    :guilabel:`eCommerce Category` field, once an option has been selected. Doing so reveals that
    attribute category's detail form.
 
-   .. image:: variants/attribute-category-internal-link.png
+   .. image:: variants/attribute-category-internal-link.webp
       :align: center
       :alt: A standard attribute category detail page accessible via its internal link arrow icon.
 
@@ -152,14 +152,14 @@ specifications that are specific to this particular value).
    color code will appear to the far-right of the value line, to make it easier for salespeople and
    customers to know exactly what color option they're choosing.
 
-   .. image:: variants/attribute-value-add-a-line.png
+   .. image:: variants/attribute-value-add-a-line.webp
       :align: center
       :alt: Attribute values tab when add a line is clicked, showing the custom columns.
 
    To choose a color, click the blank circle in the :guilabel:`Color` column, which reveals an HTML
    color selector pop-up window.
 
-   .. image:: variants/picking-a-color.png
+   .. image:: variants/picking-a-color.webp
       :align: center
       :alt: Selecting a color from the HTML color pop-up window that appears on attribute form.
 
@@ -188,7 +188,7 @@ product variant can be added.
 On the product form, click the :guilabel:`Attributes \& Variants` tab to view, manage, and modify
 attributes and values for the product.
 
-.. image:: variants/attributes-values-tab.png
+.. image:: variants/attributes-values-tab.webp
    :align: center
    :alt: The attributes and values tab on a typical product form in Odoo Sales.
 
@@ -223,7 +223,7 @@ Configure variants
 To the far-right of the attribute line is a :guilabel:`Configure` button. When clicked, Odoo reveals
 a separate page showcasing those specific :guilabel:`Product Variant Values`.
 
-.. image:: variants/product-variant-values.png
+.. image:: variants/product-variant-values.webp
    :align: center
    :alt: The Product Variant Values page accessible via the Configure button on a product form.
 
@@ -237,7 +237,7 @@ Here, the specific :guilabel:`Value` name, :guilabel:`HTML Color Index` (if appl
 When a value is clicked on the :guilabel:`Product Variant Values` page, Odoo reveals a separate
 page, detailing that value's related details.
 
-.. image:: variants/product-variant-value-page.png
+.. image:: variants/product-variant-value-page.webp
    :align: center
    :alt: A Product Variant Values page accessible via the Product Variants Values general page.
 
@@ -255,14 +255,14 @@ When a product has attributes and variants configured in its :guilabel:`Attribut
 a :guilabel:`Variants` smart button appears at the top of the product form. The :guilabel:`Variants`
 smart button indicates how many variants are currently configured for that specific product.
 
-.. image:: variants/variants-smart-button.png
+.. image:: variants/variants-smart-button.webp
    :align: center
    :alt: The variants smart button at the top of the product form in Odoo Sales.
 
 When the :guilabel:`Variants` smart button is clicked, Odoo reveals a separate page showcasing all
 the specific product variant combinations configured for that specific product.
 
-.. image:: variants/variants-page.png
+.. image:: variants/variants-page.webp
    :align: center
    :alt: The variants page accessible via the variants smart button on the product form in Odoo.
 

@@ -21,7 +21,7 @@ Content optimization
 To optimize a webpage's SEO, access the page, then go to :menuselection:`Website --> Site -->
 Optimize SEO`.
 
-.. image:: seo/optimize-seo.png
+.. image:: seo/optimize-seo.webp
    :alt: Optimize SEO
 
 Meta tags
@@ -93,7 +93,7 @@ efficiently.
 **To modify an image** from your website, select the image, click :guilabel:`Edit`, then go to the
 :guilabel:`Customize` tab, and adapt the :guilabel:`Format` in the :guilabel:`Image` section.
 
-.. image:: seo/image-format.png
+.. image:: seo/image-format.webp
    :alt: automated image compression
 
 .. important::
@@ -121,7 +121,7 @@ content and display it in a relevant way. Odoo implements microdata as defined i
 contact addresses. This allows your product pages to be displayed in Google using extra information
 like the price and rating of a product:
 
-.. image:: seo/data-markup.png
+.. image:: seo/data-markup.webp
    :alt: snippets in search engine results
 
 robots.txt
@@ -167,7 +167,7 @@ Every sitemap entry has three attributes that are computed automatically:
    To prevent pages from appearing in a sitemap, go to :menuselection:`Site --> Properties`, click
    the :guilabel:`Publish` tab, and turn off the :guilabel:`Indexed` feature.
 
-     .. image:: seo/page-properties.png
+     .. image:: seo/page-properties.webp
         :alt:  disabling the “Indexed” checkbox
 
 Hreflang HTML tags

@@ -17,7 +17,7 @@ The following sections are available:
   :guilabel:`Text`, :guilabel:`Headings`, :guilabel:`Links`, :guilabel:`Primary Buttons`, and
   :guilabel:`Secondary Buttons`.
 
-  .. image:: themes/colors.png
+  .. image:: themes/colors.webp
      :alt: select the colors of your website
      :scale: 75%
 
@@ -39,7 +39,7 @@ The following sections are available:
      To add another font, click :guilabel:`Add a Google Font`, and, in the popup window, click
      :guilabel:`fonts.google.com`.
 
-     .. image:: themes/add-a-font.png
+     .. image:: themes/add-a-font.webp
         :alt: Select the font you like
         :scale: 75%
 
@@ -52,7 +52,7 @@ The following sections are available:
 - :guilabel:`Button`: Customize the :guilabel:`Primary Style` and :guilabel:`Secondary Style`
   buttons.
 
-  .. image:: themes/buttons.png
+  .. image:: themes/buttons.webp
      :alt: Two types of buttons in Odoo
 
 - :guilabel:`Link`: To edit the style of the hyperlinks available on your website.
@@ -69,13 +69,13 @@ The following sections are available:
   .. example::
      - The :guilabel:`Status Color` of the :guilabel:`Success` messages is set to green.
 
-       .. image:: themes/advanced.png
+       .. image:: themes/advanced.webp
           :alt: Status colors success message set to green.
 
-       .. image:: themes/success.png
+       .. image:: themes/success.webp
           :alt: Success message is green
 
      - Customizing the gray elements of your site.
 
-       .. image:: themes/grays.png
+       .. image:: themes/grays.webp
           :alt: Customize the grays elements of your site

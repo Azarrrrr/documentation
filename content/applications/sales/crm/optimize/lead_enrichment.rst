@@ -32,7 +32,7 @@ next to :guilabel:`Lead Enrichment`, and select either :guilabel:`Enrich leads o
 :guilabel:`Enrich all leads automatically`. Click the :guilabel:`Save` button to activate the
 changes.
 
-.. image:: lead_enrichment/lead-enrichment-activate.png
+.. image:: lead_enrichment/lead-enrichment-activate.webp
    :align: center
    :alt: CRM lead generation settings page, with lead enrichment activation highlighted, and enrich
          leads on demand only chosen.
@@ -61,7 +61,7 @@ remote database is contacted.
 .. example::
    The following is an example of lead enrichment data that has been autocompleted successfully:
 
-   .. image:: lead_enrichment/lead-enrichment-data.png
+   .. image:: lead_enrichment/lead-enrichment-data.webp
       :align: center
       :alt: Chatter showing lead enrichment data.
 
@@ -77,7 +77,7 @@ The same information will be retrieved at the same :abbr:`IAP (In-App Puchase)` 
 enrichment). This method of enrichment is useful when every lead does not need to be enriched, or
 cost is an issue.
 
-.. image:: lead_enrichment/manual-enrichment.png
+.. image:: lead_enrichment/manual-enrichment.webp
    :align: center
    :alt: Manual enrich button feature highlighted on the CRM lead.
 
@@ -103,7 +103,7 @@ To buy credits, navigate to :menuselection:`CRM app --> Configuration --> Settin
 :guilabel:`Lead Generation` section, under the :guilabel:`Lead Enrichment` feature, click on
 :guilabel:`Buy Credits`.
 
-.. image:: lead_enrichment/buy-lead-enrichment-credits-setting.png
+.. image:: lead_enrichment/buy-lead-enrichment-credits-setting.webp
    :align: center
    :alt: Buy credits from the lead enrichment settings.
 
@@ -111,7 +111,7 @@ Credits and balances may also be purchased by navigating to the :menuselection:`
 the :guilabel:`Contacts` section, under the :guilabel:`Odoo IAP` feature, click on :guilabel:`View
 My Services`.
 
-.. image:: lead_enrichment/view-my-services-setting.png
+.. image:: lead_enrichment/view-my-services-setting.webp
    :align: center
    :alt: Buy credits in the Odoo IAP settings.
 

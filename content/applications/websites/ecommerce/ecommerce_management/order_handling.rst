@@ -23,7 +23,7 @@ orders can automatically be assigned to a specific sales team by going to :menus
 --> Configuration --> Settings`. In the **Shop - Checkout Process** section, select a
 :guilabel:`Sales Team` or :guilabel:`Salesperson` to handle eCommerce orders.
 
-.. image:: order_handling/handling-salesteam.png
+.. image:: order_handling/handling-salesteam.webp
    :align: center
    :alt: Assignment of online orders to a sales team or salesperson
 
@@ -37,7 +37,7 @@ order goes through a different status:
 - **Order**: the customer has gone through the checkout process, confirmed the order, and the
   payment is received.
 
-.. image:: order_handling/handling-status.png
+.. image:: order_handling/handling-status.webp
    :align: center
    :alt: Statuses of eCommerce orders
 

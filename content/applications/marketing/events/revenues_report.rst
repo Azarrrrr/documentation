@@ -13,7 +13,7 @@ Revenues reporting page
 To access the *Attendees* reporting page, navigate to :menuselection:`Events app --> Reporting -->
 Revenues`.
 
-.. image:: revenues_report/default-view.png
+.. image:: revenues_report/default-view.webp
    :align: center
    :alt: The default view of the Revenues reporting page in the Odoo Events application.
 
@@ -132,7 +132,7 @@ The following is an example of how various filters and grouping options can crea
 graph report related to event revenues. In this case, the configurations present data about sold or
 free tickets to published events, with the metrics separated by ticket type and event.
 
-.. image:: revenues_report/event-ticket-analysis.png
+.. image:: revenues_report/event-ticket-analysis.webp
    :align: center
    :alt: The event ticket analysis sample report with unique filters and groupings in place.
 
@@ -169,7 +169,7 @@ pivot table report related to event revenues. In this case, the configurations p
 how much revenue different event types have generated, in order to gauge which events are the most
 profitable.
 
-.. image:: revenues_report/event-type-analysis.png
+.. image:: revenues_report/event-type-analysis.webp
    :align: center
    :alt: The event type analysis sample report with unique filters and groupings in place.
 

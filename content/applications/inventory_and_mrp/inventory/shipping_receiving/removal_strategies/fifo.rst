@@ -16,7 +16,7 @@ retention of specific styles.
    strategy prioritizes lots that have been in stock the longest. So, products received on August
    1st are selected first for picking.
 
-   .. image:: fifo/fifo-example.png
+   .. image:: fifo/fifo-example.webp
       :align: center
       :alt: Illustration of FIFO selecting the oldest products in stock.
 
@@ -39,7 +39,7 @@ On` field shows the lot/serial number creation date, which is, essentially, the 
    Serial number `00000000500` of the product, `Cabinet with Doors`, arrived on December 29th, as
    displayed in the :guilabel:`Created On` field.
 
-   .. image:: fifo/created-on.png
+   .. image:: fifo/created-on.webp
       :align: center
       :alt: Display arrival date of a lot for an item.
 
@@ -92,6 +92,6 @@ In the :guilabel:`Open: Stock move` pop-up window, the :guilabel:`Pick from` fie
 the quantities to fulfill the :guilabel:`Demand` are picked from. Since the order demanded six
 shirts, all five shirts from `LOT1`, and one shirt from `LOT2`, are selected.
 
-.. image:: fifo/white-shirt-picking.png
+.. image:: fifo/white-shirt-picking.webp
    :align: center
    :alt: Two lots being reserved for a sales order with the FIFO strategy.

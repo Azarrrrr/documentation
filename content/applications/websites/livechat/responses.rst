@@ -28,7 +28,7 @@ view of the chat.
    creates a ticket with the information from the conversation. It also includes a link to the new
    ticket, so the operator can go there directly to add any additional information, if necessary.
 
-   .. image:: responses/responses-ticket-link.png
+   .. image:: responses/responses-ticket-link.webp
       :align: center
       :alt: View of the chat window with a helpdesk ticket created in Odoo Live Chat.
 
@@ -72,7 +72,7 @@ ticket.
 After entering the `/ticket` command, type a title for the ticket into the chat window, then press
 `Enter`.
 
-.. image:: responses/helpdesk.png
+.. image:: responses/helpdesk.webp
    :align: center
    :alt: View of the results from a helpdesk search in a Live Chat conversation.
 
@@ -97,7 +97,7 @@ After entering the `/search_tickets` command, type a keyword or ticket number, t
 :kbd:`Enter`. If one or more related tickets are found, a list of links is generated in the
 conversation window.
 
-.. image:: responses/helpdesk-search.png
+.. image:: responses/helpdesk-search.webp
    :align: center
    :alt: View of the results from a helpdesk search in a Live Chat conversation.
 
@@ -110,7 +110,7 @@ History
 If an operator types `/history` in the chat window, it generates a list of the most recent pages the
 visitor has viewed on the website (up to 15).
 
-.. image:: responses/responses-history.png
+.. image:: responses/responses-history.webp
    :align: center
    :alt: View of the results from a /history command in a Live Chat conversation.
 
@@ -119,7 +119,7 @@ Lead
 
 By typing `/lead` in the chat window, an operator can create a *lead* in the **CRM** application.
 
-.. image:: responses/responses-lead.png
+.. image:: responses/responses-lead.webp
    :align: center
    :alt: View of the results from a /lead command in a Live Chat conversation.
 
@@ -183,7 +183,7 @@ followed by the shortcut.
    available responses. They can manually select one from the list, or continue to type. If they
    want to use the canned response `'I am sorry to hear that.'`, they would type `:sorry`.
 
-.. image:: responses/canned-responses.png
+.. image:: responses/canned-responses.webp
    :align: center
    :alt: View of a chat window and the use of a canned response in Odoo Live Chat.
 
@@ -191,6 +191,6 @@ followed by the shortcut.
    Typing `:` into a chat window on its own will generate a list of available canned responses.
    Responses can be manually selected from the list, in addition to the use of shortcuts.
 
-   .. image:: responses/response-list.png
+   .. image:: responses/response-list.webp
       :align: center
       :alt: View of a chat window and the list of available canned responses.

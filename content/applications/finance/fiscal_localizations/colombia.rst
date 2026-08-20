@@ -103,7 +103,7 @@ Enable the :guilabel:`Test mode` checkbox to connect with the Carvajal testing e
 Once Odoo and Carvajal are fully configured and ready for production, deactivate the :guilabel:`Test
 mode` checkbox to use the production database.
 
-.. image:: colombia/carvajal-configuration.png
+.. image:: colombia/carvajal-configuration.webp
    :align: center
    :alt: Configure credentials for Carvajal web service in Odoo.
 
@@ -199,7 +199,7 @@ If sales transactions include products with taxes, the :guilabel:`Value Type` fi
 (:guilabel:`ICA`, :guilabel:`IVA`, :guilabel:`Fuente`) are also included. This configuration is used
 to display taxes correctly in the invoice PDF.
 
-.. image:: colombia/retention-tax-types.png
+.. image:: colombia/retention-tax-types.webp
    :align: center
    :alt: The ICA, IVA and Fuente fields in the Advanced Options tab in Odoo.
 
@@ -274,7 +274,7 @@ localization:
 #. Acquirer sends a receipt of acknowledgement, and accepts or rejects the invoice.
 #. Sender downloads a :file:`.zip` file with the PDF and XML.
 
-.. image:: colombia/workflow-electronic-invoice.png
+.. image:: colombia/workflow-electronic-invoice.webp
    :align: center
    :alt: Electronic invoice workflow for Colombian localization.
 
@@ -309,7 +309,7 @@ After the invoice confirmation, an XML file is created and sent automatically to
 invoice is then processed asynchronously by the E-invoicing service UBL 2.1 (Colombia). The file is
 also displayed in the chatter.
 
-.. image:: colombia/invoice-sent.png
+.. image:: colombia/invoice-sent.webp
    :align: center
    :alt: Carvajal XML invoice file in Odoo chatter.
 
@@ -334,7 +334,7 @@ generated. If everything is correct the :guilabel:`Electronic Invoicing` field v
 A :file:`.zip` containing the legal electronic invoice (in XML format) and the invoice in (PDF
 format) is downloaded and displayed in the invoice chatter:
 
-.. image:: colombia/invoice-zip.png
+.. image:: colombia/invoice-zip.webp
    :align: center
    :alt: ZIP file displayed in the invoice chatter in Odoo.
 
@@ -409,7 +409,7 @@ updating the electronic invoice status.
 After the master data is corrected, it's possible to reprocess the XML with the new data and send
 the updated version, using the :guilabel:`Retry` button.
 
-.. image:: colombia/xml-validation-error.png
+.. image:: colombia/xml-validation-error.webp
    :alt: XML validation errors shown in the invoice chatter in Odoo.
 
 .. _colombia/reports:
@@ -424,7 +424,7 @@ This report is a certification to vendors for withholdings made for the Colombia
 Commerce (ICA) tax. The report can be found under :menuselection:`Accounting --> Reporting -->
 Colombian Statements --> Certificado de Retención en ICA`.
 
-.. image:: colombia/ica-report.png
+.. image:: colombia/ica-report.webp
    :align: center
    :alt: Certificado de Retención en ICA report in Odoo Accounting.
 
@@ -435,7 +435,7 @@ This report issues a certificate on the amount withheld from vendors for VAT wit
 can be found under :menuselection:`Accounting --> Reporting --> Colombian Statements --> Certificado
 de Retención en IVA`.
 
-.. image:: colombia/iva-report.png
+.. image:: colombia/iva-report.webp
    :align: center
    :alt: Certificado de Retención en IVA report in Odoo Accounting.
 
@@ -446,6 +446,6 @@ This certificate is issued to partners for the withholding tax that they have ma
 be found under :menuselection:`Accounting --> Reporting --> Colombian Statements --> Certificado de
 Retención en Fuente`.
 
-.. image:: colombia/fuente-report.png
+.. image:: colombia/fuente-report.webp
    :align: center
    :alt: Certificado de Retención en Fuente report in Odoo Accounting.

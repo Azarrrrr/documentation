@@ -54,7 +54,7 @@ the :guilabel:`Copyright` section at the bottom of the page. To edit the languag
 #. Set the :guilabel:`Language selector` field to either :guilabel:`Dropdown` or :guilabel:`Inline`.
    Click :guilabel:`None` if you do not want to display the  :guilabel:`Language selector`;
 
-     .. image:: translate/language-selector.png
+     .. image:: translate/language-selector.webp
         :alt: Add a language selector menu.
 
 #. Click :guilabel:`Save`.
@@ -76,7 +76,7 @@ translation mode so that you can translate what has not been translated automati
 Translated text strings are highlighted in green; text strings that were not translated
 automatically are highlighted in yellow.
 
-.. image:: translate/translated-text.png
+.. image:: translate/translated-text.webp
   :alt: Entering the translation mode
 
 In this mode, you can only translate text. To change the page's structure, you must edit the master

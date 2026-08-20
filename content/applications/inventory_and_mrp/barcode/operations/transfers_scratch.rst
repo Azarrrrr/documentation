@@ -29,7 +29,7 @@ nomenclature selected changes how scanners interpret barcodes in Odoo.
 There is also a :guilabel:`Configure Product Barcodes` internal link arrow, and a set of
 :guilabel:`Print` buttons for printing barcode commands and a barcode demo sheet.
 
-.. image:: transfers_scratch/transfers-scratch-enabled-barcode-setting.png
+.. image:: transfers_scratch/transfers-scratch-enabled-barcode-setting.webp
    :align: center
    :alt: Enabled Barcode feature in Inventory app settings.
 
@@ -67,7 +67,7 @@ Transfers`. Under that field, the :guilabel:`Source Location` and :guilabel:`Des
 are set as :guilabel:`WH/Stock` by default, but can be changed to whichever locations the products
 are being moved from, and moved to.
 
-.. image:: transfers_scratch/transfers-scratch-internal-transfer-form.png
+.. image:: transfers_scratch/transfers-scratch-internal-transfer-form.webp
    :align: center
    :alt: Blank internal transfer form with source location and destination location.
 
@@ -79,7 +79,7 @@ Once ready, click :guilabel:`Save` at the top of the form to save the new intern
 saved, click the :guilabel:`Detailed Operations` icon (four lines, at the far right of the
 :guilabel:`Product` line) to open the :guilabel:`Detailed Operations` pop-up window.
 
-.. image:: transfers_scratch/transfers-scratch-detailed-operations-popup.png
+.. image:: transfers_scratch/transfers-scratch-detailed-operations-popup.webp
    :align: center
    :alt: Internal transfer detailed operations pop-up window.
 
@@ -102,7 +102,7 @@ options is presented.
 To process internal transfers, click on the :guilabel:`Operations` button at the bottom of the
 screen. This navigates to an :menuselection:`Operations` overview page.
 
-.. image:: transfers_scratch/transfers-scratch-barcode-app.png
+.. image:: transfers_scratch/transfers-scratch-barcode-app.webp
    :align: center
    :alt: Barcode app start screen with scanner.
 
@@ -124,7 +124,7 @@ From this screen, an overview of all products to process within that specific in
 Product` or :guilabel:`Validate`, depending on if products need to be added to the operation, or if
 the whole operation should be validated at once.
 
-.. image:: transfers_scratch/transfers-scratch-receipts-overview.png
+.. image:: transfers_scratch/transfers-scratch-receipts-overview.webp
    :align: center
    :alt: Overview of receipts in transfer to scan.
 
@@ -144,7 +144,7 @@ to the quantity listed to be transferred on the internal transfer form.
    Reference` set on the product form. Scan the barcode of the `Transfer Product` to receive one
    unit. Afterwards, click the :guilabel:`pencil icon` to manually enter the transferred quantities.
 
-   .. image:: transfers_scratch/transfers-scratch-product-line-editor.png
+   .. image:: transfers_scratch/transfers-scratch-product-line-editor.webp
       :align: center
       :alt: Product line editor for individual transfer in Barcode app.
 
@@ -184,7 +184,7 @@ operation type barcode.
    access this demo data, navigate to the :menuselection:`Barcode app` and click :guilabel:`stock
    barcodes sheet` (bolded and highlighted in blue) in the information pop-up above the scanner.
 
-   .. image:: transfers_scratch/transfers-scratch-demo-data.png
+   .. image:: transfers_scratch/transfers-scratch-demo-data.webp
       :align: center
       :alt: Demo data prompt pop-up on Barcode app main screen.
 
@@ -210,7 +210,7 @@ and add the products and product quantities that should be transferred.
 
 Once ready, click :guilabel:`Confirm` to confirm the changes made to the product line.
 
-.. image:: transfers_scratch/transfers-scratch-blank-product-editor.png
+.. image:: transfers_scratch/transfers-scratch-blank-product-editor.webp
    :align: center
    :alt: Blank product editor in scratch internal transfer.
 

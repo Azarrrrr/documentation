@@ -24,7 +24,7 @@ Open the **Project** app and click :guilabel:`Create` to start a new project. En
 You can customize your existing **projects** from the dashboard by clicking the drop-down toggle
 button (:guilabel:`⋮`) on your project's **card**.
 
-.. image:: project_management/project-settings.png
+.. image:: project_management/project-settings.webp
    :align: center
    :alt: Project card
 
@@ -52,7 +52,7 @@ This enables a new menu divided into four parts:
 Additionally, you can mark the project as :guilabel:`Favorite`, allowing you to find it using the
 :guilabel:`My Favorites` filter on the Kanban view;
 
-.. image:: project_management/project-settings-opened.png
+.. image:: project_management/project-settings-opened.webp
    :align: center
    :alt: Project settings
 

@@ -153,7 +153,7 @@ The following fiscal positions are available by default:
 - :guilabel:`Yukon (YT)`
 - :guilabel:`International (INTL)`
 
-.. image:: canada/l10n-ca-fiscal-positions.png
+.. image:: canada/l10n-ca-fiscal-positions.webp
    :alt: The default fiscal positions for the Canada localization in Odoo Accounting.
 
 .. note::
@@ -222,7 +222,7 @@ Canadian localization, under the :menuselection:`Accounting app --> Reporting` d
   Be sure to select the :menuselection:`Balance sheet (CA)` option from the :icon:`fa-book`
   :guilabel:`Report` filter.
 
-  .. image:: canada/l10n-ca-balance-sheet.png
+  .. image:: canada/l10n-ca-balance-sheet.webp
      :alt: Balance sheet report selection for CA localization in Odoo.
 
 - :ref:`Profit & Loss <accounting/reporting/balance-sheet>`: otherwise known as a *P&L statement* or
@@ -232,7 +232,7 @@ Canadian localization, under the :menuselection:`Accounting app --> Reporting` d
   Be sure to select the :menuselection:`Profit and loss (CA)` option from the :icon:`fa-book`
   :guilabel:`Report` filter.
 
-  .. image:: canada/l10n-ca-profit-loss.png
+  .. image:: canada/l10n-ca-profit-loss.webp
      :alt: Profit and loss report selection for CA localization in Odoo.
 
 - :guilabel:`Cash Flow Statement`: shows how much cash and cash equivalents a company has received

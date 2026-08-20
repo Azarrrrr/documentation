@@ -28,7 +28,7 @@ the type you chose.
    - You could also include the invoice number in the QR code by checking the :guilabel:`Include
      Reference` checkbox.
 
-.. image:: vietnam/vn-paynow-bank-setting.png
+.. image:: vietnam/vn-paynow-bank-setting.webp
    :alt: Vietnamese QR banking bank account configuration
 
 .. seealso::
@@ -40,7 +40,7 @@ Bank journal configuration
 Go to :menuselection:`Accounting --> Configuration --> Journals`, open the bank journal, then fill
 out the :guilabel:`Account Number` and :guilabel:`Bank` under the :guilabel:`Journal Entries` tab.
 
-.. image:: vietnam/vn-bank-account-journal-setting.png
+.. image:: vietnam/vn-bank-account-journal-setting.webp
    :alt: Bank Account's journal configuration
 
 Issue invoices with Vietnamese QR banking QR codes
@@ -49,7 +49,7 @@ Issue invoices with Vietnamese QR banking QR codes
 When creating a new invoice, open the :guilabel:`Other Info` tab and set the :guilabel:`Payment
 QR-code` option to *EMV Merchant-Presented QR-code*.
 
-.. image:: vietnam/vn-qr-code-invoice-setting.png
+.. image:: vietnam/vn-qr-code-invoice-setting.webp
    :alt: Select EMV Merchant-Presented QR-code option
 
 Ensure that the :guilabel:`Recipient Bank` is the one you configured, as Odoo uses this field to

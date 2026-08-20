@@ -30,7 +30,7 @@ Optional products
 **product page** or **catalog page**. Upon clicking, a pop-up window opens with the
 **optional products** displayed in the :guilabel:`Available Options` section.
 
-.. image:: cross_upselling/cross_upselling-cart.png
+.. image:: cross_upselling/cross_upselling-cart.webp
    :align: center
    :alt: Optional products cross-selling
 
@@ -51,7 +51,7 @@ Accessory products
 **Accessory products** are displayed in the :guilabel:`Suggested Accessories` section before
 processing to checkout at the :guilabel:`Review Order` step.
 
-.. image:: cross_upselling/cross_upselling-checkout.png
+.. image:: cross_upselling/cross_upselling-checkout.webp
    :align: center
    :alt: Suggested accessories at checkout during cart review
 
@@ -72,7 +72,7 @@ Alternative products
 **Alternative products** are suggested on the **product page** and usually incentivize customers to
 buy a more expensive variant or product than the one they were initially shopping for.
 
-.. image:: cross_upselling/cross_upselling-alternative.png
+.. image:: cross_upselling/cross_upselling-alternative.webp
    :align: center
    :alt: Alternative products on the product page
 

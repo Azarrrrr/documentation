@@ -42,7 +42,7 @@ operation type. Or, create a new one by clicking :guilabel:`New`.
 In the :guilabel:`General` tab of the operation type form, locate the :guilabel:`Reservation Method`
 option, and choose which method should be used for this type of operation.
 
-.. image:: reservation_methods/reservation-methods-operations-type-field.png
+.. image:: reservation_methods/reservation-methods-operations-type-field.webp
    :align: center
    :alt: Reservation method field on delivery order operation type form.
 
@@ -58,7 +58,7 @@ option, and choose which method should be used for this type of operation.
    Changing the :guilabel:`days before when starred` value changes the maximum number of days before
    a scheduled date that starred (favorited) transfers for products should be reserved.
 
-   .. image:: reservation_methods/reservation-methods-before-scheduled-date.png
+   .. image:: reservation_methods/reservation-methods-before-scheduled-date.webp
       :align: center
       :alt: Reserve before scheduled date fields with before scheduled date method chosen.
 
@@ -94,7 +94,7 @@ Operations Types`, and then clicking on a specific operations type.
    When the :guilabel:`Type of Operation` is changed to :guilabel:`Receipt` on an
    :guilabel:`Operations Type` form, reservation methods are **not** available.
 
-.. image:: reservation_methods/reservation-methods-operations-type-menu.png
+.. image:: reservation_methods/reservation-methods-operations-type-menu.webp
    :align: center
    :alt: Operations Types highlighted from the Configurations submenu in the Inventory app.
 

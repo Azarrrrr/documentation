@@ -5,7 +5,7 @@ Customer display
 The **customer display** feature provides customers with real-time checkout updates on a secondary
 display.
 
-.. image:: customer_display/display.png
+.. image:: customer_display/display.webp
    :alt: customer screen
 
 Configuration
@@ -18,7 +18,7 @@ Depending on your POS setup, the feature can be displayed :ref:`locally on a sec
 To activate the feature, go to the POS settings, scroll down to the :guilabel:`Connected Devices`
 section, and tick the :guilabel:`Customer Display` checkbox.
 
-.. image:: customer_display/feature-setting.png
+.. image:: customer_display/feature-setting.webp
    :alt: customer display setting checkbox
 
 .. _customer_display/local:
@@ -51,7 +51,7 @@ Connect an IoT box to your database and the second screen to the IoT box. Then, 
 :guilabel:`Connected Devices` section, tick the :guilabel:`IoT Box` checkbox, and select the second
 monitor in the :guilabel:`Customer Display` field.
 
-.. image:: customer_display/iot-setting.png
+.. image:: customer_display/iot-setting.webp
    :alt: iot setting to connect a customer display
 
 .. note::

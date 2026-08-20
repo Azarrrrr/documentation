@@ -39,7 +39,7 @@ Once an order is completed, proceed to checkout by clicking :guilabel:`Payment`.
 **payment method**, enter the received amount, and click :guilabel:`Validate`. Click
 :guilabel:`New Order` to move on to the next customer.
 
-.. image:: point_of_sale/pos-interface.png
+.. image:: point_of_sale/pos-interface.webp
    :alt: POS session interface.
 
 .. tip::
@@ -85,13 +85,13 @@ window in which you can add or modify content for the note.
    Product notes from an :doc:`imported SO <point_of_sale/shop/sales_order>` are displayed
    identically in the cart.
 
-.. image:: point_of_sale/customer-notes.png
+.. image:: point_of_sale/customer-notes.webp
    :alt: Customer note button and notes (SO and POS session) on products in the cart
 
 Customer notes appear on customers' receipts and invoices similarly to how they appear in the cart,
 under the related product.
 
-.. image:: point_of_sale/notes-receipt.png
+.. image:: point_of_sale/notes-receipt.webp
    :alt: Customer receipt with notes from an SO and from the customer note feature
 
 .. _pos/refund:
@@ -108,7 +108,7 @@ To return and refund a product,
 #. once the order is completed, click :guilabel:`Payment` to proceed to the refund;
 #. click :guilabel:`Validate` and :guilabel:`New Order` to move on to the next customer.
 
-.. image:: point_of_sale/refund.png
+.. image:: point_of_sale/refund.webp
    :alt: refund view from a POS
 
 .. note::
@@ -126,7 +126,7 @@ Manage the cash register
 To add or take out cash from the register, click the **menu icon** in the upper right corner of your
 screen and :guilabel:`Cash In/Out`.
 
-.. image:: point_of_sale/menu-button.png
+.. image:: point_of_sale/menu-button.webp
    :alt: Dropdown menu to close a POS session, reach the backend, add or take cash out or check
          orders
 
@@ -153,7 +153,7 @@ and added manually. Then, click :guilabel:`Confirm` or :guilabel:`Discard` to cl
 computed amount is set in the :guilabel:`Counted` column, and the :guilabel:`Money Details` are
 specified in the **Notes** section.
 
-.. image:: point_of_sale/closing-control.png
+.. image:: point_of_sale/closing-control.webp
    :alt: How to close a POS session.
 
 Once you are done controlling the amounts, click :guilabel:`Close Session` to close and go back to

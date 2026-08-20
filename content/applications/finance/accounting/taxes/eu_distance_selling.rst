@@ -21,7 +21,7 @@ creating and configuring new **fiscal positions** and **taxes** based on your co
 enable it, go to :menuselection:`Accounting --> Configuration --> Settings --> Taxes`, tick
 :guilabel:`EU Intra-community Distance Selling`, and :guilabel:`Save`.
 
-.. image:: eu_distance_selling/enable-feature.png
+.. image:: eu_distance_selling/enable-feature.webp
    :alt: EU intra-community Distance Selling feature in Odoo Accounting settings
 
 .. tip::
@@ -58,7 +58,7 @@ report`, and select either :guilabel:`OSS Sales` or :guilabel:`OSS Imports`. Onc
 currently-opened report in the selected format. Once generated, log into the platform of your
 competent federal authority to submit it onto the OSS portal.
 
-.. image:: eu_distance_selling/oss-report.png
+.. image:: eu_distance_selling/oss-report.webp
    :alt: OSS reports view
 
 .. seealso::

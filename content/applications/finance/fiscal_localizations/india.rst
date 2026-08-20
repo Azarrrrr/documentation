@@ -41,7 +41,7 @@ localization:
      - `l10n_in_stock`
      - Indian GST Stock report
 
-.. image:: india/india-modules.png
+.. image:: india/india-modules.webp
    :alt: Indian localization modules
 
 .. _india/e-invoicing:
@@ -76,7 +76,7 @@ You must register on the :abbr:`NIC (National Informatics Centre)` e-Invoice por
    .. note::
       If you are already registered on the NIC portal, you can use the same login credentials.
 
-   .. image:: india/e-invoice-system-login.png
+   .. image:: india/e-invoice-system-login.webp
       :alt: Register Odoo ERP system on e-invoice web portal
 
 #. From the dashboard, go to :menuselection:`API Registration --> User Credentials --> Create API
@@ -87,7 +87,7 @@ You must register on the :abbr:`NIC (National Informatics Centre)` e-Invoice por
    GSP, and type in a :guilabel:`Username` and :guilabel:`Password` for your API. Once it is done,
    click :guilabel:`Submit`.
 
-   .. image:: india/submit-api-registration-details.png
+   .. image:: india/submit-api-registration-details.webp
       :alt: Submit API specific Username and Password
 
 .. _india/e-invoicing-configuration:
@@ -99,7 +99,7 @@ To enable the e-Invoice service in Odoo, go to :menuselection:`Accounting --> Co
 Settings --> Indian Electronic Invoicing`, and enter the :guilabel:`Username` and
 :guilabel:`Password` previously set for the API.
 
-.. image:: india/e-invoice-setup.png
+.. image:: india/e-invoice-setup.webp
    :alt: Setup e-invoice service
 
 .. _india/e-invoicing-journals:
@@ -126,7 +126,7 @@ Once an invoice is validated, a confirmation message is displayed at the top. Od
 uploads the JSON-signed file of validated invoices to the NIC e-Invoice portal after some time. If
 you want to process the invoice immediately, click :guilabel:`Process now`.
 
-.. image:: india/e-invoice-process.png
+.. image:: india/e-invoice-process.webp
    :alt: Indian e-invoicing confirmation message
 
 .. note::
@@ -144,7 +144,7 @@ includes the :abbr:`IRN (Invoice Reference Number)`, :guilabel:`Ack. No` (acknow
 :guilabel:`Ack. Date` (acknowledgment date), and QR code. These certify that the invoice is a valid
 fiscal document.
 
-.. image:: india/invoice-report.png
+.. image:: india/invoice-report.webp
    :alt: IRN and QR code
 
 .. _india/edi-cancellation:
@@ -161,7 +161,7 @@ Cancel`.
    Doing so cancels both the :ref:`e-Invoice <india/e-invoicing>` and the :ref:`E-Way bill
    <india/e-waybill>`.
 
-.. image:: india/e-invoice-cancellation.png
+.. image:: india/e-invoice-cancellation.webp
    :alt: cancel reason and remarks
 
 .. note::
@@ -227,12 +227,12 @@ website itself.
    :menuselection:`Search --> Verify Signed Invoice`;
 #. Select the JSON file and submit it;
 
-   .. image:: india/verify-invoice.png
+   .. image:: india/verify-invoice.webp
       :alt: select the JSON file for verify invoice
 
    If the file is signed, a confirmation message is displayed.
 
-   .. image:: india/signed-invoice.png
+   .. image:: india/signed-invoice.webp
       :alt: verified e-invoice
 
 .. _india/e-waybill:
@@ -262,13 +262,13 @@ You must register on the :abbr:`NIC (National Informatics Centre)` E-Way bill po
 #. Check if :guilabel:`Tera Software Limited` is already on the registered GSP/ERP list. If so, use
    the username and password used to log in to the NIC portal. Otherwise, follow the next steps;
 
-   .. image:: india/e-waybill-gsp-list.png
+   .. image:: india/e-waybill-gsp-list.webp
       :alt: E-Way bill list of registered GSP/ERP
 
 #. Select :guilabel:`Add/New`, select :guilabel:`Tera Software Limited` as your GSP Name, create a
    :guilabel:`Username` and a :guilabel:`Password` for your API, and click :guilabel:`Add`.
 
-   .. image:: india/e-waybill-registration-details.png
+   .. image:: india/e-waybill-registration-details.webp
       :alt: Submit GSP API registration details
 
 .. _india/e-waybill-configuration:
@@ -280,7 +280,7 @@ To set up the E-Way bill service, go to :menuselection:`Accounting --> Configura
 --> Indian Electronic WayBill --> Setup E-Way bill`, and enter your :guilabel:`Username` and
 :guilabel:`Password`.
 
-.. image:: india/e-waybill-configuration.png
+.. image:: india/e-waybill-configuration.webp
    :alt: E-way bill setup odoo
 
 .. _india/e-waybill-workflow:
@@ -297,7 +297,7 @@ You can manually send an E-Way bill by clicking :guilabel:`Send E-Way bill`. To 
 automatically when an invoice or a bill is confirmed, enable :guilabel:`E-Way bill (IN)` in your
 :ref:`Sales or Purchase journal <india/e-invoicing-journals>`.
 
-.. image:: india/e-waybill-send-button.png
+.. image:: india/e-waybill-send-button.webp
    :alt: Send E-waybill button on invoices
 
 .. _india/invoice-validation-e-way:
@@ -308,7 +308,7 @@ Invoice validation
 Once an invoice has been issued and sent via :guilabel:`Send E-Way bill`, a confirmation message is
 displayed.
 
-.. image:: india/e-waybill-process.png
+.. image:: india/e-waybill-process.webp
    :alt: Indian e-Way bill confirmation message
 
 .. note::
@@ -322,7 +322,7 @@ Invoice PDF report
 You can print the invoice PDF report once you have submitted the E-Way bill. The report includes the
 **E-Way bill number** and the **E-Way bill validity date**.
 
-.. image:: india/e-waybill-invoice-report.png
+.. image:: india/e-waybill-invoice-report.webp
    :alt: E-way bill acknowledgment number and date
 
 .. _india/e-waybill-cancellation:
@@ -338,7 +338,7 @@ fill out the :guilabel:`Cancel reason` and :guilabel:`Cancel remarks` fields. Th
    Doing so cancels both the :ref:`e-Invoice <india/e-invoicing>` (if applicable) and the
    :ref:`E-Way bill <india/e-waybill>`.
 
-.. image:: india/e-waybill-cancellation.png
+.. image:: india/e-waybill-cancellation.webp
    :alt: Cancel reason and remarks
 
 .. note::
@@ -364,12 +364,12 @@ To file GST Returns in Odoo, you must first enable API access on the GST portal.
    :guilabel:`Username` and :guilabel:`Password`, and go to :guilabel:`My Profile` on your **profile
    menu**;
 
-   .. image:: india/gst-portal-my-profile.png
+   .. image:: india/gst-portal-my-profile.webp
       :alt: Click On the My Profile from profile
 
 #. Select :guilabel:`Manage API Access`, and click :guilabel:`Yes` to enable API access;
 
-   .. image:: india/gst-portal-api-yes.png
+   .. image:: india/gst-portal-api-yes.webp
       :alt: Click Yes
 
 #. Doing so enables a :guilabel:`Duration` drop-down menu. Select the :guilabel:`Duration` of your
@@ -387,7 +387,7 @@ Go to :menuselection:`Accounting --> Configuration --> Settings --> Indian GST S
 the :guilabel:`GST Username`. Click :guilabel:`Send OTP`, enter the code, and finally,
 :guilabel:`Validate`.
 
-   .. image:: india/gst-setup.png
+   .. image:: india/gst-setup.webp
       :alt: Please enter your GST portal Username as Username
 
 .. _india/gstr_workflow:
@@ -415,23 +415,23 @@ Send GSTR-1
 #. The user can also get details to be submitted in **GSTR-1** in **Spreadsheet view** by clicking
    on :guilabel:`Generate`;
 
-   .. image:: india/gst-gstr-1-generate.png
+   .. image:: india/gst-gstr-1-generate.webp
       :alt: GSTR-1 generate
 
-   .. image:: india/gst-gstr-1-spreadsheet-view.png
+   .. image:: india/gst-gstr-1-spreadsheet-view.webp
       :alt: GSTR-1 Spreadsheet View
 
 #. If the **GSTR-1** report is correct, then click :guilabel:`Push to GSTN` to send it to the **GST
    portal**. The status of the :guilabel:`GSTR-1` report changes to :guilabel:`Sending`;
 
-   .. image:: india/gst-gstr-1-sending.png
+   .. image:: india/gst-gstr-1-sending.webp
       :alt: GSTR-1 in the Sending Status
 
 #. After a few seconds, the status of the **GSTR-1** report changes to :guilabel:`Waiting for
    Status`. It means that the **GSTR-1** report has been sent to the :guilabel:`GST Portal` and is
    being verified on the :guilabel:`GST Portal`;
 
-   .. image:: india/gst-gstr-1-waiting.png
+   .. image:: india/gst-gstr-1-waiting.webp
       :alt: GSTR-1 in the Waiting for Status
 
 #. Once more, after a few seconds, the status either changes to :guilabel:`Sent` or :guilabel:`Error
@@ -441,23 +441,23 @@ Send GSTR-1
    - If the state of the **GSTR-1** is :guilabel:`Sent`, it means your **GSTR-1** report is ready to
      be filed on the **GST portal**.
 
-     .. image:: india/gst-gstr-1-sent.png
+     .. image:: india/gst-gstr-1-sent.webp
         :alt: GSTR-1 Sent
 
    - If the state of the **GSTR-1** is :guilabel:`Error in Invoice`, invoices can be checked for
      errors in the :guilabel:`Log Note`. Once issues have been resolved, the user can click
      :guilabel:`Push to GSTN` to submit the file again on the **GST portal**.
 
-     .. image:: india/gst-gstr-1-error.png
+     .. image:: india/gst-gstr-1-error.webp
         :alt: GSTR-1 Error in Invoice
 
-   .. image:: india/gst-gstr-1-error-log.png
+   .. image:: india/gst-gstr-1-error-log.webp
       :alt: GSTR-1 Error in Invoice Log
 
 #. Click :guilabel:`Mark as Filed` after filing the **GSTR-1** report on the **GST portal**. The
    status of the report changes to :guilabel:`Filed` in **Odoo**.
 
-   .. image:: india/gst-gstr-1-filed.png
+   .. image:: india/gst-gstr-1-filed.webp
       :alt: GSTR-1 in the Filed Status
 
 .. _india/gstr-2B:
@@ -472,13 +472,13 @@ the **GSTR-2B** report with your Odoo bills;
    the status of the report changes to :guilabel:`Waiting for Reception`. This means Odoo is trying
    to receive the **GSTR-2B** report from the **GST portal**;
 
-   .. image:: india/gst-gstr-2b-waiting.png
+   .. image:: india/gst-gstr-2b-waiting.webp
       :alt: GSTR-2B in Waiting for Reception
 
 #. Once more, after a few seconds, the status of the **GSTR-2B** changes to the :guilabel:`Being
    Processed`. It means Odoo is reconciling the **GSTR-2B** report with your Odoo bills;
 
-   .. image:: india/gst-gstr-2b-processed.png
+   .. image:: india/gst-gstr-2b-processed.webp
       :alt: GSTR-2B in Waiting for Reception
 
 #. Once it is done, the status of the **GSTR-2B** report changes to either :guilabel:`Matched` or
@@ -486,16 +486,16 @@ the **GSTR-2B** report with your Odoo bills;
 
    - If the status is :guilabel:`Matched`:
 
-      .. image:: india/gst-gstr-2b-matched.png
+      .. image:: india/gst-gstr-2b-matched.webp
          :alt: GSTR-2B Matched
 
    - If the status is :guilabel:`Partially Matched`, you can make changes in bills by clicking
      :guilabel:`View Reconciled Bills`. Once it is done, click :guilabel:`re-match`.
 
-      .. image:: india/gst-gstr-2b-partially.png
+      .. image:: india/gst-gstr-2b-partially.webp
          :alt: GSTR-2B Partially Matched
 
-      .. image:: india/gst-gstr-2b-reconcile.png
+      .. image:: india/gst-gstr-2b-reconcile.webp
          :alt: GSTR-2B Reconciled Bills
 
 .. _india/gstr-3:
@@ -512,18 +512,18 @@ This return is auto-generated by extracting information from **GSTR-1** and **GS
 #. Once the **GSTR-3** report has been verified by the user and the tax amount on the **GST portal**
    has been paid. Once paid, the report can be **closed** by clicking :guilabel:`Closing Entry`;
 
-   .. image:: india/gst-gstr-3.png
+   .. image:: india/gst-gstr-3.webp
       :alt: GSTR-3
 
 #. In :guilabel:`Closing Entry`, add the tax amount paid on the **GST portal** using challan, and
    click :guilabel:`POST` to post the :guilabel:`Closing Entry`;
 
-   .. image:: india/gst-gstr-3-post.png
+   .. image:: india/gst-gstr-3-post.webp
       :alt: GSTR-3 Post Entry
 
 #. Once posted, the **GSTR-3** report status changes to :guilabel:`Filed`.
 
-   .. image:: india/gst-gstr-3-filed.png
+   .. image:: india/gst-gstr-3-filed.webp
       :alt: GSTR-3 Filed
 
 .. _india/gstr_reports:
@@ -540,7 +540,7 @@ The :guilabel:`GSTR-1` report is divided into sections. It displays the :guilabe
 :abbr:`CGST (Central Goods and Services Tax)`, :abbr:`SGST (State Goods and Service Tax)`,
 :abbr:`IGST (Integrated Goods and Services Tax)`, and :guilabel:`CESS` for each section.
 
-   .. image:: india/gst-gstr-1-sale-report.png
+   .. image:: india/gst-gstr-1-sale-report.webp
       :alt: GSTR-1 Report
 
 .. _india/gstr-3_report:
@@ -555,7 +555,7 @@ The :guilabel:`GSTR-3` report contains different sections:
 - Values of **exempt**, **Nil-rated**, and **non-GST** inward supply;
 - Details of inter-state supplies made to **unregistered** persons.
 
-   .. image:: india/gst-gstr-3-report.png
+   .. image:: india/gst-gstr-3-report.webp
       :alt: GSTR-3 Report
 
 Profit and Loss (IN) report
@@ -565,5 +565,5 @@ This is a :guilabel:`Profit and Loss` report that displays the balances for **Op
 **Closing Stock**. It helps users using Continental accounting to accurately determine the cost of
 goods (i.e :guilabel:`Opening Stock` + purchases during the period - :guilabel:`Closing Stock`).
 
-   .. image:: india/profit-and-loss-report.png
+   .. image:: india/profit-and-loss-report.webp
       :alt: Profit and Loss report

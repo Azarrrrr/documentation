@@ -12,7 +12,7 @@ The online editor allows you to edit the source code of your builds from a web b
 It also gives you the possibility to open terminals, Python consoles, Odoo Shell consoles and
 `Notebooks <https://jupyterlab.readthedocs.io/en/stable/user/notebook.html>`_.
 
-.. image:: online-editor/interface-editor.png
+.. image:: online-editor/interface-editor.webp
    :align: center
 
 You can access the editor of a build through
@@ -65,13 +65,13 @@ server is not a good practice.
 
 To open a file in the editor, just double-click on it in the file browser panel on the left.
 
-.. image:: online-editor/interface-editor-open-file.png
+.. image:: online-editor/interface-editor-open-file.webp
    :align: center
 
 You can then begin to make your changes. You can save your changes with the menu
 :menuselection:`File --> Save .. File` or by hitting the :kbd:`Ctrl+S` shortcut.
 
-.. image:: online-editor/interface-editor-save-file.png
+.. image:: online-editor/interface-editor-save-file.webp
    :align: center
 
 If you save a Python file which is under your Odoo server addons path,
@@ -87,7 +87,7 @@ You can update the module of the currently opened file by using the menu
 :menuselection:`Odoo --> Update current module`. Note that the file considered as currently opened
 is the file focused in the text editor, not the file highlighted in the file browser.
 
-.. image:: online-editor/interface-editor-update-current-module.png
+.. image:: online-editor/interface-editor-update-current-module.webp
    :align: center
 
 You can also open a terminal and execute the command:
@@ -117,7 +117,7 @@ In this last command,
 * <branch> must be replaced by the name of the branch to which you want to push the changes,
   most-likely the current branch if you work in a development build.
 
-.. image:: online-editor/interface-editor-commit-push.png
+.. image:: online-editor/interface-editor-commit-push.webp
    :align: center
 
 .. note::
@@ -158,7 +158,7 @@ Thanks to this, you will be able to display objects in HTML.
 You can for instance display cells of a CSV file using
 `pandas <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_.
 
-.. image:: online-editor/interface-editor-console-python-read-csv.png
+.. image:: online-editor/interface-editor-console-python-read-csv.webp
    :align: center
 
 You can also open an Odoo Shell console to play around
@@ -186,12 +186,12 @@ to easily display lists and dicts in a pretty way, using the
 `rich display <https://ipython.readthedocs.io/en/stable/config/integrating.html#rich-display>`_
 mentioned above.
 
-.. image:: online-editor/interface-editor-console-odoo-pretty.png
+.. image:: online-editor/interface-editor-console-odoo-pretty.webp
    :align: center
 
 You can also use
 `pandas <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
 to display graphs.
 
-.. image:: online-editor/interface-editor-console-odoo-graph.png
+.. image:: online-editor/interface-editor-console-odoo-graph.webp
    :align: center

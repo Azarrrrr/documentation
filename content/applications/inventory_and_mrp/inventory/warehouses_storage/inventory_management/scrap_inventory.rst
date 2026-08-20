@@ -33,7 +33,7 @@ Click the drop-down menu in the :guilabel:`Product` field, and select the produc
 scrapped from inventory. In the :guilabel:`Quantity` field, change the value to the quantity of the
 product that should be scrapped (by default, this value is set to `1.00`).
 
-.. image:: scrap_inventory/scrap-inventory-new-scrap-order.png
+.. image:: scrap_inventory/scrap-inventory-new-scrap-order.webp
    :align: center
    :alt: Filled out new scrap order form with product details.
 
@@ -53,7 +53,7 @@ Once ready, click :guilabel:`Validate` to complete the new |SP|. Once validated,
 :guilabel:`Product Moves` smart button appears at the top of the form. Click the smart button to
 view the details of the scrap operation.
 
-.. image:: scrap_inventory/scrap-inventory-product-moves-button.png
+.. image:: scrap_inventory/scrap-inventory-product-moves-button.webp
    :align: center
    :alt: Product Moves smart button on new scrap order form.
 
@@ -67,7 +67,7 @@ view the details of the scrap operation.
 
    A list of all scrapped products, and their quantities, is displayed.
 
-   .. image:: scrap_inventory/scrap-inventory-current-stock.png
+   .. image:: scrap_inventory/scrap-inventory-current-stock.webp
       :align: center
       :alt: Current Stock list of all scrapped products in virtual scrap location.
 
@@ -82,7 +82,7 @@ To scrap a product during an operation, navigate to the :menuselection:`Inventor
 :guilabel:`Inventory Overview`, click the :guilabel:`# To Process` button on an operation's task
 card (i.e. the :guilabel:`Receipts` task card).
 
-.. image:: scrap_inventory/scrap-inventory-receipts-task-card.png
+.. image:: scrap_inventory/scrap-inventory-receipts-task-card.webp
    :align: center
    :alt: # To Process button on Receipts task card on Inventory Overview page.
 
@@ -92,7 +92,7 @@ operation's form.
 Click the :icon:`fa-cog` :guilabel:`(cog)` icon, and select :guilabel:`Scrap` from the resulting
 drop-down menu. This opens a :guilabel:`Scrap Products` pop-up window.
 
-.. image:: scrap_inventory/scrap-inventory-popup-window.png
+.. image:: scrap_inventory/scrap-inventory-popup-window.webp
    :align: center
    :alt: Scrap Products pop-up window on operation form.
 
@@ -111,6 +111,6 @@ Once ready, click :guilabel:`Scrap Products`. A :guilabel:`Scraps` smart button 
 of the operation form. Click this smart button to view the details of all scrap orders created from
 this specific operation.
 
-.. image:: scrap_inventory/scrap-inventory-scraps-smart-button.png
+.. image:: scrap_inventory/scrap-inventory-scraps-smart-button.webp
    :align: center
    :alt: Scraps smart button showing all scrap orders from operation.

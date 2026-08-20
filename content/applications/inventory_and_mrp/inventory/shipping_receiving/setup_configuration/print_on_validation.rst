@@ -27,7 +27,7 @@ on Validation` section to download the PDF of those selected documents automatic
 validating the :guilabel:`Operation Type`. For details on what each of the checkbox options do, jump
 to the related section.
 
-.. image:: print_on_validation/print-on-validation.png
+.. image:: print_on_validation/print-on-validation.webp
    :align: center
    :alt: Show the *Print on Validation* option in the "Pick" *Operation Type*.
 
@@ -50,7 +50,7 @@ operation type downloads a PDF of the delivery slip.
 The delivery slip shows products, quantities, the delivery order reference number, and the total
 order weight.
 
-.. image:: print_on_validation/delivery-slip.png
+.. image:: print_on_validation/delivery-slip.webp
    :align: center
    :alt: Example delivery slip.
 
@@ -70,7 +70,7 @@ operation type downloads a PDF of the return slip.
 The return slip displays the company's return address, along with barcodes for both the order and
 the return operation.
 
-.. image:: print_on_validation/return-slip.png
+.. image:: print_on_validation/return-slip.webp
    :align: center
    :alt: Example return slip.
 
@@ -93,7 +93,7 @@ be printed as:
 
   .. spoiler:: Example 2 x 7
 
-     .. image:: print_on_validation/two-seven.png
+     .. image:: print_on_validation/two-seven.webp
         :align: center
         :alt: Example 2 x 7 with price.
 
@@ -102,7 +102,7 @@ be printed as:
 
   .. spoiler:: Example 4 x 7
 
-     .. image:: print_on_validation/four-seven.png
+     .. image:: print_on_validation/four-seven.webp
         :align: center
         :alt: Example 4 x 7 with price.
 
@@ -111,7 +111,7 @@ be printed as:
 
   .. spoiler:: Example 4 x 12
 
-     .. image:: print_on_validation/four-twelve.png
+     .. image:: print_on_validation/four-twelve.webp
         :align: center
         :alt: Example 4 x 12.
 
@@ -147,7 +147,7 @@ be printed as:
 
   .. spoiler:: Example 4 x 12 - One per lot/SN
 
-     .. figure:: print_on_validation/four-twelve-lots.png
+     .. figure:: print_on_validation/four-twelve-lots.webp
         :align: center
         :alt: Order with only one unique set of lot/serial numbers.
 
@@ -184,7 +184,7 @@ details on connecting a printer to Odoo's *IoT* app. Upon completion, assign the
 the printer, by navigating to :menuselection:`IoT app --> Devices`, and selecting the desired
 printer.
 
-.. image:: print_on_validation/select-printer.png
+.. image:: print_on_validation/select-printer.webp
    :align: center
    :alt: Show a list of IoT devices.
 
@@ -197,7 +197,7 @@ select :guilabel:`Shipping Labels`.
    The :guilabel:`Shipping Documents` report is for :ref:`export documents
    <inventory/shipping_receiving/export-doc>`.
 
-.. image:: print_on_validation/printer-report.png
+.. image:: print_on_validation/printer-report.webp
    :align: center
    :alt: Show carrier label report added to the *Printer Reports*.
 
@@ -223,7 +223,7 @@ ensure the :guilabel:`Label Format` matches the :ref:`report type assigned earli
 - For laser printers, set the :guilabel:`Label Format` to :guilabel:`PDF`.
 - For Zebra printers, set the :guilabel:`Label Format` to :guilabel:`ZPL2`.
 
-.. image:: print_on_validation/label-type.png
+.. image:: print_on_validation/label-type.webp
    :align: center
    :alt: Show the *Label Type* field on FedEx's shipping method configuration page.
 
@@ -235,7 +235,7 @@ IoT-connected printer.
 
 .. spoiler:: Example carrier label
 
-     .. figure:: print_on_validation/fedex-carrier-label.png
+     .. figure:: print_on_validation/fedex-carrier-label.webp
         :align: center
         :alt: Show an example carrier label for FedEx.
 
@@ -271,7 +271,7 @@ In the printer configuration form, go to the :guilabel:`Printer Reports` tab, an
 
 .. spoiler:: Example export document
 
-   .. figure:: print_on_validation/export-doc.png
+   .. figure:: print_on_validation/export-doc.webp
       :align: center
       :alt: Export document for a shipment from the USA to Belgium.
 
@@ -300,7 +300,7 @@ the package contents.
 
 .. spoiler:: Example package content PDF
 
-   .. figure:: print_on_validation/package-content.png
+   .. figure:: print_on_validation/package-content.webp
       :align: center
       :alt: Package contents form showing the package contents, barcode, and pack date.
 
@@ -330,7 +330,7 @@ as` field.
 
 .. spoiler:: Example of package barcode
 
-   .. image:: print_on_validation/package-barcode.png
+   .. image:: print_on_validation/package-barcode.webp
       :align: center
       :alt: PDF of package barcode and package date.
 

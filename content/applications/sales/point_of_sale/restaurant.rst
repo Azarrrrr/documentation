@@ -26,7 +26,7 @@ Configuration --> Settings`, select the POS, and activate :guilabel:`Is a Bar/Re
 
 These features are displayed in the :guilabel:`Restaurant & Bar` section.
 
-.. image:: restaurant/restaurant-bar-section.png
+.. image:: restaurant/restaurant-bar-section.webp
    :align: center
    :alt: restaurant and bar-specific features
 

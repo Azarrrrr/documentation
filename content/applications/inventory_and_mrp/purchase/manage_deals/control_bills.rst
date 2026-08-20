@@ -21,7 +21,7 @@ To configure the *bill control* policy, navigate to :menuselection:`Purchase app
 select either :guilabel:`Ordered quantities` or :guilabel:`Received quantities`. Then, click
 :guilabel:`Save`.
 
-.. image:: control_bills/control-bills-selected-policy.png
+.. image:: control_bills/control-bills-selected-policy.webp
    :align: center
    :alt: Selected bill control policy in Purchase app settings.
 
@@ -31,7 +31,7 @@ select either :guilabel:`Ordered quantities` or :guilabel:`Received quantities`.
   received. The products and quantities received are used to generate a draft bill. An error message
   appears if creation of a vendor bill is attempted without receiving anything.
 
-  .. image:: control_bills/control-bills-error-message-popup.png
+  .. image:: control_bills/control-bills-error-message-popup.webp
      :align: center
      :alt: Bill control policy draft bill error message.
 
@@ -54,7 +54,7 @@ To activate *3-way matching*, navigate to :menuselection:`Purchase app --> Confi
 Settings`, and scroll down to the :guilabel:`Invoicing` section. Then, tick the checkbox for
 :guilabel:`3-way matching` to enable the feature, and click :guilabel:`Save`.
 
-.. image:: control_bills/control-bills-three-way-matching.png
+.. image:: control_bills/control-bills-three-way-matching.webp
    :align: center
    :alt: Enabled 3-way matching feature in Purchase app settings.
 
@@ -81,14 +81,14 @@ Paid` field.
    pop-up window appears. This occurs for |POs| with a :guilabel:`Received quantities` policy, and a
    :guilabel:`Fully Billed` :guilabel:`Billing Status`.
 
-   .. image:: control_bills/control-bills-invalid-operation.png
+   .. image:: control_bills/control-bills-invalid-operation.webp
       :align: center
       :alt: Invalid Operation pop-up window for billed Purchase Order.
 
 Click the drop-down menu next to :guilabel:`Should Be Paid` to view the available options:
 :guilabel:`Yes`, :guilabel:`No`, and :guilabel:`Exception`.
 
-.. image:: control_bills/control-bills-should-be-paid.png
+.. image:: control_bills/control-bills-should-be-paid.webp
    :align: center
    :alt: Should Be Paid field status on draft vendor bill.
 
@@ -130,7 +130,7 @@ Orders --> Purchase Orders`, and select a |PO| to view.
 
 Click the :guilabel:`Other Information` tab, and locate the :guilabel:`Billing Status` field.
 
-.. image:: control_bills/control-bills-billing-status.png
+.. image:: control_bills/control-bills-billing-status.webp
    :align: center
    :alt: Billing status field on a purchase order form.
 

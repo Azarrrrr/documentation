@@ -26,7 +26,7 @@ make more informed decisions when assigning new leads to their team
   has varied, some members of the sales team have received a higher number of quality leads than
   others.
 
-   .. image:: quality_leads_report/example-report.png
+   .. image:: quality_leads_report/example-report.webp
       :align: center
       :alt: An example of a quality leads report in the Odoo CRM application.
 
@@ -67,7 +67,7 @@ conditions:
 - :ref:`Add rules for quality leads <quality_leads_report/add-quality-rules>`: includes or excludes
   results based on criteria that is specific to a company or sales team.
 
-.. figure:: quality_leads_report/configured-custom-rules.png
+.. figure:: quality_leads_report/configured-custom-rules.webp
    :align: center
    :alt: An example of the Custom Filter pop-up window with all of the rules configured.
 
@@ -136,7 +136,7 @@ Include archived leads
 Next, in the upper-right corner of the :guilabel:`Add Custom filter` pop-up window, move the
 :guilabel:`Include archived` toggle to active.
 
-.. image:: quality_leads_report/include-archived.png
+.. image:: quality_leads_report/include-archived.webp
    :align: center
    :alt: The Add Custom Filter pop-up with emphasis on the Include Archived toggle.
 
@@ -182,7 +182,7 @@ quality lead:
    statement above a rule determines whether the search results must match **all** of the rules
    below the statement, or **any** of the rules below the statement.
 
-   .. image:: quality_leads_report/match-all-match-any.png
+   .. image:: quality_leads_report/match-all-match-any.webp
      :align: center
      :alt: Close up of the match rule options on a add custom filter pop-up window.
 
@@ -195,7 +195,7 @@ View the report
    **all** of the following filters should be included. Before adding the filters, make sure
    :guilabel:`all` is selected in this field.
 
-   .. image:: quality_leads_report/match-all-rules.png
+   .. image:: quality_leads_report/match-all-rules.webp
      :align: center
      :alt: Close up on the match all rules option on the add a custom filter pop-up window.
 

@@ -38,7 +38,7 @@ scanners interpret barcodes in Odoo.
 There is also a :guilabel:`Configure Product Barcodes` internal link arrow, along with a set of
 :guilabel:`Print` buttons for printing barcode commands and a barcode demo sheet.
 
-.. image:: adjustments/adjustments-barcode-setting.png
+.. image:: adjustments/adjustments-barcode-setting.webp
    :align: center
    :alt: Enabled Barcode feature in Inventory app settings.
 
@@ -60,7 +60,7 @@ the bottom of the screen.
 Doing so navigates to the *Barcode Inventory Client Action* page, labeled as :guilabel:`Inventory
 Adjustment` in the top header section.
 
-.. image:: adjustments/adjustments-barcode-scanner.png
+.. image:: adjustments/adjustments-barcode-scanner.webp
    :align: center
    :alt: Barcode app start screen with scanner.
 
@@ -88,7 +88,7 @@ add or subtract quantity of the product, and the number keys can be used to add 
    3 times, increasing the units in the adjustment. Additional products can be added to this
    adjustment by scanning the barcodes for those specific products.
 
-   .. image:: adjustments/adjustments-barcode-inventory-client-action.png
+   .. image:: adjustments/adjustments-barcode-inventory-client-action.webp
       :align: center
       :alt: Barcode Inventory Client Action page with inventory adjustment.
 
@@ -107,7 +107,7 @@ appears in the top right corner, confirming validation of the adjustment.
    barcodes sheet` and :guilabel:`commands for Inventory` (bolded and highlighted in blue) in the
    information pop-up window above the scanner.
 
-   .. image:: adjustments/adjustments-barcode-stock-sheets.png
+   .. image:: adjustments/adjustments-barcode-stock-sheets.webp
       :align: center
       :alt: Demo data prompt pop-up on Barcode app main screen.
 
@@ -129,7 +129,7 @@ bottom of the screen.
 This navigates to a new, blank page where the desired product, quantity, and source location must be
 chosen.
 
-   .. image:: adjustments/adjustments-keypad.png
+   .. image:: adjustments/adjustments-keypad.webp
       :align: center
       :alt: Keypad to add products on Barcode Inventory Client Action page.
 

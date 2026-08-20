@@ -8,7 +8,7 @@ the top of the dashboard to share important information with users.
 Alerts remain on the main *Referrals* dashboard for the specified amount of time configured on the
 individual alert.
 
-.. image:: alerts/alerts.png
+.. image:: alerts/alerts.webp
    :align: center
    :alt: Two alert banners appear above the user's photo.
 
@@ -44,7 +44,7 @@ Click :guilabel:`New` to open a blank alert form. Enter the following informatio
     navigates to that URL. When selected, a :guilabel:`URL` field appears below the :guilabel:`On
     Click` section. Enter the desired URL in that field.
 
-.. image:: alerts/alert-form.png
+.. image:: alerts/alert-form.webp
    :align: center
    :alt: An alert form completely filled in with all selections entered.
 

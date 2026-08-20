@@ -40,7 +40,7 @@ process can lead to bottlenecks.
    With the packages for all three |SOS| packed, the picker pushes the cart to the output location,
    where the packages are sealed and prepared for shipment.
 
-   .. image:: cluster/cluster-example.png
+   .. image:: cluster/cluster-example.webp
       :align: center
       :alt: Show example of fulfilling sales orders 2 and 3 at once.
 
@@ -51,7 +51,7 @@ To enable cluster picking, begin by navigating to :menuselection:`Inventory app 
 --> Settings`. Under the :guilabel:`Operations` heading, activate the :guilabel:`Packages` and
 :guilabel:`Batch Transfers` options.
 
-.. image:: cluster/configs.png
+.. image:: cluster/configs.webp
    :align: center
    :alt: Activate *Packages* and *Batch Transfers* features in the settings.
 
@@ -64,7 +64,7 @@ also be checked on this settings page.
 
 When finished, click :guilabel:`Save`.
 
-.. image:: cluster/locations-routes-checkbox.png
+.. image:: cluster/locations-routes-checkbox.webp
    :align: center
    :alt: Enable *Storage Locations* and *Multi-Step Routes* Inventory > Configuration > Settings.
 
@@ -90,7 +90,7 @@ Set the :guilabel:`Package Use` field to :guilabel:`Reusable Box`.
    this workflow, the products are directly packed using their intended shipping boxes, so
    :guilabel:`Package Use` is set to :guilabel:`Disposable Box`.
 
-   .. image:: cluster/cluster-package.png
+   .. image:: cluster/cluster-package.webp
       :align: center
       :alt: Create new package form.
 
@@ -109,7 +109,7 @@ representing the amount of steps in the outgoing shipment process.
    After confirming the |SO|, the :guilabel:`Delivery` smart button displays the number `2`,
    indicating there are two operations to complete: `Pick` and `Delivery`.
 
-   .. image:: cluster/create-sales-order.png
+   .. image:: cluster/create-sales-order.webp
       :align: center
       :alt: Example sales order for an apple, orange, and banana.
 
@@ -141,7 +141,7 @@ With the desired pickings selected, click the :guilabel:`⚙️ Actions (gear)` 
    - `WH/PICK/00008`: linked to |SO| 89 for one apple and banana.
    - `WH/PICK/00009`: linked to |SO| 90 for one apple, orange, and banana.
 
-   .. image:: cluster/select-picks.png
+   .. image:: cluster/select-picks.webp
       :align: center
       :alt: Use *Add to batch* button, from the *Action* button's list.
 
@@ -156,7 +156,7 @@ checkbox.
 
 Conclude the process by clicking :guilabel:`Confirm`.
 
-.. image:: cluster/add-to-batch-window.png
+.. image:: cluster/add-to-batch-window.webp
    :align: center
    :alt: Show *Add to batch* window to create a batch transfer.
 
@@ -189,7 +189,7 @@ used for the picking.
    Record this in Odoo using the :guilabel:`Destination Package` field in the :guilabel:`Detailed
    Operations` tab.
 
-   .. image:: cluster/cluster-batch-example.png
+   .. image:: cluster/cluster-batch-example.webp
       :align: center
       :alt: Example of processing cluster pickings in *Inventory*.
 
@@ -215,7 +215,7 @@ Repeat this for all products, and click the :guilabel:`Validate` button.
    Next, select one of the three print options to generate the package barcode from the
    :guilabel:`Package Reference` field.
 
-   .. image:: cluster/find-package-barcode.png
+   .. image:: cluster/find-package-barcode.webp
       :align: center
       :alt: Display where the package barcode can be generated.
 
@@ -229,7 +229,7 @@ Repeat this for all products, and click the :guilabel:`Validate` button.
 
    Then, scan the `CLUSTER-PACK-1` package barcode, and place the product in the designated package.
 
-   .. image:: cluster/batch-barcode.png
+   .. image:: cluster/batch-barcode.webp
       :align: center
       :alt: Example of cluster batch from the *Barcode* app.
 

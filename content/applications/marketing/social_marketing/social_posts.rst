@@ -29,7 +29,7 @@ search bar.
       The kanban view is represented by an :guilabel:`inverted bar graph icon` in the upper-right
       corner.
 
-      .. image:: social_posts/posts-page-kanban.png
+      .. image:: social_posts/posts-page-kanban.webp
          :align: center
          :alt: Kanban view of the posts page in the Odoo Social Marketing application.
 
@@ -45,7 +45,7 @@ search bar.
 
       The calendar view is represented by a :guilabel:`calendar icon` in the upper-right corner.
 
-      .. image:: social_posts/calendar-view.png
+      .. image:: social_posts/calendar-view.webp
          :align: center
          :alt: Example of the calendar view in Odoo Social Marketing.
 
@@ -60,7 +60,7 @@ search bar.
 
       The list view is represented by four vertical lines in the upper-right corner.
 
-      .. image:: social_posts/list-view.png
+      .. image:: social_posts/list-view.webp
          :align: center
          :alt: View of the list option on the posts page in Odoo Social Marketing.
 
@@ -69,7 +69,7 @@ search bar.
       The pivot view option provides a fully customizable grid table, where different measures of
       data can be added and analyzed.
 
-      .. image:: social_posts/pivot-view.png
+      .. image:: social_posts/pivot-view.webp
          :align: center
          :alt: View of the pivot option on the posts page in Odoo Social Marketing.
 
@@ -99,7 +99,7 @@ Posts
 Clicking on a post from a social media stream reveals a pop-up window, showcasing the content of
 that specific post, along with all the engagement data related to it (e.g. likes, comments, etc.).
 
-.. image:: social_posts/social-post-popup.png
+.. image:: social_posts/social-post-popup.webp
    :align: center
    :alt: Sample of a social media post's pop-up window in Odoo Social Marketing application.
 
@@ -119,14 +119,14 @@ click the :guilabel:`three vertical dots` icon to the right of that comment.
 
 Doing so reveals a drop-down menu with the option: :guilabel:`Create Lead`.
 
-.. image:: social_posts/create-lead-drop-down.png
+.. image:: social_posts/create-lead-drop-down.webp
    :align: center
    :alt: The drop-down menu beside a comment revealing the option to create a lead.
 
 Upon clicking :guilabel:`Create Lead` from the comment's drop-down menu, a :guilabel:`Conver Post to
 Lead` pop-up window appears.
 
-.. image:: social_posts/convert-post-to-lead-popup.png
+.. image:: social_posts/convert-post-to-lead-popup.webp
    :align: center
    :alt: The convert post to lead pop-up window that appears in Odoo Social Marketing.
 
@@ -141,7 +141,7 @@ Once the desired selection has been made, click the :guilabel:`Convert` button a
 :guilabel:`Convert Post to Lead` pop-up window. Doing so reveals a fresh lead detail form, where the
 necessary information can be entered and processed.
 
-.. image:: social_posts/new-lead-detail-form-comments.png
+.. image:: social_posts/new-lead-detail-form-comments.webp
    :align: center
    :alt: New lead detail form generated from a social media comment in Odoo Social Marketing.
 
@@ -154,7 +154,7 @@ displays and links that specific social media platform's KPIs (if the platform h
 To get redirected to the statistics and metrics related to any social media account's KPIs, click on
 the :guilabel:`Insights` link, located at the top of each stream.
 
-.. image:: social_posts/social-marketing-insights-link.png
+.. image:: social_posts/social-marketing-insights-link.webp
    :align: center
    :alt: Visual of how the Insights link appears on the dashboard of the Social Marketing app.
 
@@ -178,21 +178,21 @@ To create content for social media accounts, navigated to the :menuselection:`So
 and click :guilabel:`New Post` located in the upper-right corner of the *Social Marketing*
 dashboard.
 
-.. image:: social_posts/new-post-button-social-marketing-dashboard.png
+.. image:: social_posts/new-post-button-social-marketing-dashboard.webp
    :align: center
    :alt: New Post button on the main dashboard of the Odoo Social Marketing application.
 
 Or, navigate to :menuselection:`Social Marketing app --> Posts` and click the :guilabel:`New`
 button.
 
-.. image:: social_posts/new-button-social-posts-page.png
+.. image:: social_posts/new-button-social-posts-page.webp
    :align: center
    :alt: New button on the Social Posts page in the Odoo Social Marketing application.
 
 Either route reveals a blank social media post detail form that can be customized and configured in
 a number of different ways.
 
-.. image:: social_posts/blank-post-detail-page.png
+.. image:: social_posts/blank-post-detail-page.webp
    :align: center
    :alt: Blank social media post detail page in Odoo Social Marketing.
 
@@ -242,7 +242,7 @@ In the :guilabel:`Message` field, type in the desired message for the social pos
 click away from the :guilabel:`Message` field to reveal visual samples of how the post will look on
 all the previously selected social media accounts (and/or websites, as push notifications).
 
-.. image:: social_posts/visual-samples-social-media-outlets-preview.png
+.. image:: social_posts/visual-samples-social-media-outlets-preview.webp
    :align: center
    :alt: Sample social media post with visual samples of how it will appear on social media outlets.
 
@@ -266,7 +266,7 @@ upload it.
 After successfully uploading and attaching the desired image, Odoo reveals a new preview of the
 social media post, complete with the newly-added image, on the right side of the detail form.
 
-.. image:: social_posts/attach-images-visual-social-post-sample.png
+.. image:: social_posts/attach-images-visual-social-post-sample.webp
    :align: center
    :alt: Visualized samples of post with newly-attached images in Odoo Social Marketing.
 
@@ -284,7 +284,7 @@ To create a new campaign directly from the social media post detail form, start 
 the new campaign in the blank :guilabel:`Campaign` field, and select either :guilabel:`Create` or
 :guilabel:`Create and edit...`.
 
-.. image:: social_posts/campaign-drop-down-menu-options.png
+.. image:: social_posts/campaign-drop-down-menu-options.webp
    :align: center
    :alt: Drop-down menu options of Create or Create and edit in the Campaign field.
 
@@ -294,7 +294,7 @@ Clicking :guilabel:`Create and edit...` creates the campaign, and reveals a :gui
 Campaign` pop-up form, wherein the :guilabel:`Campaign Identifier`, :guilabel:`Responsible`, and
 :guilabel:`Tags` can be instantly configured.
 
-.. image:: social_posts/create-campaign-popup.png
+.. image:: social_posts/create-campaign-popup.webp
    :align: center
    :alt: Create campaign pop-up window that appears on a social media post detail form.
 
@@ -311,7 +311,7 @@ time.
 If :guilabel:`Schedule later` is selected, a new :guilabel:`Scheduled Date` field appears. Clicking
 the empty field reveals a pop-up calendar, in which a future date and time can be designated.
 
-.. image:: social_posts/schedule-post-calendar-popup.png
+.. image:: social_posts/schedule-post-calendar-popup.webp
    :align: center
    :alt: Schedule date pop-up window that appears on social media post detail form in Odoo.
 
@@ -333,7 +333,7 @@ If one (or multiple) :guilabel:`[Push Notification]` options are chosen in the :
 field, a specific :guilabel:`Push Notification Options` section appears at the bottom of the social
 media post detail form.
 
-.. image:: social_posts/push-notification-options-section.png
+.. image:: social_posts/push-notification-options-section.webp
    :align: center
    :alt: Push notification options section on a social media post detail form.
 
@@ -362,7 +362,7 @@ push notification.
    send it at the appropriate, pre-determined time, taking the visitor's location into
    consideration.
 
-   .. image:: social_posts/push-notification-local-time.png
+   .. image:: social_posts/push-notification-local-time.webp
       :align: center
       :alt: The Local Time option in the Push Notification Options section of features.
 
@@ -376,7 +376,7 @@ rule field.
 In this equation-like rule field, specifiy the specific criteria Odoo should take into account when
 sending this post to a particular target audience.
 
-.. image:: social_posts/push-notification-condition.png
+.. image:: social_posts/push-notification-condition.webp
    :align: center
    :alt: Push notification conditions set up to match a specific amount of records in the database.
 

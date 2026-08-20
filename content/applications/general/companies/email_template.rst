@@ -92,7 +92,7 @@ the following options:
    direction`, etc.), highlight the text, then type in the activator key (forward slash) `/`, and
    select the desired option from the drop-down menu.
 
-   .. image:: email_template/powerbox-feature.png
+   .. image:: email_template/powerbox-feature.webp
       :align: center
       :alt: Powerbox feature in the email template.
 
@@ -107,7 +107,7 @@ To access the XML/HTML editor for an email template, first enter :ref:`developer
 and proceed to edit the XML/HTML. To return to the standard text editor, click the :guilabel:`</>`
 icon again.
 
-.. image:: email_template/html-code-editor.png
+.. image:: email_template/html-code-editor.webp
    :align: center
    :alt: HTML editor in the email template.
 
@@ -143,7 +143,7 @@ Placeholder`. Then select the dynamic placeholder from a list of available optio
 prompts to configure it with the desired corresponding Odoo field. Each dynamic placeholder will
 vary in configuration.
 
-.. image:: email_template/dynamic-placeholders.png
+.. image:: email_template/dynamic-placeholders.webp
    :align: center
    :alt: Using dynamic placeholders in an email template.
 
@@ -165,7 +165,7 @@ Rich text editor
 A rich text editor toolbar can be accessed by highlighting text in the email template. This can be
 used to change the heading, font size/style, color, add a list type, or a link.
 
-.. image:: email_template/rich-text-editor.png
+.. image:: email_template/rich-text-editor.webp
    :align: center
    :alt: Rich text editor in the email template.
 
@@ -176,7 +176,7 @@ Should the email template not work because the code has been altered it can be r
 back to the out-of-box default template. Simply click on the :guilabel:`Reset Template` button in
 the upper left-hand of the screen and the template will be reset.
 
-.. image:: email_template/reset.png
+.. image:: email_template/reset.webp
    :align: center
    :alt: Resetting the email template.
 
@@ -191,7 +191,7 @@ masse using this template.
    Add multiple email addresses by adding a comma `,` between the addresses or dynamic
    placeholders.
 
-.. image:: email_template/reply-to-template-sales.png
+.. image:: email_template/reply-to-template-sales.webp
    :align: center
    :alt: Reply-to field on template.
 
@@ -208,7 +208,7 @@ defined and customized. This option will be available on the :guilabel:`Action` 
 where emails can be sent in bulk---for example, on the :guilabel:`Customers` page of the CRM app.
 This action occurs throughout the Odoo database.
 
-.. image:: email_template/composer-mass-mailing.png
+.. image:: email_template/composer-mass-mailing.webp
    :align: center
    :alt: Email composer in mass mailing mode with reply-to highlighted.
 
@@ -273,7 +273,7 @@ In order to edit translations, first enter :ref:`developer mode <developer-mode>
 email template, click on the :guilabel:`Edit` button, and then click on the language button,
 represented by the initials of the language currently being used (e.g. :guilabel:`EN` for English).
 
-.. image:: email_template/edit-language-template.png
+.. image:: email_template/edit-language-template.webp
    :align: center
    :alt: Edit the language of a template.
 
@@ -285,7 +285,7 @@ A pop-up window with the different languages installed on the database appears. 
 editing of translations is possible. When the desired changes have been made, click the
 :guilabel:`Save` button to save the changes.
 
-.. image:: email_template/translation-body.png
+.. image:: email_template/translation-body.webp
   :align: center
   :alt: Translation of the body of the Appointment Booked template.
 

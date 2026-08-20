@@ -36,7 +36,7 @@ On the |BOM|, click on the :guilabel:`Miscellaneous` tab, then enable the :guila
 Dependencies` checkbox. This makes a new :guilabel:`Blocked By` option available in the settings of
 the :guilabel:`Operations` tab.
 
-.. image:: work_order_dependencies/operation-dependencies.png
+.. image:: work_order_dependencies/operation-dependencies.webp
    :align: center
    :alt: The Operation Dependencies checkbox on the Miscellaneous tab of a BoM.
 
@@ -44,7 +44,7 @@ Next, click on the :guilabel:`Operations` tab. On the top-right of the tab, clic
 :guilabel:`settings` button, then enable the :guilabel:`Blocked By` checkbox. This makes a
 :guilabel:`Blocked By` field appear for each operation on the :guilabel:`Operations` tab.
 
-.. image:: work_order_dependencies/operations-settings.png
+.. image:: work_order_dependencies/operations-settings.webp
    :align: center
    :alt: The settings for the Operations tab on a BoM.
 
@@ -53,7 +53,7 @@ In the line of the operation that should be blocked by another operation, click 
 :guilabel:`Blocked By` drop-down field on the pop-up window, select the blocking operation that must
 be completed *before* the operation that is blocked.
 
-.. image:: work_order_dependencies/blocked-by.png
+.. image:: work_order_dependencies/blocked-by.webp
    :align: center
    :alt: The Blocked By drop-down field for an operation on a BoM.
 
@@ -79,7 +79,7 @@ display a `Ready` tag in the :guilabel:`Status` section.
 Work orders that are blocked by one or more work orders display a `Waiting for another WO` tag
 instead. Once the blocking work order(s) are completed, the tag updates to `Ready`.
 
-.. image:: work_order_dependencies/work-order-status.png
+.. image:: work_order_dependencies/work-order-status.webp
    :align: center
    :alt: The status tags for work orders on a manufacturing order.
 
@@ -89,7 +89,7 @@ the page. After doing so, the :guilabel:`Scheduled Start Date` field for each wo
 is scheduled at the end of the time period specified in the :guilabel:`Expected Duration` field of
 the work order that precedes it.
 
-.. image:: work_order_dependencies/scheduled-start-date.png
+.. image:: work_order_dependencies/scheduled-start-date.webp
    :align: center
    :alt: The Scheduled Start Date field for work orders on a manufacturing order.
 
@@ -113,6 +113,6 @@ If one work order is blocked by the completion of another, the work order that i
 as scheduled to start after the work order blocking it. In addition, an arrow connects the two work
 orders, leading from the blocking operation to the blocked operation.
 
-.. image:: work_order_dependencies/planning-arrow.png
+.. image:: work_order_dependencies/planning-arrow.webp
    :align: center
    :alt: The arrow connecting a blocked work order to the work order blocking it.

@@ -162,7 +162,7 @@ Then, enter the :guilabel:`Uruware Data`:
 - :guilabel:`Commerce Code`
 - :guilabel:`Terminal Code`
 
-.. image:: uruguay/electronic-invoice-data.png
+.. image:: uruguay/electronic-invoice-data.webp
    :alt: Required information for electronic invoice.
 
 .. note::
@@ -211,7 +211,7 @@ Taxes
 As part of the Uruguay localization module, taxes are automatically created with its configuration
 and related financial accounts.
 
-.. image:: uruguay/taxes.png
+.. image:: uruguay/taxes.webp
    :alt: Taxes for Uruguay.
 
 Document types
@@ -232,7 +232,7 @@ To review the document types included in the localization, navigate to :menusele
    from Uruware, based on their |CAEs|. |CAEs| are **only** used in production. When testing, only a
    range of sequences used in Uruware need to be set.
 
-.. image:: uruguay/document-types.png
+.. image:: uruguay/document-types.webp
    :alt: Document types for Uruguay.
 
 Sales journals

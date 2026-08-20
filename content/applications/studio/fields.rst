@@ -56,7 +56,7 @@ displayed when filling out the field.
 
 .. example::
 
-   .. image:: fields/text-examples.png
+   .. image:: fields/text-examples.webp
       :align: center
       :alt: Examples of Text fields with different widgets
 
@@ -72,7 +72,7 @@ text lines are displayed on the UI when filling out the field.
 
 .. example::
 
-   .. image:: fields/multiline-text-examples.png
+   .. image:: fields/multiline-text-examples.webp
       :align: center
       :alt: Examples of Multiline Text fields with different widgets
 
@@ -93,7 +93,7 @@ without a decimal`).
 
 .. example::
 
-   .. image:: fields/integer-examples.png
+   .. image:: fields/integer-examples.webp
       :align: center
       :alt: Examples of Integer fields with different widgets
 
@@ -121,7 +121,7 @@ with a decimal`).
 
 .. example::
 
-   .. image:: fields/decimal-examples.png
+   .. image:: fields/decimal-examples.webp
       :align: center
       :alt: Examples of Decimal fields with different widgets
 
@@ -139,7 +139,7 @@ The :guilabel:`Monetary` field is used for all monetary values.
 
 .. example::
 
-   .. image:: fields/monetary-example.png
+   .. image:: fields/monetary-example.webp
       :align: center
       :alt: Example of a Monetary field along with its Currency field
 
@@ -154,7 +154,7 @@ The :guilabel:`Html` field is used to add text that can be edited using the Odoo
 
 .. example::
 
-   .. image:: fields/html-example.png
+   .. image:: fields/html-example.webp
       :align: center
       :alt: Examples of Html fields with different widgets
 
@@ -170,7 +170,7 @@ The :guilabel:`Date` field is used to select a date on a calendar.
 
 .. example::
 
-   .. image:: fields/date-examples.png
+   .. image:: fields/date-examples.webp
       :align: center
       :alt: Examples of Date fields with different widgets
 
@@ -188,7 +188,7 @@ user's current time is automatically used if no time is set.
 
 .. example::
 
-   .. image:: fields/date-time-examples.png
+   .. image:: fields/date-time-examples.webp
       :align: center
       :alt: Examples of Date & Time fields with different widgets
 
@@ -205,7 +205,7 @@ checking or unchecking a checkbox.
 
 .. example::
 
-   .. image:: fields/checkbox-examples.png
+   .. image:: fields/checkbox-examples.webp
       :align: center
       :alt: Examples of Checkbox fields with different widgets
 
@@ -233,7 +233,7 @@ predefined values.
 
 .. example::
 
-   .. image:: fields/selection-examples.png
+   .. image:: fields/selection-examples.webp
       :align: center
       :alt: Examples of Selection fields with different widgets
 
@@ -256,7 +256,7 @@ and four priority values predefined. Consequently, the :guilabel:`Badge`, :guila
 
 .. example::
 
-   .. image:: fields/priority-example.png
+   .. image:: fields/priority-example.webp
       :align: center
       :alt: Example of a Priority field
 
@@ -278,7 +278,7 @@ widget).
 
 .. example::
 
-   .. image:: fields/file-examples.png
+   .. image:: fields/file-examples.webp
       :align: center
       :alt: Examples of File fields with different widgets
 
@@ -337,7 +337,7 @@ being edited. The record's name from the other model is then displayed on the re
    pointing at the *Contact* model. This allows **many** sales orders to be linked to **one**
    contact (customer).
 
-   .. image:: fields/many2one-diagram.png
+   .. image:: fields/many2one-diagram.webp
       :align: center
       :alt: Diagram showing a many2one relationship
 
@@ -363,7 +363,7 @@ current model and multiple records from another model.
    You could add a :guilabel:`One2Many` field on the *Contact* model to look at **one** customer's
    **many** sales orders.
 
-   .. image:: fields/one2many-diagram.png
+   .. image:: fields/one2many-diagram.webp
       :align: center
       :alt: Diagram showing a one2many relationship
 
@@ -387,7 +387,7 @@ products on a sales order).
 
 .. example::
 
-   .. image:: fields/lines-example.png
+   .. image:: fields/lines-example.webp
       :align: center
       :alt: Example of a Lines field
 
@@ -406,7 +406,7 @@ records on the current model. Many2Many fields can use :guilabel:`Disable creati
    the *Contact* model. This allows a single user to be assigned to **many** tasks and **many**
    users to be assigned to a single task.
 
-   .. image:: fields/many2many-diagram.png
+   .. image:: fields/many2many-diagram.webp
       :align: center
       :alt: Diagram showing many2many relationships
 
@@ -431,7 +431,7 @@ described under :ref:`Many2Many <studio/fields/relational-fields/many2many>`.
 
 .. example::
 
-   .. image:: fields/tags-example.png
+   .. image:: fields/tags-example.webp
       :align: center
       :alt: Example of a Tags field
 

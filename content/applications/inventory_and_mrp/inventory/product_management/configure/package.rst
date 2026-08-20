@@ -41,7 +41,7 @@ To use packages, first go to :menuselection:`Inventory app --> Configuration -->
 the :guilabel:`Operations` heading, activate the :guilabel:`Packages` feature. Then, click
 :guilabel:`Save`.
 
-.. image:: package/enable-pack.png
+.. image:: package/enable-pack.webp
    :align: center
    :alt: Activate the *Packages* setting in Inventory > Configuration > Settings.
 
@@ -65,7 +65,7 @@ Detailed operations
 On any warehouse transfer (e.g. receipt, delivery order), add a product to a package by clicking the
 :guilabel:`⦙≣ (bulleted list)` icon in the :guilabel:`Operations` tab.
 
-.. image:: package/detailed-operations.png
+.. image:: package/detailed-operations.webp
    :align: center
    :alt: Show "Detailed Operations" icon in the product line.
 
@@ -75,7 +75,7 @@ To put the :guilabel:`Product` in a package, click :guilabel:`Add a line`, and a
 a :guilabel:`Destination Package`. Select an existing package, or create a new one by typing the
 name of the new package, then select :guilabel:`Create...`.
 
-.. figure:: package/destination-package.png
+.. figure:: package/destination-package.webp
    :align: center
    :alt: Assign a package to "Destination Package" field.
 
@@ -102,7 +102,7 @@ new package, and place all the items in the transfer in that newly-created packa
    with the *Packages* feature enabled in :menuselection:`Inventory app --> Configuration -->
    Settings`.
 
-.. figure:: package/put-in-pack.png
+.. figure:: package/put-in-pack.webp
    :align: center
    :alt: Image of the "Put in Pack" button being clicked.
 
@@ -142,7 +142,7 @@ fields of the form are as follows:
 - :guilabel:`Carrier`: specify the intended shipping carrier for this package type.
 - :guilabel:`Carrier Code`: define a code that is linked to the package type.
 
-.. image:: package/package-type.png
+.. image:: package/package-type.webp
    :align: center
    :alt: Package type for FedEx's 25 kilogram box.
 
@@ -156,7 +156,7 @@ Settings`, and activate the :guilabel:`Batch Transfers` feature, located in the
 :guilabel:`Operations` section. Doing so makes the *Package Use* field become visible on a package
 form.
 
-.. image:: package/enable-batch.png
+.. image:: package/enable-batch.webp
    :align: center
    :alt: Activate the *Batch Transfers* feature in Inventory > Configuration > Settings.
 
@@ -180,7 +180,7 @@ following fields:
 - :guilabel:`Package Use`: choose :guilabel:`Reusable` for packages used for moving products within
   the warehouse; :guilabel:`Disposable` for packages used to ship products to customers.
 
-.. image:: package/package.png
+.. image:: package/package.webp
    :align: center
    :alt: Display package form to create a cluster pack.
 
@@ -196,7 +196,7 @@ packages are shown in Kanban view, in their current storage location.
 .. tip::
    Drag-and-drop packages to move them between internal locations.
 
-.. image:: package/packages-kanban.png
+.. image:: package/packages-kanban.webp
    :align: center
    :alt: Packages dashboard.
 

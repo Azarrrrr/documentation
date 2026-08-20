@@ -20,7 +20,7 @@ To access the metrics for an individual mailing, navigate to :menuselection:`Ema
 results for that mailing. Click on one of the mailings in the list to open the record. At the top of
 the record, detailed metrics are displayed as smart buttons.
 
-.. image:: analyze_metrics/metric-smart-buttons.png
+.. image:: analyze_metrics/metric-smart-buttons.webp
    :align: center
    :alt: The smart buttons on a mass mailing, displaying the results of the message.
 

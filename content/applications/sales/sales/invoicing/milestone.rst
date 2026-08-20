@@ -25,14 +25,14 @@ On the product form, under the :guilabel:`General Information` tab, the :guilabe
 field *must* be set on any of the following options: :guilabel:`Service`, :guilabel:`Event Ticket`,
 :guilabel:`Event Booth`, or :guilabel:`Course`.
 
-.. image:: milestone/product-type-field.png
+.. image:: milestone/product-type-field.webp
    :align: center
    :alt: The invoicing policy field drop-down menu with options on product form.
 
 With any of those :guilabel:`Product Type` options selected, choose :guilabel:`Based on Milestones`
 from the :guilabel:`Invoicing Policy` drop-down menu.
 
-.. image:: milestone/invoicing-policy-field.png
+.. image:: milestone/invoicing-policy-field.webp
    :align: center
    :alt: The invoicing policy field drop-down menu with options on product form.
 
@@ -60,14 +60,14 @@ menu is revealed with the following options:
 When :guilabel:`Task` is selected, a :guilabel:`Project` field appears. In this field, select to
 which existing project in the *Projects* app this created task should be connected.
 
-.. image:: milestone/task-option-project-field.png
+.. image:: milestone/task-option-project-field.webp
    :align: center
    :alt: The Project field appears when the Task option is selected in Create on Order field.
 
 When :guilabel:`Project \& Task` or :guilabel:`Project` is selected, two new fields appear:
 :guilabel:`Project Template` and :guilabel:`Workspace Template`.
 
-.. image:: milestone/project-task-option-project-workspace-fields.png
+.. image:: milestone/project-task-option-project-workspace-fields.webp
    :align: center
    :alt: The Project template and workspace template fields that appear on milestone product.
 
@@ -97,7 +97,7 @@ Invoice milestones
    their :guilabel:`Product Type`, and :guilabel:`Task` set on their :guilabel:`Create on Order`
    field.
 
-    .. image:: milestone/settings-for-workflow.png
+    .. image:: milestone/settings-for-workflow.webp
        :align: center
        :alt: Product with Service "Product Type" and "Task" in the Create on Order field on form.
 
@@ -119,7 +119,7 @@ was selected in the :guilabel:`Create on Order` field on the product form.
 From the sales order, click the :guilabel:`Milestones` smart button. Doing so reveals a blank
 :guilabel:`Milestones` page. Click :guilabel:`New` to add milestones.
 
-.. image:: milestone/adding-milestones.png
+.. image:: milestone/adding-milestones.webp
    :align: center
    :alt: Adding milestones to a sales order with milestone products.
 
@@ -132,7 +132,7 @@ Then, return to the sales order, via the breadcrumbs. From the sales order, clic
 :guilabel:`Tasks` smart button. Doing so reveals a :guilabel:`Tasks` page with a task for each sales
 order item with that option designated in the :guilabel:`Create on Order` field.
 
-.. image:: milestone/tasks-page.png
+.. image:: milestone/tasks-page.webp
    :align: center
    :alt: Sample tasks page accessed via the smart button from a sales order with milestone products.
 
@@ -140,7 +140,7 @@ To manually assign a configured milestone to a task, click the desired task, whi
 form. On the task form, select the appropriate milestone to which this task should be connected, in
 the :guilabel:`Milestone` field.
 
-.. image:: milestone/milestone-field-on-task-form.png
+.. image:: milestone/milestone-field-on-task-form.webp
    :align: center
    :alt: The milestone field on the task form when dealing with milestone products in Odoo Sales.
 
@@ -159,7 +159,7 @@ order.
 Back on the sales order form, click the :guilabel:`Milestones` smart button, and check the box in
 the :guilabel:`Reached` column for that particular task.
 
-.. image:: milestone/reached-milestone.png
+.. image:: milestone/reached-milestone.webp
    :align: center
    :alt: What it looks like to mark a milestone as reached via the milestone smart button.
 
@@ -170,14 +170,14 @@ Back on the sales order, the line item for the milestone that's been reached has
 :guilabel:`Delivered` column filled. That's because the milestone has been reached, and therefore
 delivered.
 
-.. image:: milestone/delivered-milestone-product-sales-order.png
+.. image:: milestone/delivered-milestone-product-sales-order.webp
    :align: center
    :alt: A milestone product that's been reached marked as delivered on the sales order in Odoo.
 
 Click :guilabel:`Create Invoice` in the upper-left corner. Doing so reveals a :guilabel:`Create
 invoices` pop-up window.
 
-.. image:: milestone/create-invoices-pop-up.png
+.. image:: milestone/create-invoices-pop-up.webp
    :align: center
    :alt: The create invoices pop-up window that appears when create invoice button is clicked.
 
@@ -188,7 +188,7 @@ button.
 Upon clicking :guilabel:`Create Draft Invoice`, Odoo reveals the :guilabel:`Customer Invoice Draft`,
 *only* showing that reached milestone in the :guilabel:`Invoice Lines` tab.
 
-.. image:: milestone/invoice-draft-milestone.png
+.. image:: milestone/invoice-draft-milestone.webp
    :align: center
    :alt: A customer invoice draft showing only the milestone product that's been reached.
 
@@ -197,7 +197,7 @@ customer has paid for this milestone, click :guilabel:`Register Payment`.
 
 When :guilabel:`Register Payment` is clicked, a :guilabel:`Register Payment` pop-up window appears.
 
-.. image:: milestone/register-payment-pop-up.png
+.. image:: milestone/register-payment-pop-up.webp
    :align: center
    :alt: The Register Payment pop-up window that appears when Register Payment is clicked.
 
@@ -208,7 +208,7 @@ When clicked, the pop-up window disappears, and Odoo returns to the invoice for 
 which now has a green :guilabel:`In Payment` banner in the upper-right corner. This banner signifies
 the invoice has been paid.
 
-.. image:: milestone/in-payment-invoice.png
+.. image:: milestone/in-payment-invoice.webp
    :align: center
    :alt: An invoice with a milestone product that has been paid with an In Payment banner.
 
@@ -216,14 +216,14 @@ Then, return to the sales order, via the breadcrumb links. Back on the sales ord
 :guilabel:`Order Lines` tab, the reached milestone that's been invoiced and paid for, now has its
 :guilabel:`Invoiced` column filled.
 
-.. image:: milestone/invoiced-column-filled-milestone.png
+.. image:: milestone/invoiced-column-filled-milestone.webp
    :align: center
    :alt: The Invoiced column of a milestone product that's been paid for is filled.
 
 There is also a new :guilabel:`Invoices` smart button at the top of the sales order. Clicking that
 reveals all the invoices that are connected to this sales order.
 
-.. image:: milestone/invoices-smart-button.png
+.. image:: milestone/invoices-smart-button.webp
    :align: center
    :alt: The invoices smart button that appears at the top of a sales order with milestones.
 

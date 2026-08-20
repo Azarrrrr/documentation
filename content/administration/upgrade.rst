@@ -24,7 +24,7 @@ Depending on the hosting type and Odoo version used, a database upgrade can be *
       After the initial three years of support, you will have another two years to complete the
       upgrade. You will be notified when an upgrade is required.
 
-      .. image:: upgrade/odoo-sh-message.png
+      .. image:: upgrade/odoo-sh-message.webp
          :alt: The "unsupported version" popup on Odoo.sh.
 
    .. group-tab:: On-premise
@@ -38,7 +38,7 @@ Depending on the hosting type and Odoo version used, a database upgrade can be *
    automatically carried out. You are in control of the process as long as the deadline is not
    reached.
 
-   .. image:: upgrade/rr-upgrade-message.png
+   .. image:: upgrade/rr-upgrade-message.webp
       :alt: The upgrade message prompt on the top right of the database
 
    Concretely, Odoo’s Upgrade Team performs a silent test upgrade of every database that should be
@@ -115,7 +115,7 @@ database. However, depending on the hosting type, you can upgrade from the comma
       not on the most recent version of Odoo display an arrow in a circle icon next to their name,
       indicating that they can be upgraded.
 
-      .. image:: upgrade/databases-page.png
+      .. image:: upgrade/databases-page.webp
          :alt: The database manager with an upgrade button next to the name of a database.
 
       Click the **arrow in a circle** icon to start the upgrade process. In the popup, fill in:
@@ -125,7 +125,7 @@ database. However, depending on the hosting type, you can upgrade from the comma
       - The :guilabel:`Purpose` of the upgrade, which is automatically set to :guilabel:`Test` for
         your first upgrade request
 
-      .. image:: upgrade/upgrade-popup.png
+      .. image:: upgrade/upgrade-popup.webp
          :alt: The "Upgrade your database" popup.
 
       The :guilabel:`Upgrade in progress` tag is displayed next to the database name until
@@ -133,14 +133,14 @@ database. However, depending on the hosting type, you can upgrade from the comma
       database is sent to the address provided. The database can also be accessed from the database
       manager by clicking the dropdown arrow before the database name.
 
-      .. image:: upgrade/access-upgraded-db.png
+      .. image:: upgrade/access-upgraded-db.webp
          :alt: Clicking the menu arrow displays the upgraded test database.
 
    .. group-tab:: Odoo.sh
 
       Odoo.sh is integrated with the upgrade platform to simplify the upgrade process.
 
-      .. image:: upgrade/odoo-sh-staging.png
+      .. image:: upgrade/odoo-sh-staging.webp
          :alt: Odoo.sh project and tabs
 
       The **latest production daily automatic backup** is then sent to the Upgrade platform.
@@ -350,7 +350,7 @@ few exceptions.
       The process is similar to :ref:`obtaining an upgraded test database <upgrade-request-test>` on
       the :guilabel:`Production` branch.
 
-      .. image:: upgrade/odoo-sh-prod.png
+      .. image:: upgrade/odoo-sh-prod.webp
          :alt: View from the upgrade tab
 
       The process is **triggered as soon as a new commit is made** on the branch. This

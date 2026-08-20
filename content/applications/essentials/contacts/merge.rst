@@ -20,7 +20,7 @@ Navigate to the :menuselection:`Contacts app`, and select the :icon:`oi-view-lis
 (on the far-left) for the contacts that should be merged. Then, click the :icon:`fa-cog`
 :guilabel:`Actions` icon, and select :guilabel:`Merge` from the resulting drop-down menu.
 
-.. image:: merge/merge-menu.png
+.. image:: merge/merge-menu.webp
    :align: center
    :alt: The merge contacts option in the Contacts application.
 
@@ -32,7 +32,7 @@ confirming they should be merged. If any contacts in the list should **not** be 
    Click the individual contact to open the record for that contact, and view additional
    information.
 
-.. image:: merge/merge-window.png
+.. image:: merge/merge-window.webp
    :align: center
    :alt: The merge pop-up window in the Contacts application.
 

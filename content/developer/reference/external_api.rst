@@ -105,13 +105,13 @@ account (although they can not be used to log-in via the interface).
 In order to add a key to your account, simply go to your
 :guilabel:`Preferences` (or :guilabel:`My Profile`):
 
-.. image:: external_api/preferences.png
+.. image:: external_api/preferences.webp
    :align: center
 
 then open the :guilabel:`Account Security` tab, and click
 :guilabel:`New API Key`:
 
-.. image:: external_api/account-security.png
+.. image:: external_api/account-security.webp
    :align: center
 
 Input a description for the key, **this description should be as clear and
@@ -127,7 +127,7 @@ lost).
 Once you have keys configured on your account, they will appear above the
 :guilabel:`New API Key` button, and you will be able to delete them:
 
-.. image:: external_api/delete-key.png
+.. image:: external_api/delete-key.webp
    :align: center
 
 **A deleted API key can not be undeleted or re-set**. You will have to generate

@@ -13,7 +13,7 @@ into the exercises, make sure you have followed all the steps described in this
 
 .. admonition:: Goal
 
-   .. image:: 01_build_clicker_game/final.png
+   .. image:: 01_build_clicker_game/final.webp
       :align: center
 
 .. spoiler:: Solutions
@@ -33,7 +33,7 @@ To get started, we want to display a counter in the systray.
 #. Update the content of the item so that it displays the following string: `Clicks: 0`, and
    add a button on the right to increment the value.
 
-.. image:: 01_build_clicker_game/systray.png
+.. image:: 01_build_clicker_game/systray.webp
    :align: center
 
 And voila, we have a completely working clicker game!
@@ -91,7 +91,7 @@ is a main action, managed by the web client, that displays a component.
             name: "Clicker"
          }
 
-.. image:: 01_build_clicker_game/client_action.png
+.. image:: 01_build_clicker_game/client_action.webp
    :align: center
 
 .. seealso::
@@ -123,7 +123,7 @@ location of our state to make it available for all our components. This is a per
    the systray item to remove its own local state and use it. Also, you can remove the `+10 clicks` button.
 #. Display the state in the client action, and add a `+10` clicks button in it.
 
-.. image:: 01_build_clicker_game/increment_button.png
+.. image:: 01_build_clicker_game/increment_button.webp
    :align: center
 
 .. seealso::
@@ -161,7 +161,7 @@ format numbers in a easier to comprehend way: for example, `1234` could be forma
 
       Owl allows component that contains just text nodes!
 
-.. image:: 01_build_clicker_game/humanized_number.png
+.. image:: 01_build_clicker_game/humanized_number.webp
    :align: center
 
 .. seealso::
@@ -177,7 +177,7 @@ as a tooltip.
 #. Tooltip needs an html element. Change the `ClickValue` to wrap the value in a `<span/>` element
 #. Add a dynamic `data-tooltip` attribute to display the exact value.
 
-.. image:: 01_build_clicker_game/humanized_tooltip.png
+.. image:: 01_build_clicker_game/humanized_tooltip.webp
    :align: center
 
 .. seealso::
@@ -199,7 +199,7 @@ every 10 seconds.
 #. Set a 10s interval in the service that will increment the number of clicks by `10*clickBots`.
 #. Make sure the Buy button is disabled if the player does not have enough clicks.
 
-.. image:: 01_build_clicker_game/clickbot.png
+.. image:: 01_build_clicker_game/clickbot.webp
    :align: center
 
 9. Refactor to a class model
@@ -237,7 +237,7 @@ for communication: event buses.
 #. When that happens, use the `effect` service to display a rainbow man.
 #. Add some text to explain that the user can now buy clickbots.
 
-.. image:: 01_build_clicker_game/milestone.png
+.. image:: 01_build_clicker_game/milestone.webp
    :align: center
 
 .. seealso::
@@ -262,7 +262,7 @@ which are just more powerful: they provide with 100 clicks each 10s, but they co
    the xml parser. To solve that, you can use one of the special aliases: `gt, gte, lt` or `lte`. See the
    `Owl documentation page on template expressions <https://github.com/odoo/owl/blob/master/doc/reference/templates.md#expression-evaluation>`_.
 
-.. image:: 01_build_clicker_game/bigbot.png
+.. image:: 01_build_clicker_game/bigbot.webp
    :align: center
 
 12. Add a new type of resource: power
@@ -277,7 +277,7 @@ one click, clickbots now provide us with `multiplier` clicks).
 #. change bots to use that number as a multiplier.
 #. Update the user interface to display and let the user purchase a new power level (costs: 50k).
 
-.. image:: 01_build_clicker_game/bigbot.png
+.. image:: 01_build_clicker_game/bigbot.webp
    :align: center
 
 13. Define some random rewards
@@ -335,7 +335,7 @@ We want the user to obtain sometimes bonuses, to reward using Odoo.
 #. That method should choose a reward, send a sticky notification, with a button `Collect` that will
    then apply the reward, and finally, it should open the `clicker` client action.
 
-.. image:: 01_build_clicker_game/reward.png
+.. image:: 01_build_clicker_game/reward.webp
    :align: center
 
 .. seealso::
@@ -350,7 +350,7 @@ We want the user to obtain sometimes bonuses, to reward using Odoo.
 #. Add a command `Open Clicker Game` to the command palette.
 #. Add another command: `Buy 1 click bot`.
 
-.. image:: 01_build_clicker_game/command_palette.png
+.. image:: 01_build_clicker_game/command_palette.webp
    :align: center
 
 .. seealso::
@@ -370,7 +370,7 @@ fruits (either pears or cherries).
 #. Update the client user interface to display the number of trees and fruits, and also, to buy trees.
 #. Increment the fruit number by 1 for each tree every 30s.
 
-.. image:: 01_build_clicker_game/trees.png
+.. image:: 01_build_clicker_game/trees.webp
    :align: center
 
 17. Use a dropdown menu for the systray item
@@ -386,7 +386,7 @@ access to some commands and some more information. Let us use a dropdown menu!
    and fruits.
 #. Also, a few dropdown items with some commands: open the clicker game, buy a clickbot, ...
 
-.. image:: 01_build_clicker_game/dropdown.png
+.. image:: 01_build_clicker_game/dropdown.webp
    :align: center
 
 18. Use a Notebook component
@@ -399,7 +399,7 @@ and features in various tabs, with the `Notebook` component:
 #. All `click` content should be displayed in one tab.
 #. All `tree/fruits` content should be displayed in another tab.
 
-.. image:: 01_build_clicker_game/notebook.png
+.. image:: 01_build_clicker_game/notebook.webp
    :align: center
 
 .. seealso::
@@ -443,5 +443,5 @@ To test our migration system, let us add a new type of trees: peaches.
 #. Increment the state version number.
 #. Define a migration.
 
-.. image:: 01_build_clicker_game/peach_tree.png
+.. image:: 01_build_clicker_game/peach_tree.webp
    :align: center

@@ -18,7 +18,7 @@ To begin, navigate to :menuselection:`Events app --> Configuration --> Event Tem
 reveals the :guilabel:`Event Templates` page. Here, find all the existing event templates in the
 database.
 
-.. image:: event_templates/event-templates-page.png
+.. image:: event_templates/event-templates-page.webp
    :align: center
    :alt: The Event Templates page in the Odoo Events application.
 
@@ -60,7 +60,7 @@ Event template form
 All the fields on a standard :guilabel:`Event Template` form are *also* on the *Create Template*
 pop-up window, accessible via the *Template* field on an event form.
 
-.. image:: event_templates/event-template-form.png
+.. image:: event_templates/event-template-form.webp
    :align: center
    :alt: A standard event template form in the Odoo Events application.
 
@@ -138,7 +138,7 @@ more information about those tabs, refer to the :doc:`create_events` documentati
 To add a booth from the :guilabel:`Booths` tab of an event template form, click :guilabel:`Add a
 line`. Doing so reveals a blank :guilabel:`Create Booths` pop-up window.
 
-.. image:: event_templates/create-booths-popup.png
+.. image:: event_templates/create-booths-popup.webp
    :align: center
    :alt: A Create Booths pop-up window in the Odoo Events application.
 
@@ -160,7 +160,7 @@ Categories`.
    a later date. Clicking :guilabel:`Create and edit...` reveals a new :guilabel:`Create Booth
    Category` pop-up window, from which the category can be configured in a number of different ways.
 
-   .. image:: event_templates/create-booth-category-popup.png
+   .. image:: event_templates/create-booth-category-popup.webp
       :align: center
       :alt: The Create Booth Category pop-up window in the Odoo Events application.
 

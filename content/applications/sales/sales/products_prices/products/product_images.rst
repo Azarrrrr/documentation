@@ -35,7 +35,7 @@ Google API dashboard
 #. With the :guilabel:`Credentials` option selected in the left sidebar, click :guilabel:`Create
    Credentials`, and select :guilabel:`API key` from the drop-down menu.
 
-   .. image:: product_images/credentials-api-key.png
+   .. image:: product_images/credentials-api-key.webp
       :align: center
       :alt: API & Services page on Google Cloud Platform.
 
@@ -43,19 +43,19 @@ Google API dashboard
    key`. Copy and save :guilabel:`Your API key` in the pop-up window -- it will be used later. Once
    the key is copied (and saved for later use), click :guilabel:`Close` to remove the pop-up window.
 
-   .. image:: product_images/api-key-pop-up.png
+   .. image:: product_images/api-key-pop-up.webp
       :align: center
       :alt: The API key created pop-up window that appears.
 
 #. On this page, search for `Custom Search API`, and select it.
 
-   .. image:: product_images/custom-search-api-search-bar.png
+   .. image:: product_images/custom-search-api-search-bar.webp
       :align: center
       :alt: Search bar containing "Custom Search API" on Google Cloud Platform.
 
 #. From the :guilabel:`Custom Search API` page, enable the API by clicking :guilabel:`Enable`.
 
-   .. image:: product_images/gcp-custom-search-api-page.png
+   .. image:: product_images/gcp-custom-search-api-page.webp
       :align: center
       :alt: "Custom Search API" page with Enable button highlighted on Google Cloud Platform.
 
@@ -68,7 +68,7 @@ Google Programmable Search dashboard
    and click either of the :guilabel:`Get started` buttons. Log in with a Google account, if not
    already logged in.
 
-   .. image:: product_images/google-pse-get-started.png
+   .. image:: product_images/google-pse-get-started.webp
       :align: center
       :alt: Google Programmable Search Engine page with the Get Started buttons.
 
@@ -76,7 +76,7 @@ Google Programmable Search dashboard
    with what the engine should search, and be sure to enable :guilabel:`Image Search` and
    :guilabel:`SafeSearch`.
 
-   .. image:: product_images/create-new-search.png
+   .. image:: product_images/create-new-search.webp
       :align: center
       :alt: Create new search engine form that appears with search engine configurations.
 
@@ -84,7 +84,7 @@ Google Programmable Search dashboard
 #. Doing so reveals a new page with the heading: :guilabel:`Your new search engine has been
    created`.
 
-   .. image:: product_images/new-search-engine-has-been-created.png
+   .. image:: product_images/new-search-engine-has-been-created.webp
       :align: center
       :alt: The Your New Search Engine Has Been Created page that appears with copy code.
 
@@ -92,7 +92,7 @@ Google Programmable Search dashboard
    Then, copy the ID in the :guilabel:`Search engine ID` field. This ID is needed for the Odoo
    configuration.
 
-   .. image:: product_images/basic-overview-search-engine-id.png
+   .. image:: product_images/basic-overview-search-engine-id.webp
       :align: center
       :alt: Basic overview page with search engine ID field.
 
@@ -105,7 +105,7 @@ Odoo
    :guilabel:`Integrations` section. From here, check the box beside :guilabel:`Google Images`.
    Then, click :guilabel:`Save`.
 
-   .. image:: product_images/google-images-setting.png
+   .. image:: product_images/google-images-setting.webp
       :align: center
       :alt: The Google Images setting in the Odoo Settings app page.
 
@@ -140,13 +140,13 @@ images to products in Odoo using the Odoo *Sales* application:
 #. Click the :guilabel:`Action ⚙️ (gear)` icon on the product page, and select :guilabel:`Get
    Pictures from Google Images` from the menu that pops up.
 
-   .. image:: product_images/get-pictures-from-google-action.png
+   .. image:: product_images/get-pictures-from-google-action.webp
       :align: center
       :alt: The Get Pictures from Google Images option from the Action drop-down menu in Odoo.
 
 #. On the pop-up window that appears, click :guilabel:`Get Pictures`.
 
-   .. image:: product_images/click-get-picture-from-pop-up.png
+   .. image:: product_images/click-get-picture-from-pop-up.webp
       :align: center
       :alt: The pop-up that appears in which the user should click Get Picture in Odoo Sales.
 

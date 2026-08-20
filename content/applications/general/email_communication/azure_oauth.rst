@@ -61,7 +61,7 @@ In the search bar, search for the following :guilabel:`Delegated permissions` an
 .. note::
    The :guilabel:`User.Read` permission will be added by default.
 
-.. image:: azure_oauth/permissions.png
+.. image:: azure_oauth/permissions.webp
    :align: center
    :alt: API permissions needed for Odoo integration are listed under the Microsoft Graph.
 
@@ -75,7 +75,7 @@ Now, add users to this application. Under the :guilabel:`Essentials` overview ta
 link labeled :guilabel:`Managed Application in Local Directory`, or the last option on the bottom
 right-hand side of the table.
 
-.. image:: azure_oauth/managed-application.png
+.. image:: azure_oauth/managed-application.webp
    :align: center
    :alt: Add users/groups by clicking the Managed application in local directory link for the
          created application.
@@ -99,7 +99,7 @@ These include the :guilabel:`Client ID` and :guilabel:`Client Secret`. To start,
 :guilabel:`Client ID` or :guilabel:`Application ID` is located under the :guilabel:`Display Name`
 in the :guilabel:`Essentials` overview of the app.
 
-.. image:: azure_oauth/application-id.png
+.. image:: azure_oauth/application-id.webp
    :align: center
    :alt: Application/Client ID located in the Overview of the app.
 
@@ -121,7 +121,7 @@ and :guilabel:`Secret ID` will be created. It is important to copy the :guilabel
 :guilabel:`Client Secret Value` into a notepad as it will become encrypted after leaving this page.
 The :guilabel:`Secret ID` is not needed.
 
-.. image:: azure_oauth/secretvalue.png
+.. image:: azure_oauth/secretvalue.webp
    :align: center
    :alt: Client Secret Value or Value in the app's credentials.
 
@@ -151,7 +151,7 @@ a new option for :guilabel:`Outlook Credentials`.
 Then, copy and paste the :guilabel:`Client ID` (Application ID) and :guilabel:`Client Secret
 (Client Secret Value)` into the respective fields and :guilabel:`Save` the settings.
 
-.. image:: azure_oauth/outlookcreds.png
+.. image:: azure_oauth/outlookcreds.webp
    :align: center
    :alt: Outlook Credentials in Odoo General Settings.
 
@@ -172,7 +172,7 @@ Then, click on :guilabel:`Connect your Outlook account`.
 A new window from Microsoft opens to complete the :guilabel:`authorization process`. Select the
 appropriate email address that is being configured in Odoo.
 
-.. image:: azure_oauth/verify-outlook.png
+.. image:: azure_oauth/verify-outlook.webp
    :align: center
    :alt: Permission page to grant access between newly created app and Odoo.
 
@@ -181,7 +181,7 @@ page will navigate back to the newly configured :guilabel:`Outgoing Mail Server`
 configuration automatically loads the :guilabel:`token` in Odoo, and a tag stating
 :guilabel:`Outlook Token Valid` appears in green.
 
-.. image:: azure_oauth/outlook-token.png
+.. image:: azure_oauth/outlook-token.webp
    :align: center
    :alt: Valid Outlook Token indicator.
 
@@ -214,7 +214,7 @@ When using this configuration, every email that is sent from the database will u
 the configured `notification` mailbox. However it should be noted that the name of the sender will
 appear but their email address will change:
 
-.. image:: azure_oauth/from-name-remain.png
+.. image:: azure_oauth/from-name-remain.webp
    :align: center
    :alt: Name from real sender with static email.
 

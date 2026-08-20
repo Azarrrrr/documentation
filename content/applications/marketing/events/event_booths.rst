@@ -14,7 +14,7 @@ activated.
 To do that, navigate to :menuselection:`Events app --> Configuration --> Settings`, and tick the
 :guilabel:`Booth Management` checkbox. Then, click :guilabel:`Save`.
 
-.. image:: event_booths/booth-management-setting.png
+.. image:: event_booths/booth-management-setting.webp
    :align: center
    :alt: The Booth Management setting in the Odoo Events application.
 
@@ -36,7 +36,7 @@ appears in the :guilabel:`Configuration` menu.
 To access the :guilabel:`Booth Category` dashboard, go to :menuselection:`Events app -->
 Configuration --> Booth Categories`, which reveals a list of all created booth categories.
 
-.. image:: event_booths/booth-category-page.png
+.. image:: event_booths/booth-category-page.webp
    :align: center
    :alt: The Booth Category page in the Odoo Events application.
 
@@ -62,7 +62,7 @@ Create booth category
 To create a booth category from the :guilabel:`Booth Category` page, click the :guilabel:`New`
 button in the upper-left corner to reveal a blank booth category form.
 
-.. image:: event_booths/booth-category-form.png
+.. image:: event_booths/booth-category-form.webp
    :align: center
    :alt: A typical booth category form in the Odoo Events application.
 
@@ -112,7 +112,7 @@ clicking :guilabel:`Create and edit...` from the resulting drop-down menu.
 
 Doing so reveals a :guilabel:`Create Sponsor Level` pop-up window.
 
-.. image:: event_booths/create-sponsor-level-popup.png
+.. image:: event_booths/create-sponsor-level-popup.webp
    :align: center
    :alt: The Create Sponsor Level pop-up window that appears in the Odoo Events application.
 
@@ -162,7 +162,7 @@ Booth form
 The booth form in Odoo *Events* lets users customize and configure event booths in a number of
 different ways.
 
-.. image:: event_booths/booth-form.png
+.. image:: event_booths/booth-form.webp
    :align: center
    :alt: Typical booth form in the Odoo Events application.
 
@@ -233,7 +233,7 @@ From there, click the :guilabel:`Get A Booth` event subheader menu option. Doing
 :guilabel:`Get A Booth` page, showcasing all the configured event booths that were created on the
 event form.
 
-.. image:: event_booths/get-a-booth-page.png
+.. image:: event_booths/get-a-booth-page.webp
    :align: center
    :alt: Typical Get A Booth page on the event website via the Odoo Events app.
 

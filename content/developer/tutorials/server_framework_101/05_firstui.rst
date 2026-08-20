@@ -111,15 +111,15 @@ Menus
     **Goal**: at the end of this section, three menus should be created and the default view is
     displayed:
 
-    .. image:: 05_firstui/estate_menu_root.png
+    .. image:: 05_firstui/estate_menu_root.webp
       :align: center
       :alt: Root menus
 
-    .. image:: 05_firstui/estate_menu_action.png
+    .. image:: 05_firstui/estate_menu_action.webp
       :align: center
       :alt: First level and action menus
 
-    .. image:: 05_firstui/estate_form_default.png
+    .. image:: 05_firstui/estate_form_default.webp
       :align: center
       :alt: Default form view
 
@@ -143,11 +143,11 @@ However, menus always follow an architecture, and in practice there are three le
 2. The first level menu, displayed in the top bar
 3. The action menus
 
-   .. image:: 05_firstui/menu_01.png
+   .. image:: 05_firstui/menu_01.webp
       :align: center
       :alt: Root menus
 
-   .. image:: 05_firstui/menu_02.png
+   .. image:: 05_firstui/menu_02.webp
       :align: center
       :alt: First level and action menus
 

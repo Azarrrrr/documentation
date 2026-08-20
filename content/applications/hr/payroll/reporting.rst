@@ -16,7 +16,7 @@ To view all the available reports for the database, including all the localizati
 navigate to :menuselection:`Payroll app --> Reporting` to view the available reports in a drop-down
 menu. Click on a specific report to view it.
 
-.. image:: reporting/reports.png
+.. image:: reporting/reports.webp
    :align: center
    :alt: Report dashboard view showing extra reports for Belgium databases.
 
@@ -34,7 +34,7 @@ Click on :menuselection:`Payroll app --> Reporting --> Payroll` to display the :
 Analysis` report. This report shows all the payslips generated in the last 365 days, due to the
 default :ref:`filter <payroll/filters>`: `Last 365 Days Payslip`.
 
-.. image:: reporting/payroll-report.png
+.. image:: reporting/payroll-report.webp
    :align: center
    :alt: Payroll overview report showing payroll for the last 365 days.
 
@@ -58,7 +58,7 @@ include:
 
 :guilabel:`Net Wage` is the default metric for the :guilabel:`Payroll` report.
 
-.. image:: reporting/measures.png
+.. image:: reporting/measures.webp
    :align: center
    :alt: The various measures available to display for the Payroll Analysis report.
 
@@ -99,7 +99,7 @@ options. The various options are:
 .. note::
    These options can be combined to create a variety of views.
 
-.. image:: reporting/line-chart.png
+.. image:: reporting/line-chart.webp
    :align: center
    :alt: Menu buttons with the line chart called out, along with the other option buttons.
 
@@ -116,7 +116,7 @@ for visualizing the progression over time or other categories.
 An option to display the columns in :ref:`Descending <payroll/descending>` or :ref:`Ascending
 <payroll/ascending>` order appears at the end of the options.
 
-.. image:: reporting/bar-chart.png
+.. image:: reporting/bar-chart.webp
    :align: center
    :alt: Menu buttons with the bar chart called out, along with the other option buttons.
 
@@ -132,7 +132,7 @@ To display the data in a pie chart, click on the :guilabel:`Pie Chart` button (r
 :guilabel:`(pie chart)` icon) in the menu bar. There are no additional options available in this
 view.
 
-.. image:: reporting/pie-chart.png
+.. image:: reporting/pie-chart.webp
    :align: center
    :alt: Menu buttons with the pie chart called out.
 
@@ -149,7 +149,7 @@ and the number of :guilabel:`Days of Unpaid Time Off`. The information is organi
 To display more information on the report, click the :guilabel:`Measures` button to reveal a
 drop-down menu. Then, click on any other metric to display it on the pivot table.
 
-.. image:: reporting/pivot.png
+.. image:: reporting/pivot.webp
    :align: center
    :alt: Pivot table view with the various metrics called out.
 
@@ -161,7 +161,7 @@ To export the data in an XLSX format, click the :guilabel:`Download xlsx` button
 :guilabel:`⬇️ (down arrow above a horizontal bar)` icon, located at the far-right of the available
 icons. The information is then downloaded into a spreadsheet.
 
-.. image:: reporting/xlsx.png
+.. image:: reporting/xlsx.webp
    :align: center
    :alt: The menu options with the download button highlighted.
 
@@ -171,7 +171,7 @@ asking which spreadsheet to place the information in. Select an existing spreads
 or select a new :guilabel:`Blank spreadsheet`. Click the :guilabel:`Confirm` button to move to a
 spreadsheet view with the report added to it.
 
-.. image:: reporting/spreadsheet.png
+.. image:: reporting/spreadsheet.webp
    :align: center
    :alt: The view of data sent to a spreadsheet.
 
@@ -198,7 +198,7 @@ Click the :guilabel:`⬇️ (down arrow)` icon in the search bar to display the 
    The :guilabel:`Work Entries Analysis` report has two default filters, the `Current month:(Month)
    (Year)` filter, and the `Validated` filter.
 
-   .. image:: reporting/custom-filter.png
+   .. image:: reporting/custom-filter.webp
       :align: center
       :alt: Filters enabled for the Work Entries Analysis report.
 

@@ -145,7 +145,7 @@ If they are static agents, they **always** show up as connected.
 Connect an agent by clicking the orange button labeled, :guilabel:`Connect an agent`. Then, select
 the desired agent's name from the drop-down menu, and click :guilabel:`Connect`.
 
-.. image:: call_queues/call-queue.png
+.. image:: call_queues/call-queue.webp
    :align: center
    :alt: Call queue with connected agents column highlighted and connect an agent and report buttons
          highlighted.
@@ -189,7 +189,7 @@ options:
 - :guilabel:`Transfer`
 - :guilabel:`Blind Transfer`
 
-.. image:: call_queues/event-type.png
+.. image:: call_queues/event-type.webp
    :align: center
    :alt: Event types in the Axivox queue reporting feature.
 
@@ -201,7 +201,7 @@ clicking :guilabel:`Uncheck all` removes all selections from the drop-down menu.
 
 To select an individual :guilabel:`Event type`, click on the desired option in the drop-down menu.
 
-.. image:: call_queues/report.png
+.. image:: call_queues/report.webp
    :align: center
    :alt: Axivox queue report with result, event type, and period highlighted.
 

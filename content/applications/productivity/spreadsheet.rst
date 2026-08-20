@@ -30,7 +30,7 @@ Glossary
 
 Some of Spreadsheet's main :abbr:`UI (user interface)` elements are highlighted and defined below.
 
-.. image:: spreadsheet/ui-elements.png
+.. image:: spreadsheet/ui-elements.webp
    :align: center
    :alt: Spreadsheet main UI elements
 

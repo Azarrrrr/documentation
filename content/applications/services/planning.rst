@@ -56,7 +56,7 @@ To create a property field, switch to the list view from any schedule. From ther
 in with the desired role, then click the cog icon and select :guilabel:`Add Properties`.
 :doc:`Configure <../productivity/knowledge/properties>` the new field according to your needs.
 
-.. image:: planning/add-properties.png
+.. image:: planning/add-properties.webp
    :alt: Creating a new property field in Planning.
 
 The property field is linked to the role and is included in the shift form of all shifts performed
@@ -80,7 +80,7 @@ To adapt the employee's planning settings, go to :menuselection:`Planning --> Co
 Employees`, and choose the employee for whom you want to edit the settings. Then, go to the
 :guilabel:`Work Information` tab.
 
-.. image:: planning/employee-tab.png
+.. image:: planning/employee-tab.webp
    :alt: Employee profile and the work information tab.
 
 .. tip::
@@ -150,7 +150,7 @@ To create a shift template, click :guilabel:`New` on any schedule, then fill in 
 :ref:`details of the shift <planning/create-shift>`. In order for the shift to be saved as a
 template, tick :guilabel:`Save as Template`.
 
-.. image:: planning/save-template.png
+.. image:: planning/save-template.webp
    :alt: Shift form with the option `save template` ticked.
 
 Alternatively, you can go to :menuselection:`Planning --> Configuration --> Shift Templates`, then
@@ -186,7 +186,7 @@ as well as reporting and configuration menus.
    The schedule is displayed in the Gantt view, which allows you to edit (with a drag and drop),
    resize, split, and duplicate shifts without having to open them.
 
-.. image:: planning/schedule.png
+.. image:: planning/schedule.webp
    :alt: A schedule displaying various visual elements.
 
 The following visual elements are used on the shifts in the schedules:

@@ -44,7 +44,7 @@ mode <developer-mode>`, click on the user menu, and then :guilabel:`My Profile` 
 :guilabel:`Preferences`. Under the :guilabel:`Account Security` tab, click on :guilabel:`New API
 Key`, confirm your password, give a descriptive name to your new key, and copy the API key.
 
-.. image:: silverfin/api-key-db.png
+.. image:: silverfin/api-key-db.webp
    :alt: creation of an Odoo external API key for a database
 
 .. seealso::
@@ -65,5 +65,5 @@ password, give a descriptive name to your new key, and copy the new API key.
    Open the `database manager <https://www.odoo.com/my/databases>`_ to view all databases that will
    be linked to the single API key.
 
-.. image:: silverfin/api-key-user.png
+.. image:: silverfin/api-key-user.webp
    :alt: creation of an Odoo external API key for an Odoo user

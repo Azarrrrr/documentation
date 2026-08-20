@@ -36,7 +36,7 @@ expand the pivot table and show a detailed breakdown of the :guilabel:`Remaining
 or :guilabel:`Company`. Clicking the :icon:`fa-minus-square-o` :guilabel:`(minus)` icon collapses it
 back to its previous state.
 
-.. figure:: aging/inventory-aging.png
+.. figure:: aging/inventory-aging.webp
    :align: center
    :alt: Inventory aging report.
 
@@ -79,7 +79,7 @@ To create a report to identify items that have been in stock for a while, follow
       For products that have a longer shelf life, choose longer time periods such as
       :guilabel:`Month` or :guilabel:`Quarter` when expanding columns by :guilabel:`Date`.
 
-   .. image:: aging/column-expand-icon.png
+   .. image:: aging/column-expand-icon.webp
       :align: center
       :alt: Pivot table, highlighting the plus icon to expand columns.
 
@@ -92,7 +92,7 @@ To create a report to identify items that have been in stock for a while, follow
       raw fish sashimi products were purchased on each day, and how much it cost. This informs the
       business owners how much stock is at risk of rotting in stock, per day.
 
-      .. image:: aging/inventory-aging.png
+      .. image:: aging/inventory-aging.webp
         :align: center
         :alt: Inventory aging report, showing product row items and day columns.
 

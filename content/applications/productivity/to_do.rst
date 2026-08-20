@@ -24,7 +24,7 @@ If you choose to :guilabel:`Edit` a to-do, you have the option to add :guilabel:
    tool** with the keyboard shortcut ´ctrl+k´ and clicking :guilabel:`Add a To-Do`, or by clicking
    the clock button and then :guilabel:`Add a To-Do`.
 
-   .. image:: to_do/add-on-the-fly.png
+   .. image:: to_do/add-on-the-fly.webp
       :alt: Adding a to-do on the fly
 
 Converting to-dos into project tasks
@@ -36,7 +36,7 @@ To do so, open a to-do and click the gear button (:guilabel:`⚙`), then :guilab
 Next, select the :guilabel:`Project`, :guilabel:`Assignees`, and :guilabel:`Tags`, then click
 :guilabel:`Convert to Task`. The to-do is now a project task and appears in the selected project.
 
-.. image:: to_do/convert-task-button.png
+.. image:: to_do/convert-task-button.webp
    :alt: Converting a to-do into a task
 
 Managing the to-do pipeline
@@ -45,7 +45,7 @@ Managing the to-do pipeline
 Your assigned **to-dos** are displayed on the app dashboard. You can drag and drop a to-do to move
 it from one stage to another.
 
-.. image:: to_do/to-do-pipeline.png
+.. image:: to_do/to-do-pipeline.webp
    :alt: Example of a to-do pipeline
 
 .. tip::
@@ -54,7 +54,7 @@ it from one stage to another.
    - Click the gear button (:guilabel:`⚙`) next to a stage to :guilabel:`Fold`, :guilabel:`Edit`,
      or :guilabel:`Delete` it.
 
-    .. image:: to_do/stage-options.png
+    .. image:: to_do/stage-options.webp
        :alt: Stage settings button
 
 Scheduling activities
@@ -63,7 +63,7 @@ Scheduling activities
 To schedule an activity on a to-do, click the clock button on the app dashboard, then the
 :guilabel:`+ Schedule an activity` button.
 
-.. image:: to_do/schedule-activity.png
+.. image:: to_do/schedule-activity.webp
    :alt: Scheduling an activity from the To-do dashboard
 
 To create the activity:
@@ -85,7 +85,7 @@ Viewing to-dos in the Project app
 If you use the :doc:`Project app <../services/project>`, your to-dos also appear as private tasks
 under the :guilabel:`My Tasks` view.
 
-.. image:: to_do/my-task-pipeline.png
+.. image:: to_do/my-task-pipeline.webp
    :alt: Example of a "My Tasks" pipeline in the Project app
 
 .. note::

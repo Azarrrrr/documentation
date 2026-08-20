@@ -21,7 +21,7 @@ Configuration on Mercado Pago Dashboard
    If you are trying Mercado Pago as a test, select :guilabel:`Credienciales de prueba` in the left
    part of the application page, then copy the test :guilabel:`Access token`.
 
-.. image:: mercado_pago/mp-credentials.png
+.. image:: mercado_pago/mp-credentials.webp
    :alt: Production and testing credentials in Mercado Pago.
 
 .. _payment_providers/mercado_pago/configure_odoo:

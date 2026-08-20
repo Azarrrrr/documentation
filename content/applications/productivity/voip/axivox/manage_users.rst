@@ -106,7 +106,7 @@ Be sure to include the country code.
    For a list of comprehensive country codes, visit: `https://countrycode.org
    <https://countrycode.org>`_.
 
-.. image:: manage_users/general-tab.png
+.. image:: manage_users/general-tab.webp
    :align: center
    :alt: General tab layout in the Axivox management console.
 
@@ -161,7 +161,7 @@ When clicked, they can then set the :guilabel:`Destination` (user) and time fram
 original user's :abbr:`VoIP (Voice over Internet Protocol)` extension, or incoming number, be busy,
 the call is forwarded to the destination(s).
 
-.. image:: manage_users/forwardings-tab.png
+.. image:: manage_users/forwardings-tab.webp
    :align: center
    :alt: Manage forwarding calls to different users or phone numbers in the Forwardings tab.
 
@@ -187,7 +187,7 @@ with different ring times.
    this option selected. Ring times can also be staggered, so the call is forwarded to another user
    after the first user does not pick up the call.
 
-.. image:: manage_users/follow-me-tab.png
+.. image:: manage_users/follow-me-tab.webp
    :align: center
    :alt: Ring destinations like different users or phone numbers from the Follow Me tab.
 
@@ -217,7 +217,7 @@ These actions can be set on each number:
 - :guilabel:`Switch`: this action allows the user to switch between calls from a desk-phone.
 - :guilabel:`Pickup`: this action allows the user to pick up an incoming call from a desk-phone.
 
-.. image:: manage_users/user-keys.png
+.. image:: manage_users/user-keys.webp
    :align: center
    :alt: Manage user page with Keys tab highlighted and number 2 key drop-down menu selected (with
          highlight)
@@ -257,7 +257,7 @@ The :guilabel:`Domain` field is assigned to the company by the Axivox representa
 The value in the :guilabel:`SIP Password` field is unique for every Axivox user. This value is used
 to sign into Axivox on Odoo, and for any mobile :abbr:`SIP (Session Initiation Protocol)` clients.
 
-.. image:: manage_users/sip-identifiers-tab.png
+.. image:: manage_users/sip-identifiers-tab.webp
    :align: center
    :alt: Important credentials used for external configurations of Axivox VoIP.
 
@@ -315,7 +315,7 @@ Once all the desired configurations are complete, click :guilabel:`Save`, then c
 
 Upon finishing the setup for a new user, an :ref:`voip/axivox/incoming_number` can be linked.
 
-.. image:: manage_users/user-permissions.png
+.. image:: manage_users/user-permissions.webp
    :align: center
    :alt: Manage a user page, with the permissions tab highlighted, along with the first permission
          highlighted indicating a no selection.

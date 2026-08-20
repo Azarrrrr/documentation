@@ -32,7 +32,7 @@ Costs` feature in the :guilabel:`Valuation` section.
 Click the :guilabel:`Default Journal` drop-down menu to reveal a list of accounting journals. Select
 a journal for which all accounting entries related to landed costs should be recorded.
 
-.. image:: integrating_landed_costs/integrating-landed-costs-enabled-setting.png
+.. image:: integrating_landed_costs/integrating-landed-costs-enabled-setting.webp
    :align: center
    :alt: Landed Costs feature and resulting Default Journal field in the Inventory settings.
 
@@ -65,7 +65,7 @@ appears below it, prompting a selection. Clicking that drop-down menu reveals th
 - :guilabel:`By Weight`: splits the cost, according to the weight of the products in the receipt.
 - :guilabel:`By Volume`: splits the cost, according to the volume of the products in the receipt.
 
-.. image:: integrating_landed_costs/integrating-landed-costs-landed-cost-product.png
+.. image:: integrating_landed_costs/integrating-landed-costs-landed-cost-product.webp
    :align: center
    :alt: Is a Landed Cost checkbox and Default Split Method on service type product form.
 
@@ -105,7 +105,7 @@ menu in the :guilabel:`Product` column to select the previously-created landed c
 the :icon:`fa-cloud-upload` :guilabel:`(cloud with arrow)` icon to manually save and update the
 draft bill.
 
-.. image:: integrating_landed_costs/integrating-landed-costs-checkboxes.png
+.. image:: integrating_landed_costs/integrating-landed-costs-checkboxes.webp
    :align: center
    :alt: Landed Costs column checkboxes for product and landed cost.
 
@@ -115,7 +115,7 @@ costs from all other costs displayed on the bill.
 
 Additionally, at the top of the form, a :guilabel:`Create Landed Costs` button appears.
 
-.. image:: integrating_landed_costs/integrating-landed-costs-create-button.png
+.. image:: integrating_landed_costs/integrating-landed-costs-create-button.webp
    :align: center
    :alt: Create Landed Costs button on vendor bill.
 
@@ -131,7 +131,7 @@ product line in the :guilabel:`Additional Costs` tab.
 From the :guilabel:`Landed Cost` form, click the :guilabel:`Transfers` drop-down menu, and select
 which transfer the landed cost belongs to.
 
-.. image:: integrating_landed_costs/integrating-landed-costs-transfers-menu.png
+.. image:: integrating_landed_costs/integrating-landed-costs-transfers-menu.webp
    :align: center
    :alt: Landed cost form with selected receipt transfer.
 
@@ -171,6 +171,6 @@ To view the valuation of *every* product, including landed costs, navigate to
    Click into the journal entry to view the :guilabel:`Journal Items`, and other information about
    the entry.
 
-   .. image:: integrating_landed_costs/integrating-landed-costs-journal-entry.png
+   .. image:: integrating_landed_costs/integrating-landed-costs-journal-entry.webp
       :align: center
       :alt: Journal Entry form for landed cost created from vendor bill.

@@ -23,7 +23,7 @@ you can:
 - **create a regular drop-down menu** by dragging and dropping the sub-menu items to the right,
   underneath their parent menu.
 
-.. image:: menus/menu-editor.png
+.. image:: menus/menu-editor.webp
    :alt: Menu editor with sub-menus
 
 .. note::
@@ -31,7 +31,7 @@ you can:
   You can also access the menu editor by clicking :guilabel:`Edit`, selecting any menu item and
   clicking the :guilabel:`Edit Menu` icon.
 
-  .. image:: menus/edit-menu-icon.png
+  .. image:: menus/edit-menu-icon.webp
      :alt: Access the Menu editor while in Edit mode.
 
 .. _website/regular-menus:
@@ -59,7 +59,7 @@ amounts of content, as they can help include all of your web pages in the menu w
 all menu items visible at once. Mega menus can also be structured more visually than regular
 drop-down menus, for example, through layout, typography, and icons.
 
-.. image:: menus/mega-menu.png
+.. image:: menus/mega-menu.webp
    :alt: Mega menu in the navigation bar.
 
 To create a mega menu, go to :menuselection:`Website --> Site --> Menu Editor` and click
@@ -76,7 +76,7 @@ component individually using inline formatting, as well as the options available
   in the small preview pop-up. Type `/` to search for a page on your website, or `#` to search for
   an existing custom anchor.
 
-  .. image:: menus/mega-menu-option.png
+  .. image:: menus/mega-menu-option.webp
      :alt: Edit a mega menu option.
 
 - move a menu item by dragging and dropping the related block to the desired position in the mega

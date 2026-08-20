@@ -54,7 +54,7 @@ leads are selected from.
 For example, setting `01/01/2024 00:00:00` only includes leads created from, and including, the
 first day of 2024.
 
-.. image:: lead_distribution_report/created-on.png
+.. image:: lead_distribution_report/created-on.webp
    :align: center
    :alt: Add a Created On rule for the start of the year onward.
 
@@ -78,7 +78,7 @@ In this third field, enter the name of the desired sales team(s) that are to be 
 report. It is important for all :guilabel:`contains` argument values to be specific enough and
 spelled correctly as they exist in Odoo, otherwise this risks returning multiple (or zero) values.
 
-.. image:: lead_distribution_report/sales-team-location.png
+.. image:: lead_distribution_report/sales-team-location.webp
    :align: center
    :alt: Use Sales Team to filter the location the lead is associated with.
 
@@ -132,7 +132,7 @@ to create a new line of fields beneath it.
 
 Set the first field to :guilabel:`Active`. Then, select :guilabel:`is not set` in the next field.
 
-.. image:: lead_distribution_report/active-set.png
+.. image:: lead_distribution_report/active-set.webp
    :align: center
    :alt: Use Active to include active status in the report.
 

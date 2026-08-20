@@ -12,7 +12,7 @@ Canned responses consist of two main components: the *shortcut* and the *substit
 is the keyword or key phrase that is to be replaced. The substitution is the longer message that
 replaces the shortcut.
 
-.. image:: canned_responses/canned-response-sample.png
+.. image:: canned_responses/canned-response-sample.webp
    :align: center
    :alt: A live chat conversation using a canned response.
 
@@ -35,7 +35,7 @@ reveals a new blank line in the list.
 Canned responses consist of two main components, a *shortcut* the user enters, and the
 *substitution* that replaces the shortcut.
 
-.. image:: canned_responses/shortcut-substitution.png
+.. image:: canned_responses/shortcut-substitution.webp
    :align: center
    :alt: A list of canned responses emphasizing the shortcut and substitution fields.
 
@@ -124,7 +124,7 @@ response can still be edited before it is sent.
    To search through the list of available responses, type `:`, followed by the first few letters of
    the shortcut.
 
-   .. image:: canned_responses/canned-responses-using.png
+   .. image:: canned_responses/canned-responses-using.webp
       :align: center
       :alt: A live chat window with a list of all available canned responses.
 

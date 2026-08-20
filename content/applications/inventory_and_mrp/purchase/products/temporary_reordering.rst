@@ -53,7 +53,7 @@ to select a vendor from the drop-down menu. Then, set a purchase price under :gu
    :guilabel:`Replenishment` dashboard in the *Inventory* app triggers a warning to add a vendor on
    the product form.
 
-   .. image:: temporary_reordering/temporary-reordering-warning-popup.png
+   .. image:: temporary_reordering/temporary-reordering-warning-popup.webp
       :align: center
       :alt: Warning pop-up upon clicking to replenish product with no set vendor.
 
@@ -61,7 +61,7 @@ Before creating a :abbr:`SO (sales order)` for the product, ensure the :guilabel
 button on the product form reads `0.00 Units`. Then, ensure that the :guilabel:`Reordering Rules`
 smart button reads `0`, indicating there are no rules applied to this product.
 
-.. image:: temporary_reordering/temporary-reordering-smart-buttons.png
+.. image:: temporary_reordering/temporary-reordering-smart-buttons.webp
    :align: center
    :alt: Product form smart button row displaying reordering rules and on hand buttons.
 
@@ -75,7 +75,7 @@ Then, add a customer in the :guilabel:`Customer` field, and click :guilabel:`Add
 the :guilabel:`Product` column in the :guilabel:`Order Lines` tab. Next, select the desired product
 from the drop-down menu. Lastly, :guilabel:`Confirm` the :abbr:`SO (sales order)`.
 
-.. image:: temporary_reordering/temporary-reordering-sales-order.png
+.. image:: temporary_reordering/temporary-reordering-sales-order.webp
    :align: center
    :alt: Sales order for product with no set reordering rules.
 
@@ -93,7 +93,7 @@ product line, its :guilabel:`On Hand` quantity, negative :guilabel:`Forecast` qu
 Additionally, two replenishment options are located to the far-right of the row: :guilabel:`Order
 Once` and :guilabel:`Automate`.
 
-.. image:: temporary_reordering/temporary-reordering-replenishment-dashboard.png
+.. image:: temporary_reordering/temporary-reordering-replenishment-dashboard.webp
    :align: center
    :alt: Replenishment report displaying temporary reordering rule and options.
 
@@ -116,7 +116,7 @@ To view the purchase order created from the :guilabel:`Replenishment` dashboard,
 From here, click :guilabel:`Confirm Order`, then click :guilabel:`Receive Products`. Finally, click
 :guilabel:`Validate` to complete the purchase order.
 
-.. image:: temporary_reordering/temporary-reordering-purchase-order.png
+.. image:: temporary_reordering/temporary-reordering-purchase-order.webp
    :align: center
    :alt: Purchase order for product ordered with temporary reordering rule.
 

@@ -47,7 +47,7 @@ Which variables are considered in this calculation can be :ref:`configured
 The probability of success of each opportunity is displayed on the opportunity form, and it updates
 automatically as the opportunity progresses through the CRM pipeline.
 
-.. image:: lead_scoring/probability-opportunity-form.png
+.. image:: lead_scoring/probability-opportunity-form.webp
    :align: center
    :alt: The probability of success displayed on the opportunity form.
 
@@ -69,7 +69,7 @@ Configuration --> Settings`. Under :guilabel:`Predictive Lead Scoring`, click on
 Then, click on the drop-down menu to choose which variables the predictive lead scoring feature
 will take into account.
 
-.. image:: lead_scoring/update-probabilities.png
+.. image:: lead_scoring/update-probabilities.webp
    :align: center
    :alt: The Update Probabilities window in the Predictive Lead Scoring settings.
 
@@ -107,7 +107,7 @@ the probability number to edit it.
 
 To reactivate automatic probability, click on the gear icon next to the probability percentage.
 
-.. image:: lead_scoring/probability-gear-icon.png
+.. image:: lead_scoring/probability-gear-icon.webp
    :align: center
    :alt: The gear icon used to reactivate automatic probability on an opportunity form.
 
@@ -132,7 +132,7 @@ To set up automatic lead assignment, select :guilabel:`Repeatedly` for the :guil
 section. Then, customize how often Odoo will trigger the automatic assignment in the
 :guilabel:`Repeat every` section.
 
-.. image:: lead_scoring/rule-based-assignment.png
+.. image:: lead_scoring/rule-based-assignment.webp
    :align: center
    :alt: The Rule-Based Assignment setting in CRM settings.
 
@@ -169,7 +169,7 @@ In the far right space, enter the desired number value of the probability. Final
    To configure an assignment rule such that a sales team receives leads that have a probability of
    success of 20% or greater, create a :guilabel:`Domain` line that reads: `Probability >= 20`.
 
-   .. image:: lead_scoring/probability-domain.png
+   .. image:: lead_scoring/probability-domain.webp
       :align: center
       :alt: Sales team domain set to probability greater than or equal to twenty percent.
 

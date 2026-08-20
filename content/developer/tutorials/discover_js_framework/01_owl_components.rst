@@ -70,7 +70,7 @@ using the QWeb language:
 1. Displaying a counter
 =======================
 
-.. image:: 01_owl_components/counter.png
+.. image:: 01_owl_components/counter.webp
    :align: center
 
 As a first exercise, let us modify the `Playground` component located in
@@ -112,7 +112,7 @@ see how to create a `sub-component <{OWL_PATH}/doc/reference/component.md#sub-co
 #. Use `<Counter/>` in the template of the `Playground` component to add two counters in your
    playground.
 
-.. image:: 01_owl_components/double_counter.png
+.. image:: 01_owl_components/double_counter.webp
    :align: center
 
 .. tip::
@@ -153,7 +153,7 @@ The above example should produce some html using bootstrap that look like this:
 #. Create a `Card` component
 #. Import it in `Playground` and display a few cards in its template
 
-.. image:: 01_owl_components/simple_card.png
+.. image:: 01_owl_components/simple_card.webp
    :align: center
 
 4. Using `markup` to display html
@@ -180,7 +180,7 @@ function.
 
    The `t-esc` directive can still be used in Owl templates. It is slightly faster than `t-out`.
 
-.. image:: 01_owl_components/markup.png
+.. image:: 01_owl_components/markup.webp
    :align: center
 
 5. Props validation
@@ -223,7 +223,7 @@ be called whenever the `Counter` component is incremented.
 #. Implement an `incrementSum` method in `Playground`
 #. Give that method as a prop to two (or more!) sub `Counter` components.
 
-.. image:: 01_owl_components/sum_counter.png
+.. image:: 01_owl_components/sum_counter.webp
    :align: center
 
 .. important::
@@ -258,7 +258,7 @@ For this tutorial, a `todo` is an object that contains three values: an `id` (nu
 #. Display a `TodoList` in the playground.
 #. Add props validation to `TodoItem`.
 
-.. image:: 01_owl_components/todo_list.png
+.. image:: 01_owl_components/todo_list.webp
    :align: center
 
 .. tip::
@@ -282,7 +282,7 @@ using a `dynamic attributes <{OWL_PATH}/doc/reference/templates.md#dynamic-attri
 Even though the directive is named `t-att` (for attribute), it can be used to set a `class` value (and
 html properties such as the `value` of an input).
 
-.. image:: 01_owl_components/muted_todo.png
+.. image:: 01_owl_components/muted_todo.webp
    :align: center
 
 .. tip::
@@ -317,7 +317,7 @@ a todo to the list.
 #. Bonus point: don't do anything if the input is empty.
 
 
-.. image:: 01_owl_components/create_todo.png
+.. image:: 01_owl_components/create_todo.webp
    :align: center
 
 .. seealso::
@@ -431,7 +431,7 @@ component is mounted.
 #. Bonus point: extract the code into a specialized `hook <{OWL_PATH}/doc/reference/hooks.md>`_
    `useAutofocus` in a new :file:`awesome_owl/utils.js` file.
 
-.. image:: 01_owl_components/autofocus.png
+.. image:: 01_owl_components/autofocus.webp
    :align: center
 
 .. tip::
@@ -463,7 +463,7 @@ way to do this is by adding a `callback prop
    `toggleState` function with the todo id.
 #. Make it work!
 
-.. image:: 01_owl_components/toggle_todo.png
+.. image:: 01_owl_components/toggle_todo.webp
    :align: center
 
 12. Deleting todos
@@ -489,7 +489,7 @@ The final touch is to let the user delete a todo.
          list.splice(index, 1);
    }
 
-.. image:: 01_owl_components/delete_todo.png
+.. image:: 01_owl_components/delete_todo.webp
    :align: center
 
 .. _tutorials/discover_js_framework/generic_card:
@@ -513,7 +513,7 @@ Let us modify the `Card` component to use slots:
 #. Insert a few cards with arbitrary content, such as a `Counter` component.
 #. (bonus) Add prop validation.
 
-.. image:: 01_owl_components/generic_card.png
+.. image:: 01_owl_components/generic_card.webp
    :align: center
 
 .. seealso::
@@ -531,6 +531,6 @@ want a button to toggle its content (show it or hide it)
 #. Add a `t-if` in the template to conditionally render the content
 #. Add a button in the header, and modify the code to flip the state when the button is clicked
 
-.. image:: 01_owl_components/toggle_card.png
+.. image:: 01_owl_components/toggle_card.webp
    :scale: 90%
    :align: center

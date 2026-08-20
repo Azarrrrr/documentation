@@ -18,7 +18,7 @@ a bank account.
 Bank journals are displayed by default on the :guilabel:`Accounting Dashboard` in the form of cards
 which include action buttons.
 
-.. image:: bank/card.png
+.. image:: bank/card.webp
    :alt: Bank journals are displayed on the Accounting Dashboard and contain action buttons
 
 .. _bank_accounts/manage:
@@ -80,7 +80,7 @@ Configuration
 
 You can edit the accounting information and bank account number according to your needs.
 
-.. image:: bank/bank-journal-config.png
+.. image:: bank/bank-journal-config.webp
    :alt: Manually configure your bank information
 
 .. seealso::
@@ -118,7 +118,7 @@ If you need to **edit your bank account details**, click on the external link ar
 :guilabel:`Bank` and update your bank information accordingly. These details are used when
 registering payments.
 
-.. image:: bank/bank-account-number.png
+.. image:: bank/bank-account-number.webp
    :alt: Edit your bank information
 
 Bank feeds
@@ -174,7 +174,7 @@ configure, and click on :guilabel:`Configuration`, then open the :guilabel:`Inco
 Payments` tab. To display the outstanding accounts column, click on the toggle button and check the
 :guilabel:`Outstanding Receipts/Payments accounts`, then update the account.
 
-.. image:: bank/toggle-button.png
+.. image:: bank/toggle-button.webp
    :align: center
    :alt: Select the toggle button and click on outstanding Accounts
 

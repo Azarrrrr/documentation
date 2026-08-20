@@ -12,7 +12,7 @@ of what application the user is in, a :guilabel:`🔴 (red circle)` or :guilabel
 is visible. Click on the colored circle to reveal the attendance widget, enabling the user to check
 in and/or out.
 
-.. image:: check_in_check_out/top-menu.png
+.. image:: check_in_check_out/top-menu.webp
    :align: center
    :alt: Top right main menu with check in button highlighted.
 
@@ -25,7 +25,7 @@ If the attendance widget circle is red, this indicates the user is not currently
 the :guilabel:`🔴 (red circle)`, and the attendance widget appears, displaying a green
 :guilabel:`Check in` :icon:`fa-sign-in` button.
 
-.. image:: check_in_check_out/check-in.png
+.. image:: check_in_check_out/check-in.webp
    :align: center
    :alt: Top right main menu with check in button highlighted.
 
@@ -77,7 +77,7 @@ When the user checks out from the database, the *Attendances* app logs the locat
 user. This information is **only** logged if the user allows their computer to access this
 information.
 
-.. image:: check_in_check_out/check-in-database-message.png
+.. image:: check_in_check_out/check-in-database-message.webp
    :align: center
    :alt: The pop-up that appears when an employee checks in inside the database.
 

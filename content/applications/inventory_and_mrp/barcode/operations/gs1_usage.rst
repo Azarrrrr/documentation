@@ -72,7 +72,7 @@ that is provided by GS1.
    To record the GS1 barcode for the product, `Fuji Apple`, enter the 14-digit |GTIN|
    `20611628936004` in the :guilabel:`Barcode` field on the product form.
 
-   .. image:: gs1_usage/barcode-field.png
+   .. image:: gs1_usage/barcode-field.webp
       :align: center
       :alt: Enter 14-digit GTIN into the Barcode field on product form.
 
@@ -83,7 +83,7 @@ that is provided by GS1.
    Scanner` section. Enter the 14-digit |GTIN| into the :guilabel:`Barcode` column, then click
    :guilabel:`Save`.
 
-   .. image:: gs1_usage/product-barcodes-page.png
+   .. image:: gs1_usage/product-barcodes-page.webp
       :align: center
       :alt: View the Product Barcodes page from inventory settings.
 
@@ -93,7 +93,7 @@ After activating tracking by lots and serial numbers from the settings page, spe
 feature is to be applied on each product by navigating to the :guilabel:`Inventory` tab on the
 product form. Under :guilabel:`Tracking`, choose the :guilabel:`By Lots` radio button.
 
-.. image:: gs1_usage/track-by-lots.png
+.. image:: gs1_usage/track-by-lots.webp
    :align: center
    :alt: Enable product tracking by lots in the "Inventory" tab of the product form.
 
@@ -129,7 +129,7 @@ numbers.
       * - 50 Fuji apples in Lot0002
         -
       * - 2D Matrix
-        - .. image:: gs1_usage/fuji-apples-barcode.png
+        - .. image:: gs1_usage/fuji-apples-barcode.webp
              :alt: 2D matrix of GS1 barcode of 50 fuji apples with an assigned lot number.
       * - |AI| (product)
         - 01
@@ -150,7 +150,7 @@ numbers.
    :guilabel:`Units` processed will be displayed and the :guilabel:`Validate` button turns green.
    Click the :guilabel:`Validate` button to complete the reception.
 
-   .. image:: gs1_usage/receive-50-apples.png
+   .. image:: gs1_usage/receive-50-apples.webp
       :align: center
       :alt: Scan the barcode for a product on the reception picking page in the *Barcode* app.
 
@@ -198,7 +198,7 @@ shipment <barcode/operations/scan-received-products>`.
       * - 52.1 kg of Peaches
         -
       * - 2D Matrix
-        - .. image:: gs1_usage/peaches-barcode.png
+        - .. image:: gs1_usage/peaches-barcode.webp
              :alt: 2D matrix of GS1 barcode of 52.1 kg of peaches.
       * - |AI| (product)
         - 01
@@ -215,7 +215,7 @@ shipment <barcode/operations/scan-received-products>`.
    :guilabel:`kg` will be displayed and the :guilabel:`Validate` button turns green. Finally, press
    :guilabel:`Validate` to complete the validation.
 
-   .. image:: gs1_usage/scan-barcode-peaches.png
+   .. image:: gs1_usage/scan-barcode-peaches.webp
       :align: center
       :alt: Scan barcode screen for a reception operation in the Barcode app.
 
@@ -232,6 +232,6 @@ a list of *stock move lines* for the product. The latest stock move matches the 
 reference number (e.g. `WH/IN/00013`) and quantity processed in the barcode scan, demonstrating that
 the records processed in the *Barcode* app were properly stored in *Inventory*.
 
-.. image:: gs1_usage/stock-moves-peach.png
+.. image:: gs1_usage/stock-moves-peach.webp
    :align: center
    :alt: Reception stock move record for 52.1 kg of peaches.

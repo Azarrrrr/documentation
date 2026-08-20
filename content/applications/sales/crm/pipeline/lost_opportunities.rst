@@ -15,7 +15,7 @@ detail form.
 
 Then, click :guilabel:`Lost`, located at the top of the opportunity's detail form.
 
-.. image:: lost_opportunities/lost-opps-lost-button.png
+.. image:: lost_opportunities/lost-opps-lost-button.webp
    :align: center
    :alt: Buttons from the top of an opportunity record with the lost button emphasized.
 
@@ -34,14 +34,14 @@ Additional notes and comments can be added below the lost reason in the designat
 When all the desired information has been entered in the :guilabel:`Mark Lost` pop-up window, click
 :guilabel:`Mark as Lost`.
 
-.. image:: lost_opportunities/lost-opps-lost-reason.png
+.. image:: lost_opportunities/lost-opps-lost-reason.webp
    :align: center
    :alt: Lost reasons popup with sample reasons.
 
 After clicking :guilabel:`Mark as Lost`, a red :guilabel:`Lost` banner is added to the upper-right
 corner of the opportunity.
 
-.. image:: lost_opportunities/lost-banner.png
+.. image:: lost_opportunities/lost-banner.webp
    :align: center
    :alt: A lost opportunity with the lost banner added.
 
@@ -76,7 +76,7 @@ To retrieve lost opportunities in Odoo *CRM*, open the :menuselection:`CRM app`.
 :guilabel:`Pipeline` dashboard, click into the :guilabel:`Search...` bar at the top of the page, and
 remove all of the default filters.
 
-.. image:: lost_opportunities/lost-opps-lost-filter.png
+.. image:: lost_opportunities/lost-opps-lost-filter.webp
    :align: center
    :alt: Search bar with lost filter emphasized.
 
@@ -101,7 +101,7 @@ in the :guilabel:`Search...` bar, or scroll to search through the list to locate
 into the next field, and select :guilabel:`=` from the drop-down menu. Click into the third field,
 and select a lost reason from the drop-down menu. Finally, click :guilabel:`Add`.
 
-.. image:: lost_opportunities/lost-opps-lost-custom-filter.png
+.. image:: lost_opportunities/lost-opps-lost-custom-filter.webp
    :align: center
    :alt: Search bar with custom filter added for lost reason.
 
@@ -110,7 +110,7 @@ and select a lost reason from the drop-down menu. Finally, click :guilabel:`Add`
    second field of the custom filter in the :guilabel:`Add Custom Filter` pop-up window. Choosing
    this operator makes it possible to choose multiple lost reasons in the third field.
 
-   .. image:: lost_opportunities/multiple-lost-reasons.png
+   .. image:: lost_opportunities/multiple-lost-reasons.webp
       :align: center
       :alt: Add Custom Filter pop-up with multiple lost reasons selected.
 
@@ -137,7 +137,7 @@ From the lost opportunity's detail form, click :guilabel:`Restore` in the upper-
 so removes the red :guilabel:`Lost` banner from the opportunity form, signifying the opportunity has
 been restored.
 
-.. image:: lost_opportunities/lost-opps-restore.png
+.. image:: lost_opportunities/lost-opps-restore.webp
    :align: center
    :alt: Lost opportunity with emphasis on the Restore button.
 
@@ -159,7 +159,7 @@ Doing so removes those selected opportunities from the :guilabel:`Pipeline` page
 longer fit the :guilabel:`Lost` filter criteria. Delete the :guilabel:`Lost` filter from the search
 bar to reveal these newly-restored opportunities.
 
-.. image:: lost_opportunities/lost-opps-unarchive.png
+.. image:: lost_opportunities/lost-opps-unarchive.webp
    :align: center
    :alt: Action button from list view with the Unarchive option emphasized.
 

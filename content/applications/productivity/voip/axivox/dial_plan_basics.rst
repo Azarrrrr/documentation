@@ -36,7 +36,7 @@ To add a new dial plan from the :guilabel:`Dial plan` page, click the green butt
    improved upon, at any time. This allows for sandboxes to be created with many different
    configurations.
 
-.. image:: dial_plan_basics/dial-plan-edits.png
+.. image:: dial_plan_basics/dial-plan-edits.webp
    :align: center
    :alt: Dial plan dashboard with the edit features and Add a dial plan button highlighted.
 
@@ -60,7 +60,7 @@ This pop-up window is the primary place where the architecture, or structure, of
 configured. In this window, a :abbr:`GUI (graphical user interface)` appears, where various dial
 plan elements can be configured and linked together.
 
-.. image:: dial_plan_basics/dial-plan-visual.png
+.. image:: dial_plan_basics/dial-plan-visual.webp
    :align: center
    :alt: Visual editor for an example dial plan, with the new element, Add, and Save buttons
          highlighted.
@@ -103,7 +103,7 @@ Each element has a different configuration pop-up window that appears when doubl
    to a :guilabel:`Menu` element or :guilabel:`Digital Receptionist` element elsewhere in the dial
    plan.
 
-   .. image:: dial_plan_basics/loop-back.png
+   .. image:: dial_plan_basics/loop-back.webp
       :align: center
       :alt: Dial plan, shown with highlight looping open end back to the beginning of the menu
             element.
@@ -195,7 +195,7 @@ be added to expand the setup. This basic dial plan scenario includes the followi
 :menuselection:`Start --> Play a file --> Menu --> (Hang-up, Calls, Queues, Conferences) -->
 (Voicemail, Hang-up)`.
 
-.. image:: dial_plan_basics/basic-scenario.png
+.. image:: dial_plan_basics/basic-scenario.webp
    :align: center
    :alt: Basic dial plan configuration.
 

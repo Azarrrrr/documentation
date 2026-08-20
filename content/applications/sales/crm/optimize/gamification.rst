@@ -16,7 +16,7 @@ Type `CRM Gamification` to search.
 On the :guilabel:`CRM Gamification` module, click :guilabel:`Install`. This module features goals
 and challenges related to the *CRM* and *Sales* applications.
 
-.. image:: gamification/gamification-module-install.png
+.. image:: gamification/gamification-module-install.webp
    :align: center
    :alt: View of the gamification module being installed in Odoo.
 
@@ -28,7 +28,7 @@ To access the *Gamification Tools* menu, first enable :ref:`developer-mode`.
 
 Next, navigate to :menuselection:`Settings app --> Gamification Tools`.
 
-.. image:: gamification/gamification-tools-menu.png
+.. image:: gamification/gamification-tools-menu.webp
    :align: center
    :alt: View if the gamification tools menu in Odoo Settings.
 
@@ -44,7 +44,7 @@ they accomplish the goal.
 To view the existing badges, or create a new one, navigate to :menuselection:`Settings -->
 Gamification Tools --> Badges`.
 
-.. image:: gamification/badges.png
+.. image:: gamification/badges.webp
    :align: center
    :alt: View of the badges page in Odoo.
 
@@ -77,7 +77,7 @@ checkbox. This sets a limit on the number of times a user can grant this badge. 
 :guilabel:`Limitation Number` field, enter the maximum number of times this badge can be sent per
 month, per person.
 
-.. image:: gamification/create-badge.png
+.. image:: gamification/create-badge.webp
    :align: center
    :alt: The details page for a new badge.
 
@@ -108,7 +108,7 @@ necessary, click into the third field to further define the parameter.
    - :guilabel:`is in`
    - `Sales/User: Own Documents Only`
 
-   .. image:: gamification/assignation-rule.png
+   .. image:: gamification/assignation-rule.webp
      :align: center
      :alt: View of the assignation rules section of a Challenge form.
 
@@ -137,7 +137,7 @@ Enter a :guilabel:`Target` for the goal based on the :guilabel:`Suffix`.
 
 Repeat these steps for each additional goal.
 
-.. image:: gamification/challenge-goals.png
+.. image:: gamification/challenge-goals.webp
    :align: center
    :alt: The goals tab of a challenge form.
 

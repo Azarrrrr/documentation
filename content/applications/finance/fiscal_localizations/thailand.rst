@@ -21,7 +21,7 @@ features of the Thai localization:
      - `l10n_th_reports`
      - Country-specific accounting reports
 
-.. image:: thailand/modules.png
+.. image:: thailand/modules.webp
    :alt: Thailand localization modules
 
 Chart of accounts and taxes
@@ -47,7 +47,7 @@ To generate a sales and purchase tax report, go to :menuselection:`Accounting --
 Report`. Select a specific time or time range on the tax report, and click
 :guilabel:`VAT-202-01 (xlsx)` for purchase tax and :guilabel:`VAT-202-02 (xlsx)` for sales tax.
 
-.. image:: thailand/tax-report.png
+.. image:: thailand/tax-report.webp
    :alt: Thai purchase and sales taxes reports
 
 Withholding PND tax report
@@ -57,7 +57,7 @@ PND report data displays the summarized amounts of the applicable **withholding 
 tax returns (domestic)** from vendor bills under the :guilabel:`PND53 (TH)` and
 :guilabel:`PND3 (TH)` tax reports. It is installed by default with the Thai localization.
 
-.. image:: thailand/pnd-report.png
+.. image:: thailand/pnd-report.webp
    :alt: PND tax reports
 
 .. note::
@@ -74,7 +74,7 @@ specific time or time range on the tax report, and click :guilabel:`PND3` or :gu
 This generates the :file:`Tax Report PND3.csv` and :file:`Tax Report PND53.csv` files that lists all
 the vendor bill lines with the applicable withholding tax.
 
-.. image:: thailand/pnd3-pnd53.png
+.. image:: thailand/pnd3-pnd53.webp
    :alt: PND3 and PND53 CSV files
 
 .. warning::
@@ -91,7 +91,7 @@ have the  option to print PDF reports for normal invoices and tax invoices. To p
 printed as **commercial invoices** by clicking on :menuselection:`Cog button (⚙️) --> Print -->
 Commercial Invoice`.
 
-.. image:: thailand/tax-invoice.png
+.. image:: thailand/tax-invoice.webp
    :alt: Commercial invoice printing
 
 Headquarter/Branch number settings
@@ -104,7 +104,7 @@ in the app, open the **contact form** of the company and under the :guilabel:`Sa
   :guilabel:`Company ID` field.
 - If the contact is a **Headquarters**, leave the :guilabel:`Company ID` field **blank**.
 
-.. image:: thailand/contact.png
+.. image:: thailand/contact.webp
    :alt: Company Headquarter/Branch number
 
 .. tip::
@@ -138,7 +138,7 @@ which you want to activate PromptPay QR. Set the :guilabel:`Proxy Type` and fill
    - The account holder's city is mandatory.
    - The :guilabel:`Include Reference` checkbox doesn't work for PromptPay QR codes.
 
-.. image:: thailand/qr-promptpay-bank.png
+.. image:: thailand/qr-promptpay-bank.webp
    :alt: PromptPay bank account configuration
 
 .. seealso::
@@ -150,7 +150,7 @@ Bank journal configuration
 Go to :menuselection:`Accounting --> Configuration --> Journals`, open the bank journal, then fill
 in the :guilabel:`Account Number` and :guilabel:`Bank` under the :guilabel:`Journal Entries` tab.
 
-.. image:: thailand/qr-bank-journal.png
+.. image:: thailand/qr-bank-journal.webp
    :alt: Bank Account's journal configuration
 
 Issue invoices with PromptPay QR code
@@ -159,7 +159,7 @@ Issue invoices with PromptPay QR code
 When creating a new invoice, open the :guilabel:`Other Info` tab and set the :guilabel:`Payment
 QR-code` option to :guilabel:`EMV Merchant-Presented QR-code`.
 
-.. image:: thailand/qr-code-invoice-emv.png
+.. image:: thailand/qr-code-invoice-emv.webp
    :alt: Select EMV Merchant-Presented QR-code option
 
 Ensure that the :guilabel:`Recipient Bank` is the one you configured, as Odoo uses this field to

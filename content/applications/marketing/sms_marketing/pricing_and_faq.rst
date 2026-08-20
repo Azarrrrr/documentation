@@ -17,7 +17,7 @@ There are 2 types: GSM7 and UNICODE.
 **GSM7** is the standard format, with a limit of 160 characters per message, that includes the
 following characters:
 
-.. image:: pricing_and_faq/faq1.png
+.. image:: pricing_and_faq/faq1.webp
    :align: center
    :alt: GSM7 characters available in Odoo SMS Marketing.
 
@@ -39,7 +39,7 @@ message. To see the **price per country, please consult**: `Odoo SMS - FAQ
 
 The number of SMSs a message represents will always be available in the database.
 
-.. image:: pricing_and_faq/faq2.png
+.. image:: pricing_and_faq/faq2.webp
    :align: center
    :alt: Number of GSM7 characters that fit in an SMS message in Odoo SMS Marketing.
 
@@ -48,13 +48,13 @@ How to buy credits
 
 Go to :menuselection:`Settings --> Buy Credits`.
 
-.. image:: pricing_and_faq/faq3.png
+.. image:: pricing_and_faq/faq3.webp
    :align: center
    :alt: Buying credits for SMS Marketing in Odoo settings.
 
 Or go to :menuselection:`Settings --> View my Services`.
 
-.. image:: pricing_and_faq/faq4.png
+.. image:: pricing_and_faq/faq4.webp
    :align: center
    :alt: Using Odoo IAP to recharge credits for SMS Marketing in Odoo settings.
 

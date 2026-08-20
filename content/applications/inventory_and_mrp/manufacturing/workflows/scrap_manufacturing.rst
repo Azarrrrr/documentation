@@ -92,7 +92,7 @@ be enabled for warehouses with :doc:`two-step <../basic_setup/two_step_manufactu
 are not picked as part of the :doc:`one-step <../basic_setup/one_step_manufacturing>` manufacturing
 process.
 
-.. image:: scrap_manufacturing/scrap-window.png
+.. image:: scrap_manufacturing/scrap-window.webp
    :align: center
    :alt: The Scrap pop-up window.
 

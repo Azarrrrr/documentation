@@ -39,7 +39,7 @@ for filling the role (i.e. the recruiter), and the points earned.
 
 For referrals that have been hired, the selected avatar also appears on the card.
 
-.. image:: points/referrals.png
+.. image:: points/referrals.webp
    :align: center
    :alt: Two referral cards, one hired and one in-progress.
 

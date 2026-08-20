@@ -142,7 +142,7 @@ used than was listed on the |MO|, or if the duration of a work order is differen
 Once the |MO| has been completed by clicking :guilabel:`Produce All`, the values in the
 :guilabel:`MO Cost` column update to match those displayed in the :guilabel:`Real Cost` column.
 
-.. image:: mo_costs/overview.png
+.. image:: mo_costs/overview.webp
    :align: center
    :alt: The MO Overview page.
 
@@ -196,7 +196,7 @@ the |BoM|.
    overview lists a cost of `$65.00` in both the :guilabel:`MO Cost` and :guilabel:`Real Cost`
    fields.
 
-   .. image:: mo_costs/overview-before.png
+   .. image:: mo_costs/overview-before.webp
       :align: center
       :alt: The MO Overview page for one putting green, before production starts.
 
@@ -204,7 +204,7 @@ the |BoM|.
    manufacturing time of 40 minutes. This deviation from the |BoM| is reflected on the |MO|
    overview, which now lists a :guilabel:`Real Cost` of `$70.00`.
 
-   .. image:: mo_costs/overview-during.png
+   .. image:: mo_costs/overview-during.webp
       :align: center
       :alt: The MO Overview page for one putting green, during production.
 

@@ -36,7 +36,7 @@ Settings`. Then under the :guilabel:`Barcode` section, check the :guilabel:`Barc
 Next, select :menuselection:`Barcode Nomenclature --> Default GS1 Nomenclature` from the default
 barcode nomenclature options.
 
-.. image:: gs1_nomenclature/setup-gs1-nomenclature.png
+.. image:: gs1_nomenclature/setup-gs1-nomenclature.webp
    :align: center
    :alt: Choose GS1 from dropdown and click the external link to see the list of GS1 rules.
 

@@ -20,7 +20,7 @@ sure the *Multi-Step Routes* option is enabled in :menuselection:`Inventory app 
 --> Settings --> Warehouse`. Note that activating :guilabel:`Multi-Step Routes` will also activate
 *Storage Locations*.
 
-.. image:: delivery_three_steps/delivery-three-steps-multi-step-routes.png
+.. image:: delivery_three_steps/delivery-three-steps-multi-step-routes.webp
    :align: center
    :alt: Activate multi-step routes and storage locations in inventory settings.
 
@@ -29,7 +29,7 @@ Next, the warehouse needs to be configured for three step deliveries. To do this
 :guilabel:`warehouse` to edit. Then, select :guilabel:`Pack goods, send goods in output and then
 deliver (3 steps)` for :guilabel:`Outgoing Shipments`.
 
-.. image:: delivery_three_steps/delivery-three-steps-outgoing-shipments.png
+.. image:: delivery_three_steps/delivery-three-steps-outgoing-shipments.webp
    :align: center
    :alt: Set outgoing shipment option to deliver in three steps.
 
@@ -51,7 +51,7 @@ form. On the blank quotation form, select a :guilabel:`Customer`, add a storable
 A :guilabel:`Delivery` smart button appears in the top right of the quotation form. Clicking it
 opens the picking order to move the ordered product from `WH/Stock` to `WH/Packing Zone`.
 
-.. image:: delivery_three_steps/delivery-three-steps-smart-button.png
+.. image:: delivery_three_steps/delivery-three-steps-smart-button.webp
    :align: center
    :alt: After confirming the sales order, the Delivery smart button appears showing three items
          associated with it.
@@ -70,7 +70,7 @@ Click on the picking to process. If the product is in stock, Odoo will automatic
 product. Click :guilabel:`Validate` to mark the picking as done, and complete the transfer to the
 :guilabel:`Packing Zone`.
 
-.. image:: delivery_three_steps/delivery-three-steps-picking-order.png
+.. image:: delivery_three_steps/delivery-three-steps-picking-order.webp
    :align: center
    :alt: Picking order operation showing source location and destination location.
 
@@ -86,7 +86,7 @@ packing order generated from the previously confirmed sales order.
 Click on the packing order associated with the sales order, then click on :guilabel:`Validate` to
 complete the packing.
 
-.. image:: delivery_three_steps/delivery-three-steps-packing-order.png
+.. image:: delivery_three_steps/delivery-three-steps-packing-order.webp
    :align: center
    :alt: Packing order operation showing source location and destination location.
 
@@ -111,7 +111,7 @@ the packing, and the delivery.
 
 Click the delivery (WH/OUT) transfer to open the delivery order. Then, click :guilabel:`Validate`.
 
-.. image:: delivery_three_steps/delivery-three-steps-delivery-order.png
+.. image:: delivery_three_steps/delivery-three-steps-delivery-order.webp
    :align: center
    :alt: Click Validate on the delivery order to transfer the product from the output location to
          the customer location.

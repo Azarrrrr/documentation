@@ -30,7 +30,7 @@ navigate to :menuselection:`Configuration --> Settings`. On the :guilabel:`Setti
 down to the :guilabel:`Analytics` section, and ensure the box next to :guilabel:`Analytic
 Accounting` is checked.
 
-.. image:: time_materials/analytic-accounting-setting.png
+.. image:: time_materials/analytic-accounting-setting.webp
    :align: center
    :alt: How it looks to activate the Analytic Accounting setting in Odoo Accounting Setting page.
 
@@ -42,7 +42,7 @@ box beside the :guilabel:`Timesheets` feature is checked.
 
 Then, click :guilabel:`Save` to save all changes.
 
-.. image:: time_materials/timesheets-feature.png
+.. image:: time_materials/timesheets-feature.webp
    :align: center
    :alt: What the Timesheets feature looks like on the Odoo Project settings page.
 
@@ -70,7 +70,7 @@ Next, from the :guilabel:`Create on Order` drop-down menu, select :guilabel:`Pro
 setting indicates that, when a sales order is created with this specific service product, a new
 project and task is created in the *Project* app.
 
-.. image:: time_materials/service-product-general-settings.png
+.. image:: time_materials/service-product-general-settings.webp
    :align: center
    :alt: The correct settings for Invoicing Policy and Create on Order fields for service product.
 
@@ -96,7 +96,7 @@ Next, click :guilabel:`Confirm` to confirm the order.
 After confirming the sales order, two smart buttons appear at the top of the order form:
 :guilabel:`Projects` and :guilabel:`Tasks`.
 
-.. image:: time_materials/projects-tasks-smart-buttons.png
+.. image:: time_materials/projects-tasks-smart-buttons.webp
    :align: center
    :alt: How the Projects and Tasks smart buttons look on a Sales Order in Odoo Sales.
 
@@ -126,7 +126,7 @@ away to complete that line in the :guilabel:`Timesheets` tab.
    That same information is found as numerical hours in the :guilabel:`Hours Spent` and
    :guilabel:`Remaining Hours` fields, located at the bottom of the :guilabel:`Timesheets` tab.
 
-   .. image:: time_materials/timesheets-tab-on-task.png
+   .. image:: time_materials/timesheets-tab-on-task.webp
       :align: center
       :alt: How the Timesheets tab appears on a task form in Odoo Sales and Odoo Project.
 
@@ -156,7 +156,7 @@ in the :guilabel:`Invoice Lines` tab.
    Invoice`, as that information is necessary to ensure other time/material invoicing tasks are
    completed properly and accurately.
 
-   .. image:: time_materials/invoice-lines-time.png
+   .. image:: time_materials/invoice-lines-time.webp
       :align: center
       :alt: Invoice draft showing time spent on sales order in Odoo Sales.
 
@@ -208,7 +208,7 @@ Distribution` field, as well.
    an option if the sales order contains a service product that is billed based on *Timesheets*,
    *Milestones*, or *Delivered Quantities*.
 
-.. image:: time_materials/expense-detail-form.png
+.. image:: time_materials/expense-detail-form.webp
    :align: center
    :alt: How to properly fill out an expense form that's attached to a sales order in Odoo.
 
@@ -219,7 +219,7 @@ If there are any receipts that should be uploaded and attached to the expense, c
 When all the information has been entered, click :guilabel:`Create Report` to create an expense
 report detailing all the expense information that was just entered.
 
-.. image:: time_materials/expense-report-summary.png
+.. image:: time_materials/expense-report-summary.webp
    :align: center
    :alt: How an Expense Report Summary looks in Odoo Expenses.
 
@@ -241,7 +241,7 @@ expense report, click the :guilabel:`Sales Orders` smart button at the top of th
 If the expense report was linked to the sales order, the newly-configured expense now has its own
 line in the :guilabel:`Order Lines` tab, and can be invoiced to the customer.
 
-.. image:: time_materials/invoice-expense-from-sales-order.png
+.. image:: time_materials/invoice-expense-from-sales-order.webp
    :align: center
    :alt: An expense appearing on Order Lines tab of a Sales Order in Odoo Sales application.
 
@@ -252,7 +252,7 @@ To invoice the customer for the expense on the sales order, click :guilabel:`Cre
 Doing so reveals a :guilabel:`Customer Invoice Draft` for the expense. Then, the invoicing process
 can be completed as usual.
 
-.. image:: time_materials/customer-invoice-for-expense.png
+.. image:: time_materials/customer-invoice-for-expense.webp
    :align: center
    :alt: Sample customer invoice for an expense generated from a sales order in Odoo Sales.
 
@@ -280,7 +280,7 @@ click the :guilabel:`extra column options` drop-down menu, represented by two ho
 dots on them, located to the far-right of the column headers. From that drop-down menu, select
 :guilabel:`Analytic Distribution`.
 
-.. image:: time_materials/extra-column-analytic-distribution-option.png
+.. image:: time_materials/extra-column-analytic-distribution-option.webp
    :align: center
    :alt: How to add analytic distribution column on purchase order form in Odoo Purchase.
 
@@ -295,7 +295,7 @@ all the products to add.
    to :guilabel:`Delivered quantities`, and have the :guilabel:`At cost` option selected in the
    :guilabel:`Re-Invoice Expenses` field on its product form.
 
-   .. image:: time_materials/product-form-settings-invoice-purchase.png
+   .. image:: time_materials/product-form-settings-invoice-purchase.webp
       :align: center
       :alt: Product settings for a purchase order to be invoiced on a sales order in Odoo.
 
@@ -306,7 +306,7 @@ field to reveal an :guilabel:`Analytic` pop-up window.
 Then, from the :guilabel:`Departments` drop-down menu, select the analytic distribution associated
 with the desired sales order to be invoiced for the purchase.
 
-.. image:: time_materials/analytic-drop-down-distribution.png
+.. image:: time_materials/analytic-drop-down-distribution.webp
    :align: center
    :alt: How to select the Analytic Distribution department from a purchase order in Odoo.
 
@@ -329,7 +329,7 @@ Next, return to the purchase order, via the breadcrumb links at the top of the p
 :guilabel:`Create Bill` to create a vendor bill that can be invoiced to the customer on the attached
 sales order.
 
-.. image:: time_materials/vendor-bill-draft.png
+.. image:: time_materials/vendor-bill-draft.webp
    :align: center
    :alt: Vendor bill draft for a purchase order to be invoiced to a customer in Odoo.
 
@@ -351,7 +351,7 @@ the :menuselection:`Sales` app.
 On the sales order that was attached to the purchase order, the purchased product now has its own
 product line under the :guilabel:`Order Lines` tab, and it is ready to be invoiced.
 
-.. image:: time_materials/purchase-order-on-sales-order.png
+.. image:: time_materials/purchase-order-on-sales-order.webp
    :align: center
    :alt: Purchase order product on sales order to be invoiced to customer via Odoo Sales.
 
@@ -362,7 +362,7 @@ To invoice the customer for the purchase, simply click :guilabel:`Create Invoice
 Doing so reveals a :guilabel:`Customer Invoice Draft` with the newly-added purchase order product in
 the :guilabel:`Invoice Lines` tab.
 
-.. image:: time_materials/draft-invoice-with-purchase-product.png
+.. image:: time_materials/draft-invoice-with-purchase-product.webp
    :align: center
    :alt: Customer invoice draft with purchase product attached to sales order in Odoo.
 

@@ -24,7 +24,7 @@ close the widget, click the :guilabel:`X (close)` icon in the upper-right of the
    accessed by navigating to `https://manage.axivox.com/ <https://manage.axivox.com/>`_. After
    logging into the portal, go to :menuselection:`Users --> Outgoing number` (column).
 
-.. image:: voip_widget/call.png
+.. image:: voip_widget/call.webp
    :align: center
    :alt: VoIP call in Odoo.
 
@@ -35,7 +35,7 @@ Troubleshooting
    If a *Missing Parameter* error message appears in the Odoo *VoIP* widget, refresh the Odoo
    window, and try again.
 
-   .. image:: voip_widget/missing-parameter.png
+   .. image:: voip_widget/missing-parameter.webp
       :align: center
       :alt: "Missing Parameter" error message in the Odoo softphone.
 
@@ -46,7 +46,7 @@ Troubleshooting
 
    (E.g., +16506913277, where `+1` is the international prefix for the United States.)
 
-   .. image:: voip_widget/incorrect-number.png
+   .. image:: voip_widget/incorrect-number.webp
       :align: center
       :alt: "Incorrect Number" error message in the Odoo softphone.
 
@@ -78,7 +78,7 @@ The user can also mark the activity as complete, edit the details of the activit
 To call the customer related to a scheduled activity, click the :guilabel:`📞 (phone)` icon, or
 click the :guilabel:`⌨️ (keyboard)` icon to dial another number for the customer.
 
-.. image:: voip_widget/activity-widget.png
+.. image:: voip_widget/activity-widget.webp
    :align: center
    :alt: Activity control center on the VoIP widget.
 

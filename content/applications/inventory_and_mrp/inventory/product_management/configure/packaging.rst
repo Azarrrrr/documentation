@@ -23,7 +23,7 @@ To use packagings, navigate to :menuselection:`Inventory app --> Configuration -
 under the :guilabel:`Products` heading, enable the :guilabel:`Product Packagings` feature, and click
 :guilabel:`Save`.
 
-.. image:: packaging/enable-packagings.png
+.. image:: packaging/enable-packagings.webp
    :align: center
    :alt: Enable packagings by selecting "Product Packagings".
 
@@ -66,7 +66,7 @@ Under the :guilabel:`Inventory` tab, scroll down to the :guilabel:`Packaging` se
    :guilabel:`Add a line`. In the line, name the :guilabel:`Packaging` `6-pack`, and set the
    :guilabel:`Contained quantity` to `6`. Repeat this process for additional packagings.
 
-   .. image:: packaging/create-product-packaging.png
+   .. image:: packaging/create-product-packaging.webp
       :align: center
       :alt: Create 6-pack case for product.
 
@@ -83,7 +83,7 @@ list of all packagings that have been created for all products. Create new packa
    the :guilabel:`Product Packagings` page, each product can be sold as a `6-Pack` that contains 6
    products, as a `12-Pack` of 12 products, or as a `Case` of 32 products.
 
-   .. image:: packaging/packagings.png
+   .. image:: packaging/packagings.webp
       :align: center
       :alt: List of different packagings for products.
 
@@ -107,7 +107,7 @@ can be set to :guilabel:`Reserve Only Full Packagings` or :guilabel:`Reserve Par
    Configuration --> Settings`, scroll to the :guilabel:`Products` section, tick the
    :guilabel:`Product Packagings` checkbox, and click :guilabel:`Save`.
 
-.. image:: packaging/reserve-packaging.png
+.. image:: packaging/reserve-packaging.webp
    :align: center
    :alt: Show Reserve Packagings field on the product categories page.
 
@@ -134,7 +134,7 @@ used for the product. The chosen packaging is displayed on the :abbr:`SO (Sales 
 .. example::
    18 cans of the product, `Grape Soda`, is packed using three 6-pack packagings.
 
-   .. image:: packaging/packagings-sales-order.png
+   .. image:: packaging/packagings-sales-order.webp
       :align: center
       :alt: Assign packagings on the Sales Order Line.
 
@@ -161,7 +161,7 @@ Create route
 On the :guilabel:`Routes` page, click :guilabel:`New`, or select a route that is **not** for a
 warehouse. Next, in the :guilabel:`Applicable on` section, tick the :guilabel:`Packagings` checkbox.
 
-.. figure:: packaging/route.png
+.. figure:: packaging/route.webp
    :align: center
    :alt: Create route for a packaging.
 
@@ -183,7 +183,7 @@ that contains :ref:`configured packagings <inventory/product_management/packagin
 In the :guilabel:`Routes` field, select the packaging-specific route. Repeat these steps for all
 packaging intended to use the route.
 
-.. image:: packaging/apply-route.png
+.. image:: packaging/apply-route.webp
    :align: center
    :alt: Set route on a packaging.
 

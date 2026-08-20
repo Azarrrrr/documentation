@@ -65,6 +65,6 @@ If the form was completed from the :guilabel:`My Time Off` list view, the inform
 automatically saved as it is entered. However, the form can be saved manually at any time by
 clicking the :icon:`fa-cloud-upload` :guilabel:`(cloud upload)` icon.
 
-.. image:: request_time_off/time-off-request.png
+.. image:: request_time_off/time-off-request.webp
    :align: center
    :alt: A time off request form filled out for an employee home sick for two days with the flu.

@@ -58,9 +58,9 @@ Let's create a customer invoice with following information:
 - Unit Price: 100
 - Taxes: Tax 15%
 
-.. image:: customer_invoices/invoice01.png
+.. image:: customer_invoices/invoice01.webp
 
-.. image:: customer_invoices/invoice02.png
+.. image:: customer_invoices/invoice02.webp
 
 The document is composed of three parts:
 
@@ -81,14 +81,14 @@ then moves from the Draft state to the Open state.
 When you have validated an invoice, Odoo gives it a unique number from a
 defined, and modifiable, sequence.
 
-.. image:: customer_invoices/invoice03.png
+.. image:: customer_invoices/invoice03.webp
 
 Accounting entries corresponding to this invoice are automatically
 generated when you validate the invoice. You can see the details by
 clicking on the entry in the Journal Entry field in the "Other Info"
 tab.
 
-.. image:: customer_invoices/invoice04.png
+.. image:: customer_invoices/invoice04.webp
 
 Send the invoice to customer
 ----------------------------
@@ -96,7 +96,7 @@ Send the invoice to customer
 After validating the customer invoice, you can directly send it to the
 customer via the 'Send by email' functionality.
 
-.. image:: customer_invoices/invoice05.png
+.. image:: customer_invoices/invoice05.webp
 
 A typical journal entry generated from a validated invoice will look
 like as follows:
@@ -140,14 +140,14 @@ according to your accounting localisation.
 Create a bank statement from the accounting dashboard with the related
 journal and enter an amount of $100 .
 
-.. image:: customer_invoices/invoice06.png
+.. image:: customer_invoices/invoice06.webp
 
 Reconcile
 ---------
 
 Now let's reconcile!
 
-.. image:: customer_invoices/invoice07.png
+.. image:: customer_invoices/invoice07.webp
 
 You can now go through every transaction and reconcile them or you can mass reconcile with instructions at the bottom.
 
@@ -155,14 +155,14 @@ After reconciling the items in the sheet, the related invoice will now
 display "You have outstanding payments for this customer. You can
 reconcile them to pay this invoice. "
 
-.. image:: customer_invoices/invoice08.png
+.. image:: customer_invoices/invoice08.webp
 
-.. image:: customer_invoices/invoice09.png
+.. image:: customer_invoices/invoice09.webp
 
 Apply the payment. Below, you can see that the payment has been added to
 the invoice.
 
-.. image:: customer_invoices/invoice10.png
+.. image:: customer_invoices/invoice10.webp
 
 Payment Followup
 ----------------
@@ -182,9 +182,9 @@ will be executed.
 By going to the customer record and diving into the "Overdue Payments"
 you will see the follow-up message and all overdue invoices.
 
-.. image:: customer_invoices/invoice11.png
+.. image:: customer_invoices/invoice11.webp
 
-.. image:: customer_invoices/invoice12.png
+.. image:: customer_invoices/invoice12.webp
 
 .. _customer-invoices/aging-report:
 
@@ -198,7 +198,7 @@ their work.
 Use the aging report to determine which customers are overdue and begin
 your collection efforts.
 
-.. image:: customer_invoices/invoice13.png
+.. image:: customer_invoices/invoice13.webp
 
 Profit and loss
 ---------------
@@ -208,7 +208,7 @@ Ultimately, this gives you a clear image of your Net Profit and Loss. It
 is sometimes referred to as the "Income Statement" or "Statement of
 Revenues and Expenses."
 
-.. image:: customer_invoices/invoice14.png
+.. image:: customer_invoices/invoice14.webp
 
 Balance sheet
 -------------
@@ -216,9 +216,9 @@ Balance sheet
 The balance sheet summarizes your company's liabilities,
 assets and equity at a specific moment in time.
 
-.. image:: customer_invoices/invoice15.png
+.. image:: customer_invoices/invoice15.webp
 
-.. image:: customer_invoices/invoice16.png
+.. image:: customer_invoices/invoice16.webp
 
 For example, if you manage your inventory using the perpetual accounting
 method, you should expect a decrease in account "Current Assets" once

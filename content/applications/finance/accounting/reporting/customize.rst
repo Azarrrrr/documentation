@@ -14,7 +14,7 @@ To create a new report, go to :menuselection:`Accounting --> Configuration --> M
 Accounting Reports`. From here, you can either create a :ref:`root report <customize-reports/root>`
 or a :ref:`variant <customize-reports/variants>`.
 
-.. image:: customize/engine-accounting-reports.png
+.. image:: customize/engine-accounting-reports.webp
    :align: center
    :alt: Accounting reports engine.
 
@@ -39,7 +39,7 @@ the page; the report is now available under :menuselection:`Accounting --> Repor
    Cases that require creating a new root report are rare, such as when a country's tax authorities
    require a new and specific type of report.
 
-.. image:: customize/engine-create-menu-item.png
+.. image:: customize/engine-create-menu-item.webp
    :align: center
    :alt: Create Menu Item button.
 
@@ -59,7 +59,7 @@ displayed in the variant selector in the top right corner of the view.
    In the following image, :guilabel:`VAT Report (BE)` is the variant of the root :guilabel:`Generic
    Tax report`.
 
-   .. image:: customize/engine-variant.png
+   .. image:: customize/engine-variant.webp
       :align: center
       :alt: Report variant selection.
 
@@ -71,7 +71,7 @@ either create a new one by clicking on :guilabel:`Add a line`, or modify an exis
 clicking on it. All lines *require* a :guilabel:`Name`, and can have an optional additional
 :guilabel:`Code` (of your choice) if you wish to use their value in formulas.
 
-.. image:: customize/engine-lines-options.png
+.. image:: customize/engine-lines-options.webp
    :align: center
    :alt: Engine lines options.
 
@@ -119,7 +119,7 @@ value of the expression:
 You can also put a `-` sign at the beginning of the subformula to **reverse** the sign of the
 result.
 
-.. image:: customize/engine-expressions.png
+.. image:: customize/engine-expressions.webp
    :align: center
    :alt: Expression line within a line report
 
@@ -307,7 +307,7 @@ gives the label of the expressions whose value is displayed. If a line has no **
 field, then nothing is displayed for it in this column. If multiple columns are required, you must
 use different **expression** labels.
 
-.. image:: customize/engine-columns.png
+.. image:: customize/engine-columns.webp
    :align: center
    :alt: Columns of report.
 

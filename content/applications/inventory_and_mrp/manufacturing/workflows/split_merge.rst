@@ -24,7 +24,7 @@ reference number appears with a :guilabel:`⚙️ (settings)` button next to it.
 Click the :guilabel:`⚙️ (settings)` button to open the general settings for the manufacturing order,
 then select :guilabel:`Split`.
 
-.. image:: split_merge/settings-split.png
+.. image:: split_merge/settings-split.webp
    :align: center
    :alt: The Settings and Split buttons on a manufacturing order.
 
@@ -35,7 +35,7 @@ manufacturing order that will be created by the split. In the :guilabel:`Quantit
 column, enter the number of units that will be assigned to each new manufacturing order. Finally,
 click :guilabel:`Split` to split the manufacturing order.
 
-.. image:: split_merge/split-production-window.png
+.. image:: split_merge/split-production-window.webp
    :align: center
    :alt: The Split production pop-up window for a manufacturing order.
 
@@ -55,14 +55,14 @@ To merge two or more manufacturing orders into a single order, begin by navigati
 :menuselection:`Manufacturing --> Operations --> Manufacturing Orders`. Select the manufacturing
 orders that will be merged by activating the checkbox to the left of the name of each order.
 
-.. image:: split_merge/select-orders.png
+.. image:: split_merge/select-orders.webp
    :align: center
    :alt: Select manufacturing orders that will be merged by clicking the checkbox for each.
 
 Once all manufacturing orders have been selected, click the :guilabel:`Actions` button at the top of
 the page, then select :guilabel:`Merge` from the drop-down menu.
 
-.. image:: split_merge/actions-merge.png
+.. image:: split_merge/actions-merge.webp
    :align: center
    :alt: The Actions and Merge buttons on the Manufacturing Orders page.
 

@@ -164,6 +164,6 @@ It is also possible to see |OEE| data in a pivot view, or a list displaying each
 clicking the :icon:`oi-view-pivot` :guilabel:`(pivot view)` or :icon:`oi-view-list` :guilabel:`(list
 view)` buttons at the top-right corner of the page.
 
-.. image:: oee/oee-report.png
+.. image:: oee/oee-report.webp
    :align: center
    :alt: The dashboard of the OEE report.

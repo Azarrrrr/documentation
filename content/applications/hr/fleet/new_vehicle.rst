@@ -33,7 +33,7 @@ Vehicle form fields
 - :guilabel:`Tags`: select any tags from the drop-down menu, or type in a new tag. There is no limit
   on the amount of tags that can be selected.
 
-.. image:: new_vehicle/model.png
+.. image:: new_vehicle/model.webp
    :align: center
    :alt: The new vehicle form, showing the model section.
 
@@ -152,7 +152,7 @@ Fill out the following information on the top-half of the form:
 
   There is no limit to the number of tags that can be selected.
 
-.. image:: new_vehicle/create-driver.png
+.. image:: new_vehicle/create-driver.webp
    :align: center
    :alt: The top portion of the create driver form.
 
@@ -182,7 +182,7 @@ series radio button options located at the top of the form. Those options are:
 - :guilabel:`Other Address`: select this option to add any other necessary addresses for the company
   or driver.
 
-.. image:: new_vehicle/create-contact.png
+.. image:: new_vehicle/create-contact.webp
    :align: center
    :alt: The create contact form with all parts filled in.
 
@@ -204,7 +204,7 @@ what type of contact is listed.
    address box, whereas a :guilabel:`Delivery Address` displays a :guilabel:`🚚 (truck)` icon
    inside.
 
-   .. image:: new_vehicle/contacts-address.png
+   .. image:: new_vehicle/contacts-address.webp
      :align: center
      :alt: The create contact form with all parts filled in.
 
@@ -273,7 +273,7 @@ Fill in the following fields on the form:
   field. The entry should clearly explain where the vehicle can be found, such as `Main Garage` or
   `Building 2 Parking Lot`.
 
-.. image:: new_vehicle/new-vehicle-type.png
+.. image:: new_vehicle/new-vehicle-type.webp
    :align: center
    :alt: The new vehicle form, showing the vehicle tax section.
 
@@ -307,7 +307,7 @@ Contract
    The values listed above affect the accounting department. It is recommended to check with the
    accounting department for more information and/or assistance with these values.
 
-.. image:: new_vehicle/new-vehicle-tax.png
+.. image:: new_vehicle/new-vehicle-tax.webp
    :align: center
    :alt: The new vehicle form, showing the vehicle tax section.
 
@@ -323,7 +323,7 @@ Check the information in the :guilabel:`Model` tab to ensure it is accurate. For
 of the vehicle, or if a trailer hitch is installed, are examples of common information that may need
 updating.
 
-.. image:: new_vehicle/model-tab.png
+.. image:: new_vehicle/model-tab.webp
    :align: center
    :alt: The new vehicle form, showing the vehicle tax section.
 

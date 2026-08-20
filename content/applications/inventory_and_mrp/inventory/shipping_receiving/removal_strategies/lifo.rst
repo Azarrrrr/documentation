@@ -60,6 +60,6 @@ the quantities to fulfill the :guilabel:`Demand` are picked from. Since the orde
 cinder blocks, the newest cinder blocks from `LOT3` are selected, using the :abbr:`LIFO (Last In,
 First Out)` removal strategy.
 
-.. image:: lifo/cinder-block-picking.png
+.. image:: lifo/cinder-block-picking.webp
    :align: center
    :alt: The detailed operations shows which lots are being selected for the picking.

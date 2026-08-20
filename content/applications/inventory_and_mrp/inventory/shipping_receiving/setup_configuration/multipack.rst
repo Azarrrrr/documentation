@@ -14,7 +14,7 @@ In order to split a delivery order across multiple packages, the *Packages* sett
 To do so, navigate to :menuselection:`Inventory --> Configuration --> Settings`, then enable the
 checkbox next to :guilabel:`Packages`. Click :guilabel:`Save` to confirm the change.
 
-.. image:: multipack/packages-setting.png
+.. image:: multipack/packages-setting.webp
    :align: center
    :alt: The Packages setting on the Inventory app settings page.
 
@@ -30,7 +30,7 @@ items, a multiple quantity of the same item, or both.
 On the :guilabel:`Operations` tab, select the :guilabel:`⁞≣ (menu)` icon in the line of the product
 that will be shipped in the first package.
 
-.. image:: multipack/product-menu-icon.png
+.. image:: multipack/product-menu-icon.webp
    :align: center
    :alt: The menu icon for a product in a delivery order.
 
@@ -44,14 +44,14 @@ shipped in the first package, enter a smaller number than the one that appears i
 :guilabel:`Reserved` column. Click :guilabel:`Confirm` to confirm the :guilabel:`Done` quantities
 and close the pop-up.
 
-.. image:: multipack/detailed-operations.png
+.. image:: multipack/detailed-operations.webp
    :align: center
    :alt: The Detailed Operations pop-up for a product in a delivery order.
 
 Repeat the same steps for every item quantity that is included in the first package. Then, click
 :guilabel:`Put In Pack` to create a package with all of the selected items.
 
-.. image:: multipack/put-in-pack.png
+.. image:: multipack/put-in-pack.webp
    :align: center
    :alt: The Put In Pack button on a delivery order.
 
@@ -68,7 +68,7 @@ delivery order has been completed.
    :guilabel:`Packages` page for the delivery order, where each package can be selected to view all
    of the items included in it.
 
-   .. image:: multipack/packages-smart-button.png
+   .. image:: multipack/packages-smart-button.webp
       :align: center
       :alt: The Packages smart button on a delivery order.
 
@@ -88,7 +88,7 @@ After all quantities being shipped immediately are marked as :guilabel:`Done`, c
 the :guilabel:`Create Backorder` button. Doing so confirms the items being shipped immediately and
 creates a new delivery order for the items that will be shipped later.
 
-.. image:: multipack/backorder-pop-up.png
+.. image:: multipack/backorder-pop-up.webp
    :align: center
    :alt: The Create Backorder? pop-up window.
 
@@ -96,7 +96,7 @@ The backorder delivery order will be listed in the chatter of the original deliv
 message that reads :guilabel:`The backorder WH/OUT/XXXXX has been created.`. Click on
 :guilabel:`WH/OUT/XXXXX` in the message to view the backorder delivery order.
 
-.. image:: multipack/backorder-chatter.png
+.. image:: multipack/backorder-chatter.webp
    :align: center
    :alt: The backorder delivery order listed in the chatter of the original delivery order.
 
@@ -104,7 +104,7 @@ The backorder delivery order can also be accessed by navigating to :menuselectio
 clicking the :guilabel:`# Back Orders` button on the :guilabel:`Delivery Orders` card, and selecting
 the delivery order.
 
-.. image:: multipack/back-orders-button.png
+.. image:: multipack/back-orders-button.webp
    :align: center
    :alt: The Back Orders button on the Delivery Orders card.
 

@@ -20,7 +20,7 @@ To set prices to delivery methods, go to :menuselection:`Inventory app --> Confi
 Settings`. Under the :guilabel:`Shipping` section, enable the :guilabel:`Delivery Methods` feature.
 Then, click :guilabel:`Save`.
 
-.. image:: invoicing/enable-delivery.png
+.. image:: invoicing/enable-delivery.webp
    :align: center
    :alt: Enable the "Delivery Methods" feature in Settings.
 
@@ -61,7 +61,7 @@ To invoice shipping costs on the sales order, before the item is delivered, go t
 
 On the sales order, click the :guilabel:`Add Shipping` button at the bottom-right corner.
 
-.. image:: invoicing/add-shipping.png
+.. image:: invoicing/add-shipping.webp
    :align: center
    :alt: Click "Add Shipping" button at the bottom right, near the total.
 
@@ -74,7 +74,7 @@ shipping data Odoo's shipping carrier integration.
 The :guilabel:`Cost` is automatically calculated using the weight of the items in the order.
 Finally, click the :guilabel:`Add` button to close the window.
 
-.. image:: invoicing/add-a-shipping-method.png
+.. image:: invoicing/add-a-shipping-method.webp
    :align: center
    :alt: Calculate shipping by selecting a shipping method.
 
@@ -84,21 +84,21 @@ On the sales order, the delivery product appears in the :guilabel:`Order Lines` 
 :guilabel:`Unit Price` set as the shipping cost calculated in the :guilabel:`Add a shipping method`
 pop-up window.
 
-.. image:: invoicing/delivery-product.png
+.. image:: invoicing/delivery-product.webp
    :align: center
    :alt: Show delivery product on the sales order line.
 
 Finally, after the product is delivered, click the :guilabel:`Create invoice` button, and an invoice
 is created that includes the shipping cost that was added earlier.
 
-.. image:: invoicing/create-invoice.png
+.. image:: invoicing/create-invoice.webp
    :align: center
    :alt: Show "Create Invoice" button.
 
 Then, click the :guilabel:`Create and View Invoice` button, and a draft invoice is generated, with
 the shipping cost included in the :guilabel:`Invoice Lines` tab.
 
-.. image:: invoicing/invoice-line.png
+.. image:: invoicing/invoice-line.webp
    :align: center
    :alt: Show delivery product in the invoice line.
 
@@ -114,7 +114,7 @@ Price` of zero.
 Then, on a draft invoice, modify the :guilabel:`Unit Price` to reflect the real shipping cost.
 Finally, invoice the customer the adjusted shipping cost by clicking :guilabel:`Confirm`.
 
-.. image:: invoicing/invoice-cost.png
+.. image:: invoicing/invoice-cost.webp
    :align: center
    :alt: Show delivery product on the invoice line.
 

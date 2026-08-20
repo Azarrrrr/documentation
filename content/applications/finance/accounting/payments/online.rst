@@ -13,7 +13,7 @@ To make it more convenient for your customers to pay the invoices you issue, you
 allows your customers to see their invoices online and pay directly with their favorite payment
 method, making the payment process much easier.
 
-.. image:: online/online-payment-providers.png
+.. image:: online/online-payment-providers.webp
    :align: center
    :alt: Payment provider choice after having clicked on "Pay Now"
 
@@ -36,12 +36,12 @@ After issuing the invoice, click on *Send & Print* and send the invoice by email
 They will receive an email with a link that redirects them to the invoice on their **Customer
 Portal**.
 
-.. image:: online/view-invoice.png
+.. image:: online/view-invoice.webp
    :alt: Email with a link to view the invoice online on the Customer Portal.
 
 They can choose which Payment Provider to use by clicking on *Pay Now*.
 
-.. image:: online/pay-now.png
+.. image:: online/pay-now.webp
    :alt: "Pay now" button on an invoice in the Customer Portal.
 
 .. seealso::

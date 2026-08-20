@@ -17,7 +17,7 @@ To access the console, first, navigate to either Avalara's `sandbox
 This will depend on which type of account was set in the :doc:`integration <../avatax>`. Log in to
 the management console.
 
-.. image:: avalara_portal/avalara-portal.png
+.. image:: avalara_portal/avalara-portal.webp
    :align: center
    :alt: Avalara dashboard after logging into management portal.
 
@@ -35,7 +35,7 @@ To access transactions, click in the :guilabel:`Transactions` link on the main d
 logging into the :ref:`avatax/portal`. To manually access the *Transactions* page, while logged into
 the Avalara console, navigate to :menuselection:`Transactions --> Transactions`.
 
-.. image:: avalara_portal/avalara-transactions.png
+.. image:: avalara_portal/avalara-transactions.webp
    :align: center
    :alt: Avalara portal with the transactions shortcut highlighted.
 
@@ -91,7 +91,7 @@ available by default, to sort by ascending or descending order:
 - :guilabel:`Amount`: the numeric amount of the total amount on the Odoo document.
 - :guilabel:`Tax`: the numeric amount of the tax applied to the total.
 
-.. image:: avalara_portal/transactions.png
+.. image:: avalara_portal/transactions.webp
    :align: center
    :alt: Transactions page on the Avalara portal with the filter and sort-by options highlighted.
 
@@ -208,7 +208,7 @@ Finally, on the far-right, is the :guilabel:`Customs duty` tab, where a country 
 the company collects customs duty. Simply click on the :icon:`fa-plus` :guilabel:`Add a country
 where you calculate customs duty` icon below the tab.
 
-.. image:: avalara_portal/where-you-collect-tax.png
+.. image:: avalara_portal/where-you-collect-tax.webp
    :align: center
    :alt: AvaTax management console, on the Where you collect tax page, with the add button and
          sales and use tax tab highlighted.
@@ -240,7 +240,7 @@ year. To access Avalara's tax services log, into the `management portal
 will prompt the Avalara user to log in for security purposes, and redirect the user to the *Returns*
 portal.
 
-.. image:: avalara_portal/avalara-returns.png
+.. image:: avalara_portal/avalara-returns.webp
    :align: center
    :alt: Avalara portal with the returns shortcut highlighted.
 

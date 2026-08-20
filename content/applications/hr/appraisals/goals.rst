@@ -25,7 +25,7 @@ Each goal card contains the following information:
 
 If a goal is completed, a :guilabel:`Done` banner appears in the top-right corner of the goal card.
 
-.. image:: goals/goals.png
+.. image:: goals/goals.webp
    :align: center
    :alt: The goals Kanban view, with nine goal cards.
 
@@ -60,7 +60,7 @@ field populates with the manager set on the employee profile.
 Make any necessary changes to the form, and add any notes that might be useful to clarify the goal
 in the :guilabel:`Description` tab.
 
-.. image:: goals/new-goal.png
+.. image:: goals/new-goal.webp
    :align: center
    :alt: A goal form filled out for a Python skill, set to 50% proficiency.
 

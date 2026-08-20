@@ -22,7 +22,7 @@ to search for, and select the desired option from the drop-down menu to apply th
    Reporting --> Sales`), search for `Mitch`, and click the :guilabel:`⏵ (right arrow)` next to
    :guilabel:`Search Salesperson for: Mitch`, and select :guilabel:`Mitchell Admin`.
 
-   .. image:: search/search-values.png
+   .. image:: search/search-values.webp
       :align: center
       :alt: Searching for a specific value on the Sales Analysis report
 
@@ -62,7 +62,7 @@ drop-down menu.
    2024, for example, first remove the existing `Order Date: Last 365 Days` filter, by clicking the
    :guilabel:`❌ (remove)` icon, then select :menuselection:`Order Date --> 2024`.
 
-   .. image:: search/preconfigured-filters.png
+   .. image:: search/preconfigured-filters.webp
       :align: center
       :alt: Using preconfigured filters on the Sales Analysis report
 
@@ -84,7 +84,7 @@ custom filter. To do so, click the :guilabel:`🔽 (down arrow)` icon in the sea
 The :guilabel:`Add Custom Filter` pop-up window displays the matching option, filter rule, and a
 toggle to :guilabel:`Include archived` records.
 
-.. image:: search/custom-filter.png
+.. image:: search/custom-filter.webp
    :align: center
    :alt: The Add Custom Filter pop-up window.
 
@@ -145,7 +145,7 @@ Once the filter criteria are defined, click :guilabel:`Add` to add the custom fi
       - :guilabel:`Type` :guilabel:`=` :guilabel:`Lead`
       - :guilabel:`Type` :guilabel:`=` :guilabel:`Opportunity`
 
-   .. image:: search/custom-filter-example.png
+   .. image:: search/custom-filter-example.webp
       :align: center
       :alt: Adding a custom filter to filter specific records in CRM.
 
@@ -169,7 +169,7 @@ the :guilabel:`Group By` options from the drop-down menu.
    drop-down menu. The view changes to group the records by salesperson, without filtering out any
    records.
 
-   .. image:: search/group.png
+   .. image:: search/group.webp
       :align: center
       :alt: Grouping records on the Sales Analysis report
 
@@ -208,7 +208,7 @@ Filter): Previous Period` and :guilabel:`(Time Filter): Previous Year`.
    another view is enabled, but doing so does **not** change the way data is displayed on the
    report.
 
-.. image:: search/comparison-section.png
+.. image:: search/comparison-section.webp
    :align: center
    :alt: The Search... bar for the production analysis report.
 
@@ -246,7 +246,7 @@ prior. The way the data is displayed depends on the selected view:
    If :guilabel:`End Date: Previous Period` is selected instead, the smaller circle shows data for
    the first quarter (Q1) of 2024, which is the same time period, but one *period* prior.
 
-   .. image:: search/comparison.png
+   .. image:: search/comparison.webp
       :align: center
       :alt: The comparison view of the Production Analysis report.
 
@@ -269,7 +269,7 @@ options:
 
 Once the options are set, click :guilabel:`Save` to save the favorited search.
 
-.. image:: search/favorites.png
+.. image:: search/favorites.webp
    :align: center
    :alt: Saving a favorite search on the Sales Analysis report
 

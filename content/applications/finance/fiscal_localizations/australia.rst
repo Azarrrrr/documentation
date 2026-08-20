@@ -58,7 +58,7 @@ through :menuselection:`Accounting --> Reporting --> BAS Report`.
 In Australia, the standard **Goods and Services Tax** (GST) rate is 10%, but different rates and
 exemptions exist for specific categories of goods and services.
 
-.. image:: australia/default-gst.png
+.. image:: australia/default-gst.webp
    :alt: Default GST of Australia
 
 Tax Mapping
@@ -247,7 +247,7 @@ feature, businesses can report on the following:
 - Goods and Services Tax (GST)
 - PAYG tax withheld
 
-.. image:: australia/bas-report.png
+.. image:: australia/bas-report.webp
    :alt: BAS report in Odoo
 
 The taxes for GST are collected from the **tax grid**, which is pre-configured in the system. The
@@ -255,14 +255,14 @@ The taxes for GST are collected from the **tax grid**, which is pre-configured i
 account is set up, the system automatically slots journal items into the correct tax category. This
 ensures the **BAS** report is accurate and reflective of the business's financial activities.
 
-.. image:: australia/gst-grids.png
+.. image:: australia/gst-grids.webp
    :alt: GST grids in Odoo
 
 In addition, the **BAS** report includes the **PAYG** tax withheld components (**W1** to **W5**,
 then **summary, section 4**). This integration ensures that all payroll-related withholding taxes
 are accurately captured and reflected within the report.
 
-.. image:: australia/payg.png
+.. image:: australia/payg.webp
    :alt: PAYG Tax Withheld and Summary of BAS report in Odoo
 
 The module incorporates built-in rules that facilitate the automatic calculation of taxes for types
@@ -295,14 +295,14 @@ Once the **GST payable** and **GST receivable** accounts are set up, the **BAS**
 accurate journal closing entry automatically, which balances out the GST balance with the GST
 clearing account.
 
-.. image:: australia/bas-report-accounts.png
+.. image:: australia/bas-report-accounts.webp
    :alt: GST accounts for the BAS report in Odoo.
 
 The balance between **GST receivable** and **payable** is set against the tax clearing account
 defined on the tax group. The amount to be paid to or received from the **ATO** can be reconciled
 against a bank statement.
 
-.. image:: australia/bas-taxes.png
+.. image:: australia/bas-taxes.webp
    :alt: BAS tax payment.
 
 .. important::
@@ -328,7 +328,7 @@ Configuration
 Under :menuselection:`Accounting --> Customers` or :menuselection:`Accounting --> Vendors`, select a
 your contractor and set a :guilabel:`Fiscal Position` under the :guilabel:`Sales & Purchase` tab.
 
-.. image:: australia/tpar.png
+.. image:: australia/tpar.webp
    :alt: TPAR fiscal position
 
 Upon billing a contact with a fiscal position set to :guilabel:`TPAR` or
@@ -354,7 +354,7 @@ Customer statements allow customers to see their financial transactions with the
 certain period, and overdue statement details. These statements can be sent out to customers
 by email.
 
-.. image:: australia/customer-statement.png
+.. image:: australia/customer-statement.webp
    :alt: Customer statement in Odoo.
 
 There are **two** ways for customers to download these statements.
@@ -369,7 +369,7 @@ There are **two** ways for customers to download these statements.
    Partner Ledger`. From here, specify a date range in the **calendar menu (📅)** for the statement,
    hover over a partner, and click the :guilabel:`Customer Statements` tab.
 
-.. image:: australia/partner-ledger-statements.png
+.. image:: australia/partner-ledger-statements.webp
    :alt: Customer statement from partner ledger report in Odoo.
 
 .. _australia/remittance:
@@ -381,7 +381,7 @@ A remittance advice is a document used as proof of payment to a business. In Odo
 accessed by going to :menuselection:`Accounting ‣ Vendors ‣ Payments`, selecting the payment(s), and
 clicking :menuselection:`Print --> Payment Receipt`.
 
-.. image:: australia/remitence.png
+.. image:: australia/remitence.webp
    :alt: Remittance advice in Odoo.
 
 .. _australia/peppol:
@@ -394,7 +394,7 @@ You can find and set up **electronic invoicing** settings per partner under
 :menuselection:`Accounting --> Customers` or :menuselection:`Accounting --> Vendors`, select a
 partner, and click the :guilabel:`Accounting` tab.
 
-.. image:: australia/peppol.png
+.. image:: australia/peppol.webp
    :alt: Peppol settings from a partner in Odoo.
 
 .. important::
@@ -439,7 +439,7 @@ following fields:
 - :guilabel:`BSB`
 - :guilabel:`Account Holder`
 
-.. image:: australia/aba.png
+.. image:: australia/aba.webp
    :alt: Account Number settings for ABA in Odoo.
 
 .. important::
@@ -582,7 +582,7 @@ Contractual information related to Australia can be found in the following **thr
     - **No TFN**. Choose this structure if the employee hasn’t provided a **TFN** for over **28**
       days.
 
-.. image:: australia/employee.png
+.. image:: australia/employee.webp
    :alt: Employees form in Odoo Payroll.
 
 .. important::
@@ -651,7 +651,7 @@ The field :guilabel:`Work Entry Source` is also significant and defines how **wo
 Once all important information has been entered, ensure the transition of the contract's status from
 "New" to "Running" to facilitate its use in pay runs.
 
-.. image:: australia/employee-au.png
+.. image:: australia/employee-au.webp
    :alt: "Australia" payroll tab in Odoo.
 
 Assign superannuation accounts
@@ -711,7 +711,7 @@ generating an individual payslip, make sure to proceed with the following steps:
 #. Unlike payslips generated from a batch, the payroll user must click the :guilabel:`Compute Sheet`
    button to generate payslip lines
 
-.. image:: australia/worked-days-input.png
+.. image:: australia/worked-days-input.webp
    :alt: One-time payments in Odoo Payroll.
 
 Understand payslip features
@@ -728,7 +728,7 @@ to the corresponding total gross amount.
    custom **hourly penalty rates** (overtime, public holidays, etc.) which are automatically added
    to the table.
 
-.. image:: australia/worked-days-compute.png
+.. image:: australia/worked-days-compute.webp
    :alt: Worked days and hours in Payroll
 
 In the :guilabel:`Other Inputs` section, You can add entries such as **allowances** and **extra
@@ -750,14 +750,14 @@ pay** items in the :guilabel:`Other Inputs` section.
   :menuselection:`Payroll --> Configuration --> Other Input Types` and create a new entry with the
   code **EXTRA**.
 
-.. image:: australia/extra-pay-item.png
+.. image:: australia/extra-pay-item.webp
    :alt: Extra pay item input type
 
 In the :guilabel:`Salary Computation` tab, the payroll user can verify whether all the pay rules
 have been computed correctly as per employee, contract and salary structure. Here are a few
 guidelines to better understand the data.
 
-.. image:: australia/salary-computation.png
+.. image:: australia/salary-computation.webp
    :alt: Salary computation in Odoo Payroll.
 
 #. **Basic salary:** amount from which tax-deductible lines can be subtracted
@@ -814,7 +814,7 @@ create an individual payslip, select the employee, and modify its **regular stru
 :guilabel:`Other Inputs` section and compute the payslip. Odoo automatically computes the **PAYG
 withholding**, the **net amount**, and the **super guarantee** corresponding to that payment.
 
-.. image:: australia/return-to-work.png
+.. image:: australia/return-to-work.webp
    :alt: Return-to-work payment
 
 Termination payments
@@ -828,7 +828,7 @@ First, create the final salary for that employee this month. To do so, create an
 If the contract end date is set correctly, Odoo will automatically compute the prorated salary up to
 the final payslip date.
 
-.. image:: australia/attendance.png
+.. image:: australia/attendance.webp
    :alt: Termination payment worked days computation in Odoo.
 
 .. tip::
@@ -839,7 +839,7 @@ Create a second individual payslip and include it in the same batch. Change the 
 that payslip to :guilabel:`Australia: Termination Payments`. Before computing the sheet, it is
 important to provide the payslip with termination details .
 
-.. image:: australia/termination-payment.png
+.. image:: australia/termination-payment.webp
    :alt: Termination payment
 
 - :guilabel:`Genuine` or :guilabel:`Non-Genuine Redundancy`. This choice impacts the amounts and
@@ -847,7 +847,7 @@ important to provide the payslip with termination details .
 - **ETP types**: see the full list of termination payment types in
   :guilabel:`Other Input Types` by filtering by `ETP Type is Set`.
 
-.. image:: australia/payslip-other-inputs.png
+.. image:: australia/payslip-other-inputs.webp
    :alt: Payslip other inputs
 
 Add the relevant **ETP type** in the :guilabel:`Other Inputs` table of the payslip, then compute the

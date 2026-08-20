@@ -48,14 +48,14 @@ Once the payment from the subscription quotation is confirmed, the quotation tur
 order. An :guilabel:`In Progress` tag is applied to the sales order form, and a series of buttons
 also appear at the top of the sales order, including a :guilabel:`Renew` button.
 
-.. image:: renewals/renew-button.png
+.. image:: renewals/renew-button.webp
   :align: center
   :alt: Renew button on subscription sales order with Odoo Subscriptions.
 
 When the :guilabel:`Renew` button is clicked, Odoo instantly presents a new renewal quotation,
 complete with a :guilabel:`Renewal Quotation` tag.
 
-.. image:: renewals/renewal-quotation.png
+.. image:: renewals/renewal-quotation.webp
   :align: center
   :alt: Renewal quotation in the Odoo Subscriptions application.
 
@@ -70,7 +70,7 @@ email, for them to confirm, and eventually, pay for.
 Once the :guilabel:`Renewal Quotation` is confirmed, it becomes a sales order, and a
 :guilabel:`Sales History` smart button appears at the top of the page.
 
-.. image:: renewals/sales-history-smart-button.png
+.. image:: renewals/sales-history-smart-button.webp
   :align: center
   :alt: Sales History smart button in the Odoo Subscriptions application.
 
@@ -78,14 +78,14 @@ When that :guilabel:`Sales History` smart button is clicked, Odoo reveals a sepa
 showcasing the different sales orders attached to this subscription, along with their individual
 :guilabel:`Subscription Status`.
 
-.. image:: renewals/sales-history-page.png
+.. image:: renewals/sales-history-page.webp
   :align: center
   :alt: Renewal quotation in the Odoo Subscriptions application.
 
 Additionally, once the :guilabel:`Renewal Quotation` is confirmed, an :guilabel:`MRR` smart button
 also appears at the top of the sales order.
 
-.. image:: renewals/mrr-smart-button.png
+.. image:: renewals/mrr-smart-button.webp
   :align: center
   :alt: MRR smart button in the Odoo Subscriptions application.
 
@@ -113,7 +113,7 @@ related to this specific subscription.
    Info` tab, and untick the checkbox next to :guilabel:`Contract in exception`.
    Reload the sales order, and the :guilabel:`Payment Failure` tag is gone.
 
-   .. figure:: renewals/contract-in-exception.png
+   .. figure:: renewals/contract-in-exception.webp
       :align: center
       :alt: The "contract in exception" option selected with the "payment failure" tag shown.
 

@@ -14,7 +14,7 @@ inventory of the company, and warehouse employees take the time to count the sto
 product category reflects this, with the :guilabel:`Costing Method` set to :guilabel:`Standard
 Price`, and the :guilabel:`Inventory Valuation` (not visible by default) set to :guilabel:`Manual`.
 
-.. image:: inventory_valuation_config/inventory-valuation-fields.png
+.. image:: inventory_valuation_config/inventory-valuation-fields.webp
    :align: center
    :alt: The Costing Method field is located on the Product Categories form.
 
@@ -65,7 +65,7 @@ Valuation` section, tick the :guilabel:`Automatic Accounting` checkbox. Then, cl
    Enabling :guilabel:`Automatic Accounting` shows the previously invisible *Inventory Valuation*
    field on a product category.
 
-.. image:: inventory_valuation_config/auto-accounting.png
+.. image:: inventory_valuation_config/auto-accounting.webp
    :align: center
    :alt: Automatic Accounting feature in Stock Valuation section of Settings page.
 
@@ -90,7 +90,7 @@ category intending to use automatic inventory valuation.
    After enabling automatic accounting, each new stock move layer (SVL), that is created during
    inventory valuation updates, generates a journal entry.
 
-.. image:: inventory_valuation_config/automated-inventory-valuation.png
+.. image:: inventory_valuation_config/automated-inventory-valuation.webp
    :align: center
    :alt: Inventory Valuation field on the product category, with its various stock accounts.
 
@@ -317,7 +317,7 @@ accounting mode: *Continental* or *Anglo-Saxon*.
    Then, in the :guilabel:`Search...` bar, look for `Anglo-Saxon Accounting`, to see if the feature
    is enabled. If it is **not** enabled, *Continental* accounting mode is in use.
 
-   .. image:: inventory_valuation_config/anglo-saxon.png
+   .. image:: inventory_valuation_config/anglo-saxon.webp
       :align: center
       :alt: Show the Anglo-Saxon accounting mode feature.
 
@@ -365,7 +365,7 @@ right of the account. Then, set the account type based on the information below.
             In the pop-up window, choose :guilabel:`Expenses` or :guilabel:`Cost of Revenue` from
             the :guilabel:`Type` drop-down menu.
 
-            .. image:: inventory_valuation_config/external-link.png
+            .. image:: inventory_valuation_config/external-link.webp
                :align: center
                :alt: Show **Expense Account** field, and external link icon.
 
@@ -375,7 +375,7 @@ right of the account. Then, set the account type based on the information below.
             the field's drop-down menu. Verify the account's type by clicking the |right arrow|
             icon, and then ensure the :guilabel:`Type` is :guilabel:`Current Assets`.
 
-            .. image:: inventory_valuation_config/manual-anglo-saxon-expense.png
+            .. image:: inventory_valuation_config/manual-anglo-saxon-expense.webp
                :align: center
                :alt: Show the **Expense Account** field.
 
@@ -431,7 +431,7 @@ In the :guilabel:`Inventory Valuation` field, select :guilabel:`Automated`. Doin
       input/output account. In the pop-up window, choose :guilabel:`Current Assets` from the
       :guilabel:`Type` drop-down menu.
 
-      .. figure:: inventory_valuation_config/account-type.png
+      .. figure:: inventory_valuation_config/account-type.webp
          :align: center
          :alt: Display account setup page, highlighting the **Type** field.
 
@@ -450,7 +450,7 @@ In the :guilabel:`Inventory Valuation` field, select :guilabel:`Automated`. Doin
          (Delivered)`, as long as the input and output accounts are assigned to the **same**
          account.
 
-         .. image:: inventory_valuation_config/continental-stock-account.png
+         .. image:: inventory_valuation_config/continental-stock-account.webp
             :align: center
             :alt: Show the Stock Input and Output accounts.
 
@@ -470,7 +470,7 @@ To start, go to :menuselection:`Accounting app --> Reporting --> Balance Sheet`.
    - :ref:`Stock accounts and what they do <inventory/warehouses_storage/stock-account>`
    - :doc:`../../../../finance/accounting/get_started/cheat_sheet`
 
-.. image:: inventory_valuation_config/stock-balance-sheet.png
+.. image:: inventory_valuation_config/stock-balance-sheet.webp
    :align: center
    :alt: See the full inventory valuation breakdown in Odoo Accounting app.
 
@@ -483,6 +483,6 @@ entry.
 Additionally, annotations to the :guilabel:`Balance Sheet` can be added by choosing
 :guilabel:`Annotate`, filling in the text box, and clicking :guilabel:`Save`.
 
-.. image:: inventory_valuation_config/journals.png
+.. image:: inventory_valuation_config/journals.webp
    :align: center
    :alt: Show Stock Valuation journals in a list.

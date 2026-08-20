@@ -674,7 +674,7 @@ model, in the list (when one or more records are selected via the checkbox) and 
       on the same property as ``Refused``.
    #. Include a button in the embedded list view of offers that allows to execute this action
 
-    .. image:: importable_modules/offer_accept_button.png
+    .. image:: importable_modules/offer_accept_button.webp
        :align: center
 
 Overriding Python models

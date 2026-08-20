@@ -26,7 +26,7 @@ can then redeem gift cards and promotional codes at the :guilabel:`Review Order`
 Furthermore, you can display the subtotal with discounts applied by enabling :guilabel:`Show
 Discount in Subtotal`.
 
-.. image:: checkout/checkout-subtotal.png
+.. image:: checkout/checkout-subtotal.webp
    :align: center
    :alt: Subtotal discount
 
@@ -46,7 +46,7 @@ between the :guilabel:`Address` and :guilabel:`Confirm Order` steps. To do so, g
 :menuselection:`Edit --> Customize` from any checkout page, and enable :guilabel:`Extra Step
 Option`.
 
-.. image:: checkout/checkout-steps.png
+.. image:: checkout/checkout-steps.webp
    :align: center
    :alt: Checkout steps
 
@@ -59,7 +59,7 @@ the top-right corner, and then clicking on any of the form's fields. All customi
 well as the :guilabel:`+ Field` button to add new fields, are available at the bottom of the
 :guilabel:`Customize` menu under the :guilabel:`Field` section.
 
-.. image:: checkout/checkout-form.png
+.. image:: checkout/checkout-form.webp
    :align: center
    :alt: Online form customization
 
@@ -70,7 +70,7 @@ You can ask customers to agree to the :guilabel:`Terms & Conditions` in order to
 by enabling :guilabel:`Accept Terms & Conditions` under :menuselection:`Edit --> Customize` on any
 checkout page.
 
-.. image:: checkout/checkout-terms.png
+.. image:: checkout/checkout-terms.webp
    :align: center
    :alt: Terms and conditions
 
@@ -85,7 +85,7 @@ product's page by going :menuselection:`Edit --> Customize`, in the :guilabel:`C
 
 The button can be found next to the :guilabel:`Add to Cart` button on the product's page.
 
-.. image:: checkout/checkout-express.png
+.. image:: checkout/checkout-express.webp
    :align: center
    :alt: Buy now (express checkout) button
 

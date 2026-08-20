@@ -68,7 +68,7 @@ the |MPS| shows one column for the next 12 months, starting with the current mon
 If the values of the :guilabel:`Time Range` or :guilabel:`Number of Columns` fields are altered,
 click :guilabel:`Save` again to save the changes.
 
-.. image:: use_mps/mps-setting.png
+.. image:: use_mps/mps-setting.webp
    :align: center
    :alt: The MPS setting in the Manufacturing app's settings.
 
@@ -78,7 +78,7 @@ click :guilabel:`Save` again to save the changes.
 To open the |MPS|, navigate to :menuselection:`Manufacturing app --> Planning --> Master Production
 Schedule`. The |MPS| view appears as follows:
 
-.. image:: use_mps/mps.png
+.. image:: use_mps/mps.webp
    :align: center
    :alt: The Master Production Schedule in the Manufacturing app.
 
@@ -100,7 +100,7 @@ page. The default categories that appear in the rows are:
   :guilabel:`Replenish` button, which is used to manually replenish the product, based on the
   quantity suggested to be replenished.
 
-  .. figure:: use_mps/replenish-button.png
+  .. figure:: use_mps/replenish-button.webp
      :align: center
      :alt: The Replenish button on the "+ Suggested Replenishment" row.
 
@@ -204,7 +204,7 @@ Finally, click :guilabel:`Save` to add the product to the |MPS|. The product now
 field of the :guilabel:`Add a Product` pop-up window, any components listed on the |BoM| appear on
 the page, as well.
 
-.. image:: use_mps/add-a-product.png
+.. image:: use_mps/add-a-product.webp
    :align: center
    :alt: The Add a Product pop-up window in the MPS.
 

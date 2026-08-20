@@ -36,7 +36,7 @@ attribute.
        <p>Write one or two paragraphs describing your product or services.</p>
    </div>
 
-.. image:: animations/animations.png
+.. image:: animations/animations.webp
    :alt: Animation options
 
 .. seealso::

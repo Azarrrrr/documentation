@@ -51,7 +51,7 @@ Click the buttons to the right of each row item to access additional information
      Then, click the |down| icon to the right of the :guilabel:`Search...` bar to reveal filter
      options, and select the :guilabel:`To Do` filter.
 
-     .. image:: locations/reserved-products.png
+     .. image:: locations/reserved-products.webp
         :align: center
         :alt: Display *Moves History* page of to-do deliveries that reserved the product.
 
@@ -94,7 +94,7 @@ The report now displays a list of expired products.
    <inventory/product_management/expiration-alerts>` page, accessed by going to
    :menuselection:`Inventory app --> Products --> Lots/Serial Numbers`.
 
-.. image:: locations/dead-stock.png
+.. image:: locations/dead-stock.webp
    :align: center
    :alt: Show a list of products whose expiration dates have exceeded today.
 
@@ -116,7 +116,7 @@ To get a list of items that might be sitting idly in storage, follow these steps
 #. Select the :guilabel:`Search Location for:` [location name] option from the resulting drop-down
    menu that appears beneath the :guilabel:`Search...` bar.
 
-   .. image:: locations/search-input-location.png
+   .. image:: locations/search-input-location.webp
       :align: center
       :alt: Show search result for the location.
 
@@ -129,7 +129,7 @@ The report now displays a list of products at the transit location.
    reception. The stranded inventory report helps identify items that have been idling in
    non-storage locations.
 
-   .. image:: locations/stranded-inventory.png
+   .. image:: locations/stranded-inventory.webp
       :align: center
       :alt: Show items stored at a specific location.
 
@@ -146,14 +146,14 @@ To generate a report of items that have been moved since the last :doc:`inventor
    :guilabel:`Filters` section.
 #. The report now displays items whose quantities have changed since the last cycle count.
 
-   .. image:: locations/discrepancy.png
+   .. image:: locations/discrepancy.webp
       :align: center
       :alt: Show items from the *Conflicts* filter in the report.
 
 #. Click the :icon:`fa-history` :guilabel:`History` button to view inventory transfers, including
    receipts and deliveries, that have occurred since the inventory adjustment.
 
-   .. image:: locations/history.png
+   .. image:: locations/history.webp
       :align: center
       :alt: Show *Moves History*, showing a delivery that occurred after an inventory adjustment.
 

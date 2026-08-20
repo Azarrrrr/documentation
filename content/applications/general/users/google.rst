@@ -35,7 +35,7 @@ Google API Dashboard
    Project`, fill out the project name and other details of the company, and click on
    :guilabel:`Create`.
 
-   .. image:: google/new-project-details.png
+   .. image:: google/new-project-details.webp
       :align: center
       :alt: Filling out the details of a new project.
 
@@ -49,14 +49,14 @@ OAuth consent screen
 
 #. On the left side menu, click on :menuselection:`OAuth consent screen`.
 
-   .. image:: google/consent-selection.png
+   .. image:: google/consent-selection.webp
       :align: center
       :alt: Google OAuth consent selection menu.
 
 #. Choose one of the options (:guilabel:`Internal` / :guilabel:`External`), and click on
    :guilabel:`Create`.
 
-   .. image:: google/consent.png
+   .. image:: google/consent.webp
       :align: center
       :alt: Choice of a user type in OAuth consent.
 
@@ -83,13 +83,13 @@ Credentials
 
 #. On the left side menu, click on :menuselection:`Credentials`.
 
-   .. image:: google/credentials-button.png
+   .. image:: google/credentials-button.webp
       :align: center
       :alt: Credentials button menu.
 
 #. Click on :guilabel:`Create Credentials`, and select :guilabel:`OAuth client ID`.
 
-   .. image:: google/client-id.png
+   .. image:: google/client-id.webp
       :align: center
       :alt: OAuth client id selection.
 
@@ -117,7 +117,7 @@ Retrieve the Client ID
 Once the previous steps are complete, two keys are generated on the Google API Dashboard:
 :guilabel:`Client ID` and :guilabel:`Client Secret`. Copy the :guilabel:`Client ID`.
 
-.. image:: google/secret-ids.png
+.. image:: google/secret-ids.webp
    :align: center
    :alt: Google OAuth Client ID generated.
 
@@ -137,7 +137,7 @@ Odoo activation
    Integrations --> Google Authentication` and activate the selection. Then fill out the
    :guilabel:`Client ID` with the key from the Google API Dashboard, and :guilabel:`Save`.
 
-   .. image:: google/odoo-client-id.png
+   .. image:: google/odoo-client-id.webp
       :align: center
       :alt: Filling out the client id in Odoo settings.
 
@@ -153,7 +153,7 @@ Log in to Odoo with Google
 To link the Google account to the Odoo profile, click on :guilabel:`Log in with Google` when first
 logging into Odoo.
 
-   .. image:: google/first-login.png
+   .. image:: google/first-login.webp
       :align: center
       :alt: Reset password screen with "Log in with Google" button.
 

@@ -58,13 +58,13 @@ Delivery failure
 When a message is sent, an :icon:`fa-envelope-o` :guilabel:`(envelope)` icon is displayed in the
 chatter. The icon turns red when delivery has failed for at least one recipient.
 
-.. image:: faq/red-envelope.png
+.. image:: faq/red-envelope.webp
    :alt: Red envelope icon displayed in the chatter.
 
 Left-click the envelope to display information about the delivery, and, if possible, the relevant
 :ref:`error messages <email-issues-outgoing-delivery-failure-messages>`.
 
-.. image:: faq/sending-failures.png
+.. image:: faq/sending-failures.webp
    :alt: Example of a sending failure.
 
 Click :guilabel:`See Error Details` to get extra information for the fail reason, **if** Odoo was
@@ -80,7 +80,7 @@ red to white.
 Unsent emails also appear in the Odoo email queue. To access it, activate the :ref:`developer mode
 <developer-mode>` and go to :menuselection:`Settings --> Technical --> Email: Emails`.
 
-.. image:: faq/technical-menu-email-delivery-failed.png
+.. image:: faq/technical-menu-email-delivery-failed.webp
    :alt: Example of the technical email queue view.
 
 Failed emails display the :guilabel:`Delivery Failed` status. Click :guilabel:`Retry` to put a
@@ -104,7 +104,7 @@ Common error messages
 Daily limit reached
 *******************
 
-.. image:: faq/email-limit.png
+.. image:: faq/email-limit.webp
    :alt: Email limit reached warning.
 
 Odoo limits the number of emails that can be sent from an Odoo Online database. Most email service
@@ -233,7 +233,7 @@ Emails that are considered urgent (from one person to another, such as sales ord
 purchase orders, etc.) are sent immediately. They do not show up under :menuselection:`Settings -->
 Technical --> Email: Emails`, unless their delivery fails.
 
-.. image:: faq/email-marketing-asap-notice.png
+.. image:: faq/email-marketing-asap-notice.webp
    :alt: Example of sending information header when a mailing campaign is queued.
 
 Email campaigns are sent as soon as possible (after clicking the :guilabel:`Send` button) or at a
@@ -266,7 +266,7 @@ order based on their creation date.
    January), and Campaign_3 (created 3rd of January), they are put in the queue by clicking
    :guilabel:`Send` on all three of them.
 
-   .. image:: faq/email-marketing-order-queue-example.png
+   .. image:: faq/email-marketing-order-queue-example.webp
       :alt: Example of three email marketing campaigns.
 
    The cron will try to process Campaign_1, then Campaign_2, and finally Campaign_3. It will not

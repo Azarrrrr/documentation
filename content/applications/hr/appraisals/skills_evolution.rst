@@ -53,7 +53,7 @@ have increased since the last appraisal appear in green, as an *Improvement*. Sk
 This report can be modified to find specific information by adjusting the :ref:`filters
 <search/filters>` and :ref:`groupings <search/group>` set in the search bar at the top.
 
-.. image:: skills_evolution/skills-report.png
+.. image:: skills_evolution/skills-report.webp
    :align: center
    :alt: A report showing all the skills grouped by employee.
 
@@ -87,14 +87,14 @@ the :icon:`fa-caret-down` :guilabel:`(down arrow)` icon after the word :guilabel
 
 Finally, click the :guilabel:`Add` button.
 
-.. image:: skills_evolution/javascript.png
+.. image:: skills_evolution/javascript.webp
    :align: center
    :alt: The Custom Filter pop-up with the parameters set.
 
 Now, only employees that have an :guilabel:`Expert` level for the skill :guilabel:`Javascript`
 appear. In this example, only :guilabel:`Marc Demo` meets these criteria.
 
-.. image:: skills_evolution/results.png
+.. image:: skills_evolution/results.webp
    :align: center
    :alt: The employees with expert Javascript skills.
 
@@ -138,7 +138,7 @@ organized by employee.
    These filters present only the skills that have improved during the third quarter (between July
    1st and September 30th, 2024), organized by employee.
 
-   .. image:: skills_evolution/custom-filter.png
+   .. image:: skills_evolution/custom-filter.webp
       :alt: The Custom Filter pop-up with the parameters set.
 
 To view the number of employees and skills in further detail, click the :icon:`oi-view-pivot`
@@ -156,7 +156,7 @@ by their respective skill type.
    in the third quarter, with six improved skills. Additionally, they also had the most skill
    improvements for both :guilabel:`Languages` (three) and :guilabel:`Programming Languages` (two).
 
-  .. image:: skills_evolution/largest-improvement.png
+  .. image:: skills_evolution/largest-improvement.webp
      :alt: The pivot table showing the skill improvements for the third quarter.
 
 .. seealso::

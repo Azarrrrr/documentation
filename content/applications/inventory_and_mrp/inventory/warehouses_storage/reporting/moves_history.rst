@@ -13,7 +13,7 @@ inventory turnover, and identifying any discrepancies in inventory.
 
 To access the stock report, go to :menuselection:`Inventory app --> Reporting --> Moves History`.
 
-.. image:: moves_history/moves-history.png
+.. image:: moves_history/moves-history.webp
    :align: center
    :alt: Display Moves History report.
 

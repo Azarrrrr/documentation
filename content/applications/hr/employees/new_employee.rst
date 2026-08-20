@@ -13,7 +13,7 @@ upper-left corner. Doing so reveals a blank employee form.
 
 Proceed to fill out the required information, along with any additional details.
 
-.. image:: new_employee/new-employee-form.png
+.. image:: new_employee/new-employee-form.webp
    :align: center
    :alt: Create a new employee form with all fields filled out.
 
@@ -39,7 +39,7 @@ Required fields
   was hired by, or create a new company by typing the name in the field, and clicking
   :guilabel:`Create` or :guilabel:`Create and edit...` from the mini drop-down menu that appears.
 
-.. image:: new_employee/employee-new.png
+.. image:: new_employee/employee-new.webp
    :align: center
    :alt: A new employee form with the required fields highlighted.
 
@@ -66,7 +66,7 @@ Optional fields
      the position could be more specific, such as `Sales Representative - Subscriptions` if the
      employee is focused solely on subscription sales.
 
-     .. image:: new_employee/job-description-fields.png
+     .. image:: new_employee/job-description-fields.webp
         :align: center
         :alt: Both job position fields entered but with different information.
 
@@ -115,7 +115,7 @@ entry`, and the :guilabel:`Create Resumé lines` form appears. After an entry is
 :guilabel:`Create a new entry` button is replaced with an :guilabel:`Add` button. Enter the
 following information for each entry.
 
-.. image:: new_employee/resume-lines.png
+.. image:: new_employee/resume-lines.webp
    :align: center
    :alt: A resumé entry form with all the information populated.
 
@@ -160,7 +160,7 @@ If the skill types are configured, a :guilabel:`Pick a skill from the list` butt
 Click the :guilabel:`Pick a skill from the list` button, and select the following information for
 each skill.
 
-.. image:: new_employee/select-skills.png
+.. image:: new_employee/select-skills.webp
    :align: center
    :alt: A skill form with the information filled out.
 
@@ -223,7 +223,7 @@ the new skill type. Repeat this for all the needed skill types.
      :guilabel:`Progress` listed as `25`, `50`, and `100`, respectively. Last, click :guilabel:`Set
      Default` on the `Beginner` line to set this as the default skill level.
 
-     .. image:: new_employee/math-skills.png
+     .. image:: new_employee/math-skills.webp
         :align: center
         :alt: A skill form for a Math skill type, with all the information entered.
 
@@ -319,7 +319,7 @@ information for the new employee:
      - :guilabel:`Company`: using the drop-down menu, select the company the location applies to.
        The current company populates this field, by default.
 
-     .. image:: new_employee/location.png
+     .. image:: new_employee/location.webp
         :align: center
         :alt: A new work location form with all fields filled out.
 
@@ -518,7 +518,7 @@ regardless.
    manufactured product is **not** a fixed amount. This cost does **not** affect the *Payroll*
    application.
 
-.. image:: new_employee/hr-settings.png
+.. image:: new_employee/hr-settings.webp
    :align: center
    :alt: Enter any information prompted in the HR Settings tab for the employee.
 
@@ -534,6 +534,6 @@ button to access all documents.
 Refer to :doc:`documentation <../../productivity/documents>` on the *Documents* app for more
 information.
 
-.. image:: new_employee/documents.png
+.. image:: new_employee/documents.webp
    :align: center
    :alt: All uploaded documents associated with the employee appear in the documents smart-button.

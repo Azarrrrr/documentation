@@ -21,7 +21,7 @@ localization.
      - `l10n_ro_saft`
      - Module to generate the **D.406 declaration** in the SAF-T format.
 
-.. image:: romania/romania-modules.png
+.. image:: romania/romania-modules.webp
    :alt: Modules for the Romanian localization
 
 D.406 declaration
@@ -142,7 +142,7 @@ Exporting your data
 To export the XML for the D.406 declaration, go to :menuselection:`Accounting --> Reports -->
 General Ledger` and click on :guilabel:`SAF-T`.
 
-.. image:: romania/romania-saft-button.png
+.. image:: romania/romania-saft-button.webp
    :align: center
    :alt: Click on the 'SAF-T' button to export the D.406 XML declaration.
 
@@ -160,7 +160,7 @@ Once you have generated the XML, open 'DUKIntegrator' and select the file you ha
 Click on :guilabel:`Validare + creare PDF` to create an **unsigned** PDF containing your report, or
 :guilabel:`Validare + creare PDF semnat` to create a **signed** PDF containing your report.
 
-.. image:: romania/romania-dukintegrator.png
+.. image:: romania/romania-dukintegrator.webp
    :align: center
    :alt: The DUKIntegrator validation software.
 

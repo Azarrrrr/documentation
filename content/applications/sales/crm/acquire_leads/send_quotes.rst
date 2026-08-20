@@ -21,7 +21,7 @@ fields, if necessary.
 
 At the top-left of the form, click the :guilabel:`New Quotation` button.
 
-.. image:: send_quotes/send-quotes-new-button.png
+.. image:: send_quotes/send-quotes-new-button.webp
    :align: center
    :alt: Qualified lead form with New Quotation button emphasized.
 
@@ -62,7 +62,7 @@ of the form, and update any missing or incorrect fields:
 - :guilabel:`Pricelist`: select a pricelist to be applied to this order.
 - :guilabel:`Payment Terms`: select any applicable payment terms for this quotation.
 
-.. image:: send_quotes/send-quotes-new-quotation.png
+.. image:: send_quotes/send-quotes-new-quotation.webp
    :align: center
    :alt: Qualified lead form with New Quotation button emphasized.
 
@@ -105,7 +105,7 @@ Then, click the :icon:`oi-draggable` :guilabel:`(drag)` icon to the left of the 
 move the section to the appropriate location. Move each product using the same method to finish
 organizing the quotation order lines.
 
-.. image:: send_quotes/product-sections.png
+.. image:: send_quotes/product-sections.webp
    :align: center
    :alt: Categories are used to create separate sections on the order lines of a quote.
 
@@ -118,7 +118,7 @@ product catalog.
 All products in the database are listed as cards and can be sorted in the left panel by
 :guilabel:`Product Category` and :guilabel:`Attributes`.
 
-.. image:: send_quotes/product-catalog.png
+.. image:: send_quotes/product-catalog.webp
    :align: center
    :alt: The product catalog displays all products as cards.
 
@@ -127,7 +127,7 @@ Set the quantity of the item using the :icon:`fa-plus` :guilabel:`(add)` or :ico
 :guilabel:`(subtract)` buttons, or type the quantity in the number field between the two buttons.
 To remove an item, click the :icon:`fa-trash` :guilabel:`Remove` button on the product card.
 
-.. image:: send_quotes/set-quantity.png
+.. image:: send_quotes/set-quantity.webp
    :align: center
    :alt: The purple add and subtract buttons are used to set the quantity of an item.
 

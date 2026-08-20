@@ -51,7 +51,7 @@ Click the toggle menu button, tick :guilabel:`Outstanding Receipts accounts`, an
 :guilabel:`Outstanding Receipts accounts` column, and set the :guilabel:`Bank` account for the
 **Checks** payment method.
 
-.. image:: checks/outstanding-payment-accounts.png
+.. image:: checks/outstanding-payment-accounts.webp
    :alt: Bypass the Outstanding Receipts account using the Bank account.
 
 Payment registration
@@ -75,7 +75,7 @@ Customer --> Invoices)`, and click :guilabel:`Register Payment`. Fill in the pay
 - :guilabel:`Memo`: enter the check number;
 - Click :guilabel:`Create Payment`.
 
-.. image:: checks/payment-checks.png
+.. image:: checks/payment-checks.webp
    :alt: Check payment info
 
 The generated journal entries are different depending on the payment registration method chosen.

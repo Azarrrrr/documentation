@@ -52,19 +52,19 @@ Plausible.io account, proceed as follows:
 #. Once done, click the Plausible logo in the upper-left part of the page to access your `list of
    websites <https://plausible.io/sites>`_, then click the gear icon next to the website.
 
-   .. image:: analytics/plausible-gear-icon.png
+   .. image:: analytics/plausible-gear-icon.webp
       :alt: Click the gear icon in the list of websites.
 
 #. In the sidebar, select :guilabel:`Visibility`, then click :guilabel:`+ New link`.
 #. Enter a :guilabel:`Name`, leave the :guilabel:`Password` field empty, as the Plausible analytics
    dashboard integration in Odoo doesn't support it, then click :guilabel:`Create shared link`.
 
-   .. image:: analytics/plausible-create-sharedlink.png
+   .. image:: analytics/plausible-create-sharedlink.webp
       :alt: Credentials creation for the new shared link
 
 #. Copy the shared link.
 
-   .. image:: analytics/plausible-copy-sharedlink.png
+   .. image:: analytics/plausible-copy-sharedlink.webp
       :alt: Copy the shared link URL from Plausible.io
 
 #. In Odoo, go to :menuselection:`Website --> Configuration --> Settings`.
@@ -97,21 +97,21 @@ To follow your Odoo website's traffic with Google Analytics:
      bottom-left corner of the page to access the **Admin** page. Then, click :guilabel:`+ Create
      Property`.
 
-     .. image:: analytics/GA-add-property.png
+     .. image:: analytics/GA-add-property.webp
         :alt: Measurement ID in Google Analytics.
 
 #. Complete the next steps: `property creation <https://support.google.com/analytics/answer/9304153?hl=en/&visit_id=638278591144564289-3612494643&rd=2#property>`_,
    business details, and business objectives.
 #. When you reach the **Data collection** step, choose the :guilabel:`Web` platform.
 
-   .. image:: analytics/GA-platform.png
+   .. image:: analytics/GA-platform.webp
       :alt: Choose a platform for your Google Analytics property.
 
 #. Set up your data stream: Specify your :guilabel:`Website URL` and a :guilabel:`Stream name`, then
    click :guilabel:`Create stream`.
 #. Copy the :guilabel:`Measurement ID`.
 
-   .. image:: analytics/GA-measurement-id.png
+   .. image:: analytics/GA-measurement-id.webp
       :alt: Measurement ID in Google Analytics.
 
 #. In Odoo, go to :menuselection:`Website --> Configuration --> Settings`.
@@ -159,7 +159,7 @@ To use GTM, proceed as follows:
    :guilabel:`Website Settings` section, then click :guilabel:`<head>` and :guilabel:`</body>` to
    paste the codes.
 
-   .. image:: analytics/gtm-codes.png
+   .. image:: analytics/gtm-codes.webp
       :alt: Install Google Tag Manager
 
 .. note::

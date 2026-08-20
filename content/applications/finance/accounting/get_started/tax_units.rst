@@ -46,7 +46,7 @@ Do the same for the :guilabel:`Account Mapping` tab if required, and repeat this
    Depending on your :doc:`localization package </applications/finance/fiscal_localizations>`, taxes
    may vary from the screenshot displayed.
 
-   .. image:: tax_units/fiscal-positions.png
+   .. image:: tax_units/fiscal-positions.webp
       :alt: Tax mapping of fiscal position for tax unit
 
 Then, assign the fiscal position by opening the **Contacts** app. Search for a **constituent**
@@ -65,5 +65,5 @@ The **representative** company can access the aggregated tax report of the **tax
 :guilabel:`Tax Unit`. This report contains the aggregated transactions of all **constituents** and
 the .XML export contains the name and VAT number of the **main** company.
 
-.. image:: tax_units/report.png
+.. image:: tax_units/report.webp
    :alt: tax unit tax report

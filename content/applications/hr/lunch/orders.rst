@@ -37,7 +37,7 @@ The main section, beneath the user's information, displays all the products in a
 view. Each product card displays the name, cost, vendor, photo, and description of the product. If
 the product is configured as new, it also displays a :guilabel:`New` tag.
 
-.. image:: orders/dashboard.png
+.. image:: orders/dashboard.webp
    :align: center
    :alt: The *Lunch* app dashboard with all areas highlighted.
 
@@ -76,7 +76,7 @@ is then sent to the vendor regarding the order, such as any special requests or 
 When all selections for the product have been made, click the :guilabel:`Add To Cart` button in the
 lower-left of the pop-up window. To cancel the order, click the :guilabel:`Discard` button.
 
-.. image:: orders/pizza.png
+.. image:: orders/pizza.webp
    :align: center
    :alt: The pop-up window for a personal pizza, with all the extras highlighted and selected.
 
@@ -101,7 +101,7 @@ changes to the :guilabel:`Configure Your Order` pop-up window.
    If a selection is **not** made, an error occurs. The message that appears is `You have to order
    one and only one Free Beverage with Purchase`.
 
-   .. image:: orders/error.png
+   .. image:: orders/error.webp
       :align: center
       :alt: The :guilabel:`Validation Error` pop-up window with the specific error for the free
             beverage displayed.
@@ -136,7 +136,7 @@ field indicates how much has been paid that day towards the :guilabel:`Total` am
 :guilabel:`To Pay` field displays how much of the remaining :guilabel:`Total` amount must be paid,
 in order to place the currently configured   order.
 
-.. image:: orders/your-order.png
+.. image:: orders/your-order.webp
    :align: center
    :alt: The Your Orders section of the dashboard, with the purchasing information highlighted.
 
@@ -201,7 +201,7 @@ appears. Click :guilabel:`Re-order` to instantly reorder that same product, with
 applicable. The new order appears in the list, under the current date, and the product is paid for,
 with money deducted from the user's account.
 
-.. image:: orders/my-orders.png
+.. image:: orders/my-orders.webp
    :align: center
    :alt: The list view that appears when navigating to the My Orders dashboard.
 
@@ -221,7 +221,7 @@ in the *Lunch* app. These appear in a `$-XX.XX` format.
 Entries with a positive balance either represent funds added to the user's lunch account, or
 cancelled orders that were eventually refunded to the user. These appear in a `$XX.XX` format.
 
-.. image:: orders/my-account.png
+.. image:: orders/my-account.webp
    :align: center
    :alt: The My Account dashboard with the entry for adding funds to the user's lunch account
          highlighted.

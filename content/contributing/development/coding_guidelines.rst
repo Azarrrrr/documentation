@@ -203,8 +203,8 @@ The complete tree of our Odoo module therefore looks like
     |   |-- plant_order_security.xml
     |-- static/
     |   |-- img/
-    |   |   |-- my_little_kitten.png
-    |   |   |-- troll.jpg
+    |   |   |-- my_little_kitten.webp
+    |   |   |-- troll.webp
     |   |-- lib/
     |   |   |-- external_lib/
     |   |-- src/

@@ -65,7 +65,7 @@ click the :icon:`fa-check` :guilabel:`Validate` button at the end of the line.
 To refuse a request, click the :icon:`fa-times` :guilabel:`Refuse` button at the far end of the
 line.
 
-.. image:: management/time-off-requests.png
+.. image:: management/time-off-requests.webp
    :align: center
    :alt: Time off requests with the filter, groupings, and status sections highlighted.
 
@@ -133,7 +133,7 @@ highlighted in green, and the :guilabel:`Refused` requests are highlighted in gr
 To approve an allocation request, click the :icon:`fa-check` :guilabel:`Validate` button at the end
 of the line. To refuse a request, click the :icon:`fa-times` :guilabel:`Refuse` button.
 
-.. image:: management/allocations.png
+.. image:: management/allocations.webp
    :align: center
    :alt: Allocations with the filter, groupings, and status sections highlighted.
 

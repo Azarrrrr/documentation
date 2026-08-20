@@ -56,7 +56,7 @@ At any point during onboarding, the :guilabel:`Skip` button may be clicked. This
 onboarding, and the main *Referrals* dashboard loads. If :guilabel:`Skip` is clicked, onboarding
 slides will not load anymore when opening the *Referrals* application.
 
-.. image:: referrals/onboarding.png
+.. image:: referrals/onboarding.webp
    :align: center
    :alt: An onboarding slide with the skip and next buttons visible at the bottom.
 
@@ -89,7 +89,7 @@ desired image, select it, then click :guilabel:`Open`. The new image appears in 
 delete an image, click the :guilabel:`🗑️ (garbage can)` icon, then select a new image using the
 :guilabel:`✏️ (pencil)` icon.
 
-.. image:: referrals/edit-onboarding.png
+.. image:: referrals/edit-onboarding.webp
    :align: center
    :alt: An onboarding slide in edit mode, with the main fields highlighted.
 
@@ -97,7 +97,7 @@ The sequence in which the slides appear can be changed from the *Onboarding* das
 :guilabel:`(six small gray boxes)` icon to the left of the the slide text, and drag the slide to the
 desired position.
 
-.. image:: referrals/onboarding-reorder.png
+.. image:: referrals/onboarding-reorder.webp
    :align: center
    :alt: The onboarding slides in a list, with the drag and drop arrows highlighted.
 
@@ -122,7 +122,7 @@ first avatar, the user is prompted to select another avatar for the subsequent h
 all avatars have been selected, the dashboard loads and all the avatars are now visible. Mouse over
 each avatar and their name is displayed above them.
 
-.. image:: referrals/avatars.png
+.. image:: referrals/avatars.webp
    :align: center
    :alt: The hired screen. A selection of avatars are presented to chose from, with any already
          chosen are greyed out.
@@ -157,7 +157,7 @@ The referral friend form automatically saves, but can be saved manually at any t
 corner. To cancel any changes made, click the :guilabel:`✖️ (Discard all changes)` icon to delete
 any changes, and revert to the original content.
 
-.. image:: referrals/edit-friend.png
+.. image:: referrals/edit-friend.webp
    :align: center
    :alt: A friend form in edit mode.
 
@@ -217,7 +217,7 @@ manually* option, represented by a :guilabel:`(cloud upload)` icon, located in t
 To cancel any changes made, click the :guilabel:`✖️ (Discard all changes)` icon to delete any
 changes, and revert to the original content.
 
-.. image:: referrals/levels.png
+.. image:: referrals/levels.webp
    :align: center
    :alt: A level form in edit mode.
 
@@ -245,7 +245,7 @@ level, and the ring around the photo is updated to indicate the current amount o
 Leveling up does not cost the user any points, the user simply needs to earn the specified amount of
 points required.
 
-.. image:: referrals/level-up.png
+.. image:: referrals/level-up.webp
    :align: center
    :alt: A 'Click to level up!' appears beneath the user's image, and a large 'Level up!' appears
          above their image.

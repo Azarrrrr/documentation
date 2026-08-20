@@ -40,7 +40,7 @@ menu and enter a quantity of two or more in the :guilabel:`Quantity` field, then
 After manufacturing the quantity that is being produced immediately, enter that number in the
 :guilabel:`Quantity` field at the top of the manufacturing order.
 
-.. image:: manufacturing_backorders/quantity-field.png
+.. image:: manufacturing_backorders/quantity-field.webp
    :align: center
    :alt: The quantity field on a manufacturing order.
 
@@ -49,7 +49,7 @@ window appears, from which a backorder can be created. Click :guilabel:`Create B
 the manufacturing order into two separate orders, with the reference tags *WH/MO/XXXXX-001* and
 *WH/MO/XXXXX-002*.
 
-.. image:: manufacturing_backorders/create-backorder-button.png
+.. image:: manufacturing_backorders/create-backorder-button.webp
    :align: center
    :alt: The Create Backorder button on the "You produced less than initial demand" pop-up window.
 
@@ -99,7 +99,7 @@ On the :guilabel:`Register Production` pop-up window, enter the number of units 
 :guilabel:`Quantity` field. Make sure the number entered is *less* than the number of units listed
 to the right of the field. Then, click :guilabel:`Validate`.
 
-.. image:: manufacturing_backorders/register-production.png
+.. image:: manufacturing_backorders/register-production.webp
    :align: center
    :alt: The Register Production pop-up window in the Shop Floor module.
 

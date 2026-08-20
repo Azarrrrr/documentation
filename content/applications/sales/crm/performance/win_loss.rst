@@ -10,7 +10,7 @@ Analysis* page to gain insight into the effectiveness of the pipeline and its us
 
 To access the *Pipeline Analysis* page, go to :menuselection:`CRM app --> Reporting --> Pipeline`.
 
-.. image:: win_loss/reporting-tab-and-pipeline-view.png
+.. image:: win_loss/reporting-tab-and-pipeline-view.webp
    :align: center
    :alt: Open the CRM app and click on the Reporting tab along the top, then click Pipeline.
 
@@ -23,7 +23,7 @@ Upon accessing the :guilabel:`Pipeline Analysis` page, a bar graph showcasing th
 past year automatically populates. The bars represent the number of leads in each stage of the sales
 pipeline, color-coded to show the month the lead reached that stage.
 
-.. image:: win_loss/pipeline-analysis-page.png
+.. image:: win_loss/pipeline-analysis-page.webp
    :align: center
    :alt: The default state of the Pipeline Analysis page is a graph, with many options to change it.
 
@@ -97,7 +97,7 @@ To add new search criteria, type the desired criteria into the search bar, or cl
 :guilabel:`⬇️ (down arrow)` icon, next to the search bar, to open a drop-down menu of all options.
 See the sections below for more information on what each option does.
 
-.. image:: win_loss/search-panel-filters-and-group-by-options.png
+.. image:: win_loss/search-panel-filters-and-group-by-options.webp
    :align: center
    :alt: Clicking on the down arrow next to the search bar opens a menu of filters for the analysis.
 
@@ -226,7 +226,7 @@ display the information in a more organized fashion.
    - **To create more complex rules:** click the :guilabel:`Add branch` icon to the right of the
      rule. This adds another modifier below the rule for adding an "all of" or "any of" statement.
 
-.. image:: win_loss/custom-filter-add-branch.png
+.. image:: win_loss/custom-filter-add-branch.webp
    :align: center
    :alt: The add branch feature allows the creation of more complex all or any statements for rules.
 
@@ -300,7 +300,7 @@ top-right of the :guilabel:`Pipeline Analysis` page.
       changed by clicking the :guilabel:`Measures` button, and :ref:`selecting another option
       <win_loss/measure>` from the resulting drop-down menu.
 
-      .. image:: win_loss/graph-view.png
+      .. image:: win_loss/graph-view.webp
          :align: center
          :alt: The Graph View displays the analysis as a Bar Chart, Line Chart, or Pie Chart.
 
@@ -317,7 +317,7 @@ top-right of the :guilabel:`Pipeline Analysis` page.
       or for adding the data to a spreadsheet, where custom formulas can be set up, like in an Excel
       file.
 
-      .. image:: win_loss/pivot-view.png
+      .. image:: win_loss/pivot-view.webp
          :align: center
          :alt: The Pivot View displays the analysis as a table.
 
@@ -339,7 +339,7 @@ top-right of the :guilabel:`Pipeline Analysis` page.
 
       This view option is useful specifically for comparing how long it has taken to close leads.
 
-      .. image:: win_loss/cohort-view.png
+      .. image:: win_loss/cohort-view.webp
          :align: center
          :alt: The Cohort View displays the analysis as individual weeks of the year.
 
@@ -369,7 +369,7 @@ top-right of the :guilabel:`Pipeline Analysis` page.
 
       This view option is useful for reviewing many records at once.
 
-      .. image:: win_loss/list-view.png
+      .. image:: win_loss/list-view.webp
          :align: center
          :alt: The List View displays a single list of all records matching the search criteria.
 
@@ -425,7 +425,7 @@ A win/loss report filters the leads from the past year, whether won or lost, and
 by their stage in the pipeline. Creating this report requires a custom filter, and grouping the
 results by :guilabel:`Stage`.
 
-.. image:: win_loss/search-criteria-for-basic-win-loss.png
+.. image:: win_loss/search-criteria-for-basic-win-loss.webp
    :align: center
    :alt: The search criteria for win/loss reports is Created On, Stage, and Active is in true false.
 
@@ -435,7 +435,7 @@ Follow the steps below to create a win/loss report:
 2. On the :guilabel:`Pipeline Analysis` page, click the :guilabel:`⬇️ (down arrow)` icon, next to
    the search bar, to open a drop-down menu of filters and groupings.
 
-   .. image:: win_loss/filters-for-basic-win-loss-report.png
+   .. image:: win_loss/filters-for-basic-win-loss-report.webp
       :align: center
       :alt: The Search menu containing the filters for a basic win/loss report.
 
@@ -457,7 +457,7 @@ Follow the steps below to create a win/loss report:
    :guilabel:`not set`. In total, the rule reads :guilabel:`Active is not set`.
 8. Click :guilabel:`Add`.
 
-.. image:: win_loss/add-custom-active-filter.png
+.. image:: win_loss/add-custom-active-filter.webp
    :align: center
    :alt: The Add Custom Filter menu showing two rules: (1) Active is set, and (2) Active is not set.
 
@@ -465,7 +465,7 @@ The report now displays the total :guilabel:`Count` of leads, whether "Won" or "
 their stage in the CRM pipeline. Hover over a section of the report to see the number of leads in
 that stage.
 
-.. image:: win_loss/basic-win-loss-report.png
+.. image:: win_loss/basic-win-loss-report.webp
    :align: center
    :alt: A basic win/loss report showing all leads whether won or lost grouped by stage.
 
@@ -505,7 +505,7 @@ customize the report for different needs.
         - Adding :guilabel:`Medium` or :guilabel:`Source` can reveal what marketing avenues generate
           more sales.
 
-      .. image:: win_loss/search-panel-filters-and-group-by-options.png
+      .. image:: win_loss/search-panel-filters-and-group-by-options.webp
          :align: center
          :alt: The Search menu open and the Won and Lost filters highlighted.
 
@@ -525,7 +525,7 @@ customize the report for different needs.
          - Other useful measures for pivot view include :guilabel:`Days to Assign` and
            :guilabel:`Days to Close`.
 
-      .. image:: win_loss/win-loss-pivot-view.png
+      .. image:: win_loss/win-loss-pivot-view.webp
          :align: center
          :alt: A win/loss report in Pivot View displays the data in table form.
 
@@ -552,7 +552,7 @@ customize the report for different needs.
            Website, etc.) that originated each lead.
          - **Source**: Shows the source of each lead (Newsletter, Lead Recall, Search Engine, etc.).
 
-      .. image:: win_loss/win-loss-list-view.png
+      .. image:: win_loss/win-loss-list-view.webp
          :align: center
          :alt: A win/loss report in List View displays all leads in an easy-to-read list.
 
@@ -587,7 +587,7 @@ customization and easier access.
       4. Finally, click :guilabel:`Save`. The report is now saved under the :guilabel:`Favorites`
          heading.
 
-      .. image:: win_loss/save-to-favorites.png
+      .. image:: win_loss/save-to-favorites.webp
          :align: center
          :alt: Under the Favorites heading, click Save current search and save the report for later.
 
@@ -612,7 +612,7 @@ customization and easier access.
 
       Saved reports are viewable in the *Documents* app.
 
-        .. image:: win_loss/pivot-view-in-spreadsheet.png
+        .. image:: win_loss/pivot-view-in-spreadsheet.webp
            :align: center
            :alt: Pivot View reports especially benefit from being inserted in spreadsheets.
 
@@ -644,7 +644,7 @@ customization and easier access.
       1. Return to the main apps page, and navigate to :menuselection:`Dashboards app --> My
          Dashboard`.
 
-      .. image:: win_loss/add-to-dashboard.png
+      .. image:: win_loss/add-to-dashboard.webp
          :align: center
          :alt: To access the saved report, open the Dashboard app and click My Dashboard.
 

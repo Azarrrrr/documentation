@@ -27,7 +27,7 @@ Within the :guilabel:`Manufacturing` module, select :menuselection:`Configuratio
 - :guilabel:`Working Hours`: define the number of hours that the work center can be in use each week
 - :guilabel:`Company`: select the company that the work center belongs to
 
-.. image:: using_work_centers/work-center-form.png
+.. image:: using_work_centers/work-center-form.webp
    :align: center
    :alt: An example of a fully configured work center form.
 
@@ -50,7 +50,7 @@ assigned to a work center:
 - :guilabel:`Cost per hour`: the cost of operating the work center for one hour
 - :guilabel:`Analytic Account`: the account where the cost of the work center should be recorded
 
-.. image:: using_work_centers/work-center-general-information.png
+.. image:: using_work_centers/work-center-general-information.webp
    :align: center
    :alt: The general information tab of the work center form.
 
@@ -69,7 +69,7 @@ to a work center. The following information will be displayed for each piece of 
   fully operational again
 - :guilabel:`Est. Next Failure`: an estimate of when the next equipment failure will occur
 
-.. image:: using_work_centers/work-center-equipment.png
+.. image:: using_work_centers/work-center-equipment.webp
    :align: center
    :alt: The equipment tab of the work center form.
 
@@ -89,7 +89,7 @@ with a work center:
 - :guilabel:`Key`: the security key for the device
 - :guilabel:`Action`: the IoT device action triggered
 
-.. image:: using_work_centers/work-center-iot.png
+.. image:: using_work_centers/work-center-iot.webp
    :align: center
    :alt: The IoT Triggers tab of the work center form.
 
@@ -110,14 +110,14 @@ main work center will automatically be selected for the operation in the :guilab
 tab. After confirming the manufacturing order, click the :guilabel:`Plan` button that appears at the
 top left of the form.
 
-.. image:: using_work_centers/manufacturing-order-plan-button.png
+.. image:: using_work_centers/manufacturing-order-plan-button.webp
    :align: center
    :alt: Click the plan button to automatically select an available work center.
 
 If the main work center is at capacity, the work center selected for the operation will be
 automatically changed to the alternative work center.
 
-.. image:: using_work_centers/automatic-work-center-selection.png
+.. image:: using_work_centers/automatic-work-center-selection.webp
    :align: center
    :alt: The alternative work center is automatically selected.
 

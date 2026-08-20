@@ -26,7 +26,7 @@ Begin by navigating to the :guilabel:`Leads Analysis` dashboard by going to :men
    - :doc:`Convert leads into opportunities <../acquire_leads/convert>`
    - :doc:`Create leads <../acquire_leads/email_manual>`
 
-.. image:: marketing_attribution/reporting-tab-and-leads.png
+.. image:: marketing_attribution/reporting-tab-and-leads.webp
    :align: center
    :alt: Open the CRM app and click on the Reporting tab at the top of the page, then click Leads.
 
@@ -39,7 +39,7 @@ Switch the view to the :icon:`oi-view-list` :guilabel:`(list)` option, by clicki
 icon located at the top-right of the dashboard. This allows leads to easily be displayed in the
 grouping set by the *Group By* parameters.
 
-.. image:: marketing_attribution/list-view-button.png
+.. image:: marketing_attribution/list-view-button.webp
    :align: center
    :alt: Click the button with four horizontal lines on the top right of the Leads Analysis page.
 
@@ -86,7 +86,7 @@ have been won in the attribution report.
 :guilabel:`Group By`, found in the middle column, is used to organize the results into groups, and
 can be used with or without filters.
 
-.. image:: marketing_attribution/search-results-multiple-options.png
+.. image:: marketing_attribution/search-results-multiple-options.webp
    :align: center
    :alt: Select any number of filters and groups in the search options.
 
@@ -99,7 +99,7 @@ can be used with or without filters.
     This can be verified by looking at the direction, and order, of the selections in the group tile
     that appears in the :guilabel:`Search...` bar.
 
-    .. image:: marketing_attribution/group-by.png
+    .. image:: marketing_attribution/group-by.webp
        :align: center
        :alt: The text in the tile is `Country > City`, showing that city is a subgroup of country.
 
@@ -112,7 +112,7 @@ can be used with or without filters.
     followed by the :guilabel:`City` or :guilabel:`Country`, depending on which grouping is more
     relevant.
 
-    .. image:: marketing_attribution/campaign-and-country-groups.png
+    .. image:: marketing_attribution/campaign-and-country-groups.webp
        :align: center
        :alt: Each lead is now sorted by source, followed by city or country.
 
@@ -152,7 +152,7 @@ report can be set with the field labeled: `Insert the first _ records of the lis
 either a new :guilabel:`Blank spreadsheet`, or export into an existing spreadsheet. Finally, click
 the :guilabel:`Confirm` button.
 
-.. image:: marketing_attribution/documents-export.png
+.. image:: marketing_attribution/documents-export.webp
    :align: center
    :alt: Set the name, number of records, and location of the export in the option menu.
 

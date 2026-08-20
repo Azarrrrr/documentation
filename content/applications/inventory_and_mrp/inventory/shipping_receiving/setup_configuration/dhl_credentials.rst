@@ -43,7 +43,7 @@ Methods` link below the :guilabel:`DHL Express Connector` checkbox.
 Click :guilabel:`New` to open a blank shipping method form. If a shipping method has already been
 created, it can be selected from this screen.
 
-.. image:: dhl_credentials/dhl-form.png
+.. image:: dhl_credentials/dhl-form.webp
    :align: center
    :alt: The form for a DHL shipping method.
 

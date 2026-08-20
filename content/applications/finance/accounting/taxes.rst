@@ -17,14 +17,14 @@ Default taxes
 are also used to prefill the :guilabel:`Taxes` field when adding a new line on an invoice in
 :ref:`Accounting Firms <fiduciaries>` mode.
 
-.. image:: taxes/default-configuration.png
+.. image:: taxes/default-configuration.webp
    :alt: Odoo fills out the Tax field automatically according to the Default Taxes
 
 To change your **default taxes**, go to :menuselection:`Accounting --> Configuration --> Settings
 --> Taxes --> Default Taxes`, select the appropriate taxes for your default sales tax and purchase
 tax, and click on :guilabel:`Save`.
 
-.. image:: taxes/default-taxes.png
+.. image:: taxes/default-taxes.webp
    :alt: Define which taxes to use by default on Odoo
 
 .. note::
@@ -42,7 +42,7 @@ country's sales taxes are already preconfigured on your database. However, only 
 activated by default. To activate taxes relevant to your business, go to :menuselection:`Accounting
 --> Configuration --> Taxes` and enable the toggle button under the :guilabel:`Active` column.
 
-.. image:: taxes/list.png
+.. image:: taxes/list.webp
    :alt: Activate pre-configured taxes in Odoo Accounting
 
 .. _taxes/configuration:
@@ -53,7 +53,7 @@ Configuration
 To edit or create a **tax**, go to :menuselection:`Accounting --> Configuration --> Taxes` and open
 a tax or click on :guilabel:`New`.
 
-.. image:: taxes/edit.png
+.. image:: taxes/edit.webp
    :alt: Edition of a tax in Odoo Accounting
 
 Basic options
@@ -181,7 +181,7 @@ Definition tab
 Allocate with precision the amount of the taxable basis or percentages of the computed tax to
 multiple accounts and tax grids.
 
-.. image:: taxes/definition.png
+.. image:: taxes/definition.webp
    :alt: Allocate tax amounts to the right accounts and tax grids
 
 - **Based On**:
@@ -206,7 +206,7 @@ Label on invoices
 The tax label is displayed on each invoice line in the :guilabel:`Taxes` column. This is visible to
 *front-end* users on exported invoices, in customer portals, etc.
 
-.. image:: taxes/invoice-label.png
+.. image:: taxes/invoice-label.webp
    :alt: The label on invoices is displayed on each invoice line
 
 .. _taxes/tax-group:
@@ -222,7 +222,7 @@ the same tax differently according to :doc:`fiscal positions <taxes/fiscal_posit
 
 .. example::
 
-   .. image:: taxes/invoice-tax-group.png
+   .. image:: taxes/invoice-tax-group.webp
       :alt: The Tax Group name is different from the Label on Invoices
 
    In the example above, the :guilabel:`0% EU S` tax for intra-community customers in Europe records
@@ -280,7 +280,7 @@ With this option activated, the total (including the tax) equals the **sales pri
    :guilabel:`Tax included` column, click the **dropdown toggle** button and check
    :guilabel:`Tax incl.`.
 
-   .. image:: taxes/toggle-button.png
+   .. image:: taxes/toggle-button.webp
 
 .. _taxes/base-subsequent:
 
@@ -293,7 +293,7 @@ the same product.
 You can configure a new :ref:`group of taxes <taxes/computation>` to include this tax or add it
 directly to a product line.
 
-.. image:: taxes/subsequent-line.png
+.. image:: taxes/subsequent-line.webp
    :alt: The eco-tax is taken into the basis of the 21% VAT tax
 
 .. warning::
@@ -304,7 +304,7 @@ directly to a product line.
    To reorder the sequence, go to :menuselection:`Accounting --> Configuration --> Taxes`, and drag
    and drop the lines with the handles next to the tax names.
 
-   .. image:: taxes/list-sequence.png
+   .. image:: taxes/list-sequence.webp
       :alt: The taxes' sequence in Odoo determines which tax is applied first
 
 Extra taxes
@@ -330,7 +330,7 @@ drop the taxes in the :ref:`order they should be computed <taxes/base-subsequent
    - In our case, we created a 5% environmental tax (Ecotax) and put it *before* the Belgian base
      tax of 21%.
 
-   .. image:: taxes/ecotax.png
+   .. image:: taxes/ecotax.webp
       :alt: Environmental tax sequence in Belgium.
 
 .. seealso::

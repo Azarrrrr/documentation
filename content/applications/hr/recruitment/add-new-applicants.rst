@@ -50,7 +50,7 @@ If preferred, after entering the :guilabel:`Applicant's Name` in the Kanban card
 When doing a quick add, clicking away from an empty card, or clicking the :icon:`fa-trash-o`
 (:guilabel:`trash`) icon, discards the applicant.
 
-.. image:: add-new-applicants/quick-add.png
+.. image:: add-new-applicants/quick-add.webp
    :align: center
    :alt: All the fields for a new applicant form entered when using the Quick Add option.
 
@@ -69,7 +69,7 @@ Complete the fields in the following sections on the new applicant form.
 .. note::
    Depending on installed applications and configurations, some fields may **not** be displayed.
 
-.. image:: add-new-applicants/new-applicant.png
+.. image:: add-new-applicants/new-applicant.webp
    :align: center
    :alt: All the fields for a new applicant form entered.
 

@@ -33,7 +33,7 @@ created in the database, click on the :guilabel:`Create` button, enter the detai
 and then click :guilabel:`Save`. Otherwise, choose an existing contact, and then click on the
 :guilabel:`Action` drop-down menu located at the top-center of the interface.
 
-.. image:: portal/grant-portal-access.png
+.. image:: portal/grant-portal-access.webp
    :align: center
    :alt: Use the Contacts application to give portal access to users.
 
@@ -47,7 +47,7 @@ To grant portal access, first enter the contact's :guilabel:`Email` they will us
 portal. Then, check the box under the :guilabel:`In Portal` column. Optionally, add text to the
 invitation message the contact will receive. Then click :guilabel:`Apply` to finish.
 
-.. image:: portal/add-contact-to-portal.png
+.. image:: portal/add-contact-to-portal.webp
    :align: center
    :alt: An email address and corresponding checkbox for the contact need to be filled in before
          sending a portal invitation.

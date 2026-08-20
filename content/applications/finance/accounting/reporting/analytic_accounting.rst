@@ -43,7 +43,7 @@ project or department.
 You can access the analytic plans by going to :menuselection:`Accounting --> Configuration -->
 Analytic Accounting: Analytic Plans`. Click :guilabel:`New` to create a new plan.
 
-.. image:: analytic_accounting/analytic_plans.png
+.. image:: analytic_accounting/analytic_plans.webp
    :align: center
    :alt: create an analytic plan
 
@@ -92,7 +92,7 @@ adding the plan, a **widget** opens where you can fill in the different informat
 **tags** to reflect the related analytic accounts and decide how to split the costs between the
 accounts by modifying the percentage.
 
-.. image:: analytic_accounting/analytic_distribution.png
+.. image:: analytic_accounting/analytic_distribution.webp
    :align: center
    :alt: create a distribution template
 

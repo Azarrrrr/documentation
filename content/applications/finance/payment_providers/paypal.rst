@@ -16,7 +16,7 @@ Settings in PayPal
 To access your PayPal account settings, log into PayPal, open the :guilabel:`Account Settings`, and
 open the :guilabel:`Website payments` menu.
 
-.. image:: paypal/paypal-account.png
+.. image:: paypal/paypal-account.webp
    :align: center
    :alt: PayPal account menu
 

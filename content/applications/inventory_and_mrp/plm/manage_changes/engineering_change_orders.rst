@@ -72,7 +72,7 @@ By pressing :guilabel:`Start Revision`, three actions occur:
    Materials` radio button is selected in the :guilabel:`Apply on` field, and the :guilabel:`Start
    Revision` button has been pressed.
 
-.. image:: engineering_change_orders/eco-form.png
+.. image:: engineering_change_orders/eco-form.webp
    :align: center
    :alt: ECO with overview of stages in the top-right corner, and *Revision* smart button.
 
@@ -88,7 +88,7 @@ the current version, by flagging the test |BOM| with a large :guilabel:`Archived
    Stool]`, make changes to the product's |BOM| by clicking the :guilabel:`Revision` smart button.
    Doing so opens the archived |BOM|, marked with a large red :guilabel:`Archived` flag.
 
-   .. image:: engineering_change_orders/archived-bom.png
+   .. image:: engineering_change_orders/archived-bom.webp
       :align: center
       :alt: Show the archived Bill of Materials.
 
@@ -102,7 +102,7 @@ changing the :guilabel:`Quantity` of existing components, adding new components 
    In version two of the |BOM| for a keyboard, the component quantities are reduced, and an
    additional component, `Stabilizers`, is added.
 
-   .. image:: engineering_change_orders/version-2-bom.png
+   .. image:: engineering_change_orders/version-2-bom.webp
       :align: center
       :alt: Make changes to components by going to the new BoM with the *Revision* smart button.
 
@@ -124,7 +124,7 @@ used in production. That is, until the :ref:`changes are applied <plm/eco/apply-
    View the summary of the differences between the current and revised keyboard |BOMs| in the
    :guilabel:`BoM Changes` tab of the |ECO|.
 
-   .. image:: engineering_change_orders/bom-changes.png
+   .. image:: engineering_change_orders/bom-changes.webp
       :align: center
       :alt: View summary of component changes in the *BoM Changes* tab.
 
@@ -181,7 +181,7 @@ reflect the following information:
    The `Assembly` :guilabel:`Operation` includes `10` detailed :guilabel:`Instructions` to complete
    it.
 
-   .. image:: engineering_change_orders/instructions-smart-button.png
+   .. image:: engineering_change_orders/instructions-smart-button.webp
       :align: center
       :alt: Show *Instructions* smart button to check whether an operation has additional
             instructions.
@@ -211,7 +211,7 @@ reflect the following information:
    #. The second :guilabel:`Step` is `QCP00034`, an `Instructions` :guilabel:`Step Type` that
       provides additional assembly details.
 
-   .. image:: engineering_change_orders/operation-changes.png
+   .. image:: engineering_change_orders/operation-changes.webp
       :align: center
       :alt: Show *Operation Changes* tab in an |ECO|.
 
@@ -250,7 +250,7 @@ latest |ECO|.
    :guilabel:`Version` number has been updated to `2`, matching the `V2` that appears in the
    :guilabel:`Revision` smart button of the |ECO|.
 
-   .. image:: engineering_change_orders/bom-version.png
+   .. image:: engineering_change_orders/bom-version.webp
       :align: center
       :alt: View current *BOM* version in the Miscellaneous tab.
 
@@ -271,7 +271,7 @@ the desired work order to open the *tablet view* of the operation.
    The :guilabel:`📱 (mobile phone)` icon is **only** available for :abbr:`MOs (Manufacturing
    Orders)` with a :guilabel:`Confirmed` or :guilabel:`In Progress` status.
 
-.. image:: engineering_change_orders/tablet-icon.png
+.. image:: engineering_change_orders/tablet-icon.webp
    :align: center
    :alt: Find the tablet icon for each operation, second from the far right.
 
@@ -279,7 +279,7 @@ Next, add an instructional step, by clicking the :guilabel:`☰ (three horizonta
 tablet view of an operation. Doing so opens the :guilabel:`Menu` of action items for a :abbr:`MO
 (Manufacturing Order)`. Then, click the :guilabel:`Add a step` button.
 
-.. image:: engineering_change_orders/additional-options-menu.png
+.. image:: engineering_change_orders/additional-options-menu.webp
    :align: center
    :alt: Open the *Add a Step* pop-up by clicking the three horizontal lines icon in tablet view.
 
@@ -296,7 +296,7 @@ button.
    Step` pop-up window. Doing so creates an instructional quality control point that will be
    reviewed in the following section.
 
-   .. image:: engineering_change_orders/add-a-step.png
+   .. image:: engineering_change_orders/add-a-step.webp
       :align: center
       :alt: Fill out the *Add a Step* form to suggest an additional quality control point.
 
@@ -337,7 +337,7 @@ changes in greater detail.
    the employee revising the |BOM| to seek further clarification from the person who proposed the
    changes.
 
-   .. image:: engineering_change_orders/view-bom-change.png
+   .. image:: engineering_change_orders/view-bom-change.webp
       :align: center
       :alt: Find the new ECO in the "BOM Changes" ECO type, in the *New* stage.
 
@@ -346,7 +346,7 @@ horizontal lines)` icon. Doing so opens a list of :guilabel:`Steps` to perform t
 the newest instruction titled `New Step Suggestion:`, followed by the user-entered title. Click the
 line item to view the suggested changes.
 
-.. image:: engineering_change_orders/show-instructions.png
+.. image:: engineering_change_orders/show-instructions.webp
    :align: center
    :alt: "Show Instructions" icon in the *Operations* tab of a BoM.
 
@@ -373,7 +373,7 @@ breadcrumbs. Finally, drag the last quality control line item to its intended or
    Drag and reorder the `Check for broken switches` instruction, by clicking and dragging its "6
    dots" icon to move it from the bottom to the second position.
 
-   .. image:: engineering_change_orders/reorder.png
+   .. image:: engineering_change_orders/reorder.webp
       :align: center
       :alt: Drag and reorder instructions by selecting the "6 dots" icon on the far left.
 

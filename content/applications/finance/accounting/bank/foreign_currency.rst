@@ -52,7 +52,7 @@ and save. When you are back on the **journal**, click on the :guilabel:`Account 
 in the pop-up window, fill out the :guilabel:`Account Number`, :guilabel:`Bank` of your account, and
 save.
 
-.. image:: foreign_currency/foreign-journal.png
+.. image:: foreign_currency/foreign-journal.webp
    :align: center
    :alt: Example of a created bank journal.
 
@@ -66,7 +66,7 @@ To pay a bill in a foreign currency, simply select the currency next to the :gui
 field and register the payment. Odoo automatically creates and posts the foreign **exchange gain or
 loss** as a new journal entry.
 
-.. image:: foreign_currency/foreign-bill-currency.png
+.. image:: foreign_currency/foreign-bill-currency.webp
    :align: center
    :alt: How to set a bill currency.
 
@@ -82,7 +82,7 @@ and allows you to adjust an entry or manually set an exchange rate. To access th
 :menuselection:`Reporting --> Management: Unrealized Currency Gains/Losses`. From here, you have
 access to all open entries in your **balance sheet**.
 
-.. image:: foreign_currency/foreign-gains-losses.png
+.. image:: foreign_currency/foreign-gains-losses.webp
    :align: center
    :alt: View of the Unrealized Gains/Losses journal.
 
@@ -90,14 +90,14 @@ If you wish to use a different currency rate than the one set in :menuselection:
 Configuration --> Settings --> Currencies`, click the :guilabel:`Exchange Rates` button and change
 the rate of the foreign currencies in the report.
 
-.. image:: foreign_currency/foreign-exchange-rates.png
+.. image:: foreign_currency/foreign-exchange-rates.webp
    :align: center
    :alt: Menu to manually change exchange rates.
 
 When manually changing **exchange rates**, a yellow banner appears allowing you to reset back to
 Odoo's rate. To do so, simply click on :guilabel:`Reset to Odoo's Rate`.
 
-.. image:: foreign_currency/foreign-reset-rates.png
+.. image:: foreign_currency/foreign-reset-rates.webp
    :align: center
    :alt: Banner to reset back to Odoo's rates.
 
@@ -112,6 +112,6 @@ booking entry to the date set in :guilabel:`Reversal Date`.
 Once posted, the :guilabel:`adjustment` column should indicate `0.00`, meaning all **unrealized
 gains/losses** have been adjusted.
 
-.. image:: foreign_currency/foreign-adjustment.png
+.. image:: foreign_currency/foreign-adjustment.webp
    :align: center
    :alt: Unrealized Currency Gains/Losses report once adjusted.

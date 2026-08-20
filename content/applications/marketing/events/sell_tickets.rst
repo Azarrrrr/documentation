@@ -35,7 +35,7 @@ To activate a setting, tick the checkbox beside the desired feature's label, and
    If these options are *not* enabled, a default :guilabel:`Register` button becomes available for
    visitors to interact with and procure free registrations to the event.
 
-.. image:: sell_tickets/events-settings-tickets.png
+.. image:: sell_tickets/events-settings-tickets.webp
    :align: center
    :alt: View of the settings page for Odoo Events.
 
@@ -48,7 +48,7 @@ the *Product Type* set to *Event Ticket*) that can be used or modified for event
    Ticket* on the product form, in order for it to be selected in the *Product* column under the
    *Tickets* tab on an event form.
 
-   .. image:: sell_tickets/events-tickets-registration-product.png
+   .. image:: sell_tickets/events-tickets-registration-product.webp
       :align: center
       :alt: View of an event form highlighting the column product under the tickets tab in Odoo.
 
@@ -57,7 +57,7 @@ the *Product Type* set to *Event Ticket*) that can be used or modified for event
    the top of the event form, where the respective sales orders attributed to those ticket sales
    become available.
 
-   .. image:: sell_tickets/events-sales-smartbutton.png
+   .. image:: sell_tickets/events-sales-smartbutton.webp
       :align: center
       :alt: View of an event's form and the sales smart button in Odoo Events.
 
@@ -79,7 +79,7 @@ Type` set to :guilabel:`Event Ticket` on its product form.
 Once an event registration product is selected, a :guilabel:`Configure an event` pop-up window
 appears.
 
-.. image:: sell_tickets/configure-event-popup.png
+.. image:: sell_tickets/configure-event-popup.webp
    :align: center
    :alt: Standard 'Configure an event' pop-up window that appears on an event ticket sales order.
 
@@ -111,7 +111,7 @@ When a visitor arrives on the register page of the event website, they can click
 If different ticket tiers are configured for the event, the visitor is presented with a
 :guilabel:`Tickets` pop-up window.
 
-.. image:: sell_tickets/tickets-popup.png
+.. image:: sell_tickets/tickets-popup.webp
    :align: center
    :alt: The tickets pop-up window that appears on the event's website when 'Register' is clicked.
 
@@ -122,7 +122,7 @@ selections have been entered, the visitor then clicks the :guilabel:`Register` b
 Then, an :guilabel:`Attendees` pop-up window appears, containing all the questions that have been
 configured in the *Questions* tab of the event form for this particular event.
 
-.. image:: sell_tickets/attendees-popup.png
+.. image:: sell_tickets/attendees-popup.webp
    :align: center
    :alt: The attendees pop-up window that appears on the event's website when 'Ok' is clicked.
 

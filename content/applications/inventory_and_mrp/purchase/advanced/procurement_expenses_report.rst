@@ -65,7 +65,7 @@ month or quarter. :guilabel:`Previous Year` compares the same time period from t
    While multiple time-based filters can be added at once, only one comparison can be selected at a
    time.
 
-.. figure:: procurement_expenses_report/filters-groups.png
+.. figure:: procurement_expenses_report/filters-groups.webp
    :align: center
    :alt: The drop-down menu of filters, group by and comparison options for the procurement expenses
          report.
@@ -107,7 +107,7 @@ View results
 
 After all of the filters and measures have been selected, the report generates in the selected view.
 
-.. image:: procurement_expenses_report/sample-per-report.png
+.. image:: procurement_expenses_report/sample-per-report.webp
    :align: center
    :alt: A sample version of the procurement expenses report.
 

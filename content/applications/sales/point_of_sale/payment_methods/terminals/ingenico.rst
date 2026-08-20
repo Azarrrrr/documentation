@@ -34,7 +34,7 @@ Configure the Lane/Desk/Move 5000 terminals for Ingenico BENELUX
 
 At this point, the terminal restarts and should be displayed in your IoT Box form in Odoo.
 
-.. image:: ingenico/payment_terminal_02.png
+.. image:: ingenico/payment_terminal_02.webp
    :align: center
 
 Configure the payment method
@@ -45,7 +45,7 @@ Enable the payment terminal :ref:`in the application settings <configuration/set
 :guilabel:`Bank` and select :guilabel:`Ingenico` in the :guilabel:`Use a Payment Terminal` field.
 Then, select your terminal device in the :guilabel:`Payment Terminal Device` field.
 
-.. image:: ingenico/payment-method.png
+.. image:: ingenico/payment-method.webp
 
 Once the payment method is created, you can select it in your POS settings. To do so, go to the
 :ref:`POS' settings <configuration/settings>`, click :guilabel:`Edit`, and add the payment method

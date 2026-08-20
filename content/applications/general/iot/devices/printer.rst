@@ -24,7 +24,7 @@ The |iot| box supports printers connected through |usb|, network connection, or 
 `Supported printers <https://www.odoo.com/page/iot-hardware>`__ are detected automatically, and
 appear in the :guilabel:`Devices` list of the *IoT* app.
 
-.. image:: printer/printer-detected.png
+.. image:: printer/printer-detected.webp
    :align: center
    :alt: The printer as it would appear in the IoT app devices list.
 
@@ -54,7 +54,7 @@ From here, edit the control point, by selecting the :guilabel:`Type` field, and 
 :guilabel:`Device`, where the attached *device* can be selected. :guilabel:`Save` the changes, if
 required.
 
-.. image:: printer/printer-controlpoint.png
+.. image:: printer/printer-controlpoint.webp
    :align: center
    :alt: This is the quality control point setup.
 
@@ -62,7 +62,7 @@ The printer can now be used with the selected quality control point. When the qu
 is reached during the manufacturing process, the database presents the option to print labels for a
 specific product.
 
-.. image:: printer/printer-prompt.png
+.. image:: printer/printer-prompt.webp
    :align: center
 
 .. tip::
@@ -92,7 +92,7 @@ From here, go to the :guilabel:`Printer Reports` tab, and click :guilabel:`Add a
 window that appears, check all the types of :guilabel:`Reports` that should be linked to this
 printer.
 
-.. image:: printer/printer-reports.png
+.. image:: printer/printer-reports.webp
    :align: center
    :alt: The list of reports assigned to a printer in the IoT app.
 
@@ -123,7 +123,7 @@ This generates a list of reports that are linked to a printer on the current dev
    the current browser. The report is still :ref:`linked <iot/link-printer>` on the device, under
    the :guilabel:`Printer Reports` tab.
 
-.. image:: printer/clear-reports.png
+.. image:: printer/clear-reports.webp
    :align: center
    :alt: A list of reports currently linked to a printer in the IoT app.
 

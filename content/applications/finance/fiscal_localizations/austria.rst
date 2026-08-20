@@ -123,5 +123,5 @@ Exporting the SAF-T report
 To export the SAF-T report, go to :menuselection:`Accounting --> Reports --> General Ledger`. Click
 the right side of the :guilabel:`PDF` button and select :guilabel:`SAF-T`.
 
-.. image:: austria/austria-saft-button.png
+.. image:: austria/austria-saft-button.webp
    :alt: The SAF-T button to export the file in XML format

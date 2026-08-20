@@ -24,7 +24,7 @@ aliases are used to:
 
 .. example::
 
-   .. image:: email_servers_inbound/sales-team-alias-config.png
+   .. image:: email_servers_inbound/sales-team-alias-config.webp
       :alt: The local-part "info" is used for the alias of the sales team.
 
    In the example displayed above, sending an email to `info@company-name.odoo.com` will create a
@@ -48,7 +48,7 @@ By default, the local-part *catchall* will be used. Enable :ref:`developer-mode`
 An email to the catchall always needs to be a reply to a previous email sent from the database. If
 an email is sent directly to the catchall, the sender will receive the following message:
 
-.. image:: email_servers_inbound/direct-mail-to-catchall.png
+.. image:: email_servers_inbound/direct-mail-to-catchall.webp
    :alt: Bounce email from "MAILER-DEAMON" explaining how to contact the database.
 
 .. note::
@@ -93,14 +93,14 @@ could not be handled by Odoo.
 
 A notification will also be displayed in the Discuss icon on the navigation bar.
 
-.. image:: email_servers_inbound/mail-error-notif-navbar.png
+.. image:: email_servers_inbound/mail-error-notif-navbar.webp
    :alt: An email sent to a contact had an issue and the error is reported on the navbar.
 
 .. example::
    If the email address of the recipient is incorrect, by clicking on the red envelope in the
    chatter an error message containing the reason for the failure will be given.
 
-   .. image:: email_servers_inbound/red-envelope-info.png
+   .. image:: email_servers_inbound/red-envelope-info.webp
       :alt: An email sent to a wrong domain generates a bounce displayed as a red envelope.
 
 .. _email-inbound-default:
@@ -133,7 +133,7 @@ On **Odoo.sh**, it is possible to use several Odoo subdomains. In the settings o
 additional Odoo subdomains can be added as long as they are not used yet in another branch. These
 domains must then be added to the alias domains to be used by a company.
 
-.. image:: email_servers_inbound/custom-subdomain-sh.png
+.. image:: email_servers_inbound/custom-subdomain-sh.webp
    :alt: Setting up an Odoo subdomain on a branch.
 
 .. _email-inbound-custom-domain:
@@ -144,14 +144,14 @@ Use a custom domain for inbound messages
 The :ref:`alias domain <email-outbound-alias-domain>` must be selected in the general
 settings. If you have multiple companies, each one must be configured.
 
-.. image:: email_servers_inbound/alias-domain-settings.png
+.. image:: email_servers_inbound/alias-domain-settings.webp
    :alt: The alias domain in the general settings.
 
 All the aliases will use this custom domain. Replies on models for which an alias is configured
 are done to `[alias]@my-custom-domain.com`. Replies to other models are sent to the catchall through
 `catchall@my-custom-domain.com`.
 
-.. image:: email_servers_inbound/diagram-mail-custom-domain.png
+.. image:: email_servers_inbound/diagram-mail-custom-domain.webp
    :alt: Technical schema of mailing route when using a custom domain in Odoo.
 
 .. important::
@@ -259,7 +259,7 @@ specified model. Each incoming mail server can create records in a different mod
    Emails received on `task@company-name.com` are fetched by the Odoo database. All fetched emails will
    create a new project task in the database.
 
-   .. image:: email_servers_inbound/incoming-mail-server.png
+   .. image:: email_servers_inbound/incoming-mail-server.webp
       :alt: Technical schema of mailing route when using a custom domain in Odoo.
 
 .. _email-inbound-custom-domain-mx:
@@ -288,7 +288,7 @@ Below are presented some specifications depending on the hosting type:
       The custom subdomain must be added to the :doc:`settings of the project
       <../../../administration/odoo_sh/getting_started/settings>`:
 
-      .. image:: email_servers_inbound/custom-subdomain-sh.png
+      .. image:: email_servers_inbound/custom-subdomain-sh.webp
          :alt: Adding a custom subdomain for mail to Odoo.sh project settings.
 
 .. _email-inbound-loops:
@@ -303,7 +303,7 @@ a specific time span.
 By default, an email address can send up to 20 emails in 120 minutes. If more emails are sent, they
 are blocked and the sender receives the following message:
 
-.. image:: email_servers_inbound/bounce-mail-loop.png
+.. image:: email_servers_inbound/bounce-mail-loop.webp
    :alt: Bounce email received after attempting contact too many times an alias.
 
 To change the default behavior, enable :ref:`developer-mode`, then go to :menuselection:`Settings
@@ -347,7 +347,7 @@ Click :guilabel:`New`. Then, type in `mail.catchall.domain.allowed` for the :gui
 Next, for the :guilabel:`Value` field, add the domains separated by commas. Manually
 :icon:`fa-cloud-upload` :guilabel:`(Save)`, and the system parameter takes immediate effect.
 
-.. image:: email_servers_inbound/allowed-domain.png
+.. image:: email_servers_inbound/allowed-domain.webp
    :alt: mail.catchall.domain.allowed system parameter set.
 
 Local-part based incoming detection

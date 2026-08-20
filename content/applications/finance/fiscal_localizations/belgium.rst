@@ -72,7 +72,7 @@ the tax amount and allocates it to the corresponding accounts based on the tax r
 .. example::
    With the Belgian localization, the **21% car** tax is created by default (50% non-deductible).
 
-   .. image:: belgium/deductible-tax.png
+   .. image:: belgium/deductible-tax.webp
       :alt: Example of not-fully deductible tax
 
 .. seealso::
@@ -96,7 +96,7 @@ Here is the list of Belgian-specific reports available:
 You can access Belgian-specific versions of reports by clicking on the **book** icon when on a
 report and selecting its Belgian version: **(BE)**.
 
-.. image:: belgium/belgian-reports.png
+.. image:: belgium/belgian-reports.webp
    :alt: Belgian version of reports
 
 .. seealso::
@@ -139,7 +139,7 @@ Restaurant expenses
 In Belgium, 31% of **restaurant** expenses are non-deductible. Create a new **disallowed expenses
 category** and set both :guilabel:`Related Account(s)` and :guilabel:`Current Rate`.
 
-.. image:: belgium/restaurant-expenses.png
+.. image:: belgium/restaurant-expenses.webp
    :alt: Disallowed expenses categories
 
 .. _belgium/vehicle-split:
@@ -156,13 +156,13 @@ car expenses.
 When you create a bill for car expenses, you can link each expense to a specific car by filling the
 :guilabel:`Vehicle` column, so the right percentage is applied.
 
-.. image:: belgium/car-bill.png
+.. image:: belgium/car-bill.webp
    :alt: Disallowed expenses categories
 
 The :guilabel:`vehicle split` option available in the disallowed expenses report allows you to see
 the rate and disallowed amount for each car.
 
-.. image:: belgium/vehicle-split.png
+.. image:: belgium/vehicle-split.webp
    :alt: Disallowed expenses categories
 
 .. _belgium/forms:
@@ -180,7 +180,7 @@ Annually, a **281.50 fee form** must be reported to the fiscal authorities. To d
 add the tag, open :menuselection:`Contacts`, select the person or company you want to create a
 **281.50 fee form** for, and add the `281.50` tag in the :guilabel:`Tags` field.
 
-.. image:: belgium/281-50.png
+.. image:: belgium/281-50.webp
    :alt: add the tag 281.50 on a contact form
 
 .. note::
@@ -202,7 +202,7 @@ Create 325 form`. A new page pops up: select the right options and click :guilab
 form`. To open an already generated **325 form**, go to :menuselection:`Accounting --> Reporting -->
 Belgium: Open 325 forms`.
 
-.. image:: belgium/325-form.png
+.. image:: belgium/325-form.webp
    :alt: Add the tag 281-50 on a contact form
 
 .. _belgium/coda-soda:
@@ -219,7 +219,7 @@ CODA
 files from your bank and import them directly into Odoo by clicking :guilabel:`Import file` from
 your :guilabel:`Bank` journal on your dashboard.
 
-.. image:: belgium/coda-import.png
+.. image:: belgium/coda-import.webp
    :alt: Import CODA files
 
 .. seealso::
@@ -236,7 +236,7 @@ files can be imported into the journal you use to record salaries by going to yo
 
 Once your **SODA** files are imported, the entries are created automatically in your salary journal.
 
-.. image:: belgium/soda-import.png
+.. image:: belgium/soda-import.webp
    :alt: Import SODA files
 
 .. _belgium/einvoicing:
@@ -277,7 +277,7 @@ Configure the journals
       #. Set the right IBAN in the :guilabel:`Account Number` field.
       #. Select :guilabel:`CodaBox synchronization` as the :guilabel:`Bank Feed`.
 
-      .. image:: belgium/codabox_configuration_coda_journal.png
+      .. image:: belgium/codabox_configuration_coda_journal.webp
          :align: center
          :alt: Configuration of a CODA journal.
 
@@ -292,7 +292,7 @@ Configure the journals
          :guilabel:`CodaBox` section.
       #. Select the journal you just created in the SODA journal field.
 
-      .. image:: belgium/codabox_configuration_soda_setting.png
+      .. image:: belgium/codabox_configuration_soda_setting.webp
          :align: center
          :alt: Configuration of a SODA journal.
 
@@ -546,7 +546,7 @@ Black box module
 As a pre-requisite, :ref:`activate <general/install>` the `Belgian Registered Cash Register` module
 (technical name: `pos_blackbox_be`).
 
-.. image:: belgium/be-modules.png
+.. image:: belgium/be-modules.webp
    :alt: black box modules for belgian fiscal certification
 
 Once the module is activated, add your VAT number to your company information. To set it up, go to
@@ -555,7 +555,7 @@ Then, enter a national registration number for every staff member who operates t
 so, go to the :guilabel:`Employees` app and open an employee form. There, go to :menuselection:`HR
 settings tab --> Attendance/Point of Sale`, and fill in the :guilabel:`INSZ or BIS number` field.
 
-.. image:: belgium/bis-number.png
+.. image:: belgium/bis-number.webp
    :alt: ISNZ or BIS number field on employee form
 
 .. tip::
@@ -583,7 +583,7 @@ Once your IoT box is certified, :doc:`connect <../../general/iot/config/connect>
 database. To verify that the IoT Box recognizes the FDM, go to the IoT homepage and scroll down the
 :guilabel:`IOT Device` section, which should display the FDM.
 
-.. image:: belgium/iot-devices.png
+.. image:: belgium/iot-devices.webp
    :alt: Hardware status page on a registered IoT Box
 
 Then, add the IoT to your POS. To do so, go to :menuselection:`Point of Sale --> Configuration -->

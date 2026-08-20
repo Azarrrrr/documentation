@@ -81,7 +81,7 @@ Once the expense report is submitted, a :icon:`fa-money` :guilabel:`Sales Orders
 appears at the top-center of both the expense report, and each individual expense record being
 reinvoiced.
 
-.. image:: reinvoice_expenses/reinvoice-expense.png
+.. image:: reinvoice_expenses/reinvoice-expense.webp
    :align: center
    :alt: Ensure the customer to be invoiced is called out on the expense.
 
@@ -105,7 +105,7 @@ Before :doc:`approving an expense report <../expenses/approve_expenses>`, ensure
 If an :guilabel:`Analytic Distribution` entry is missing, assign the correct accounts from the
 drop-down menu, then click :guilabel:`Approve`.
 
-.. image:: reinvoice_expenses/analytic-dist.png
+.. image:: reinvoice_expenses/analytic-dist.webp
    :align: center
    :alt: The expense report with all the Analytic Distribution lines populated.
 
@@ -140,7 +140,7 @@ Order)`.
 
 The expenses are listed in the :abbr:`SO (Sales Order)` :guilabel:`Order Lines` tab.
 
-.. image:: reinvoice_expenses/so-details.png
+.. image:: reinvoice_expenses/so-details.webp
    :align: center
    :alt: See the expenses listed on the sales order after clicking into it.
 

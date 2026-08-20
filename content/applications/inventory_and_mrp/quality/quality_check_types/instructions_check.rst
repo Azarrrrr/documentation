@@ -44,7 +44,7 @@ On the selected manufacturing or inventory order, a purple :guilabel:`Quality Ch
 above the order. Click the button to open the :guilabel:`Quality Check` pop-up window, from which
 any quality checks created for the order can be processed.
 
-.. image:: instructions_check/quality-check-pop-up.png
+.. image:: instructions_check/quality-check-pop-up.webp
    :align: center
    :alt: The Quality Check pop-up window on a manufacturing or inventory order.
 
@@ -85,7 +85,7 @@ Begin processing the work order's steps until the *Instructions* quality check s
 Click on the step to open a pop-up window that details how to complete the quality check. Once
 completed, click the :guilabel:`Next` button to complete the check, and move on to the next step.
 
-.. image:: instructions_check/instructions-check-shop-floor.png
+.. image:: instructions_check/instructions-check-shop-floor.webp
    :align: center
    :alt: An Instruction check as it appears in the Shop Floor module.
 

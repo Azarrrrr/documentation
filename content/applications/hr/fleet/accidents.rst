@@ -89,7 +89,7 @@ the desired record, and click :guilabel:`Open` to upload the file.
      To attach more records, click :icon:`fa-plus-square` :guilabel:`Attach files` to add more
      documents.
 
-.. image:: accidents/service-form.png
+.. image:: accidents/service-form.webp
    :align: center
    :alt: Enter the information for an accident repair.
 
@@ -132,7 +132,7 @@ Open the main *Services* dashboard, by navigating to :menuselection:`Fleet app -
 Services`. Next, click on the individual service record to open the detailed service form. Click the
 desired stage in the top-right corner, above the service form, to change the status.
 
-.. image:: accidents/running.png
+.. image:: accidents/running.webp
    :align: center
    :alt: The stages as seen from the service form.
 
@@ -150,7 +150,7 @@ services appear in a Kanban view, organized by their respective :guilabel:`Statu
 
 Drag-and-drop the service record to the desired stage.
 
-.. image:: accidents/drag-n-drop.png
+.. image:: accidents/drag-n-drop.webp
    :align: center
    :alt: The Kanban view of stages, with a card being dragged and dropped to the Running stage.
 
@@ -188,7 +188,7 @@ beneath each grouping title.
    An estimated `$19,164.81` dollars are for driver-caused accident repairs, and an estimated
    `$2,548.21` dollars are for no-fault accidents.
 
-   .. image:: accidents/group-accidents.png
+   .. image:: accidents/group-accidents.webp
       :align: center
       :alt: Accident services, with the total costs highlighted.
 
@@ -217,7 +217,7 @@ vehicle lease cost) and all service costs, including all accidents. Hover over a
 data popover window, which displays the vehicle name and the total cost. This allows for a more
 complete view of the vehicle cost.
 
-.. image:: accidents/total-costs.png
+.. image:: accidents/total-costs.webp
    :align: center
    :alt: The Cost Analysis report, displaying total costs by vehicle.
 
@@ -226,7 +226,7 @@ To view the individual cost details for both contract costs and repairs, click t
 Analysis` dashboard. This displays each vehicle on a separate line, and displays the
 :guilabel:`Contract` cost and :guilabel:`Service` cost, as well as the :guilabel:`Total` cost.
 
-.. image:: accidents/fleet-pivot.png
+.. image:: accidents/fleet-pivot.webp
    :align: center
    :alt: The Cost Analysis report, displaying the contract and service costs separately, as well as
          the total.
@@ -265,7 +265,7 @@ the other fields as-is.
 
 Click the :guilabel:`Add` button at the bottom to add the new custom filter.
 
-.. image:: accidents/custom-filters.png
+.. image:: accidents/custom-filters.webp
    :align: center
    :alt: The filter settings to be added to only display new and running services.
 

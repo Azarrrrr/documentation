@@ -22,7 +22,7 @@ This presents the data for the :icon:`fa-filter` :guilabel:`Last 365 Days Applic
 
 Hover the cursor over any column to view the specific numbers fort that column.
 
-.. image:: source_analysis/source-analysis.png
+.. image:: source_analysis/source-analysis.webp
    :align: center
    :alt: The default bar chart of the source analysis information.
 
@@ -49,7 +49,7 @@ This information, as presented, makes it difficult to view the specific numbers 
 Click the :icon:`fa-exchange` :guilabel:`(Flip axis)` icon, to swap the information. After that, the
 rows represent the source, and the columns represent the job positions, further divided by stage.
 
-.. image:: source_analysis/source-pivot.png
+.. image:: source_analysis/source-pivot.webp
    :align: center
    :alt: The axes flipped in the source analysis report, in pivot table view.
 
@@ -72,7 +72,7 @@ presents the specific mediums, relevant to that specific source.
 Once :guilabel:`Medium` is selected for one source, clicking into another row automatically reveals
 the specific metrics for the mediums for that source.
 
-.. image:: source_analysis/medium.png
+.. image:: source_analysis/medium.webp
    :align: center
    :alt: The sources rows, expanded to also show the medium for each source.
 

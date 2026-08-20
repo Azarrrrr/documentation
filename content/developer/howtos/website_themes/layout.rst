@@ -364,7 +364,7 @@ Don't forget to record the logo of your website in the database.
    :caption: ``/website_airproof/data/images.xml``
 
    <record id="website.default_website" model="website">
-      <field name="logo" type="base64" file="website_airproof/static/src/img/content/logo.png"/>
+      <field name="logo" type="base64" file="website_airproof/static/src/img/content/logo.webp"/>
    </record>
 
 Menu

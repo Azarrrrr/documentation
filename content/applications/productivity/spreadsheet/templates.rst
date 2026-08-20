@@ -11,7 +11,7 @@ app, such as:
 - :ref:`pipeline revenue reports <templates/pipeline-reports>`, or
 - :ref:`sales commission report <templates/sales-commission>`.
 
-.. image:: templates/report-templates.png
+.. image:: templates/report-templates.webp
    :alt: View of all the default templates
 
 You can also :ref:`save any spreadsheet as a template <templates/save>` and :ref:`manage and edit
@@ -29,7 +29,7 @@ Budget reports compare a company's actual spending with its budget over a define
 templates are available: one uses quarterly intervals (:guilabel:`Budget Report (Quarterly)`), while
 the other uses monthly intervals (:guilabel:`Budget Report (Monthly)`).
 
-.. image:: templates/budget-report.png
+.. image:: templates/budget-report.webp
    :alt: Extract of a budget report
 
 The cells under the :guilabel:`Actuals` column are automatically filled in with the amount of money
@@ -62,7 +62,7 @@ recurring revenue)`).
    Enable :guilabel:`Recurring Revenues` by going to :menuselection:`CRM --> Configuration -->
    Settings`.
 
-.. image:: templates/pipeline-revenue.png
+.. image:: templates/pipeline-revenue.webp
    :alt: Extract of a pipeline revenue report
 
 The cells under the :guilabel:`Actuals` column are automatically filled in with the amount of
@@ -96,7 +96,7 @@ Sales: sales commission
 
 This report presents the monthly commission earned or due to each salesperson.
 
-.. image:: templates/sales-commission.png
+.. image:: templates/sales-commission.webp
    :alt: Extract of a sales commission report
 
 The :guilabel:`Rate` column is pre-filled with the percentage rate from the :guilabel:`Rates` tab,

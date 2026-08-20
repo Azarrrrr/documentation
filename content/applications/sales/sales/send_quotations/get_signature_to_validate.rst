@@ -17,7 +17,7 @@ To activate the *Online Signature* feature, go to :menuselection:`Sales app --> 
 Settings`, scroll to the :guilabel:`Quotations \& Orders` heading, and activate the
 :guilabel:`Online Signature` feature by checking the box beside it.
 
-.. image:: get_signature_to_validate/signature-setting.png
+.. image:: get_signature_to_validate/signature-setting.webp
    :align: center
    :alt: The Online Signature feature option in the Settings of the Odoo Sales application.
 
@@ -27,14 +27,14 @@ Then, click the :guilabel:`Save` button in the top-left corner.
    When making a quotation template, the online signature feature is the :guilabel:`Signature`
    option, located in the :guilabel:`Online confirmation` field of the quotation template form.
 
-   .. image:: get_signature_to_validate/signature-feature-quotation-template.png
+   .. image:: get_signature_to_validate/signature-feature-quotation-template.webp
       :align: center
       :alt: The Online confirmation signature option found on every quotation template in Odoo.
 
    On standard quotations, the online signature feature is the :guilabel:`Signature` option, located
    under the :guilabel:`Other Info` tab of the quotation form.
 
-   .. image:: get_signature_to_validate/signature-other-info-tab.png
+   .. image:: get_signature_to_validate/signature-other-info-tab.webp
       :align: center
       :alt: The online signature feature option in the Other Info tab of a quotation form in Odoo.
 
@@ -44,14 +44,14 @@ Order confirmations with online signatures
 When clients access quotations online through their customer portal, there's a :guilabel:`Sign \&
 Pay` button directly on the quotation.
 
-.. image:: get_signature_to_validate/sign-and-pay-button.png
+.. image:: get_signature_to_validate/sign-and-pay-button.webp
    :align: center
    :alt: The Sign and Pay button present on online quotations in Odoo Sales.
 
 When clicked, a :guilabel:`Validate Order` pop-up window appears. In this pop-up window, the
 :guilabel:`Full Name` field is auto-populated, based on the contact information in the database.
 
-.. image:: get_signature_to_validate/validate-order-popup.png
+.. image:: get_signature_to_validate/validate-order-popup.webp
    :align: center
    :alt: The Validate Order pop-up window for online signatures in Odoo Sales.
 

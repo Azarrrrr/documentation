@@ -31,7 +31,7 @@ later: `https://download.odoocdn.com/plugins/outlook/manifest.xml
 Next, open the Outlook mailbox, and select any email. After completing this, click on the
 :guilabel:`More actions` button in the upper right-side and select :guilabel:`Get Add-ins`.
 
-.. image:: outlook/more-actions.png
+.. image:: outlook/more-actions.webp
    :align: center
    :alt: More actions button in Outlook
 
@@ -43,21 +43,21 @@ Next, open the Outlook mailbox, and select any email. After completing this, cli
 
 Following this step, select the :guilabel:`My add-ins` tab on the left-side.
 
-.. image:: outlook/my-add-ins.png
+.. image:: outlook/my-add-ins.webp
    :align: center
    :alt: My add-ins in Outlook
 
 Under :guilabel:`Custom add-ins` towards the bottom, click on :guilabel:`+ Add a custom add-in`, and
 then on :guilabel:`Add from file...`
 
-.. image:: outlook/custom-add-ins.png
+.. image:: outlook/custom-add-ins.webp
    :align: center
    :alt: Custom add-ins in Outlook
 
 For the next step, attach the `manifest.xml` file downloaded above, and press :guilabel:`OK`. Next,
 read the warning and click on :guilabel:`Install`.
 
-.. image:: outlook/add-in-warning.png
+.. image:: outlook/add-in-warning.webp
    :align: center
    :alt: Custom add-in installation warning in Outlook
 
@@ -70,14 +70,14 @@ Now, Outlook will be connected to the Odoo database. First, open any email in th
 click on the :guilabel:`More actions` button in the upper right-side, and select :guilabel:`Odoo for
 Outlook`.
 
-.. image:: outlook/odoo-for-outlook.png
+.. image:: outlook/odoo-for-outlook.webp
    :align: center
    :alt: Odoo for Outlook add-in button
 
 The right-side panel can now display **Company Insights**. At the bottom, click on
 :guilabel:`Login`.
 
-.. image:: outlook/panel-login.png
+.. image:: outlook/panel-login.webp
    :align: center
    :alt: Logging in the Odoo database
 
@@ -101,20 +101,20 @@ The right-side panel can now display **Company Insights**. At the bottom, click 
 
 Now, enter the Odoo database URL and click on :guilabel:`Login`.
 
-.. image:: outlook/enter-database-url.png
+.. image:: outlook/enter-database-url.webp
    :align: center
    :alt: Entering the Odoo database URL
 
 Next, click on :guilabel:`Allow` to open the pop-up window.
 
-.. image:: outlook/new-window-warning.png
+.. image:: outlook/new-window-warning.webp
    :align: center
    :alt: New window pop-up warning
 
 If the user isn't logged into the database, enter the credentials. Click on :guilabel:`Allow` to let
 the Outlook Plugin connect to the database.
 
-.. image:: outlook/odoo-permission.png
+.. image:: outlook/odoo-permission.webp
    :align: center
    :alt: Allowing the Outlook Plugin to connect to a database
 
@@ -129,20 +129,20 @@ it's possible to add it next to the other default actions.
 In the Outlook mailbox, click on :guilabel:`Settings`, then on :guilabel:`View all Outlook
 settings`.
 
-.. image:: outlook/all-outlook-settings.png
+.. image:: outlook/all-outlook-settings.webp
    :align: center
    :alt: Viewing all Outlook settings
 
 Now, select :guilabel:`Customize actions` under :guilabel:`Mail`, click on :guilabel:`Odoo for
 Outlook`, and then :guilabel:`Save`.
 
-.. image:: outlook/customize-actions.png
+.. image:: outlook/customize-actions.webp
    :align: center
    :alt: Odoo for Outlook customized action
 
 Following this step, open any email; the shortcut should be displayed.
 
-.. image:: outlook/odoo-outlook-shortcut.png
+.. image:: outlook/odoo-outlook-shortcut.webp
    :align: center
    :alt: Odoo for Outlook customized action
 

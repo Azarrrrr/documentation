@@ -5,7 +5,7 @@ Create SMS messages
 To start, click :guilabel:`Create` on the main :guilabel:`SMS Marketing` dashboard, and Odoo reveals
 a blank SMS template form, which can be configured in a number of different ways.
 
-.. image:: create_sms/sms-create.png
+.. image:: create_sms/sms-create.webp
    :align: center
    :alt: Creating an SMS marketing template.
 
@@ -23,7 +23,7 @@ will be sent. By default, Odoo has :guilabel:`Mailing List` selected. If this is
 
    To learn more about mailing lists and contacts, check out :doc:`mailing_lists_blacklists`.
 
-.. image:: create_sms/sms-mailing-list.png
+.. image:: create_sms/sms-mailing-list.webp
    :align: center
    :alt: View of the mailing list page in the SMS marketing application.
 
@@ -50,7 +50,7 @@ whatever criteria is configured in those fields. Multiple rules can be added.
    the United States (e.g. `Country` > `Country Name` equals `United States`), and they haven't
    blacklisted themselves from any mailings (e.g. `Blacklist` > `is` > `not set`).
 
-   .. image:: create_sms/contact-recipient.png
+   .. image:: create_sms/contact-recipient.webp
       :align: center
       :alt: Contact recipients on SMS marketing.
 
@@ -66,7 +66,7 @@ Service)` mailings it will take to deliver the complete message.
    To check the price of sending an :abbr:`SMS (Short Message Service)` for a country, click on the
    :guilabel:`Information` icon.
 
-.. image:: create_sms/sms-price-check.png
+.. image:: create_sms/sms-price-check.webp
    :align: center
    :alt: SMS price check icon.
 
@@ -84,7 +84,7 @@ When links are used in :abbr:`SMS (Short Message Service)` messages, Odoo automa
 link trackers to gather analytical data and metrics related to those specific links, which can be
 found by going to :menuselection:`Configuration --> Link Tracker`.
 
-.. image:: create_sms/sms-link-tracker.png
+.. image:: create_sms/sms-link-tracker.webp
    :align: center
    :alt: SMS Link Tracker page.
 
@@ -98,7 +98,7 @@ avoiding all future mailings.
 An employee can be designated as the :guilabel:`Responsible` in the :guilabel:`Tracking` section of
 the :guilabel:`Settings` tab, as well.
 
-.. image:: create_sms/sms-settings-tab.png
+.. image:: create_sms/sms-settings-tab.webp
    :align: center
    :alt: SMS Settings tab.
 

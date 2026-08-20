@@ -54,7 +54,7 @@ Appraisals
 The :guilabel:`Appraisals` section of the settings menu determines the frequency that appraisals are
 performed, and if it is possible to request additional feedback.
 
-.. image:: appraisals/appraisals-setting.png
+.. image:: appraisals/appraisals-setting.webp
    :align: center
    :alt: The appraisals sections with the timeline filled in and 360 feedback enabled.
 
@@ -114,7 +114,7 @@ appears at the bottom of the list. Enter the name of the rating in the field.
 To rearrange the order of the ratings, click the :guilabel:`(six small gray boxes)` icon to the left
 of a rating, and drag the rating to the desired position on the list.
 
-.. image:: appraisals/evaluation-scale.png
+.. image:: appraisals/evaluation-scale.webp
    :align: center
    :alt: The evaluation scale, with the new button and click and drag icons highlighted.
 
@@ -125,7 +125,7 @@ The :guilabel:`360 Feedback` section displays information for all the surveys cu
 in the *Appraisals* application. To view the surveys, and their statistics, navigate to
 :menuselection:`Appraisals application --> Configuration --> 360 Feedback`.
 
-.. image:: appraisals/survey-list.png
+.. image:: appraisals/survey-list.webp
    :align: center
    :alt: A list view of all available surveys in the Appraisals application.
 

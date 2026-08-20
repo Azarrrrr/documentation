@@ -5,7 +5,7 @@ Connect a screen
 In Odoo, an :abbr:`IoT (Internet of Things)` box can be connected to a screen display. After being
 configured, the screen can be used to display a Point of Sale (PoS) order to a client.
 
-.. figure:: screen/screen-pos-client-display.png
+.. figure:: screen/screen-pos-client-display.webp
 
    An example of a PoS (point of sale) order on a screen display.
 
@@ -47,7 +47,7 @@ on the model.
 If the connection was successful, the screen should display the :guilabel:`POS Client display`
 screen.
 
-.. image:: screen/screen-pos-client-display-no-order.png
+.. image:: screen/screen-pos-client-display-no-order.webp
    :align: center
    :alt: The default "POS Client Display" screen that appears when a screen display is successfully
          connected to an IoT box.
@@ -56,7 +56,7 @@ The screen should also appear in the list of :guilabel:`Displays` on the :abbr:`
 Things)` box homepage. Alternatively, the display can be seen by accessing :menuselection:`IoT app
 --> Devices`.
 
-.. image:: screen/screen-screen-name-example.png
+.. image:: screen/screen-screen-name-example.webp
    :align: center
    :alt: An example of a screen display name shown on the IoT Box Home Page.
 
@@ -64,7 +64,7 @@ Things)` box homepage. Alternatively, the display can be seen by accessing :menu
    If no screen is detected, a default display named :guilabel:`Distant Display` will be displayed
    instead. This indicates that there is no hardware screen connected.
 
-    .. image:: screen/screen-no-screen.png
+    .. image:: screen/screen-no-screen.webp
        :align: center
        :alt: The "Distant Display" screen name will be used if no screen is detected.
 
@@ -83,14 +83,14 @@ necessary, and enable the :guilabel:`IoT Box` feature.
 Next, select the screen from the :guilabel:`Customer Display` drop-down menu. Then click
 :guilabel:`Save`, if required.
 
-.. image:: screen/screen-pos-screen-config.png
+.. image:: screen/screen-pos-screen-config.webp
    :align: center
    :alt: Connect the screen display to the Point of Sale app.
 
 The screen is now available for :abbr:`PoS (Point of Sale)` sessions. A screen icon will appear in
 the menu at the top of the screen to indicate the screen's connection status.
 
-.. image:: screen/screen-pos-icon.png
+.. image:: screen/screen-pos-icon.webp
    :align: center
    :alt: The "screen" icon on the Point of Sale display shows the connection status with the
          screen.
@@ -98,7 +98,7 @@ the menu at the top of the screen to indicate the screen's connection status.
 The screen will automatically show the :abbr:`PoS (Point of Sale)` orders and update when changes
 are made to the order.
 
-.. image:: screen/screen-pos-client-display.png
+.. image:: screen/screen-pos-client-display.webp
    :align: center
    :alt: An example of a PoS order on a screen display.
 

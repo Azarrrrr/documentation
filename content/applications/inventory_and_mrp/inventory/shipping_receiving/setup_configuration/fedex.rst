@@ -22,7 +22,7 @@ the checkbox next to :guilabel:`FedEx Connector`.
 Finally, click :guilabel:`Save` to save the changes. After doing so, a :icon:`oi-arrow-right`
 :guilabel:`FedEx Shipping Methods` button appears below :guilabel:`FedEx Connector`.
 
-.. image:: fedex/fsm-button.png
+.. image:: fedex/fsm-button.webp
    :align: center
    :alt: The FedEx Shipping Methods button below the FedEx Connector.
 
@@ -44,7 +44,7 @@ Connector` checkbox. Doing so opens a page that shows all existing FedEx shippin
 Select a shipping method to open its form. Alternatively, click :guilabel:`New` to open a blank
 form, and configure a new shipping method.
 
-.. image:: fedex/fedex-form.png
+.. image:: fedex/fedex-form.webp
    :align: center
    :alt: The form for a FedEx shipping method.
 

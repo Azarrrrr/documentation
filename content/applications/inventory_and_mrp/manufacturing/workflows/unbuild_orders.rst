@@ -50,7 +50,7 @@ unbuilt.
 Finally, once the product has been unbuilt, click the :guilabel:`Unbuild` button at the top of the
 order to confirm that it has been completed.
 
-.. image:: unbuild_orders/unbuild-order.png
+.. image:: unbuild_orders/unbuild-order.webp
    :align: center
    :alt: A filled-out unbuild order.
 
@@ -65,7 +65,7 @@ order to confirm that it has been completed.
    bottom of the pop-up window. To return to the unconfirmed unbuild order, click
    :guilabel:`Discard`, instead.
 
-   .. image:: unbuild_orders/insufficient-quantity.png
+   .. image:: unbuild_orders/insufficient-quantity.webp
       :align: center
       :alt: The insufficient quantity pop-up that appears after trying to confirm an unbuild order
             for a product with zero or fewer units on hand.

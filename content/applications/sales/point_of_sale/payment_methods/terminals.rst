@@ -15,7 +15,7 @@ Configuration
 Go to the :ref:`application settings <configuration/settings>`, scroll down to the
 :guilabel:`Payment Terminals` section, and tick your terminal's checkbox.
 
-.. image:: terminals/payment-terminals.png
+.. image:: terminals/payment-terminals.webp
    :alt: checkbox in the settings to enable a payment terminal
 
 Then, follow the corresponding documentation to configure your device:

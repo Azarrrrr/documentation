@@ -12,7 +12,7 @@ New` to reveal a blank survey form.
 Survey form
 ===========
 
-.. image:: create/blank-survey-form.png
+.. image:: create/blank-survey-form.webp
    :align: center
    :alt: How a blank survey form looks in the Odoo Surveys application.
 
@@ -63,7 +63,7 @@ Indicate whether questions require a mandatory answer by clicking the :guilabel:
 icon to the far-right of the column titles. Then, select :guilabel:`Mandatory Answer` from the
 drop-down menu to reveal the :guilabel:`Mandatory Answer` column in the :guilabel:`Questions` tab.
 
-.. image:: create/mandatory-answer-dropdown.png
+.. image:: create/mandatory-answer-dropdown.webp
    :align: center
    :alt: The slider drop-down menu with the Mandatory Answer option selected in Odoo Surveys.
 
@@ -122,7 +122,7 @@ likely because the selected survey type does not offer it.
 Questions section
 ~~~~~~~~~~~~~~~~~
 
-.. image:: create/questions-section-options-tab.png
+.. image:: create/questions-section-options-tab.webp
    :align: center
    :alt: The Questions section of the Options tab on a survey form in Odoo Surveys.
 
@@ -156,7 +156,7 @@ navigate back to previous pages in the survey.
 Time & Scoring section
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: create/time-scoring-section-options-tab.png
+.. image:: create/time-scoring-section-options-tab.webp
    :align: center
    :alt: The Time and Scoring section of the Options tab on a survey form in Odoo Surveys.
 
@@ -197,7 +197,7 @@ the contact page for that certified survey participant.
 Participants section
 ~~~~~~~~~~~~~~~~~~~~
 
-.. image:: create/participants-section-options-tab.png
+.. image:: create/participants-section-options-tab.webp
    :align: center
    :alt: The Participants section of the Options tab on a survey form in Odoo Surveys.
 
@@ -214,7 +214,7 @@ beside it, in which users can determine how many times users can attempt this su
 Live Session section
 ~~~~~~~~~~~~~~~~~~~~
 
-.. image:: create/live-session-section-options-tab.png
+.. image:: create/live-session-section-options-tab.webp
    :align: center
    :alt: The Live Session section of the Options tab on a survey form in Odoo Surveys.
 
@@ -273,7 +273,7 @@ Survey form buttons
 Once the survey has been configured properly, and questions have been added, the user can utilize
 any of the available buttons in the upper-left corner of the survey form.
 
-.. image:: create/survey-form-buttons.png
+.. image:: create/survey-form-buttons.webp
    :align: center
    :alt: The various buttons on a survey form in Odoo Surveys.
 
@@ -283,7 +283,7 @@ Those buttons are the following:
   invite potential participants to the survey — complete with a :guilabel:`Survey Link` that can be
   copied and sent to potential participants, and a :guilabel:`Send by Email` toggle switch.
 
-  .. image:: create/share-survey-popup.png
+  .. image:: create/share-survey-popup.webp
      :align: center
      :alt: The 'Share a Survey' pop-up window that appears in the Odoo Surveys application.
 
@@ -292,7 +292,7 @@ Those buttons are the following:
   to the email. Below that, a dynamic email template, complete with a :guilabel:`Start
   Certification` button appears, which can also be modified.
 
-  .. image:: create/share-survey-popup-email-toggle.png
+  .. image:: create/share-survey-popup-email-toggle.webp
      :align: center
      :alt: The 'Share a Survey' pop-up window in Odoo Surveys with the Send by Email toggled on.
 

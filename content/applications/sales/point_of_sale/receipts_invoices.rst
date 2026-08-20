@@ -14,7 +14,7 @@ both fields with the information to be printed on the receipts.
 To **print receipts** automatically once the payment is registered, enable the :guilabel:`Automatic
 Receipt Printing` setting.
 
-.. image:: receipts_invoices/receipt.png
+.. image:: receipts_invoices/receipt.webp
    :scale: 75%
    :alt: POS receipt
 
@@ -29,7 +29,7 @@ From the POS interface, click :guilabel:`Orders`, open the dropdown selection me
 search bar, and change the default :guilabel:`All active orders` filter to :guilabel:`Paid`. Then,
 select the corresponding order and click :guilabel:`Print Receipt`.
 
-.. image:: receipts_invoices/print-receipt.png
+.. image:: receipts_invoices/print-receipt.webp
    :alt: Print receipt button from the backend
 
 .. note::
@@ -58,7 +58,7 @@ To define what journals will be used for a specific POS, go to the :ref:`POS' se
 accounting journals used by default for orders and invoices in the :guilabel:`Default Journals`
 section.
 
-.. image:: receipts_invoices/invoice-config.png
+.. image:: receipts_invoices/invoice-config.webp
    :alt: accounting section in the POS settings
 
 Invoice a customer
@@ -83,7 +83,7 @@ To retrieve invoices from the **POS dashboard**,
 #. to access an order's invoice, open the **order form** by selecting the order, then click
    :guilabel:`Invoice`.
 
-.. image:: receipts_invoices/invoice-smart-button.png
+.. image:: receipts_invoices/invoice-smart-button.webp
    :alt: invoice smart button from an order form
 
 .. note::
@@ -101,7 +101,7 @@ invoice`. On the one hand, doing so generates an invoice available for download.
 the order status goes from :guilabel:`Paid` or :guilabel:`Posted` to :guilabel:`Invoiced` in the
 Odoo backend.
 
-.. image:: receipts_invoices/order-status.png
+.. image:: receipts_invoices/order-status.webp
    :alt: order status change
 
 To use this feature, you have to enable QR codes on receipts by going to :menuselection:`Point of

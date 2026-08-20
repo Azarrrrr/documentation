@@ -21,14 +21,14 @@ corner. Doing so reveals a drop-down menu.
 
 From this drop-down menu, select the :guilabel:`Import records` option.
 
-.. image:: import/gear-import-records-option.png
+.. image:: import/gear-import-records-option.webp
    :align: center
    :alt: The Import records option selectable from the gear icon on the Products page in Odoo Sales.
 
 Selecting :guilabel:`Import records` reveals a separate page with a link to download the
 :guilabel:`Import Template for Products`. Click that link to download the template.
 
-.. image:: import/import-template-products.png
+.. image:: import/import-template-products.webp
    :align: center
    :alt: The Import records option selectable from the gear icon on the Products page in Odoo Sales.
 
@@ -63,7 +63,7 @@ before any changes are made, there are a few elements to keep in mind during the
   menu next to the :guilabel:`File Column` that needs a manual adjustment, and select the
   appropriate field from that drop-down menu.
 
-  .. image:: import/odoo-field-dropdown-menu.png
+  .. image:: import/odoo-field-dropdown-menu.webp
      :align: center
      :alt: The Odoo Field drop-down menu next to a Field Column that needs to be manually adjusted.
 
@@ -74,7 +74,7 @@ After customizing the product template spreadsheet, return to the Odoo product i
 the template download link is found, and click the :guilabel:`Upload File` button in the upper-left
 corner.
 
-.. image:: import/upload-file-button.png
+.. image:: import/upload-file-button.webp
    :align: center
    :alt: The upload file button on the import products template download page in Odoo Sales.
 
@@ -84,7 +84,7 @@ selected and uploaded to Odoo.
 After that, Odoo reveals a page showcasing all the elements of the newly-configured product template
 spreadsheet, separated by :guilabel:`File Column`, :guilabel:`Odoo Field`, and :guilabel:`Comments`.
 
-.. image:: import/import-a-file-page.png
+.. image:: import/import-a-file-page.webp
    :align: center
    :alt: The import a file page in Odoo Sales after a product template has been uploaded.
 
@@ -97,14 +97,14 @@ click the :guilabel:`Test` button in the upper-left corner.
 If everything is lined up and applied correctly, Odoo reveals a blue banner at the top of the page,
 informing the user that :guilabel:`Everything seems valid`.
 
-.. image:: import/everything-seems-valid-message.png
+.. image:: import/everything-seems-valid-message.webp
    :align: center
    :alt: The everything seems valid message that appears if file columns are entered correctly.
 
 If there are any errors, Odoo reveals a red banner at the top of the page, with instructions of
 where to locate the specific issues, and how to fix them.
 
-.. image:: import/import-error-message.png
+.. image:: import/import-error-message.webp
    :align: center
    :alt: The import error message that appears if file columns don't match an Odoo Field.
 
@@ -120,7 +120,7 @@ When clicked, Odoo instantly imports those products, and reveals the main :guila
 with a pop-up message in the upper-right corner. This pop-up message informs the user how many
 products were successfully imported.
 
-.. image:: import/successful-import-popup.png
+.. image:: import/successful-import-popup.webp
    :align: center
    :alt: The pop-up window that appears after a successful product import process in Odoo Sales.
 
@@ -177,7 +177,7 @@ The column names/titles of the attributes and values spreadsheet should be as fo
 :guilabel:`Attribute`, :guilabel:`Display Type`, :guilabel:`Variant Creation Mode`, and
 :guilabel:`Values / Value`.
 
-.. image:: import/attributes-and-values-spreadsheet.png
+.. image:: import/attributes-and-values-spreadsheet.webp
    :align: center
    :alt: An attributes and values spreadsheet template for imports.
 
@@ -229,7 +229,7 @@ Attributes / Values`, and :guilabel:`Name` columns.
 There can be other columns, as well, but these columns are **required** in order to properly import
 products with specific variants.
 
-.. image:: import/product-attribute-spreadsheet-import.png
+.. image:: import/product-attribute-spreadsheet-import.webp
    :align: center
    :alt: Product variants spreadsheet with product attributes and variants for import purposes.
 

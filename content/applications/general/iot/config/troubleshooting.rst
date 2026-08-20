@@ -71,7 +71,7 @@ The printer is not detected
 If a printer does not appear in the devices list, go to the :abbr:`IoT (Internet of Things)` box
 homepage and make sure that it is listed under :guilabel:`Printers`.
 
-.. image:: troubleshooting/printer-status.png
+.. image:: troubleshooting/printer-status.webp
    :align: center
    :alt: The IoT box Home Page landing page.
 
@@ -92,7 +92,7 @@ the printer in the list. In the :guilabel:`Administration` drop-down menu, click
 :guilabel:`Modify Printer`. Follow the steps and select the *make* and *model* corresponding to the
 printer.
 
-.. image:: troubleshooting/modify-printer.png
+.. image:: troubleshooting/modify-printer.webp
    :align: center
    :alt: Edit the printer connected to the IoT box.
 
@@ -108,7 +108,7 @@ to the form view of the device (:menuselection:`IoT App --> Devices -->Printer D
 the subtype. The three options available are: :guilabel:`Receipt Printer`, :guilabel:`Label
 Printer`, and :guilabel:`Office Printer`.
 
-.. image:: troubleshooting/sub-type.png
+.. image:: troubleshooting/sub-type.webp
    :align: center
    :alt: Sub-type selection in a printer IoT device.
 
@@ -258,14 +258,14 @@ Save`.
    `ESC *` command. The receipt pictured below is an example of a receipt that is printing correctly
    due to proper formatting (in theory):
 
-   .. image:: troubleshooting/receipt-example.png
+   .. image:: troubleshooting/receipt-example.webp
       :align: center
       :alt: Properly formatted receipt picture from a demo database.
 
    Trying to print this receipt right-away prior to the proper formatting will not work as the
    TM-U220B printer model does not support `GS v 0`. Instead random characters will print:
 
-   .. image:: troubleshooting/receipt-print-random-letters.png
+   .. image:: troubleshooting/receipt-print-random-letters.webp
       :align: center
       :alt: Printer paper with seemingly random characters.
 
@@ -276,13 +276,13 @@ Save`.
    <https://reference.epson-biz.com/modules/ref_escpos/index.php?content_id=88>`_, it can be seen
    that indeed the TM-U220B is not compatible with `GS v 0`, but is compatible with `ESC *`.
 
-   .. image:: troubleshooting/epson-compatibility-compare.png
+   .. image:: troubleshooting/epson-compatibility-compare.webp
       :align: center
       :alt: Epson compatibility evaluation from Epson website.
 
    When adding the printer, *CUPS* will ask which printer should be added:
 
-   .. image:: troubleshooting/add-printer.png
+   .. image:: troubleshooting/add-printer.webp
       :align: center
       :alt: Administration menu, add printer selection.
 
@@ -298,7 +298,7 @@ Save`.
    <https://reference.epson-biz.com/modules/ref_escpos/index.php?content_id=88>`_ to find out more
    about the *density* parameters.
 
-   .. image:: troubleshooting/epson-tm-u220-specification.png
+   .. image:: troubleshooting/epson-tm-u220-specification.webp
       :align: center
       :alt: Epson TM-U220 specifications on manufacturer's website.
 
@@ -314,14 +314,14 @@ Save`.
 
    To add a *Low Vertical Density*, add the `LDV` parameter to the naming convention.
 
-   .. image:: troubleshooting/add-printer-filled.png
+   .. image:: troubleshooting/add-printer-filled.webp
       :align: center
       :alt: Add a *Low Vertical Density* (the `LDV` parameter) to the naming convention.
 
    Click :guilabel:`Continue` to proceed. Next, set the :guilabel:`Make` value to :guilabel:`Raw`
    and for the :guilabel:`Model` value, set this to :guilabel:`Raw Queue (en)`.
 
-   .. image:: troubleshooting/add-printer-add.png
+   .. image:: troubleshooting/add-printer-add.webp
       :align: center
       :alt: Epson TM-U220 specifications on manufacturers website.
 
@@ -339,19 +339,19 @@ Save`.
         - `EpsonTMU220B__IMC_LDV_SCALE75__`
         - `EpsonTMU220B__IMC_LDV_LDH__`
         - `EpsonTMU220B__IMC_LDV_LDH_SCALE35__`
-      * - .. image:: troubleshooting/receipt-example.png
+      * - .. image:: troubleshooting/receipt-example.webp
              :align: center
              :alt: Receipt example format.
-        - .. image:: troubleshooting/tm-u220-ldv.png
+        - .. image:: troubleshooting/tm-u220-ldv.webp
              :align: center
              :alt: Receipt format using naming convention: EpsonTMU220B__IMC_LDV__.
-        - .. image:: troubleshooting/tm-u220-ldv-scale75.png
+        - .. image:: troubleshooting/tm-u220-ldv-scale75.webp
              :align: center
              :alt: Receipt format using naming convention: EpsonTMU220B__IMC_LDV_SCALE75__.
-        - .. image:: troubleshooting/tm-u220-ldv-hdv.png
+        - .. image:: troubleshooting/tm-u220-ldv-hdv.webp
              :align: center
              :alt: Receipt format using naming convention: EpsonTMU220B__IMC_LDV_LDH__.
-        - .. image:: troubleshooting/tm-u220-ldv-hdv-scale35.png
+        - .. image:: troubleshooting/tm-u220-ldv-hdv-scale35.webp
              :align: center
              :alt: Receipt format using naming convention: EpsonTMU220B__IMC_LDV_LDH_SCALE35__.
 
@@ -390,7 +390,7 @@ of the :abbr:`IoT (Internet of Things)` box homepage. Next, click on :menuselect
 the top menu. Click into the printer in question, and select :guilabel:`Maintenance` in the first
 drop-down menu. Then, select :guilabel:`Modify Printer` in the second drop-down menu.
 
-.. image:: troubleshooting/main-modify.png
+.. image:: troubleshooting/main-modify.webp
    :align: center
    :alt: Modify the make and model of the DYMO LabelWriter. Maintenance and Modify drop-down menus
          highlighted.
@@ -398,20 +398,20 @@ drop-down menu. Then, select :guilabel:`Modify Printer` in the second drop-down 
 Next, select the specific network connection/printer that the modification should be made on. Click
 :guilabel:`Continue`.
 
-.. image:: troubleshooting/modify-select-printer.png
+.. image:: troubleshooting/modify-select-printer.webp
    :align: center
    :alt: Printer selection screen with Continue highlighted.
 
 On the next page, click :guilabel:`Continue` to proceed to set the :guilabel:`Make` of the printer.
 
-.. image:: troubleshooting/modify-printer-dymo.png
+.. image:: troubleshooting/modify-printer-dymo.webp
    :align: center
    :alt: Printer modification screen with Continue highlighted.
 
 Under :guilabel:`Make` select :guilabel:`DYMO` from the menu. Click on :guilabel:`Continue` to set
 the :guilabel:`Model`.
 
-.. image:: troubleshooting/setting-make.png
+.. image:: troubleshooting/setting-make.webp
    :align: center
    :alt: Setting the make page, with DYMO and continue highlighted.
 
@@ -419,7 +419,7 @@ On the following page, set the :guilabel:`Model` to :guilabel:`DYMO LabelWriter 
 (or whichever DYMO printer model is being used). Click on :guilabel:`Modify Printer` to complete
 setting the new driver, a confirmation page will appear.
 
-.. image:: troubleshooting/setting-model.png
+.. image:: troubleshooting/setting-model.webp
    :align: center
    :alt: Setting the printer model page with DYMO LabelWriter 450 DUO Label (en) highlighted.
 
@@ -434,7 +434,7 @@ To print a test label, click on the :guilabel:`Maintenance` drop-down menu to th
 :guilabel:`Administration` drop-down menu, and select :guilabel:`Print Test Page`. The test label
 will print out with a ten-second delay if the driver update was successful.
 
-.. image:: troubleshooting/print-test.png
+.. image:: troubleshooting/print-test.webp
    :align: center
    :alt: Printing a test page from the administration drop-down menu in the OpenPrinting CUPs
          server.
@@ -455,7 +455,7 @@ a Printer`.
    driver type), then update the drivers on the device. See
    :ref:`troubleshooting/dymo/update_drivers`.
 
-.. image:: troubleshooting/add-printer-dymo.png
+.. image:: troubleshooting/add-printer-dymo.webp
    :align: center
    :alt: Add a printer button highlighted on the Printer CUPS management page.
 
@@ -463,14 +463,14 @@ On the next screen, in the :guilabel:`Local Printers` section, select the :guila
 LabelWriter 450 DUO Label (DYMO LabelWriter 450 DUO Label)` (or whichever DYMO printer model is
 being used) pre-installed printer. Click :guilabel:`Continue`.
 
-.. image:: troubleshooting/local-printer.png
+.. image:: troubleshooting/local-printer.webp
    :align: center
    :alt: Add a printer screen on OpenPrinting CUPS with DYMO LabelWriter 450 DUO Label highlighted.
 
 On the following screen, modify the :guilabel:`Name` to something recognizable, as the original
 printer will still be present. Click :guilabel:`Continue` to be taken to the next screen.
 
-.. image:: troubleshooting/rename-printer.png
+.. image:: troubleshooting/rename-printer.webp
    :align: center
    :alt: Rename printer page in the 'Add a Printer' flow, with the name field highlighted.
 
@@ -478,7 +478,7 @@ Next, choose the :guilabel:`Model`. Select :guilabel:`DYMO LabelWriter 450 DUO L
 whichever DYMO printer model is being used), and finally, click :guilabel:`Add Printer` to complete
 the installation.
 
-.. image:: troubleshooting/choose-printer.png
+.. image:: troubleshooting/choose-printer.webp
    :align: center
    :alt: Choose model screen on the OpenPrinting CUPS console with model and add a printer
          highlighted.
@@ -490,7 +490,7 @@ All the printers installed on the OpenPrinting CUPS server appear, including the
 :guilabel:`DYMO LabelWriter 450 DUO Label` (or whichever DYMO printer model is being used). Click
 into the printer that was just installed.
 
-.. image:: troubleshooting/printer-page.png
+.. image:: troubleshooting/printer-page.webp
    :align: center
    :alt: Printer page with newly installed printer highlighted.
 
@@ -498,7 +498,7 @@ To print a test label, click on the :guilabel:`Maintenance` drop-down menu to th
 :guilabel:`Administration` drop-down menu, and select :guilabel:`Print Test Page`. The test label
 should print out immediately (one-to-two seconds delay).
 
-.. image:: troubleshooting/print-test.png
+.. image:: troubleshooting/print-test.webp
    :align: center
    :alt: Printing a test page from the administration drop-down menu in the OpenPrinting CUPs
          server.
@@ -544,7 +544,7 @@ The barcode scanner is detected as a keyboard
 The device type can be manually changed by going to its form view (:menuselection:`IoT App -->
 Devices --> Barcode Device`) and activating the :guilabel:`Is scanner` option.
 
-.. image:: troubleshooting/barcode-scanner-settings.png
+.. image:: troubleshooting/barcode-scanner-settings.webp
    :align: center
    :alt: Modifying the form view of the barcode scanner.
 
@@ -560,7 +560,7 @@ with the appropriate language of the barcode scanner on the *Barcode Scanner* fo
    Access the barcode scanner form page by navigating to :menuselection:`IoT App --> Devices -->
    Barcode Scanner`.
 
-.. image:: troubleshooting/keyboard-layout.png
+.. image:: troubleshooting/keyboard-layout.webp
    :align: center
    :alt: Barcode scanner form page, with keyboard layout option highlighted.
 
@@ -608,7 +608,7 @@ Sale)` cable. Contact Mettler, or a partner, to purchase an authentic cable. Not
 cable outside of this Mettler cable works for this configuration. Using a serial-only cable attached
 to a serial-to-:abbr:`USB (Universal Serial Bus)` adapter is **not** effective.
 
-.. image:: troubleshooting/cable-mettler.png
+.. image:: troubleshooting/cable-mettler.webp
    :align: center
    :alt: Authentic Mettler USB to POS cable, part number 72256236.
 

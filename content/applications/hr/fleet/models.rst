@@ -159,7 +159,7 @@ the :guilabel:`Add: Vendors` pop-up window. In the :guilabel:`Create Vendors` fo
 enter the necessary information, then click :guilabel:`Save & Close` to add the vendor, or click
 :guilabel:`Save & New` to add the current vendor and create another new vendor.
 
-.. image:: models/vendor.png
+.. image:: models/vendor.webp
    :align: center
    :alt: Vendor form to fill out when adding a new vendor.
 
@@ -198,6 +198,6 @@ vehicle can carry.
    much space and weight remain for loading products
    <../../inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dispatch>`.
 
-.. image:: models/categories.png
+.. image:: models/categories.webp
    :align: center
    :alt: List view of the models in the fleet.

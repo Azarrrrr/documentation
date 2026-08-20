@@ -42,7 +42,7 @@ Configure the payment method
       <razorpay/credentials>`.
    #. Set the :guilabel:`Razorpay Allowed Payment Modes` according to your needs.
 
-   .. image:: razorpay/create-method-razorpay.png
+   .. image:: razorpay/create-method-razorpay.webp
       :alt: Razorpay connection form
 
    .. note::

@@ -53,7 +53,7 @@ specify their quantities under the :guilabel:`Quantity` column.
 
 Once ready, click :guilabel:`Save` to save the newly-created :abbr:`BoM (bill of materials)`.
 
-.. image:: kit_shipping/bom-kit-selection.png
+.. image:: kit_shipping/bom-kit-selection.webp
    :align: center
    :alt: Kit selection on the bill of materials.
 
@@ -87,7 +87,7 @@ of materials)`.
 
 Once ready, click :guilabel:`Save` to save changes.
 
-.. image:: kit_shipping/multilevel-bom-kit.png
+.. image:: kit_shipping/multilevel-bom-kit.webp
    :align: center
    :alt: Kit as a component in a multilevel bill of materials.
 
@@ -98,7 +98,7 @@ To access a comprehensive overview of the multi-level :abbr:`BoM's (bill of mate
 click on the :guilabel:`Structure & Cost` smart button. Sublevel :abbr:`BoMs (bills of materials)`
 can be expanded and viewed from this report.
 
-.. image:: kit_shipping/structure-and-cost-kit.png
+.. image:: kit_shipping/structure-and-cost-kit.webp
    :align: center
    :alt: Expanded kit in the Structure and Cost report.
 

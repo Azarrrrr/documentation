@@ -30,7 +30,7 @@ Then, add a :guilabel:`Customer`, and add a product to the :guilabel:`Order Line
 
 Lastly, click :guilabel:`Confirm` to confirm the sales order.
 
-.. image:: expense/confirmed-sales-order.png
+.. image:: expense/confirmed-sales-order.webp
    :align: center
    :alt: This is how a confirmed sales order looks in the Odoo Sales application.
 
@@ -41,7 +41,7 @@ To do that, navigate to the *Expenses* application, by going to :menuselection:`
 
 Then, from the *Expenses* dashboard, click :guilabel:`New` to reveal a blank expenses form.
 
-.. image:: expense/blank-expenses-form.png
+.. image:: expense/blank-expenses-form.webp
    :align: center
    :alt: A blank expenses form in the Odoo Expenses application.
 
@@ -62,7 +62,7 @@ menu:
    field drop-down menu, selecting :guilabel:`View All`, and clicking :guilabel:`New` from the
    :guilabel:`Search:Category` pop-up window.
 
-   .. image:: expense/expense-category-pop-up.png
+   .. image:: expense/expense-category-pop-up.webp
       :align: center
       :alt: The Search:Category expenses pop-up window from a blank expenses form in Odoo Expenses.
 
@@ -104,7 +104,7 @@ are available to modify, if needed.
 Also, at the bottom of the expense form, there is a :guilabel:`Notes...` section, wherein any notes
 related to this expense can be added, if needed.
 
-.. image:: expense/filled-in-expense-form.png
+.. image:: expense/filled-in-expense-form.webp
    :align: center
    :alt: A filled out expenses form in the Odoo Expenses application.
 
@@ -123,7 +123,7 @@ report that was just configured.
 
 Doing so reveals an :guilabel:`Expense Report Summary` for the new expense.
 
-.. image:: expense/expense-report-summary-form.png
+.. image:: expense/expense-report-summary-form.webp
    :align: center
    :alt: An expense report summary in the Odoo Expenses application.
 
@@ -135,7 +135,7 @@ the expense, and if there are no issues, they will click the :guilabel:`Approve`
 *only* appears on the manager's view of the :guilabel:`Expense Report Summary` that's been submitted
 to the manager by the employee.
 
-.. image:: expense/expense-report-summary-manager-approve.png
+.. image:: expense/expense-report-summary-manager-approve.webp
    :align: center
    :alt: An expense report summary that a manager will approve with an Approve button.
 
@@ -144,7 +144,7 @@ At this point, the buttons at the top of the :guilabel:`Expense Report Summary` 
 Journal Entries`, :guilabel:`Report in Next Payslip`, :guilabel:`Refuse`, and :guilabel:`Reset to
 Draft`.
 
-.. image:: expense/expense-report-summary-manager-post-journal.png
+.. image:: expense/expense-report-summary-manager-post-journal.webp
    :align: center
    :alt: An expense report summary with post journal entries button at the top of the form.
 
@@ -170,7 +170,7 @@ initially configured to the expense in the :guilabel:`Customer to Reinvoice` fie
    Look in the :guilabel:`Re-Invoice Expenses` column to see which selections have been made for
    each expense category.
 
-   .. image:: expense/expense-categories-page.png
+   .. image:: expense/expense-categories-page.webp
       :align: center
       :alt: The Re-Invoice Expenses column on the Expense Categories page in the Odoo Expenses app.
 
@@ -180,7 +180,7 @@ initially configured to the expense in the :guilabel:`Customer to Reinvoice` fie
    Under the :guilabel:`Invoicing` section, in the :guilabel:`Re-Invoice Expenses` field, select
    either :guilabel:`At cost` or :guilabel:`Sales price`.
 
-   .. image:: expense/reinvoice-expenses-field.png
+   .. image:: expense/reinvoice-expenses-field.webp
       :align: center
       :alt: The Re-Invoice Expenses field on an Expense Category form in the Odoo Expenses app.
 
@@ -196,14 +196,14 @@ appropriate sales order that should be reinvoiced for the expense.
 On the sales form, the newly-configured expense is now in the :guilabel:`Order Lines` tab, with its
 :guilabel:`Delivered` column filled in, and ready to be invoiced.
 
-.. image:: expense/sales-order-with-expense-order-lines.png
+.. image:: expense/sales-order-with-expense-order-lines.webp
    :align: center
    :alt: A sales order with the configured expense ready to be invoiced in the Order Lines tab.
 
 After confirming the details of the expense, click :guilabel:`Create Invoice` at the top of the
 sales order. When clicked, a :guilabel:`Create invoices` pop-up window appears.
 
-.. image:: expense/create-invoices-popup.png
+.. image:: expense/create-invoices-popup.webp
    :align: center
    :alt: A create invoices pop-up window that appears when the Create Invoice is clicked.
 
@@ -213,7 +213,7 @@ From this pop-up window, leave the :guilabel:`Create Invoice` field on the defau
 Doing so reveals a :guilabel:`Customer Invoice Draft` showing *only* the expense in the
 :guilabel:`Invoice Lines` tab.
 
-.. image:: expense/customer-invoice-draft-with-expense.png
+.. image:: expense/customer-invoice-draft-with-expense.webp
    :align: center
    :alt: A customer invoice draft with the expense in the Invoice Lines tab of the form.
 
@@ -231,7 +231,7 @@ the invoice is automatically downloaded for record-keeping and/or printing purpo
 Back on the :guilabel:`Customer Invoice`, click the :guilabel:`Register Payment` button when the
 customer pays for the invoiced expense.
 
-.. image:: expense/customer-invoice-register-payment.png
+.. image:: expense/customer-invoice-register-payment.webp
    :align: center
    :alt: A customer invoice with the register payment button ready to be clicked.
 
@@ -239,7 +239,7 @@ When :guilabel:`Register Payment` is clicked, a :guilabel:`Register Payment` pop
 In this pop-up window, the necessary fields are auto-populated with the correct information. After
 reviewing the information, click :guilabel:`Create Payment`.
 
-.. image:: expense/register-payment-popup.png
+.. image:: expense/register-payment-popup.webp
    :align: center
    :alt: A register payment pop-up window on a customer invoice in Odoo Sales.
 
@@ -247,7 +247,7 @@ Once :guilabel:`Create Payment` is clicked, the pop-up window disappears, and a 
 Payment` banner is in the upper-right corner of the invoice, signifying this invoice is paid for in
 full. Thus, completing the workflow.
 
-.. image:: expense/expense-invoice-in-payment-banner.png
+.. image:: expense/expense-invoice-in-payment-banner.webp
    :align: center
    :alt: A register payment pop-up window on a customer invoice in Odoo Sales.
 

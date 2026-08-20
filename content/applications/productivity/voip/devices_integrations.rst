@@ -26,7 +26,7 @@ call as an activity in the chatter.
    Should the :guilabel:`Due Date` be for today's date, the activity shows up in the :abbr:`VoIP
    (Voice over Internet Protocol)` widget.
 
-   .. image:: devices_integrations/crm-voip-widget.png
+   .. image:: devices_integrations/crm-voip-widget.webp
       :align: center
       :alt: View of CRM leads and the option to schedule an activity for Odoo Discuss.
 
@@ -70,7 +70,7 @@ continue with the call using the microphone.
 
 This step is **necessary**, whether using the mobile Odoo application or web browser.
 
-.. image:: devices_integrations/allow-mic.png
+.. image:: devices_integrations/allow-mic.webp
    :align: center
    :alt: Allow the database to access the microphone.
 
@@ -78,13 +78,13 @@ Odoo then asks how to make the call. The two options are : :guilabel:`VOIP` or :
 (should the tablet be enabled for calling). Click the box next to :guilabel:`Remember ?` should this
 decision be the default moving forward.
 
-.. image:: devices_integrations/voip-phone.png
+.. image:: devices_integrations/voip-phone.webp
    :align: center
    :alt: Window prompt to choose whether to use VOIP or the devices phone to make the call.
 
 Here is the layout of what the Odoo *VoIP* app looks like on a mobile device:
 
-.. image:: devices_integrations/voip-odoo-dashboard.png
+.. image:: devices_integrations/voip-odoo-dashboard.webp
    :align: center
    :alt: Layout of what the VoIP app looks like on the a mobile device.
 
@@ -109,7 +109,7 @@ icon to add an account.
 If the :abbr:`VoIP (Voice over Internet Protocol)` account is already set up, then click
 :guilabel:`Yes`. This means an account username and password has already been produced.
 
-.. image:: devices_integrations/account-settings-zoiper-group.png
+.. image:: devices_integrations/account-settings-zoiper-group.webp
    :align: center
    :alt: Zoiper account setup, shown in the view from a mobile device.
 
@@ -121,7 +121,7 @@ for the provider that is being configured, then find the :guilabel:`Provider`, a
    If the provider being configured is *Axivox*, then select :guilabel:`Belgium`. Then, choose
    :guilabel:`Axivox` as the provider.
 
-.. image:: devices_integrations/provider-zoiper-odoo.png
+.. image:: devices_integrations/provider-zoiper-odoo.webp
    :align: center
    :alt: Zoiper account setup, choosing the provider.
 
@@ -156,7 +156,7 @@ the screen. Once the registration information is checked, *Zoiper* populates a m
 At this point, *Zoiper* is now set up to make phone calls using the :abbr:`VoIP (Voice over Internet
 Protocol)` service.
 
-.. image:: devices_integrations/sip-options-zoiper.png
+.. image:: devices_integrations/sip-options-zoiper.webp
    :align: center
    :alt: Zoiper account setup, registration successful.
 
@@ -183,7 +183,7 @@ complete, press :guilabel:`Login`.
 At this point, *Linphone* is ready to start making calls, once there is a green button at the top of
 the application screen that reads, :guilabel:`Connected`.
 
-.. image:: devices_integrations/linphone-odoo-setup.png
+.. image:: devices_integrations/linphone-odoo-setup.webp
    :align: center
    :alt: Linphone account setup, registration successful.
 

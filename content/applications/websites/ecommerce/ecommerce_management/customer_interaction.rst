@@ -14,7 +14,7 @@ services since reviews can influence purchase processes. To activate the **ratin
 your **shop page**, select a product, go to :menuselection:`Edit --> Customize` and enable
 :guilabel:`Rating`.
 
-.. image:: customer_interaction/interaction-rating.png
+.. image:: customer_interaction/interaction-rating.webp
    :align: center
    :alt: Rating of a product on the product page
 
@@ -48,7 +48,7 @@ Customers may need support after purchasing a product or subscribing to a servic
 create a **contact form**, which, when fulfilled, automatically creates a new ticket for your
 **support team**.
 
-.. image:: customer_interaction/interaction-form.png
+.. image:: customer_interaction/interaction-form.webp
    :align: center
    :alt: Contact form to submit a ticket to the support team
 
@@ -58,7 +58,7 @@ Once placed, click on the form (while in :guilabel:`Edit` mode), and in the :gui
 field, select :guilabel:`Create a Ticket`. You can then select to which :guilabel:`Helpdesk team`
 the ticket should be assigned.
 
-.. image:: customer_interaction/interaction-ticket.png
+.. image:: customer_interaction/interaction-ticket.webp
    :align: center
    :alt: Action field to create a task upon submitting a form
 
@@ -77,11 +77,11 @@ When clicking on a field, or when adding a new field (:guilabel:`+ Field`), you 
 :guilabel:`Type`. This enables different options, such as :guilabel:`Multiple Checkboxes`, which
 customers can use to indicate the services they are interested in, for example.
 
-.. image:: customer_interaction/interaction-tags.png
+.. image:: customer_interaction/interaction-tags.webp
    :align: center
    :alt: Tags to be selected on the 'Contact Us' form
 
-.. image:: customer_interaction/interaction-checkboxes.png
+.. image:: customer_interaction/interaction-checkboxes.webp
    :align: center
    :alt: 'Checkboxes' configuration settings
 
@@ -106,7 +106,7 @@ in the :guilabel:`Newsletter Block` section. There are **three** templates avail
 - :guilabel:`Form Subscription`: allows adding several fields, as well as a checkbox for the visitor
   to agree to the **GDPR policy** of your website.
 
-.. image:: customer_interaction/interaction-news.png
+.. image:: customer_interaction/interaction-news.webp
    :align: center
    :alt: Form subscription configuration and settings
 

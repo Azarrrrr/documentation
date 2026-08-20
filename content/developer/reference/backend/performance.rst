@@ -44,7 +44,7 @@ including tests.
            :guilabel:`Enable profiling` button. A wizard suggests a set of expiry times for the
            profiling. Click on :guilabel:`ENABLE PROFILING` to enable the profiler globally.
 
-           .. image:: performance/enable_profiling_wizard.png
+           .. image:: performance/enable_profiling_wizard.webp
 
          - Go to :guilabel:`Settings --> General Settings --> Performance` and set the desired time to
            the field :guilabel:`Enable profiling until`.
@@ -55,7 +55,7 @@ including tests.
          sql` and :guilabel:`Record traces` are enabled. To learn more about the different options,
          head over to :ref:`performance/profiling/collectors`.
 
-         .. image:: performance/profiling_debug_menu.png
+         .. image:: performance/profiling_debug_menu.webp
 
       When the profiler is enabled, all the requests made to the server are profiled and saved into
       an `ir.profile` record. Such records are grouped into the current profiling session which
@@ -130,12 +130,12 @@ database <performance/profiling/enable>`, then open the :ref:`developer mode too
 <developer-mode/tools>` and click on the button in the top-right corner of the profiling
 section. A list view of the `ir.profile` records grouped by profiling session opens.
 
-.. image:: performance/profiling_web.png
+.. image:: performance/profiling_web.webp
    :align: center
 
 Each record has a clickable link that opens the speedscope results in a new tab.
 
-.. image:: performance/flamegraph_example.png
+.. image:: performance/flamegraph_example.webp
    :align: center
 
 Speedscope falls out of the scope of this documentation but there are a lot of tools to try: search,
@@ -144,7 +144,7 @@ highlight of similar frames, zoom on frame, timeline, left heavy, sandwich view.
 Depending on the profiling options that were activated, Odoo generates different view modes that you
 can access from the top menu.
 
-.. image:: performance/speedscope_modes.png
+.. image:: performance/speedscope_modes.webp
    :align: center
 
 - The :guilabel:`Combined` view shows all the SQL queries and traces merged togethers.

@@ -44,7 +44,7 @@ category. Next, set the :guilabel:`Costing Method` as :guilabel:`First In First 
 Next, assume 10 tables are purchased at a price of $10.00, each. The :abbr:`PO (Purchase Order)` for
 those tables will show the subtotal of the purchase as $100, plus any additional costs or taxes.
 
-.. image:: using_inventory_valuation/purchase-order.png
+.. image:: using_inventory_valuation/purchase-order.webp
    :align: center
    :alt: Purchase order with 10 tables products valued at $10.00 each.
 
@@ -61,7 +61,7 @@ valuation for the table was affected by this purchase.
    ownership to items in stock. Thus, products owned by other companies are not accounted for in the
    host company's inventory valuation.
 
-.. image:: using_inventory_valuation/valuation-smart-button.png
+.. image:: using_inventory_valuation/valuation-smart-button.webp
    :align: center
    :alt: See Valuation smart button on a receipt, with Developer mode enabled.
 
@@ -76,7 +76,7 @@ In the same logic, when a table is shipped to a customer and leaves the warehous
 valuation decreases. The :guilabel:`Valuation` smart button on the :abbr:`DO (Delivery Order)`,
 likewise, displays the stock valuation record as it does on a :abbr:`PO (Purchase Order)`.
 
-.. image:: using_inventory_valuation/decreased-stock-valuation.png
+.. image:: using_inventory_valuation/decreased-stock-valuation.webp
    :align: center
    :alt: Decreased stock valuation after a product is shipped.
 
@@ -95,7 +95,7 @@ inventory.
    :ref:`Developer mode <developer-mode>` **must** be enabled to see the :guilabel:`Valuation`
    option under :guilabel:`Reporting`.
 
-.. image:: using_inventory_valuation/inventory-valuation-products.png
+.. image:: using_inventory_valuation/inventory-valuation-products.webp
    :align: center
    :alt: Inventory valuation report showing multiple products.
 
@@ -122,7 +122,7 @@ serves as an additional tool to update the unit price of products.
    than 0, or have product categories set with :guilabel:`Costing Method` set as either
    :guilabel:`Average Cost (AVCO)` or :guilabel:`First In First Out (FIFO)`.
 
-.. image:: using_inventory_valuation/add-manual-valuation.png
+.. image:: using_inventory_valuation/add-manual-valuation.webp
    :align: center
    :alt: Add manual valuation of stock value to a product.
 
@@ -140,7 +140,7 @@ unit price of each product.
    The :guilabel:`▶️ (drop-down triangle)` and :guilabel:`➕ (plus)` buttons are only visible after
    grouping entries by product.
 
-.. image:: using_inventory_valuation/product-revaluation.png
+.. image:: using_inventory_valuation/product-revaluation.webp
    :align: center
    :alt: Product revaluation form adding a value of $1.00 with the reason being inflation.
 
@@ -163,14 +163,14 @@ moved in and out of the warehouse.
    --> Accounting --> Journal Entries`. Here, click the journal line where the :guilabel:`Reference`
    column value matches the reference on the receipt, `WH/IN/00014`.
 
-   .. image:: using_inventory_valuation/stock-valuation-product.png
+   .. image:: using_inventory_valuation/stock-valuation-product.webp
       :align: center
       :alt: Stock valuation page depicting the products within a shipment.
 
    `Stock interim` is a holding account for money intended to pay vendors for the product. The
    `stock valuation` account stores the value of all on-hand stock.
 
-   .. image:: using_inventory_valuation/inventory-valuation-entry.png
+   .. image:: using_inventory_valuation/inventory-valuation-entry.webp
       :align: center
       :alt: Accounting entry for the inventory valuation of 10 tables.
 

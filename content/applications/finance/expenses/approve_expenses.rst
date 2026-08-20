@@ -21,7 +21,7 @@ A list of all expense reports with a status of either :guilabel:`To Submit`, :gu
 :guilabel:`Approved`, :guilabel:`Posted`, or :guilabel:`Done` appears. Expense reports with a status
 of :guilabel:`Refused` are hidden, by default.
 
-.. image:: approve_expenses/expense-reports-list.png
+.. image:: approve_expenses/expense-reports-list.webp
    :align: center
    :alt: Reports to validate are found on the Reports to Approve page.
 
@@ -65,7 +65,7 @@ the checkbox next to each report being approved, or tick the checkbox next to th
 
 Next, click the :guilabel:`Approve Report` button.
 
-.. image:: approve_expenses/approve-report.png
+.. image:: approve_expenses/approve-report.webp
    :align: center
    :alt: Approve multiple reports by clicking the checkboxes next to each report.
 
@@ -78,7 +78,7 @@ Next, click the :guilabel:`Approve Report` button.
 
    This presents all the reports for only the manager's team.
 
-   .. image:: approve_expenses/my-team-filter.png
+   .. image:: approve_expenses/my-team-filter.webp
       :align: center
       :alt: Select the My Team filter.
 
@@ -103,7 +103,7 @@ email.
    who is a follower, click the :icon:`fa-user-o` :guilabel:`(user)` icon to display the followers
    of the expense report.
 
-   .. image:: approve_expenses/chatter.png
+   .. image:: approve_expenses/chatter.webp
       :align: center
       :alt: Send messages in the chatter.
 
@@ -111,7 +111,7 @@ To refuse an expense report, click :guilabel:`Refuse`, and a :guilabel:`Refuse E
 window appears. Enter a brief explanation for the refusal beneath the :guilabel:`REASON TO REFUSE
 EXPENSE` field, then click :guilabel:`Refuse`.
 
-.. image:: approve_expenses/refuse-expense.png
+.. image:: approve_expenses/refuse-expense.webp
    :align: center
    :alt: Send messages in the chatter.
 

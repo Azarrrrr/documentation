@@ -13,7 +13,7 @@ Quotation settings
 To access these setting options, navigate to :menuselection:`Sales app --> Configuration -->
 Settings`, and scroll to the :guilabel:`Quotations & Orders` section.
 
-.. image:: create_quotations/quotations-orders-section.png
+.. image:: create_quotations/quotations-orders-section.webp
    :align: center
    :alt: The Quotations and Orders section on the Odoo Sales app Settings page.
 
@@ -49,7 +49,7 @@ By default, the :guilabel:`Quotations` dashboard displays all quotations in the 
 the current user, as indicated by the default :guilabel:`My Quotations` filter present in the search
 bar.
 
-.. image:: create_quotations/quotations-dashboard.png
+.. image:: create_quotations/quotations-dashboard.webp
    :align: center
    :alt: The Quotations dashboard present in the Odoo Sales application.
 
@@ -79,7 +79,7 @@ located in the upper-left corner of the main :guilabel:`Quotations` dashboard.
 Clicking the :guilabel:`New` button reveals a blank quotation form, with various fields and tabs to
 configure.
 
-.. image:: create_quotations/quotation-form.png
+.. image:: create_quotations/quotation-form.webp
    :align: center
    :alt: A typical quotation form in the Odoo Sales application.
 
@@ -137,7 +137,7 @@ Or, click :guilabel:`Catalog` to reveal a separate page, showcasing every item (
 product variant) in an organized catalog display, with items organizable by :guilabel:`Product
 Category` and :guilabel:`Attributes`.
 
-.. image:: create_quotations/product-catalog.png
+.. image:: create_quotations/product-catalog.webp
    :align: center
    :alt: A product catalog accessible via a quotation in the Odoo Sales application.
 
@@ -191,7 +191,7 @@ Sales section
 In the :guilabel:`Sales` section of the :guilabel:`Other Info` tab, there are sales specific fields
 that can be configured.
 
-.. image:: create_quotations/other-info-sales.png
+.. image:: create_quotations/other-info-sales.webp
    :align: center
    :alt: The Sales section of the Other Info tab of a quotation form in Odoo Sales.
 
@@ -218,7 +218,7 @@ Delivery section
 In the :guilabel:`Delivery` section of the :guilabel:`Other Info` tab, there are delivery-specific
 fields that can be configured.
 
-.. image:: create_quotations/other-info-delivery.png
+.. image:: create_quotations/other-info-delivery.webp
    :align: center
    :alt: The Delivery section of the Other Info tab of a quotation form in Odoo Sales.
 
@@ -242,7 +242,7 @@ Invoicing section
 In the :guilabel:`Invoicing` section of the :guilabel:`Other Info` tab, there are invoicing specific
 fields that can be configured.
 
-.. image:: create_quotations/other-info-invoicing.png
+.. image:: create_quotations/other-info-invoicing.webp
    :align: center
    :alt: The Invoicing section of the Other Info tab of a quotation form in Odoo Sales.
 
@@ -259,7 +259,7 @@ Tracking section
 In the :guilabel:`Tracking` section of the :guilabel:`Other Info` tab, there are tracking specific
 fields that can be configured.
 
-.. image:: create_quotations/other-info-tracking.png
+.. image:: create_quotations/other-info-tracking.webp
    :align: center
    :alt: The Tracking section of the Other Info tab of a quotation form in Odoo Sales.
 

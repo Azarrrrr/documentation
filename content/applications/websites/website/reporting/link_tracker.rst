@@ -32,7 +32,7 @@ Fill in the following information and click :guilabel:`Get tracked link` to gene
 #. :guilabel:`Source`: The source identifies the precise platform or website that referred the
    visitor, such as a search engine, a newsletter, or a website.
 
-.. image:: link_tracker/create-link-tracker.png
+.. image:: link_tracker/create-link-tracker.webp
    :alt: Create a link tracker URL
 
 The :guilabel:`Campaign`, :guilabel:`Medium`, and :guilabel:`Source` are called :abbr:`UTM (Urchin
@@ -46,7 +46,7 @@ specific audiences. To achieve this, click the :guilabel:`Edit` button on your w
 building block, go to the :guilabel:`Customize` tab, scroll down to :guilabel:`Visibility`, and
 click :guilabel:`Conditionally`.
 
-.. image:: link_tracker/conditional-visibility.png
+.. image:: link_tracker/conditional-visibility.webp
    :alt: Use the conditional visibility to display site elements to specific audiences.
 
 For each parameter available in the :ref:`Visibility <building_blocks/visibility>` section, you can
@@ -59,7 +59,7 @@ Tracked links overview
 To get an overview of your tracked links, go to :menuselection:`Website --> Site --> Link Tracker`
 and scroll down to :guilabel:`Your tracked links` section.
 
-.. image:: link_tracker/your-tracked-links.png
+.. image:: link_tracker/your-tracked-links.webp
    :alt: Get an overview of all the links you track.
 
 Statistics
@@ -67,7 +67,7 @@ Statistics
 
 To measure the performance of tracked links, click the :guilabel:`Stats` button.
 
-.. image:: link_tracker/statistics.png
+.. image:: link_tracker/statistics.webp
    :alt: View the statistics related to a specific tracked link.
 
 Scroll down to the :guilabel:`Statistics` section to get an overview of the number of clicks of your

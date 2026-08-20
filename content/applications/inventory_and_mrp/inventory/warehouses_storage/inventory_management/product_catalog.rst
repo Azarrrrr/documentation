@@ -34,7 +34,7 @@ Depending on the form being configured, this tab may be titled *Order Lines*, *C
 On the first blank line of the tab, click the :guilabel:`Catalog` link to open the catalog in a new
 page.
 
-.. image:: product_catalog/catalog-button.png
+.. image:: product_catalog/catalog-button.webp
    :align: center
    :alt: The "Catalog" button on the "Order Lines" tab of a sales quotation.
 
@@ -49,7 +49,7 @@ details about the corresponding product:
 - On-hand quantity
 - Variant attributes (e.g. *Color: White*)
 
-.. image:: product_catalog/product-card.png
+.. image:: product_catalog/product-card.webp
    :align: center
    :alt: A product card in the product catalog.
 
@@ -69,7 +69,7 @@ In the sidebar on the left side of the page, select an option in the :icon:`fa-t
 :guilabel:`PRODUCT CATEGORY` section to filter by product category, or an option in the
 :icon:`fa-th-list` :guilabel:`ATTRIBUTES` section to filter by variant attribute.
 
-.. image:: product_catalog/filter-sidebar.png
+.. image:: product_catalog/filter-sidebar.webp
    :align: center
    :alt: The filter sidebar in the product catalog.
 
@@ -92,7 +92,7 @@ To remove a product from the order or |BoM| entirely, either click the :icon:`fa
 :guilabel:`Remove` button in the bottom-right corner of the product card, or click the
 :icon:`fa-minus` :guilabel:`(minus)` button until the quantity has been reduced to zero.
 
-.. image:: product_catalog/added-product.png
+.. image:: product_catalog/added-product.webp
    :align: center
    :alt: A product card for a product that has been added.
 

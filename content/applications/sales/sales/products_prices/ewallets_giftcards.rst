@@ -56,7 +56,7 @@ to :guilabel:`Create` an eWallet program. The following configuration options ar
 - :guilabel:`Point of Sale`: select the :abbr:`PoS (Point of Sale)` in which the program is valid
   and available. Leave this field empty to include all :abbr:`PoS (Point of Sale)`.
 
-.. image:: ewallets_giftcards/ewallet-configuration.png
+.. image:: ewallets_giftcards/ewallet-configuration.webp
    :align: center
    :alt: eWallet program configuration page
 
@@ -69,7 +69,7 @@ value`. Finally, set the :guilabel:`Valid Until` period if applicable.
 Generated eWallets can be accessed through the :guilabel:`eWallets` smart button in the upper-right
 corner. From there, :guilabel:`Send` or :guilabel:`Share` the eWallets via email or a URL link.
 
-.. image:: ewallets_giftcards/ewallet-share.png
+.. image:: ewallets_giftcards/ewallet-share.webp
    :align: center
    :alt: eWallets send and share buttons
 
@@ -119,7 +119,7 @@ available:
 - :guilabel:`Point of Sale`: select the :abbr:`PoS (Point of Sale)` in which the program is valid
   and available. Leave this field empty to include all :abbr:`PoS (Point of Sale)`.
 
-.. image:: ewallets_giftcards/giftcard-configuration.png
+.. image:: ewallets_giftcards/giftcard-configuration.webp
    :align: center
    :alt: Gift card program configuration page
 
@@ -134,7 +134,7 @@ Generated gift cards can be accessed through the :guilabel:`Gift Cards` smart bu
 upper-right corner. From there, :guilabel:`Send` or :guilabel:`Share` the gift cards via email or a
 URL link.
 
-.. image:: ewallets_giftcards/giftcard-share.png
+.. image:: ewallets_giftcards/giftcard-share.webp
    :align: center
    :alt: Gift cards send and share buttons
 

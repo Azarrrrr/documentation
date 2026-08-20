@@ -26,7 +26,7 @@ so, the :guilabel:`Storage Locations` feature is also automatically activated.
 
 Finally, click :guilabel:`Save`.
 
-.. image:: putaway/activate-multi-step-routes.png
+.. image:: putaway/activate-multi-step-routes.webp
    :align: center
    :alt: Activate Multi-Step Routes in Inventory configuration settings.
 
@@ -62,7 +62,7 @@ easier to find).
 
    Repeat this for all products and hit :guilabel:`Save`.
 
-   .. image:: putaway/create-putaway-rules.png
+   .. image:: putaway/create-putaway-rules.webp
       :align: center
       :alt: Create putaway rules for apples and carrots.
 
@@ -89,7 +89,7 @@ match is found:
    #. The product `Lemonade can` is redirected to `WH/Stock/Shelf 2`
    #. Items in the `All/drinks` product category are redirected to `WH/Stock/Small Refrigerator`.
 
-  .. image:: putaway/putaway-example.png
+  .. image:: putaway/putaway-example.webp
      :align: center
      :alt: Some examples of putaway rules.
 

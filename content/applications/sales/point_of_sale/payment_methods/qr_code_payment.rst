@@ -73,7 +73,7 @@ Create the payment method
      (SEPA).
    - Select :guilabel:`EMV Merchant-Presented QR-code` for other QR code types.
 
-.. image:: qr_code_payment/qr-payment-methods-setting.png
+.. image:: qr_code_payment/qr-payment-methods-setting.webp
    :alt: QR code payment method configuration
 
 .. important::
@@ -83,7 +83,7 @@ Create the payment method
 Once the payment method is created, go to the :ref:`POS' settings <configuration/settings>` and add
 the payment method to your POS under the :guilabel:`Payment` section.
 
-.. image:: qr_code_payment/qr-configuration-setting.png
+.. image:: qr_code_payment/qr-configuration-setting.webp
    :alt: Enable QR code payment method
 
 Register payments using QR codes
@@ -92,7 +92,7 @@ Register payments using QR codes
 When processing a payment, select the payment method for QR code payments. A QR code is generated
 and displayed on the screen for the customer to scan and pay with their mobile banking app.
 
-.. image:: qr_code_payment/qr-payment-example.png
+.. image:: qr_code_payment/qr-payment-example.webp
    :alt: QR code payment example
 
 Hit :guilabel:`Confirm Payment` to validate the transaction.

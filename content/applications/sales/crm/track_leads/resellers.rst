@@ -12,7 +12,7 @@ To utilize the reseller features, the *Resellers* module first needs to be insta
 the :menuselection:`Apps application`, and remove the :guilabel:`Apps` filter from the
 :guilabel:`Search...` bar. Then, search for `Resellers`.
 
-.. image:: resellers/resellers-module.png
+.. image:: resellers/resellers-module.webp
    :align: center
    :alt: The resellers module in Odoo.
 
@@ -80,7 +80,7 @@ the :guilabel:`Name` field of a desired level, and enter a new name.
 To change the active status of an activation, slide the toggle in the :guilabel:`Active` column of
 the desired activation to the *inactive* position.
 
-.. figure:: resellers/activations-toggle.png
+.. figure:: resellers/activations-toggle.webp
    :align: center
    :alt: The list of default partner activations in the CRM app.
 
@@ -125,6 +125,6 @@ slide the :guilabel:`Unpublished` toggle to the active, :guilabel:`Published` po
 
 Repeat these steps for all partners.
 
-.. image:: resellers/partners-webpage.png
+.. image:: resellers/partners-webpage.webp
    :align: center
    :alt: An example of the partners webpage, displaying available partners by level and location.

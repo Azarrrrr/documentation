@@ -81,7 +81,7 @@ using these payment terms.
    In the following example, 30% is due on the day of issuance, and the remaining 70% is due at the
    end of the following month.
 
-   .. image:: payment_terms/configuration.png
+   .. image:: payment_terms/configuration.webp
       :alt: Example of Payment Terms. The first line is the 30% due immediately. The second line is
             the remaining 70% due at the end of the following month.
 
@@ -119,7 +119,7 @@ due date into account, rather than just the balance due date. It also helps to g
 :ref:`aged receivable report <customer-invoices/aging-report>`.
 
 .. example::
-   .. image:: payment_terms/journal-entry.png
+   .. image:: payment_terms/journal-entry.webp
       :alt: The amount debited to the account receivable is split into two journal items with
             distinct due dates
 

@@ -13,7 +13,7 @@ three sections: :guilabel:`To Pay`, :guilabel:`All Payslips`, and :guilabel:`Bat
 These three sections provide all the tools needed to create payslips for employees, including
 individual payslips, a batch of payslips, or commission payslips.
 
-.. image:: payslips/payslips.png
+.. image:: payslips/payslips.webp
    :align: center
    :alt: Payslips menu selection in Payroll.
 
@@ -26,7 +26,7 @@ Click on :menuselection:`Payroll app --> Payslips --> To Pay` to see the payslip
 paid. On this page, Odoo displays the payslips that have not been generated yet, and can be created
 from this dashboard.
 
-.. image:: payslips/all-pay-slips.png
+.. image:: payslips/all-pay-slips.webp
    :align: center
    :alt: View all payslips that need to be paid on the Payslips To Pay page.
 
@@ -87,7 +87,7 @@ Fill out the following information on the payslip form:
   the list. Once an employee and/or contract is selected, any unavailable :guilabel:`Structures` set
   for that employee and/or contract do not appear. This field is **required**.
 
-.. image:: payslips/new-payslip.png
+.. image:: payslips/new-payslip.webp
    :align: center
    :alt: The top fields for a new payslip all filled out for a February payslip.
 
@@ -118,7 +118,7 @@ Worked days & inputs tab
   Next, enter a :guilabel:`Description`, if desired. Lastly, enter the amount in the
   :guilabel:`Count` field.
 
-.. image:: payslips/worked-days-tab.png
+.. image:: payslips/worked-days-tab.webp
    :align: center
    :alt: The fields filled out in the worked days and inputs tab.
 
@@ -131,7 +131,7 @@ Salary computation tab
 - :guilabel:`Has Negative Net To Report`: click the checkbox if the employee has a negative net
   amount for this payslip. This **only** appears if the employee's payslip has a negative balance.
 
-.. image:: payslips/salary-comp-tab.png
+.. image:: payslips/salary-comp-tab.webp
    :align: center
    :alt: The fields filled out in the salary computation tab.
 
@@ -157,7 +157,7 @@ Other info tab
 - :guilabel:`Add an Internal Note...`: any note or reference message for the new entry can be typed
   in this field.
 
-.. image:: payslips/other-info-tab.png
+.. image:: payslips/other-info-tab.webp
    :align: center
    :alt: The fields filled out in the other info tab.
 
@@ -189,7 +189,7 @@ of the payslip.
 To print the payslip, click the :guilabel:`Print` button. To cancel the payslip, click the
 :guilabel:`Cancel` button.
 
-.. image:: payslips/payslip-chatter.png
+.. image:: payslips/payslip-chatter.webp
    :align: center
    :alt: The new payslip is emailed to the employee and the email appears in the chatter.
 
@@ -205,7 +205,7 @@ payment should be made against must be selected from a drop-down menu. Then, cli
    the :ref:`Private Information <employees/private-info>` tab on the employee's card in the
    *Employees* app. Edit the employee card, and add banking information, if it is missing.
 
-   .. image:: payslips/banking.png
+   .. image:: payslips/banking.webp
       :align: center
       :alt: Banking information can be entered in an employee's card.
 
@@ -224,7 +224,7 @@ If a payment needs to be cancelled or refunded, click the corresponding :guilabe
    To view the warnings, navigate to :menuselection:`Payroll app --> Dashboard`. The warnings appear
    in the top-left corner of the dashboard.
 
-   .. image:: payslips/warnings.png
+   .. image:: payslips/warnings.webp
       :align: center
       :alt: The dashboard view of the Payroll app, with the warnings box highlighted.
 
@@ -260,7 +260,7 @@ following status options:
 - :guilabel:`Done`: the payslip is calculated and ready to be paid.
 - :guilabel:`Paid`: the employee has been paid.
 
-.. image:: payslips/all-payslips.png
+.. image:: payslips/all-payslips.webp
    :align: center
    :alt: View all payslips organized by batches. Click on the arrow to expand each batch.
 
@@ -283,7 +283,7 @@ Payslips can also be exported to an Excel spreadsheet. To export **all** payslip
 corner. This reveals a drop-down menu. Click :guilabel:`Export All` to export all payslips to a
 spreadsheet.
 
-.. image:: payslips/export.png
+.. image:: payslips/export.webp
    :align: center
    :alt: Click on the Export All smart button to export all payslips to an Excel payslip.
 
@@ -293,7 +293,7 @@ button appears in the top-center of the page, indicating the number of selected 
 click the :guilabel:`⚙️ (gear) Actions` icon in the top-center of the page, and click
 :guilabel:`Export`.
 
-.. image:: payslips/export-select.png
+.. image:: payslips/export-select.webp
    :align: center
    :alt: The individual list of employee ayslips with three selected to be exported.
 
@@ -311,7 +311,7 @@ Each batch displays the :guilabel:`Name`, :guilabel:`Date From` and :guilabel:`D
 :guilabel:`Status`, the number of payslips in the batch (:guilabel:`Payslips Count`), and the
 :guilabel:`Company`.
 
-.. image:: payslips/batches.png
+.. image:: payslips/batches.webp
    :align: center
    :alt: View displaying all batches created.
 
@@ -332,7 +332,7 @@ The current company populates the :guilabel:`Company` field. If operating in a m
 environment, it is **not** possible to modify the :guilabel:`Company` from the form. The batch
 **must** be created while in the database for the desired company.
 
-.. image:: payslips/new-batch-details.png
+.. image:: payslips/new-batch-details.webp
    :align: center
    :alt: Enter the details for the new batch.
 
@@ -347,7 +347,7 @@ detail page, different options (buttons) appear at the top, depending on the sta
 - :guilabel:`New` status: batches without any payslips added to them have a status of
   :guilabel:`New`. The following button options appear for these batches:
 
-   .. image:: payslips/batch-new.png
+   .. image:: payslips/batch-new.webp
       :align: center
       :alt: A batch with a status of new, with the available buttons highlighted.
 
@@ -376,7 +376,7 @@ detail page, different options (buttons) appear at the top, depending on the sta
   payslips have *not* been processed, have a status of :guilabel:`Confirmed`. The following two
   button options appear for these batches:
 
-  .. image:: payslips/batch-confirmed.png
+  .. image:: payslips/batch-confirmed.webp
      :align: center
      :alt: A batch with a status of confirmed, with the available buttons highlighted.
 
@@ -390,7 +390,7 @@ detail page, different options (buttons) appear at the top, depending on the sta
 - :guilabel:`Done` status: batches with confirmed payslips in them have a status of
   :guilabel:`Done`. The following button options appear for these batches:
 
-  .. image:: payslips/batch-done.png
+  .. image:: payslips/batch-done.webp
      :align: center
      :alt: A batch with a status of done, with the available buttons highlighted.
 
@@ -412,7 +412,7 @@ detail page, different options (buttons) appear at the top, depending on the sta
 - :guilabel:`Paid` status: batches that have been completed have a status of :guilabel:`Paid`. No
   other button options appear for this status.
 
-  .. image:: payslips/batch-paid-2.png
+  .. image:: payslips/batch-paid-2.webp
      :align: center
      :alt: A batch with a status of paid, with the available buttons highlighted.
 
@@ -438,7 +438,7 @@ of the page.
 Doing so reveals a :guilabel:`Generate Warrant Payslips` pop-up window, in which the necessary
 information **must** be filled out.
 
-.. image:: payslips/commission-details.png
+.. image:: payslips/commission-details.webp
    :align: center
    :alt: Enter the commission details.
 

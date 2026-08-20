@@ -31,7 +31,7 @@ Enable foreign currencies
 Go to :menuselection:`Accounting --> Configuration --> Currencies`, and enable the currencies you
 wish to use by toggling the :guilabel:`Active` button.
 
-.. image:: multi_currency/enable-foreign-currencies.png
+.. image:: multi_currency/enable-foreign-currencies.webp
    :align: center
    :alt: Enable the currencies you wish to use.
 
@@ -47,7 +47,7 @@ To manually create and set a currency rate, go to :menuselection:`Accounting -->
 Currencies`, click on the currency you wish to change the rate of, and under the :guilabel:`Rates`
 tab, click :guilabel:`Add a line` to create a new rate.
 
-.. image:: multi_currency/manual-rate-update.png
+.. image:: multi_currency/manual-rate-update.webp
   :align: center
   :alt: Create or modify the currency rate.
 
@@ -103,7 +103,7 @@ If a currency is set on a **journal**, that journal only handles transactions in
 To do so, go to :menuselection:`Accounting --> Configuration --> Journals`, open the journal you
 want to edit, and select a currency in the field :guilabel:`Currency`.
 
-.. image:: multi_currency/journal-currency.png
+.. image:: multi_currency/journal-currency.webp
    :align: center
    :alt: Select the currency for the journal to handle.
 
@@ -120,7 +120,7 @@ Invoices, bills, and other documents
 For all documents, you can select the currency and journal to use for the transaction on the
 document itself.
 
-.. image:: multi_currency/currency-field.png
+.. image:: multi_currency/currency-field.webp
    :align: center
    :alt: Select the currency and journal to use.
 
@@ -133,7 +133,7 @@ To register a payment in a currency other than your company's main currency, cli
 :guilabel:`Register Payment` payment button of your document and, in the pop-up window, select a
 **currency** in the :guilabel:`Amount` field.
 
-.. image:: multi_currency/register-payment.png
+.. image:: multi_currency/register-payment.webp
   :align: center
   :alt: Select the currency and journal to use before registering the payment.
 
@@ -147,7 +147,7 @@ a **foreign currency**, select a currency in the :guilabel:`Foreign Currency`. O
 the :guilabel:`Amount` in your main currency for it to automatically get converted in the foreign
 currency in the :guilabel:`Amount in Currency field`.
 
-.. image:: multi_currency/foreign-fields.png
+.. image:: multi_currency/foreign-fields.webp
   :align: center
   :alt: The extra fields related to foreign currencies.
 
@@ -162,6 +162,6 @@ Exchange rate journal entries
 To see **exchange difference journal entries**, go to :menuselection:`Accounting Dashboard -->
 Accounting --> Journals: Miscellaneous`.
 
-.. image:: multi_currency/exchange-journal-currency.png
+.. image:: multi_currency/exchange-journal-currency.webp
    :align: center
    :alt: Exchange rate journal entry.

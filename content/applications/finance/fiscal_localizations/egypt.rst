@@ -48,14 +48,14 @@ these codes to :ref:`configure your Odoo Accounting app <egypt/e-invoicing-confi
 
 Access your company profile on the ETA portal by clicking on :guilabel:`View Taxpayer Profile`.
 
-.. image:: egypt/taxpayer-profile.png
+.. image:: egypt/taxpayer-profile.webp
    :align: center
    :alt: Clicking on "View Taxpayer Profile" on an ETA invoicing portal
 
 Next, go to the :guilabel:`Representatives` section and then click on :guilabel:`Register ERP`.
 Fill out the :guilabel:`ERP Name` (e.g., ``Odoo``) and leave the other fields empty.
 
-.. image:: egypt/add-erp-system.png
+.. image:: egypt/add-erp-system.webp
    :align: center
    :alt: Filling out of the form to register an ERP system on the ETA portal.
 
@@ -80,7 +80,7 @@ Configuration --> Settings --> ETA E-Invoicing Settings`, and set the :guilabel:
 :guilabel:`ETA Secret` that you retrieved when you :ref:`registered Odoo on your ETA portal
 <egypt/e-invoicing-eta-portal>`. Set an invoicing threshold if needed.
 
-.. image:: egypt/eta-api-integration.png
+.. image:: egypt/eta-api-integration.webp
    :align: center
    :alt: Configuration of the ETA E-Invoicing credentials in Odoo Accounting
 
@@ -142,7 +142,7 @@ Name the journal according to your company's branch and set the :guilabel:`Type`
 - Set the :guilabel:`ETA Activity Code`.
 - Set the :guilabel:`ETA Branch ID` (use ``0`` if you have one branch only).
 
-.. image:: egypt/branch-journal.png
+.. image:: egypt/branch-journal.webp
    :align: center
    :alt: Sales journal configuration of an Egyptian company's branch
 
@@ -207,7 +207,7 @@ installation on your computer.
 
 Select :guilabel:`Local Proxy Mode` as the type of install.
 
-.. image:: egypt/install-odoo-local-proxy.png
+.. image:: egypt/install-odoo-local-proxy.webp
    :align: center
    :alt: Selection of "Local Proxy Mode" during the installation of Odoo Community.
 
@@ -236,6 +236,6 @@ Once the local proxy server is installed on your computer, you can link it with 
    installation <egypt/e-invoicing-local-proxy>`, then click on :guilabel:`Save`.
 #. Click on :guilabel:`Get certificate`.
 
-.. image:: egypt/thumb-drive.png
+.. image:: egypt/thumb-drive.webp
    :align: center
    :alt: Creating a new thumb drive for the e-invoicing of an egyptian company.

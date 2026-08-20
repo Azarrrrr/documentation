@@ -31,7 +31,7 @@ Navigate to :menuselection:`Purchase app --> Configuration --> Settings`, and un
    In addition to creating blanket orders, the *Purchase Agreements* setting also allows users to
    create alternative requests for quotation (RfQs).
 
-.. image:: blanket_orders/blanket-orders-enabled-setting.png
+.. image:: blanket_orders/blanket-orders-enabled-setting.webp
    :align: center
    :alt: Purchase Agreements enabled in the Purchase app settings.
 
@@ -66,7 +66,7 @@ the recurring long-term agreement:
   multi-company database, this field **cannot** be changed, and defaults to the only company listed
   in the database.
 
-.. image:: blanket_orders/blanket-orders-new-agreement.png
+.. image:: blanket_orders/blanket-orders-new-agreement.webp
    :align: center
    :alt: New blanket order purchase agreement with added products.
 
@@ -85,7 +85,7 @@ blanket order form, click the :guilabel:`➡️ (right arrow)` icon that becomes
 over the :guilabel:`Agreement Type` field, where :guilabel:`Blanket Order` is listed. This navigates
 to the blanket order settings.
 
-.. image:: blanket_orders/blanket-orders-internal-link-arrow.png
+.. image:: blanket_orders/blanket-orders-internal-link-arrow.webp
    :align: center
    :alt: Internal link arrow next to Agreement Type field on blanket order form.
 
@@ -103,7 +103,7 @@ Under the :guilabel:`Data For New Quotations` section, the :guilabel:`Lines` and
 :guilabel:`Quantities` fields can be edited. Doing so sets how new quotations should be populated
 when using this purchase agreement.
 
-.. image:: blanket_orders/blanket-orders-edit-agreement-type.png
+.. image:: blanket_orders/blanket-orders-edit-agreement-type.webp
    :align: center
    :alt: Purchase Agreement type edit screen for blanket orders.
 
@@ -152,7 +152,7 @@ From the new |RfQ| form, click :guilabel:`Send by Email` to compose and send an 
 vendor. Click :guilabel:`Print RFQ` to generate a printable PDF of the quotation; or, once ready,
 click :guilabel:`Confirm Order` to confirm the |PO|.
 
-.. image:: blanket_orders/blanket-orders-new-quotation.png
+.. image:: blanket_orders/blanket-orders-new-quotation.webp
    :align: center
    :alt: New quotation with copied products and rules from blanket order.
 
@@ -161,7 +161,7 @@ top of the page). From the blanket order form, there is now one |RfQ| listed in 
 :guilabel:`RFQs/Orders` smart button at the top-right of the form. Click the :guilabel:`RFQs/Orders`
 smart button to see the |PO| that was just created.
 
-.. image:: blanket_orders/blanket-orders-rfq-smart-button.png
+.. image:: blanket_orders/blanket-orders-rfq-smart-button.webp
    :align: center
    :alt: RFQs and Orders smart button from blanket order form.
 
@@ -176,7 +176,7 @@ This makes blanket orders useful with :doc:`automated replenishment
 :guilabel:`Price`, and the :guilabel:`Agreement` are referenced on the vendor line. This information
 dictates when, where, and at what price the product should be replenished.
 
-.. image:: blanket_orders/blanket-orders-product-form.png
+.. image:: blanket_orders/blanket-orders-product-form.webp
    :align: center
    :alt: Product form with replenishment agreement linked to blanket order.
 

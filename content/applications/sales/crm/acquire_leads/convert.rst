@@ -11,14 +11,14 @@ Configuration
 To activate the *Leads* setting, navigate to :menuselection:`CRM app --> Configuration --> Settings`
 and check the box labeled, :guilabel:`Leads`. Then, click :guilabel:`Save`.
 
-.. image:: convert/convert-leads-leads-setting.png
+.. image:: convert/convert-leads-leads-setting.webp
    :align: center
    :alt: Leads setting on CRM configuration page.
 
 Activating this feature adds a new menu option, :guilabel:`Leads`, to the header bar, located along
 the top of the screen.
 
-.. image:: convert/convert-leads-leads-menu.png
+.. image:: convert/convert-leads-leads-menu.webp
    :align: center
    :alt: Leads menu on CRM application.
 
@@ -28,7 +28,7 @@ Then, select a team from the list to open that team's configuration page. Clear 
 :guilabel:`Leads` checkbox, located beneath the :guilabel:`Sales Team` field, then click
 :guilabel:`Save`.
 
-.. image:: convert/convert-leads-leads-button.png
+.. image:: convert/convert-leads-leads-button.webp
    :align: center
    :alt: Leads menu on CRM application.
 
@@ -43,13 +43,13 @@ on a lead from the list to open it.
    indicates a similar lead or opportunity already exists in the database. Before converting this
    lead, click the smart button to confirm if the lead should be merged.
 
-   .. image:: convert/similar-leads-smart-button.png
+   .. image:: convert/similar-leads-smart-button.webp
       :align: center
       :alt: Close up of a lead with emphasis on the Similar Leads smart button.
 
 Click the :guilabel:`Convert to Opportunity` button, located at the top-left of the page.
 
-.. image:: convert/convert-leads-convert-opp-button.png
+.. image:: convert/convert-leads-convert-opp-button.webp
    :align: center
    :alt: Create opportunity button on a lead record.
 
@@ -74,7 +74,7 @@ assignments.
 If the lead has already been assigned to a salesperson or a team, these fields automatically
 populate with that information.
 
-.. image:: convert/convert-leads-conversion-action.png
+.. image:: convert/convert-leads-conversion-action.webp
    :align: center
    :alt: Create opportunity pop-up.
 

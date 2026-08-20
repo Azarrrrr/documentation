@@ -41,7 +41,7 @@ Settings`. Under the :guilabel:`Warehouse` section, tick the checkbox next to :g
 Routes`, and click :guilabel:`Save`. Doing so also activates the :guilabel:`Storage Locations`
 feature.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-settings.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-settings.webp
    :align: center
    :alt: Enabled Multi-Step Routes feature in Inventory app settings.
 
@@ -52,7 +52,7 @@ Under the :guilabel:`Warehouse Configuration` tab, set :guilabel:`Incoming Shipm
 :guilabel:`Receive goods in input and then stock (2 steps)`, and set :guilabel:`Outgoing Shipments`
 to :guilabel:`Send goods in output and then deliver (2 steps)`.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-shipments.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-shipments.webp
    :align: center
    :alt: Incoming and outgoing shipments set to two-step on warehouse form.
 
@@ -82,7 +82,7 @@ opens a blank :guilabel:`Request for Quotation` (RfQ) form.
 Add a vendor in the :guilabel:`Vendor` field. Then, fill out the various fields on the |RfQ|, as
 necessary.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-new-rfq.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-new-rfq.webp
    :align: center
    :alt: Filled out new Request for Quotation from vendor.
 
@@ -95,7 +95,7 @@ stage.
 Once the |PO| is confirmed, a :guilabel:`Receipt` smart button appears at the top of the form.
 Clicking the smart button opens the warehouse receipt (WH/IN) form.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-smart-button.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-smart-button.webp
    :align: center
    :alt: Delivery smart button for validated purchase order.
 
@@ -114,7 +114,7 @@ From the warehouse receipt form, the products ordered can be received into the w
 the products, click :guilabel:`Validate`. Once validated, the receipt moves to the :guilabel:`Done`
 stage, and the products move to the :guilabel:`WH/Input` location.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-receipt-form.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-receipt-form.webp
    :align: center
    :alt: Receipt form for products ordered from vendor.
 
@@ -139,7 +139,7 @@ Once ready, click :guilabel:`Validate` to complete the transfer, and move the pr
 Once the transfer is validated, the products enter inventory, and are available for customer
 deliveries or manufacturing orders.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-internal-transfer.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-internal-transfer.webp
    :align: center
    :alt: Internal transfer form for products ordered from vendor.
 
@@ -161,7 +161,7 @@ opens a blank sales quotation form.
 Add a customer in the :guilabel:`Customer` field. Then, fill out the various fields on the sales
 quotation form, as necessary.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-new-sales-order.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-new-sales-order.webp
    :align: center
    :alt: Filled out new sales order form.
 
@@ -174,7 +174,7 @@ stage.
 Once the |SO| is confirmed, a :guilabel:`Delivery` smart button appears at the top of the form.
 Clicking the smart button opens the warehouse delivery (WH/OUT) form.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-delivery-button.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-delivery-button.webp
    :align: center
    :alt: Delivery smart button on validated sales order form.
 
@@ -193,7 +193,7 @@ From the :guilabel:`Inventory Overview` page, click the :guilabel:`# To Process`
 Click on the picking (WH/PICK) operation associated with the sales order to reveal the picking
 order.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-picking-form.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-picking-form.webp
    :align: center
    :alt: Picking order form for products included in sales order.
 
@@ -215,7 +215,7 @@ via the breadcrumbs, and locate the :guilabel:`Delivery Orders` task card.
 Click the :guilabel:`# To Process` button on the task card to reveal a list of all delivery orders
 to process, and select the order associated with the previously validated picking.
 
-.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-delivery-order.png
+.. image:: receipts_delivery_two_steps/receipts-delivery-two-steps-delivery-order.webp
    :align: center
    :alt: Delivery order form for products ordered by customer.
 

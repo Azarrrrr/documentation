@@ -22,7 +22,7 @@ Add individual users
 To add new users, navigate to :menuselection:`Settings app --> Users section --> Manage Users`, and
 click on :guilabel:`New`.
 
-.. image:: users/manage-users.png
+.. image:: users/manage-users.webp
    :align: center
    :alt: View of the settings page emphasizing the manage users field in Odoo.
 
@@ -31,7 +31,7 @@ Fill in the form with all the required information. Under the :doc:`Access Right
 
 The list of applications shown is based on the applications installed on the database.
 
-.. image:: users/new-user.png
+.. image:: users/new-user.webp
    :align: center
    :alt: View of a user's form emphasizing the access rights tab in Odoo.
 
@@ -40,7 +40,7 @@ email is automatically sent to the user, using the email in the :guilabel:`Email
 user must click on the link included in the email to accept the invitation, and to create a database
 login.
 
-.. image:: users/invitation-email.png
+.. image:: users/invitation-email.webp
    :align: center
    :alt: View of a user's form with a notification that the invitation email has been sent in Odoo.
 
@@ -60,7 +60,7 @@ accessible via :menuselection:`Settings app --> Users section --> Manage Users`.
 There are three types of users: :guilabel:`Internal User`, :guilabel:`Portal`, and
 :guilabel:`Public`.
 
-.. image:: users/user-type.png
+.. image:: users/user-type.webp
    :align: center
    :alt: View of a user's form in developer mode emphasizing the user type field in Odoo.
 
@@ -98,7 +98,7 @@ Error: too many users
 If there are more users in an Odoo database than provisioned in the Odoo Enterprise subscription,
 the following message is displayed.
 
-.. image:: users/add-more-users.png
+.. image:: users/add-more-users.webp
    :align: center
    :alt: Too many users on a database error message.
 
@@ -134,7 +134,7 @@ times. Odoo offers a few different methods to reset a user's password.
    navigating to :menuselection:`Settings app --> Permissions` section, and entering the desired
    password length in the :guilabel:`Minimum Password Length` field. By default the value is `8`.
 
-.. image:: users/minimum-password-length.png
+.. image:: users/minimum-password-length.webp
    :align: center
    :alt: Minimum Password Length highlighted in the Permissions section of General Settings.
 
@@ -158,14 +158,14 @@ completed by the individual user, and this setting is enabled by default.
 To change this setting, go to :menuselection:`Settings app --> Permissions` section, activate
 :guilabel:`Password Reset`, and then click :guilabel:`Save`.
 
-.. image:: users/password-reset-login.png
+.. image:: users/password-reset-login.webp
    :align: center
    :alt: Enabling Password Reset in Odoo Settings
 
 On the login page, click :guilabel:`Reset Password` to initiate the password reset process, and have
 a reset-token sent to the email on file.
 
-.. image:: users/password-reset.png
+.. image:: users/password-reset.webp
    :align: center
    :alt: Login screen on Odoo.com with the password reset option highlighted.
 
@@ -186,7 +186,7 @@ automatically sent to them with password reset instructions.
 This email contains all the instructions needed to reset the password, along with a link redirecting
 the user to an Odoo login page.
 
-.. image:: users/password-reset-email.png
+.. image:: users/password-reset-email.webp
    :align: center
    :alt: Example of an email with a password reset link for an Odoo account.
 
@@ -201,7 +201,7 @@ resulting drop-down menu. Enter a new password in the :guilabel:`New Password` c
 :guilabel:`Change Password` pop-up window that appears, and confirm the change by clicking
 :guilabel:`Change Password`.
 
-.. image:: users/change-password.png
+.. image:: users/change-password.webp
    :align: center
    :alt: Change a user's password on Odoo.
 
@@ -240,7 +240,7 @@ company.
    users for databases with a multi-company configuration. For technical explanations, refer to the
    developer documentation on :doc:`../../../developer/howtos/company`.
 
-.. image:: users/multi-companies.png
+.. image:: users/multi-companies.webp
    :align: center
    :alt: View of a user's form emphasizing the multi companies field in Odoo.
 

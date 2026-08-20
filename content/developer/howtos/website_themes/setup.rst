@@ -35,7 +35,7 @@ they are therefore linked to a model. In Odoo, you can find the different models
 backend by enabling the :ref:`developer mode <developer-mode>` and then going to
 :menuselection:`Settings --> Technical --> Database Structure: Models`.
 
-.. image:: setup/models-page.png
+.. image:: setup/models-page.webp
    :alt: Models page
 
 Fields
@@ -129,13 +129,13 @@ Odoo.sh
 #. Click the :guilabel:`Download` icon. Select :guilabel:`Testing` under
    :guilabel:`Purpose` and :guilabel:`With filestore` under :guilabel:`Filestore`.
 
-   .. image:: setup/download-backup.png
+   .. image:: setup/download-backup.webp
      :alt: Download backup
 
 #. You will receive a notification when the dump is ready to be downloaded. Open it and click on
    :guilabel:`Download` to get your dump.
 
-   .. image:: setup/database-backup.png
+   .. image:: setup/database-backup.webp
      :alt: Database backup
 
 Move filestore
@@ -241,7 +241,7 @@ http://localhost:8069 in your web browser and log in with the base administrator
 
 Type **admin** for the email and **admin** for the password.
 
-.. image:: setup/welcome-homepage.png
+.. image:: setup/welcome-homepage.webp
    :alt: Welcome homepage
 
 .. tip::

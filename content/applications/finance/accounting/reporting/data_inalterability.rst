@@ -102,7 +102,7 @@ In the :guilabel:`Restricted` column, you can see whether or not a journal has t
 posted entries with hash <data-inalterability/restricted>` option (V) activated or not (X). The
 :guilabel:`Check` column tells you whether all entries are correctly hashed.
 
-.. image:: data_inalterability/journal-overview.png
+.. image:: data_inalterability/journal-overview.webp
    :align: center
    :alt: Configuration report for two journals
 
@@ -110,6 +110,6 @@ The second section gives a more detailed result of the data consistency check fo
 journal sequence prefix. You can view the first hashed entry and its corresponding hash,
 as well as the last hashed entry and its corresponding hash.
 
-.. image:: data_inalterability/data-consistency-check.png
+.. image:: data_inalterability/data-consistency-check.webp
    :align: center
    :alt: Data consistency check report for a journal

@@ -7,7 +7,7 @@ Odoo without them, can lead to inconsistent records. Follow this documentation t
 an inventory adjustment to assign lot or serial numbers to products that were not originally
 assigned lots.
 
-.. image:: reassign/warning.png
+.. image:: reassign/warning.webp
    :align: center
    :alt: Warning message: products in stock have no lot/serial number.
 
@@ -32,7 +32,7 @@ page. In the :guilabel:`On Hand Quantity` column, change the value to zero.
    If the product is stored in multiple locations, make sure the **total** on hand quantity at
    **all** locations is zero.
 
-.. image:: reassign/remove-quant.png
+.. image:: reassign/remove-quant.webp
    :align: center
    :alt: Show the Inventory Adjustments model, highlighting the "On Hand Quantity" field.
 
@@ -47,7 +47,7 @@ Unique Serial Number`.
 .. seealso::
    :doc:`expiration_dates`
 
-.. image:: reassign/tracking.png
+.. image:: reassign/tracking.webp
    :align: center
    :alt: Enable lots and serial numbers.
 
@@ -67,7 +67,7 @@ Number` field, and adjust the :guilabel:`On Hand Quantity` to its original value
 .. seealso::
    :doc:`../../warehouses_storage/inventory_management/count_products`
 
-.. image:: reassign/update-quantity.png
+.. image:: reassign/update-quantity.webp
    :align: center
    :alt: Fill in the "Lot/Serial Number" and "On Hand Quantity" field.
 
@@ -77,13 +77,13 @@ Number` field, and adjust the :guilabel:`On Hand Quantity` to its original value
    the :guilabel:`On Hand Quantity` column. Then, click the :icon:`fa-history` :guilabel:`History`
    button on the far-right.
 
-   .. image:: reassign/adjustment.png
+   .. image:: reassign/adjustment.webp
       :align: center
       :alt: Show the "History" button on the Inventory Adjustments page.
 
    The inventory adjustment that changed the on-hand quantity to zero is displayed in the
    :guilabel:`Quantity` field.
 
-    .. image:: reassign/history.png
+    .. image:: reassign/history.webp
        :align: center
        :alt: Show the history entry.

@@ -4,7 +4,7 @@ Geolocation
 
 You can locate contacts or places and generate routes on a map in Odoo.
 
-.. image:: geolocation/contacts.png
+.. image:: geolocation/contacts.webp
    :alt: Map displaying a contact's location.
 
 To use the feature, open the :guilabel:`Settings` app, and, under the :guilabel:`Integrations`,
@@ -32,7 +32,7 @@ supports location-based features like search, navigation, and recommendations.
 To use it, select :guilabel:`Google Place Map` and enter your :ref:`API Key
 <address_autocomplete/generate_api_key>`.
 
-.. image:: geolocation/google-places-api-key.png
+.. image:: geolocation/google-places-api-key.webp
    :alt: Google Places API key
 
 .. seealso::

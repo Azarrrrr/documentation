@@ -41,7 +41,7 @@ Next, click on the :guilabel:`Visual Editor` button to the right of the desired 
 it. Finally, open the :guilabel:`New element` drop-down menu, select the element, and click
 :guilabel:`Add`.
 
-.. image:: dial_plan_advanced/visual-editor.png
+.. image:: dial_plan_advanced/visual-editor.webp
    :align: center
    :alt: Visual editor for a dial plan in Axivox, with Add and the dispatcher element highlighted.
 
@@ -136,7 +136,7 @@ The :guilabel:`Timeout` can be set in `5` second increments, from `5` seconds to
    Finally, this last :guilabel:`Play a file` element is looped back into the :guilabel:`Menu`
    element.
 
-   .. image:: dial_plan_advanced/receptionist.png
+   .. image:: dial_plan_advanced/receptionist.webp
       :align: center
       :alt: A digital receptionist element highlighted in an example dial plan.
 
@@ -200,7 +200,7 @@ their customers to certain queues, or users based on the customer's geo-location
 To specify all numbers behind a certain country code, or area code, include `\d+` after the country
 code, or country code + area code.
 
-.. image:: dial_plan_advanced/dispatcher.png
+.. image:: dial_plan_advanced/dispatcher.webp
    :align: center
    :alt: Dispatcher configuration panel, with name, regular expression and add a line highlighted.
 
@@ -230,7 +230,7 @@ after setting at least one :guilabel:`Regular Expression`.
 Calls follow this route/path when their number does not match any :guilabel:`Regular Expression` set
 on the :guilabel:`Dispatcher` element.
 
-.. image:: dial_plan_advanced/dispatcher-element.png
+.. image:: dial_plan_advanced/dispatcher-element.webp
    :align: center
    :alt: Dial plan with dispatcher element highlighted.
 
@@ -260,7 +260,7 @@ The :guilabel:`Time Condition` element is especially useful for holidays, weeken
 working hours. When a caller reaches a destination where they can be helped, either with a real
 person or voicemail, this reduces wasted time and hangups.
 
-.. image:: dial_plan_advanced/time-condition.png
+.. image:: dial_plan_advanced/time-condition.webp
    :align: center
    :alt: Time condition element set in a dial plan on Axivox. Time condition is highlighted.
 
@@ -290,7 +290,7 @@ fields of the :guilabel:`Access List` pop-up window.
    A regular expression (shortened to "regex" or "regexp"), sometimes also referred to as a
    "rational expression," is a sequence of characters that specifies a match pattern in text.
 
-.. image:: dial_plan_advanced/access-config.png
+.. image:: dial_plan_advanced/access-config.webp
    :align: center
    :alt: Access list element configuration with the allow/deny fields highlighted.
 
@@ -310,7 +310,7 @@ connecting it to the :guilabel:`Unknown` path. :guilabel:`Refused` calls can be 
 :guilabel:`Hang up` element. Lastly, :guilabel:`Authorized` callers can be sent to a specific
 extension or queue.
 
-.. image:: dial_plan_advanced/access-list.png
+.. image:: dial_plan_advanced/access-list.webp
    :align: center
    :alt: Access list element highlighted in an example dial plan.
 
@@ -365,7 +365,7 @@ pop-up window.
 Then, from the :guilabel:`New element` drop-down menu, select :guilabel:`Switch`, and then click
 :guilabel:`Add`. Double-click on the element to further configure the :guilabel:`Switch` element.
 
-.. image:: dial_plan_advanced/switch.png
+.. image:: dial_plan_advanced/switch.webp
    :align: center
    :alt: Switch configuration in a dial plan, with inactive and active routes highlighted.
 
@@ -406,6 +406,6 @@ On the :guilabel:`Dialplan Editor` pop-up window that appears, click on the :gui
 drop-down menu, and select :guilabel:`Multi-Switch`. Then, click :guilabel:`Add`. Double-click on
 the element to further configure the :guilabel:`Switch` element.
 
-.. image:: dial_plan_advanced/multi-switch.png
+.. image:: dial_plan_advanced/multi-switch.webp
    :align: center
    :alt: Multi-switch configuration in a dial plan, with chosen route highlighted.

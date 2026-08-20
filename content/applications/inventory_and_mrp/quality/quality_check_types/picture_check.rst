@@ -36,7 +36,7 @@ follows:
 - In the :guilabel:`Instructions` text field of the :guilabel:`Notes` tab, enter instructions for
   how the picture should be taken.
 
-.. image:: picture_check/picture-check-form.png
+.. image:: picture_check/picture-check-form.webp
    :align: center
    :alt: A quality check form configured for a Take a Picture quality check.
 
@@ -57,7 +57,7 @@ the new |QCP| form as follows:
 - In the :guilabel:`Instructions` text field, enter instructions for how the picture should be
   taken.
 
-.. image:: picture_check/picture-qcp-form.png
+.. image:: picture_check/picture-qcp-form.webp
    :align: center
    :alt: A Quality Control Point (QCP) form configured to create a Take a Picture quality check.
 
@@ -80,7 +80,7 @@ check (computer, tablet, etc.). Then, click the :guilabel:`✏️ (pencil)` butt
 :guilabel:`Picture` section to open the device's file manager. In the file manager, navigate to the
 picture, select it, and click :guilabel:`Open` to attach it.
 
-.. image:: picture_check/picture-edit-button.png
+.. image:: picture_check/picture-edit-button.webp
    :align: center
    :alt: The edit button (pencil) on a Take a Picture quality check.
 
@@ -107,7 +107,7 @@ device's file manager. In the file manager, navigate to the picture, select it, 
 :guilabel:`Open` to attach it. Finally, click :guilabel:`Validate` on the :guilabel:`Quality Check`
 pop-up window to complete the quality check.
 
-.. image:: picture_check/picture-check-pop-up.png
+.. image:: picture_check/picture-check-pop-up.webp
    :align: center
    :alt: A Take a Picture quality check pop-up window on a manufacturing or inventory order.
 
@@ -151,7 +151,7 @@ attach it.
 Finally, click :guilabel:`Validate` at the bottom of the pop-up window to complete the quality
 check. The pop-up window then moves on to the next step of the work order.
 
-.. image:: picture_check/picture-check-shop-floor.png
+.. image:: picture_check/picture-check-shop-floor.webp
    :align: center
    :alt: A Take a Picture check in the Shop Floor module.
 
@@ -180,6 +180,6 @@ The attached picture appears in the :guilabel:`Picture` section of the quality c
 reviewing the picture, click the :guilabel:`Pass` button if the check passes, or the
 :guilabel:`Fail` button if the check fails.
 
-.. image:: picture_check/review-picture-check.png
+.. image:: picture_check/review-picture-check.webp
    :align: center
    :alt: A Take a Picture check with a picture attached.

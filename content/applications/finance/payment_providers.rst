@@ -31,7 +31,7 @@ subscriptions with recurring payments using their favorite payment methods, such
 Each payment provider is linked to a list of supported :ref:`payment methods
 <payment_providers/payment_methods>` that can be (de)activated based on your needs.
 
-.. image:: payment_providers/online-payment.png
+.. image:: payment_providers/online-payment.webp
    :alt: Online payment form
 
 .. note::
@@ -444,7 +444,7 @@ By default, the :guilabel:`Bank Account` defined for the :ref:`payment journal
 <bank/outstanding-accounts>` for each payment provider to separate the provider's payments from
 other payments.
 
-.. image:: payment_providers/bank_journal.png
+.. image:: payment_providers/bank_journal.webp
    :alt: Define an outstanding account for a payment provider.
 
 .. seealso::

@@ -22,7 +22,7 @@ configure, or create a new one by clicking :guilabel:`New`.
 In the :guilabel:`General` tab on the operation type form, locate the :guilabel:`Reservation Method`
 field, and select :guilabel:`At Confirmation`.
 
-.. image:: at_confirmation/at-confirmation-operations-type.png
+.. image:: at_confirmation/at-confirmation-operations-type.webp
    :align: center
    :alt: Reservation method field on delivery order operation type form.
 
@@ -49,7 +49,7 @@ order.
    Instead of revealing the reserved number of units for the order, the :guilabel:`Availability`
    tooltip reads :guilabel:`Available`, and reveals the available number of units (e.g., `0 Units`).
 
-.. image:: at_confirmation/at-confirmation-availability-tooltip.png
+.. image:: at_confirmation/at-confirmation-availability-tooltip.webp
    :align: center
    :alt: Confirmed sales order with product availability tooltip selected.
 
@@ -67,7 +67,7 @@ order.
    the :guilabel:`On Hand` and :guilabel:`Incoming` quantity, and subtracting the
    :guilabel:`Outgoing` quantity, as shown below:
 
-   .. image:: at_confirmation/at-confirmation-forecasted-equation.png
+   .. image:: at_confirmation/at-confirmation-forecasted-equation.webp
       :align: center
       :alt: Forecasted quantity equation from the Forecasted Report page.
 
@@ -79,7 +79,7 @@ form. To confirm that the reservation worked properly, ensure that the :guilabel
 Availability` field reads `Available` (in green text), and the numbers in the :guilabel:`Demand` and
 :guilabel:`Quantity` columns match (in this case, both should read `100.00`).
 
-.. image:: at_confirmation/at-confirmation-delivery-order.png
+.. image:: at_confirmation/at-confirmation-delivery-order.webp
    :align: center
    :alt: Delivery order for product included in sales order with at confirmation reservation.
 

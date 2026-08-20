@@ -93,7 +93,7 @@ To access it, go to :menuselection:`Accounting --> Reporting --> Deferred Expens
 To view the journal items of each account, click on the account name and then :guilabel:`Journal
 Items`.
 
-.. image:: deferred_expenses/deferred_expense_report.png
+.. image:: deferred_expenses/deferred_expense_report.webp
    :alt: Deferred expense report
 
 .. note::

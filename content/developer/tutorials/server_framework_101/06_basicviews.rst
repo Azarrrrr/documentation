@@ -27,7 +27,7 @@ List
 
     **Goal**: at the end of this section, the list view should look like this:
 
-    .. image:: 06_basicviews/list.png
+    .. image:: 06_basicviews/list.webp
       :align: center
       :alt: List view
 
@@ -76,7 +76,7 @@ Form
 
     **Goal**: at the end of this section, the form view should look like this:
 
-    .. image:: 06_basicviews/form.png
+    .. image:: 06_basicviews/form.webp
       :align: center
       :alt: Form view
 
@@ -138,15 +138,15 @@ Search
 
     **Goal**: at the end of this section, the search view should look like this:
 
-    .. image:: 06_basicviews/search_01.png
+    .. image:: 06_basicviews/search_01.webp
       :align: center
       :alt: Search fields
 
-    .. image:: 06_basicviews/search_02.png
+    .. image:: 06_basicviews/search_02.webp
       :align: center
       :alt: Filter
 
-    .. image:: 06_basicviews/search_03.png
+    .. image:: 06_basicviews/search_03.webp
       :align: center
       :alt: Group By
 

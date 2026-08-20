@@ -29,14 +29,14 @@ To view or modify any existing automation rule, simply click the desired rule fr
 
 To create a new automation rule, click :guilabel:`New`.
 
-.. image:: automatic_alerts/automation-rules-page.png
+.. image:: automatic_alerts/automation-rules-page.webp
    :align: center
    :alt: The Automation Rules page in the Odoo Subscriptions application.
 
 Clicking :guilabel:`New` reveals a blank :guilabel:`Automation Rules` form with numerous fields to
 configure.
 
-.. image:: automatic_alerts/automation-rules-form.png
+.. image:: automatic_alerts/automation-rules-form.webp
    :align: center
    :alt: A sample Automation Rules form in the Odoo Subscriptions application.
 

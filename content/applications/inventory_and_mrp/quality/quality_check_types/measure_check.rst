@@ -36,7 +36,7 @@ To create a single *Measure* quality check, navigate to :menuselection:`Quality 
 - In the :guilabel:`Instructions` text field of the :guilabel:`Notes` tab, enter instructions for
   how the picture should be taken.
 
-.. image:: measure_check/measure-check-form-1.png
+.. image:: measure_check/measure-check-form-1.webp
    :align: center
    :alt: A quality check form configured for a Measure quality check.
 
@@ -62,7 +62,7 @@ the new |QCP| form as follows:
 - In the :guilabel:`Instructions` text field, enter instructions for how the measurement should be
   taken.
 
-.. image:: measure_check/measure-check-qcp-form.png
+.. image:: measure_check/measure-check-qcp-form.webp
    :align: center
    :alt: A QCP form configured to create Measure quality checks.
 
@@ -107,7 +107,7 @@ To process a *Measure* quality check, measure the product as instructed, then en
 :guilabel:`Measure` field on the pop-up window. Finally, click :guilabel:`Validate` to register the
 recorded value.
 
-.. image:: measure_check/measure-check-pop-up.png
+.. image:: measure_check/measure-check-pop-up.webp
    :align: center
    :alt: A Measure quality check pop-up window on a manufacturing or inventory order.
 
@@ -121,7 +121,7 @@ However, if the value entered is outside of the specified range, a new pop-up wi
 instructions entered in the :guilabel:`Message If Failure` tab of the |QCP|. At the bottom of the
 pop-up, two buttons appear: :guilabel:`Correct Measure` and :guilabel:`Confirm Measure`.
 
-.. image:: measure_check/measure-check-failed.png
+.. image:: measure_check/measure-check-failed.webp
    :align: center
    :alt: The "Quality Check Failed" pop-up window.
 
@@ -169,7 +169,7 @@ to open a pop-up window that includes instructions for how the measurement shoul
 taking the measurement, enter it in the :guilabel:`Measure` field of the pop-up window, and then
 click :guilabel:`Validate`.
 
-.. image:: measure_check/measure-check-shop-floor.png
+.. image:: measure_check/measure-check-shop-floor.webp
    :align: center
    :alt: A Measure check in the Shop Floor module.
 
@@ -183,7 +183,7 @@ The body of the :guilabel:`Quality Check Failed` pop-up window shows a message t
 instructions entered in the :guilabel:`Message If Failure` tab of the |QCP|. At the bottom of the
 pop-up window, two buttons appear: :guilabel:`Correct Measure` and :guilabel:`Confirm Measure`.
 
-.. image:: measure_check/shop-floor-measure-check-failed.png
+.. image:: measure_check/shop-floor-measure-check-failed.webp
    :align: center
    :alt: The Quality Check Failed pop-up window for a Measure check in the Shop Floor module.
 

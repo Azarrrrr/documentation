@@ -74,7 +74,7 @@ To set up a default warehouse for a specific user, go to :menuselection:`Setting
 Manage users`, select a user, then go to the :guilabel:`Preferences` tab. Scroll down to
 :guilabel:`Inventory`, and select the default warehouse from the drop-down menu.
 
-.. image:: product_management/user-default.png
+.. image:: product_management/user-default.webp
    :alt: Selection of a default warehouse on a user profile.
 
 Use in field service tasks

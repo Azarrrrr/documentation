@@ -27,7 +27,7 @@ questions:
 - For :guilabel:`How do you want to build with Twilio?`, select :guilabel:`With no code at all`.
 - For :guilabel:`What is your goal today?`, select :guilabel:`3rd party integrations`.
 
-.. image:: ice_servers/twilio-welcome.png
+.. image:: ice_servers/twilio-welcome.webp
    :align: center
    :alt: The Twilio welcome page.
 
@@ -41,7 +41,7 @@ To locate the Account SID and Auth Token, go to the Twilio account dashboard. Th
 :guilabel:`Account SID` and the :guilabel:`Auth Token`. Both of these are needed to connect Twilio
 to Odoo.
 
-.. image:: ice_servers/twilio-acct-info.png
+.. image:: ice_servers/twilio-acct-info.webp
    :align: center
    :alt: The Twilio Account SID and Auth Token can be found uner the Account Info section.
 
@@ -53,7 +53,7 @@ the box next to :guilabel:`Use Twilio ICE servers` and enter the Twilio account'
 :guilabel:`Account SID` and :guilabel:`Auth Token`. Finally, click :guilabel:`Save` to apply these
 changes.
 
-.. image:: ice_servers/connect-twilio-to-odoo.png
+.. image:: ice_servers/connect-twilio-to-odoo.webp
    :align: center
    :alt: Enable the "Use Twilio ICE servers" option in Odoo General Settings.
 
@@ -67,14 +67,14 @@ define the list of custom ICE servers.
 In :menuselection:`Settings --> General Settings --> Discuss`, click the :guilabel:`ICE Servers`
 button under :guilabel:`Custom ICE server list`.
 
-.. image:: ice_servers/custom-ice-servers-list.png
+.. image:: ice_servers/custom-ice-servers-list.webp
    :align: center
    :alt: The "ICE Servers" button in Odoo General Settings.
 
 Odoo will redirect to the :guilabel:`ICE servers` page. Here you can define your own list of ICE
 servers.
 
-.. image:: ice_servers/ice-servers-page.png
+.. image:: ice_servers/ice-servers-page.webp
    :align: center
    :alt: The "ICE servers" page in Odoo.
 

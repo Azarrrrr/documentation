@@ -1996,7 +1996,7 @@ msgid "is **relevant** to the media's content. (E.g., :file:`screenshot-tips.gif
 msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:223
-msgid "separates its words with a **hyphen** ``-`` (E.g., :file:`awesome-filename.png`.)"
+msgid "separates its words with a **hyphen** ``-`` (E.g., :file:`awesome-filename.webp`.)"
 msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:225
@@ -2008,7 +2008,7 @@ msgid "For example, the document :file:`doc_filename.rst` refers to two images t
 msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:240
-msgid "Previously, image filenames would mostly be named with numbers (e.g., :file:`feature01.png`) and placed in a single ``media`` folder. While it is advised not to name your *new* images in that fashion, it is also essential **not to rename unchanged files**, as doing this would double the weight of renamed image files on the repository. They will eventually all be replaced as the content referencing those images is updated."
+msgid "Previously, image filenames would mostly be named with numbers (e.g., :file:`feature01.webp`) and placed in a single ``media`` folder. While it is advised not to name your *new* images in that fashion, it is also essential **not to rename unchanged files**, as doing this would double the weight of renamed image files on the repository. They will eventually all be replaced as the content referencing those images is updated."
 msgstr ""
 
 #: ../../content/contributing/documentation/content_guidelines.rst:249

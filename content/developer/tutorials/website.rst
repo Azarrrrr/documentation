@@ -83,7 +83,7 @@ Shut down your server (:kbd:`^C`) then restart it:
 and open a page to http://localhost:8069/academy/academy/, you should see your
 "page" appear:
 
-.. figure:: website/helloworld.png
+.. figure:: website/helloworld.webp
 
 Templates
 =========
@@ -141,7 +141,7 @@ Academy` and clicking :guilabel:`Upgrade`.
 
 Going to http://localhost:8069/academy/academy/ should now result in:
 
-.. image:: website/basic-list.png
+.. image:: website/basic-list.webp
 
 Storing data in Odoo
 ====================
@@ -340,7 +340,7 @@ manifest and template) access http://localhost:8069/academy/academy/ should
 yield a nicer looking page with branding and a number of built-in page
 elements (top-level menu, footer, …)
 
-.. image:: website/layout.png
+.. image:: website/layout.webp
 
 The website layout also provides support for editing tools: click
 :guilabel:`Sign In` (in the top-right), fill the credentials in (``admin`` /

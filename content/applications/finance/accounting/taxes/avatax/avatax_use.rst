@@ -17,7 +17,7 @@ documents during the sales flow. Alternatively, calculate the taxes manually by 
    Clicking the :guilabel:`Compute Taxes` button recalculates taxes, if any product lines are edited
    on the invoice.
 
-.. image:: avatax_use/calculate-avatax.png
+.. image:: avatax_use/calculate-avatax.webp
    :align: center
    :alt: Sales quotation with the confirm and compute taxes button highlighted.
 
@@ -81,7 +81,7 @@ Then click :guilabel:`Create and view invoice`. The recorded taxes can be seen i
 :guilabel:`Journal Items` tab of the invoice. There will be different taxes depending on the
 location of the :guilabel:`Delivery Address`.
 
-.. image:: avatax_use/journal-items.png
+.. image:: avatax_use/journal-items.webp
    :align: center
    :alt: Journal items highlighted on a invoice in Odoo.
 
@@ -132,7 +132,7 @@ following columns:
 - :guilabel:`Line`: indicates the line the calculation is made on.
 - :guilabel:`Function`: indicates the calculation taken on the line.
 
-.. image:: avatax_use/logging.png
+.. image:: avatax_use/logging.webp
    :align: center
    :alt: Avalara logging page with top row of list highlighted.
 

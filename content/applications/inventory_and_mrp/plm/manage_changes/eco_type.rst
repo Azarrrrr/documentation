@@ -38,7 +38,7 @@ the following information:
    project. Configuring the :guilabel:`Email Alias` field generates |ECOs| in the `Formulation
    change` project sent to the email address, `pawlish-change@pawlished-glam.odoo.com`.
 
-   .. image:: eco_type/create-eco-type.png
+   .. image:: eco_type/create-eco-type.webp
       :align: center
       :alt: Example of an ECO type.
 
@@ -83,7 +83,7 @@ filling it in, click the :guilabel:`Add` button to finish adding the stage.
    A new `Assigned` stage separates assigned |ECOs| from the unassigned ones in the `New` stage.
    Adding another stage helps the product manager track unassigned tasks.
 
-   .. image:: eco_type/create-stage.png
+   .. image:: eco_type/create-stage.webp
       :align: center
       :alt: Create a new stage in a project for an ECO type.
 
@@ -119,7 +119,7 @@ pop-up window. Once finished, click :guilabel:`Save & Close`.
 
    Additionally, check the :guilabel:`Allow to apply changes` option to ensure proper behavior.
 
-   .. image:: eco_type/verification-stage.png
+   .. image:: eco_type/verification-stage.webp
       :align: center
       :alt: Show "Allow to apply changes" option is checked.
 
@@ -137,7 +137,7 @@ kanban view`, :guilabel:`Allow to apply changes` and :guilabel:`Final Stage`.
    The closing stage, `Effective` is configured by checking the :guilabel:`Folded in kanban view`,
    :guilabel:`Allow to apply changes`, and :guilabel:`Final Stage` options
 
-.. image:: eco_type/closing-stage.png
+.. image:: eco_type/closing-stage.webp
    :align: center
    :alt: Show configurations of the closing stage.
 

@@ -44,7 +44,7 @@ These can be updated if needed. Users can also create their own reconciliation m
    If a record matches with several reconciliation models, the first one in the *sequence* of models
    is applied. You can rearrange the order by dragging and dropping the handle next to the name.
 
-   .. image:: reconciliation_models/list-view.png
+   .. image:: reconciliation_models/list-view.webp
       :alt: Rearrange the sequence of models in the list view.
 
 Invoices/Bills perfect match
@@ -53,7 +53,7 @@ Invoices/Bills perfect match
 This model should be at the top of the *sequence* of models, as it enables Odoo to suggest matching
 existing invoices or bills with a bank transaction based on set conditions.
 
-.. image:: reconciliation_models/invoices-bills-perfect-match.png
+.. image:: reconciliation_models/invoices-bills-perfect-match.webp
    :alt: Set rules to trigger the reconciliation.
 
 Odoo automatically reconciles the payment when the :guilabel:`Auto-validate` option is selected, and
@@ -73,7 +73,7 @@ amount received is slightly lower than the invoice amount, for example in the ca
 The reconciliation model :guilabel:`Type` is :guilabel:`Rule to match invoices/bills`, and the
 :guilabel:`Payment tolerance` should be set.
 
-.. image:: reconciliation_models/partial-match.png
+.. image:: reconciliation_models/partial-match.webp
    :alt: Set rules to trigger the reconciliation.
 
 .. note::
@@ -91,7 +91,7 @@ reconciliation model :guilabel:`Type` is :guilabel:`Rule to suggest counterpart 
 :guilabel:`Label` can be used for example, to identify the information referring to the
 :guilabel:`Bank fees` in the label of the transaction.
 
-.. image:: reconciliation_models/bank-fees.png
+.. image:: reconciliation_models/bank-fees.webp
    :alt: Set rules to trigger the reconciliation.
 
 .. note::
@@ -104,7 +104,7 @@ reconciliation model :guilabel:`Type` is :guilabel:`Rule to suggest counterpart 
    to :guilabel:`Match Regex` and add your expression. Odoo automatically retrieves the
    transactions that match your Regex expression and the conditions specified in your model.
 
-   .. image:: reconciliation_models/regex.png
+   .. image:: reconciliation_models/regex.webp
       :alt: Using Regex in Odoo
 
 Partner mapping
@@ -119,5 +119,5 @@ meets these criteria, Odoo automatically maps it to the corresponding customer's
 To create a partner mapping rule, go to the :guilabel:`Partner Mapping` tab and enter the
 :guilabel:`Find Text in Label`, :guilabel:`Find Text in Notes`, and :guilabel:`Partner`.
 
-.. image:: reconciliation_models/partner-mapping.png
+.. image:: reconciliation_models/partner-mapping.webp
    :alt: defining partner mapping

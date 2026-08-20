@@ -14,7 +14,7 @@ The selected view option appears as a :guilabel:`Day`, :guilabel:`Week`, :guilab
 :guilabel:`Year` drop-down menu. Under the view options drop-down menu, users can also enable or
 disable :guilabel:`Show weekends`.
 
-.. image:: calendar/calendar-overview.png
+.. image:: calendar/calendar-overview.webp
    :alt: Overview of Calendar app.
 
 .. tip::
@@ -64,7 +64,7 @@ Plan an event
 To put an event on the calendar, open the :menuselection:`Calendar app`, and click into the target
 date. On the :guilabel:`New Event` pop-up window that appears, start by adding the event title.
 
-.. image:: calendar/calendar-schedule-event.png
+.. image:: calendar/calendar-schedule-event.webp
    :alt: Schedule an event window on Calendar app.
 
 The target date auto-populates in the :guilabel:`Start` field. This can be changed by clicking
@@ -91,7 +91,7 @@ Options` to further configure the event.
    Once the event is created, users can click into the virtual meeting directly from the calendar
    event to access more configuration options.
 
-.. image:: calendar/calendar-new-meeting.png
+.. image:: calendar/calendar-new-meeting.webp
    :alt: The full event form for a new calendar event.
 
 The :guilabel:`Description` field allows users to add additional information and details about the
@@ -133,7 +133,7 @@ When scheduling an event for multiple users, on the **Calendar** app dashboard, 
 next to :guilabel:`Attendees` to view team members' availability. Tick (or untick) the checkbox next
 to listed users to show (or hide) individual calendars.
 
-.. image:: calendar/calendar-attendees.png
+.. image:: calendar/calendar-attendees.webp
    :alt: View of Attendees section on Calendar app.
 
 .. _calendar/share-availabilities:
@@ -156,7 +156,7 @@ them as options in the invitation.
 Once availability has been selected, click the :icon:`fa-external-link` :guilabel:`Open` button to
 navigate to the associated appointment.
 
-.. image:: calendar/calendar-meeting-share-availability.png
+.. image:: calendar/calendar-meeting-share-availability.webp
    :alt: Share availability window on Calendar app.
 
 Several configuration options are available on the appointment form:

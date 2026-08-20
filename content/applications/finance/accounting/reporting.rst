@@ -21,7 +21,7 @@ To expand the lines of a report and view its details, click the :icon:`fa-caret-
 to the right of the account, journal entry, payment, invoice, etc. to :guilabel:`Annotate` and view
 the details.
 
-.. image:: reporting/reporting-annotate.png
+.. image:: reporting/reporting-annotate.webp
    :alt: Annotate reports.
 
 To export reports in PDF or XLSX format, click :guilabel:`PDF` at the top or click the
@@ -31,7 +31,7 @@ select :guilabel:`XLSX`.
 To compare values across periods, click the :guilabel:`Comparison` menu and select the periods you
 want to compare.
 
-.. image:: reporting/reporting-comparison.png
+.. image:: reporting/reporting-comparison.webp
    :alt: Comparison menu to compare time periods.
 
 .. _accounting/reporting/balance-sheet:

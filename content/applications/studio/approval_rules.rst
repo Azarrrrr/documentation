@@ -55,7 +55,7 @@ Use
 Once an approval rule has been defined for a button, a **user avatar** icon is displayed next to the
 button's label for each approval step. Clicking an icon reveals the step(s).
 
-.. image:: approval_rules/approval-button.png
+.. image:: approval_rules/approval-button.webp
    :alt: Confirm button with two approval steps
 
 .. note::
@@ -79,7 +79,7 @@ Authorized users can:
     rights (forever if left empty), and, optionally, the user(s) who should be notified via an
     internal note using the :guilabel:`Notify to` field.
 
-    .. image:: approval_rules/delegate-dialog.png
+    .. image:: approval_rules/delegate-dialog.webp
        :alt: Delegate to dialog
 
 .. tip::

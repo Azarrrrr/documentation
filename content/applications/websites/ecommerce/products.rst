@@ -302,7 +302,7 @@ Digital files available before payment
 To make the file available on the product page (before payment), leave the :guilabel:`Visibility`
 field blank and toggle the :guilabel:`Show on product page` switch.
 
-.. image:: products/digital-files.png
+.. image:: products/digital-files.webp
    :alt: digital file available before payment on the  product page
 
 .. _ecommerce-products-digital-files-after-payment:
@@ -390,7 +390,7 @@ shop page when customers hover their mouse over it. To compare products, custome
 :icon:`fa-exchange` :guilabel:`Compare` in the pop-up window at the bottom of the page to reach the
 comparison summary.
 
-.. image:: products/products-compare.png
+.. image:: products/products-compare.webp
    :alt: Product comparison window
 
 .. note::

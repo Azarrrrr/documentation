@@ -95,7 +95,7 @@ and select the |BoM| for the subcontracted product.
 In the :guilabel:`BoM Type` field, select the :guilabel:`Subcontracting` option. Then, add one or
 more subcontractors in the :guilabel:`Subcontractors` field that appears below.
 
-.. image:: subcontracting_resupply/bom-type.png
+.. image:: subcontracting_resupply/bom-type.webp
    :align: center
    :alt: The "BoM Type" field on a BoM, configured to manufacture the product using subcontracting.
 
@@ -215,7 +215,7 @@ In addition, a *Resupply Subcontractor* order is created to ship the required co
 subcontractor. This order can also be accessed from the |PO|, by clicking the :guilabel:`Resupply`
 smart button at the top of the page.
 
-.. figure:: subcontracting_resupply/subcontractor-po.png
+.. figure:: subcontracting_resupply/subcontractor-po.webp
    :align: center
    :alt: A PO for a *Resupply Subcontractor on Order* product, with Resupply and Receipt smart
          buttons at the top of the page.

@@ -24,7 +24,7 @@ Next, on the product form, enable reordering by checking the :guilabel:`Can be P
 underneathe the :guilabel:`Product Name` field. Finally, set the :guilabel:`Product Type` to
 `Storable Product` under the :guilabel:`General Information` tab.
 
-.. image:: reordering/product-configured-for-reordering.png
+.. image:: reordering/product-configured-for-reordering.webp
    :align: center
    :alt: Configure a product for reordering in Odoo.
 
@@ -35,7 +35,7 @@ After properly configuring a product, a reordering rule can be added to it by se
 visible :guilabel:`Reordering Rules` tab at the top of that product's form, and then clicking
 :guilabel:`Create` on the :guilabel:`Reordering Rules` dashboard.
 
-.. image:: reordering/reordering-rules-tab.png
+.. image:: reordering/reordering-rules-tab.webp
    :align: center
    :alt: Access reordering rules for a product from the product page in Odoo.
 
@@ -66,7 +66,7 @@ defining the following fields:
   discrete products, this should be set to `Units`. However, it can also be set to units of
   measurement like `Volume` or `Weight` for non-discrete products like water or bricks.
 
-.. image:: reordering/reordering-rule-configuration.png
+.. image:: reordering/reordering-rule-configuration.webp
    :align: center
    :alt: Configure the reordering rule in Odoo.
 
